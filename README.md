@@ -1003,12 +1003,11 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 **2.4. Ubiquitous Language.**
 
-
 <table>
   <thead>
     <tr>
-      <th>Término</th>
-      <th>Definición/descripción</th>
+      <th><strong>Término</strong></th>
+      <th><strong>Definición/descripción</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -1024,7 +1023,44 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>Mapa de conciertos</td>
       <td>Vista geolocalizada que muestra los eventos en tiempo real según la ubicación del usuario</td>
     </tr>
+    <tr>
+      <td>Fan</td>
+      <td>Usuario interesado en asistir a conciertos y descubrir nueva música. Puede seguir artistas, activar notificaciones y guardar eventos</td>
+    </tr>
+    <tr>
+      <td>Artista</td>
+      <td>Músico independiente o banda que utiliza la plataforma para publicar y promocionar sus conciertos</td>
+    </tr>
+    <tr>
+      <td>Comunidad local</td>
+      <td>Red de usuarios y artistas que interactúan en una misma ciudad o región, promoviendo la música en vivo</td>
+    </tr>
+    <tr>
+      <td>Notificación personalizada</td>
+      <td>Alerta automática que se envía al fan cuando hay un evento que coincide con sus gustos y ubicación</td>
+    </tr>
+    <tr>
+      <td>Exploración de evento</td>
+      <td>Función que permite descubrir conciertos por género, zona, fecha o artista recomendado</td>
+    </tr>
+    <tr>
+      <td>Evento destacado</td>
+      <td>Concierto con mayor visibilidad en la app, ya sea por tendencia, ubicación o interés del usuario</td>
+    </tr>
+    <tr>
+      <td>Promoción de eventos</td>
+      <td>Difusión gratuita de eventos dentro de StayMap mediante algoritmos de afinidad y relevancia, sin necesidad de pagar publicidad</td>
+    </tr>
+    <tr>
+      <td>Check-in</td>
+      <td>Acción que realiza un fan al asistir a un evento, permitiendo registrar asistencia y generar recomendaciones futuras</td>
+    </tr>
+    <tr>
+      <td>Perfil del artista</td>
+      <td>Página dentro de la app donde el músico puede mostrar su biografía, próximos conciertos, redes sociales y contenido multimedia</td>
+    </tr>
   </tbody>
 </table>
+
 
 
