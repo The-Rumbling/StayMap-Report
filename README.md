@@ -1096,8 +1096,8 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
     </tr>
     <tr>
       <td><strong>Thinking</strong></td>
-      <td>“¡Hay varias tocadas este fin de semana cerca de mí!”</td>
-      <td>“¡Justo de mis bandas favoritas!”</td>
+      <td>“¡Hay varias tocadas este fin de semana cerca de mí!”
+      “¡Justo de mis bandas favoritas!”</td>
       <td>“Todo está claro y actualizado.”<br>“Esta app realmente me conoce”</td>
     </tr>
     <tr>
