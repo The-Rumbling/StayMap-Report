@@ -1085,11 +1085,11 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
         - Recibe notificaciones de conciertos que coinciden con sus gustos
       </td>
       <td>
-        - Filtra por género, lugar o día<br>
-        - Guarda eventos y arma su agenda musical
+        - Filtra por género, lugar o día. 
+	Guarda eventos y arma su agenda musical<br>
+        -Comparte eventos con amigos desde la app 
       </td>
       <td>
-        - Comparte eventos con amigos desde la app<br>
         - Hace check-in en el evento, recibe recomendaciones futuras<br>
         - Sigue a los artistas desde el evento
       </td>
