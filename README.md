@@ -826,7 +826,6 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 <img src="assets/user_journey_mapping/user-journey-mapping-artista.png" alt="user_journey_mapping" style="width: 700px">
 
 ## 2.3.4. Empathy Mapping.
-## Empathy Map - Valeria Torres (Fan de la música)
 
 <table>
   <thead>
@@ -873,5 +872,55 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
     </tr>
   </tbody>
 </table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3"><strong>¿Qué piensa y siente?</strong><br>
+        - Tiene una fuerte pasión por la música y el deseo de ser escuchado<br>
+        - Siente que su talento merece una audiencia más grande<br>
+        - Se frustra al no tener recursos suficientes para invertir en marketing<br>
+        - Cree en su comunidad y desea verla crecer
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>¿Qué oye?</strong><br>
+        - Consejos de otros músicos sobre cómo crecer en redes<br>
+        - Opiniones sobre lo difícil que es destacar sin una disquera o apoyo financiero<br>
+        - Comentarios positivos de sus seguidores fieles
+      </td>
+      <td style="text-align: center;"><strong>Artistas emergentes y bandas independientes<br>(Diego Rivas)</strong></td>
+      <td><strong>¿Qué ve?</strong><br>
+        - Plataformas saturadas con artistas consolidados<br>
+        - Oportunidades que requieren inversión para tener visibilidad<br>
+        - Pocas herramientas accesibles para artistas locales<br>
+        - Eventos donde solo se promocionan artistas populares
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>¿Qué dice y hace?</strong><br>
+        - Publica constantemente en redes sociales sobre su música y conciertos<br>
+        - Agradece a su comunidad de seguidores<br>
+        - Pregunta en foros o grupos sobre espacios para tocar<br>
+        - Se queja de la falta de apoyo a la música emergente
+      </td>
+    </tr>
+    <tr>
+      <td><strong>¿Qué le duele?</strong><br>
+        - No poder llegar a más público sin pagar por publicidad<br>
+        - Sentir que el talento no es suficiente para ser descubierto<br>
+        - La dificultad para promocionar conciertos sin una red establecida
+      </td>
+      <td colspan="2"><strong>¿A qué aspira?</strong><br>
+        - A tener una plataforma donde su música pueda ser descubierta fácilmente<br>
+        - A llenar sus conciertos y conectar con nuevos fans<br>
+        - A vivir de su arte sin depender de grandes inversiones
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
