@@ -706,6 +706,30 @@ Opinión y expectativas sobre StayMap:
 - ¿Recomendarías una app como StayMap a otros artistas emergentes?
 
 ## 2.2.2. Registro de entrevistas.
+## 2.2.2. Análisis de entrevistas.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" style="background-color: #d3d3d3;"><strong>Segmento objetivo #1:</strong> Fans de la música (16 a 35 años)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td></td><td></td></tr>
+    <tr><td></td><td></td></tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="2" style="background-color: #d3d3d3;"><strong>Segmento objetivo #2:</strong> Artistas emergentes y bandas independientes (18 a 40 años)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td></td><td></td></tr>
+    <tr><td></td><td></td></tr>
+  </tbody>
+</table>
+
+
 ## 2.3. Needfinding.
 ## 2.3.1. User Personas.
 Los user personas son perfiles representativos de los usuarios que ayudan a comprender mejor sus necesidades, motivaciones y comportamientos. En StayMap, estos perfiles guían el diseño y desarrollo de la plataforma para asegurar que responda a lo que realmente buscan nuestros principales segmentos, como los fans de la música y los artistas emergentes.
