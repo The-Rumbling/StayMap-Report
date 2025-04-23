@@ -827,6 +827,10 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 ## 2.3.4. Empathy Mapping.
 
+
+**Valeria Torres**
+
+
 <table>
   <thead>
     <tr>
@@ -872,6 +876,10 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
     </tr>
   </tbody>
 </table>
+
+
+**Rodrigo Rivas**
+
 
 <table>
   <thead>
