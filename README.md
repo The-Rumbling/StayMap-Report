@@ -1110,3 +1110,46 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
   </tbody>
 </table>
 
+**Artistas emergentes y bandas independientes**
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Phases</strong></th>
+      <th><strong>Publicación rápida y alcance efectivo</strong></th>
+      <th><strong>Interacción con nuevos públicos</strong></th>
+      <th><strong>Crecimiento y fidelización</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Doing</strong></td>
+      <td>
+        - Crea un evento desde su perfil en minutos<br>
+        - El evento aparece automáticamente a usuarios interesados
+      </td>
+      <td>
+        - Monitorea cuántas personas han guardado o visto su evento<br>
+        - Responde comentarios o agradece desde su perfil de artista
+      </td>
+      <td>
+        - Gana seguidores tras cada presentación<br>
+        - Recibe recomendaciones para futuros eventos según su performance
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Thinking</strong></td>
+      <td>“No necesito diseñar flyers ni depender del algoritmo”</td>
+      <td>“Hay interés real esta vez”</td>
+      <td>“Estoy creciendo de forma orgánica”</td>
+    </tr>
+    <tr>
+      <td><strong>Feeling</strong></td>
+      <td>Aliviado y empoderado</td>
+      <td>Validado y motivado</td>
+      <td>Orgulloso de su progreso</td>
+    </tr>
+  </tbody>
+</table>
+
+
