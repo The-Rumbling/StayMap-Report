@@ -826,3 +826,109 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 <img src="assets/user_journey_mapping/user-journey-mapping-artista.png" alt="user_journey_mapping" style="width: 700px">
 
 ## 2.3.4. Empathy Mapping.
+## Empathy Map - Valeria Torres (Fan de la música)
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">Piensa y Siente</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>- Ama la música y los conciertos en vivo</td>
+      <td>- Desea aprovechar al máximo las experiencias musicales con sus amigos</td>
+    </tr>
+    <tr>
+      <td>- Siente frustración cuando se pierde eventos de sus artistas favoritos</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">Oye</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>- Recomendaciones de amigos sobre eventos o artistas</td>
+      <td>- Noticias musicales en Spotify, TikTok o Instagram</td>
+    </tr>
+    <tr>
+      <td>- Historias en redes sociales donde otros comparten experiencias en conciertos</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">Ve</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>- Contenido en redes sociales de conciertos que ya pasaron</td>
+      <td>- Influencers o seguidores que comparten información de última hora</td>
+    </tr>
+    <tr>
+      <td>- Plataformas dispersas que no le permiten ver todos los eventos de interés fácilmente</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">Dice y Hace</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>- Comenta en redes sobre música y conciertos</td>
+      <td>- Se queja de enterarse tarde de eventos importantes</td>
+    </tr>
+    <tr>
+      <td>- Comparte publicaciones de sus artistas favoritos</td>
+      <td>- Intenta mantenerse al tanto, pero siente que no tiene una fuente centralizada</td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">Le Duele</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>- No encontrar conciertos fácilmente según su estilo</td>
+      <td>- Sentirse desinformada o llegar tarde a la compra de entradas</td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">Aspira</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>- A no perderse ningún concierto importante</td>
+      <td>- A descubrir nuevos artistas que se alineen con sus gustos</td>
+    </tr>
+    <tr>
+      <td>- A vivir experiencias únicas y compartirlas con amigos</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
