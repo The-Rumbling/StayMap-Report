@@ -828,4 +828,50 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 ## 2.3.4. Empathy Mapping.
 ## Empathy Map - Valeria Torres (Fan de la música)
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="3"><strong>¿Qué piensa y siente?</strong><br>
+        - Ama la música y los conciertos en vivo<br>
+        - Siente frustración cuando se pierde eventos de sus artistas favoritos<br>
+        - Desea aprovechar al máximo las experiencias musicales con sus amigos
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>¿Qué oye?</strong><br>
+        - Recomendaciones de amigos sobre eventos o artistas<br>
+        - Historias en redes sociales donde otros comparten experiencias en conciertos<br>
+        - Noticias musicales en Spotify, TikTok o Instagram
+      </td>
+      <td style="text-align: center;"><strong>Fans de la música<br>(Valeria Torres)</strong></td>
+      <td><strong>¿Qué ve?</strong><br>
+        - Contenido en redes sociales de conciertos que ya pasaron<br>
+        - Plataformas dispersas que no le permiten ver todos los eventos de interés fácilmente<br>
+        - Influencers o seguidores que comparten información de última hora
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>¿Qué dice y hace?</strong><br>
+        - Comenta en redes sobre música y conciertos<br>
+        - Comparte publicaciones de sus artistas favoritos<br>
+        - Se queja de enterarse tarde de eventos importantes<br>
+        - Intenta mantenerse al tanto, pero siente que no tiene una fuente centralizada
+      </td>
+    </tr>
+    <tr>
+      <td><strong>¿Qué le duele?</strong><br>
+        - No encontrar conciertos fácilmente según su estilo<br>
+        - Sentirse desinformada o llegar tarde a la compra de entradas
+      </td>
+      <td colspan="2"><strong>¿A qué aspira?</strong><br>
+        - A no perderse ningún concierto importante con amigos<br>
+        - A vivir experiencias únicas y compartirlas<br>
+        - A descubrir nuevos artistas que se alineen con sus gustos
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
