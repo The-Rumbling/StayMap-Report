@@ -482,54 +482,98 @@ Necesidades principales:
 
 ## 1.1.1. 2.1.1. Análisis competitivo
 
-<table border="1">
-  <tr>
-    <th>Business Problem</th>
-    <th>Solutions</th>
-    <th>Business Outcomes</th>
-  </tr>
-  <tr>
-    <td>
-      Muchas personas que disfrutan de la música en vivo, así como artistas y cantantes, tanto independientes como formales, enfrentan dificultades para descubrir o difundir conciertos, especialmente los de pequeña o mediana escala. Esta desconexión limita el crecimiento de la escena musical local, reduce la visibilidad de los artistas y hace que los fans se pierdan experiencias auténticas.
-    </td>
-    <td>
-      StayMap es una aplicación móvil que conecta a los amantes de la música con conciertos en tiempo real, permitiendo descubrir eventos cercanos mediante geolocalización, recibir notificaciones personalizadas según gustos musicales y acceder a la agenda de presentaciones de artistas locales. Además, ofrece una plataforma para que los artistas puedan publicar sus eventos y alcanzar a su público ideal.
-    </td>
-    <td>
-      Esperamos que StayMap incremente la asistencia a conciertos, visibilice a más artistas independientes y fomente una comunidad musical más conectada. El éxito se medirá por el aumento de usuarios activos, la cantidad de eventos compartidos en la plataforma y el crecimiento en la interacción entre fans y artistas.
-    </td>
-  </tr>
-  <tr>
-    <th>Users</th>
-    <th colspan="2">User Benefits</th>
-  </tr>
-  <tr>
-    <td>
-      Nuestros usuarios son personas apasionadas por la música en vivo, así como artistas y cantantes, tanto independientes como formales, que buscan descubrir o difundir eventos musicales con mayor facilidad. Comparten el objetivo de vivir experiencias musicales únicas o de hacer crecer su audiencia.
-    </td>
-    <td colspan="2">
-      <ul>
-        <li>Descubrimiento de conciertos cercanos en tiempo real gracias a la geolocalización.</li>
-        <li>Notificaciones personalizadas según el estilo musical de interés.</li>
-        <li>Para artistas: herramienta efectiva y accesible para promocionar sus presentaciones.</li>
-        <li>Mayor conexión entre músicos y fans en escenarios culturales reales.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th>Hypotheses</th>
-    <th>What’s the most important thing we need to learn first?</th>
-    <th>What’s the least amount of work we need to do to learn the most important thing?</th>
-  </tr>
-  <tr>
-    <td>
-      Creemos que, al brindar una solución que conecta a personas y artistas a través de conciertos geolocalizados y notificaciones personalizadas, los usuarios asistirán a más eventos y los artistas lograrán una mayor difusión, fortaleciendo la comunidad musical local y mejorando la experiencia en ambos sentidos.
-    </td>
-    <td>
-      Es clave validar si los fans encuentran útil la app para descubrir conciertos relevantes, y si los artistas consideran valioso el canal para promover sus presentaciones.
-    </td>
-    <td>
-      Crear un prototipo funcional que muestre conciertos cercanos según ubicación e intereses musicales, incluyendo una opción para que artistas registren eventos. Luego, probarlo con un grupo de fans y músicos para obtener retroalimentación directa sobre la utilidad y experiencia.
-    </td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th>¿Por qué llevar a cabo este análisis?</th>
+      <th colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</th>
+    </tr>
+    <tr>
+      <th>(En la cabecera colocar por cada competidor nombre y logo)</th>
+      <th>StayMap</th>
+      <th>Songkick</th>
+      <th>Bandsintown</th>
+      <th>Fever</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Perfil</strong><br>Overview</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td><strong>Perfil de Marketing</strong><br>Mercado objetivo</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>Estrategias de marketing</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td><strong>Perfil de Producto</strong><br>Productos & Servicios</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>Precios & Costos</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>Canales de distribución (Web y/o Móvil)</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td><strong>Análisis SWOT</strong><br>Fortalezas</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>Debilidades</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>Oportunidades</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+    <tr>
+      <td>Amenazas</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+      <td>a</td>
+    </tr>
+  </tbody>
 </table>
+
