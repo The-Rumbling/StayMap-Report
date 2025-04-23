@@ -819,6 +819,10 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 **Fans de la música**
 
+<img src="assets/user_journey_mapping/user-journey-mapping-fans.png" alt="user_journey_mapping" style="width: 700px">
+
 **Artistas emergentes**
+
+<img src="assets/user_journey_mapping/user-journey-mapping-artista.png" alt="user_journey_mapping" style="width: 700px">
 
 ## 2.3.4. Empathy Mapping.
