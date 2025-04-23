@@ -1066,5 +1066,45 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 ## 3.1 To-Be Scenario Mapping
 
-** Fans de la música: **
+**Fans de la música:**
 
+<table>
+  <thead>
+    <tr>
+      <th><strong>Phases</strong></th>
+      <th><strong>Doing</strong></th>
+      <th><strong>Thinking</strong></th>
+      <th><strong>Feeling</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Descubrimiento fácil y personalizado</strong></td>
+      <td rowspan="3">
+        - Abre StayMap y ve eventos en vivo cerca de su ubicación<br>
+        - Recibe notificaciones de conciertos que coinciden con sus gustos<br>
+        - Filtra por género, lugar o día. Guarda eventos y arma su agenda musical<br>
+        - Comparte eventos con amigos desde la app<br>
+        - Hace check-in en el evento, recibe recomendaciones futuras<br>
+        - Sigue a los artistas desde el evento
+      </td>
+      <td rowspan="3">
+        “¡Hay varias tocadas este fin de semana cerca de mí!”<br>
+        “¡Justo de mis bandas favoritas!”<br>
+        “Todo está claro y actualizado.”<br>
+        “Esta app realmente me conoce”
+      </td>
+      <td rowspan="3">
+        Emocionado por tener opciones al instante.<br>
+        Aliviado, sin estrés por buscar.<br>
+        Conectado emocionalmente con la música
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Exploración clara y decisiones rápidas</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Asistencia y participación activa</strong></td>
+    </tr>
+  </tbody>
+</table>
