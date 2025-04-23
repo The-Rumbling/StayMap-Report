@@ -832,7 +832,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
   <thead>
     <tr>
       <th colspan="2">Piensa y Siente</th>
-	<td>- Desea aprovechar al máximo las experiencias musicales con sus amigos</td>
+	Desea aprovechar al máximo las experiencias musicales con sus amigos
     </tr>
   </thead>
   <tbody>
