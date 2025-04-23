@@ -218,7 +218,7 @@ Con pasión, creatividad y enfoque social, desde el corazón de MIROH impulsamos
 </td>
     </tr>
     <tr>
-       <td><img src="assets/profile_images/diego_zuñiga.png" alt="team member profile photo" style="width: 300px">Zúñiga Murillo, Diego Sebastian (u202310636)</td>
+       <td><img src="assets/profile_images/diego_zuniga.png" alt="team member profile photo" style="width: 300px">Zúñiga Murillo, Diego Sebastian (u202310636)</td>
       <td>Mi nombre es Diego Sebastián Zúñiga Murillo, tengo 20 años y actualmente curso el quinto ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona puntual, participativa y responsable, con una fuerte pasión por la tecnología y el aprendizaje constante.
 En mi tiempo libre disfruto de escuchar música, lo que me ayuda a relajarme y mantener el equilibrio entre mis estudios y mi vida personal. Como estudiante, me comprometo a aportar activamente en el desarrollo de este proyecto, contribuyendo con creatividad, iniciativa y habilidades de liderazgo.
 Confío en que, trabajando en equipo y manteniendo una comunicación constante, lograremos resultados destacados que reflejan nuestro esfuerzo y compromiso.
