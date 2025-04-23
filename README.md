@@ -1001,4 +1001,30 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
   </tbody>
 </table>
 
+**2.4. Ubiquitous Language.**
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Término</th>
+      <th>Definición/descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>StayMap</td>
+      <td>Plataforma digital que conecta a fans con conciertos en vivo, especialmente de la escena musical local e independiente</td>
+    </tr>
+    <tr>
+      <td>Evento</td>
+      <td>Cualquier concierto, tocada, jam session o presentación musical está listada en la plataforma. Incluye ubicación, fecha, hora y artistas</td>
+    </tr>
+    <tr>
+      <td>Mapa de conciertos</td>
+      <td>Vista geolocalizada que muestra los eventos en tiempo real según la ubicación del usuario</td>
+    </tr>
+  </tbody>
+</table>
+
 
