@@ -657,4 +657,53 @@ Táctica: Ofrecer funciones como seguimiento de giras, alertas personalizadas, y
 
 ## 2.2.1. Diseño de entrevistas.
 
+Segmento objetivo #1: Fans de la música (16 a 35 años)
+
+Perfil demográfico y musical:
+
+¿Cuál es tu nombre, qué edad tienes y a qué te dedicas?
+¿Dónde vives actualmente? ¿Sueles asistir a conciertos en tu ciudad?
+¿Qué géneros musicales disfrutas más?
+¿Con qué frecuencia vas a conciertos o festivales?
+
+Comportamiento digital y uso de apps:
+
+¿Qué plataformas usas para descubrir nuevos eventos o artistas?
+¿Sueles seguir a tus artistas favoritos por redes sociales?
+¿Usas apps como Spotify, Instagram u otras para encontrar conciertos?
+
+ Expectativas y opinión sobre StayMap:
+
+¿Has tenido problemas para enterarte de conciertos cercanos a ti?
+Si tuvieras una app que te muestre conciertos en vivo cerca, ¿la usarías? ¿por qué?
+¿Qué funciones te parecerían útiles en una app como StayMap? (por ejemplo: mapa de eventos, notificaciones, filtros por género)
+¿Te gustaría guardar tus eventos favoritos o armar tu calendario de conciertos?
+¿Qué mejorarías de las apps que ya usas para buscar eventos musicales?
+¿Te interesaría compartir los eventos a los que vas con tus amigos desde la app?
+
+Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
+
+Perfil artístico y canales de promoción:
+
+¿Cuál es tu nombre artístico o el de tu banda?
+¿Qué estilo musical haces y cuántos años llevas en la música?
+¿Cómo sueles promocionar tus eventos o lanzamientos?
+¿Qué redes sociales o plataformas usas para difundir tus conciertos? (Instagram, TikTok, Spotify, etc.)
+
+Herramientas digitales y desafíos:
+
+¿Te resulta fácil o difícil difundir tus eventos entre el público local?
+¿Has utilizado apps o plataformas para anunciar tus conciertos? ¿Cuál fue tu experiencia?
+¿Qué barreras encuentras al intentar llenar tus shows o llegar a nuevos oyentes?
+
+Opinión y expectativas sobre StayMap:
+
+¿Qué te parecería contar con una app donde los usuarios vean tu evento en un mapa musical local?
+¿Te interesaría que StayMap te permita crear un perfil artístico y gestionar tus fechas de conciertos?
+¿Qué funcionalidades te parecerían más útiles como artista? (por ejemplo: análisis de asistentes, publicación de eventos, integración con redes)
+¿Qué te gustaría poder personalizar en la app?
+¿Cómo crees que StayMap podría ayudarte a crecer como artista?
+¿Recomendarías una app como StayMap a otros artistas emergentes?
+
+2.2.2. Registro de entrevistas.
 
