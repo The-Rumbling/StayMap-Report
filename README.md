@@ -480,78 +480,463 @@ Necesidades principales:
 
 # 2.1. Competidores
 
-## 1.1.1. 2.1.1. Análisis competitivo
+## 2.1.1. Análisis competitivo
 
+aria uwu
+ipegharry
+In voice
+
+anhos:} — 12/04/2024 23:27
+https://www.figma.com/team_invite/redeem/gsdQS6h9wbzjOe474rSJJf
+Figma
+Figma
+anhos:} — 13/04/2024 16:43
+https://discord.gg/yvHda6jY
+anhos:} — 14/04/2024 19:35
+Attachment file type: acrobat
+CONTENT.pdf
+845.67 KB
+Attachment file type: archive
+TB1.rar
+12.09 MB
+anhos:} — 26/04/2024 21:54
+arianaaa pasa lo del nodo
+xfa
+aria uwu — 26/04/2024 21:55
+#pragma once
+#include <functional>
+
+using namespace std; 
+typedef unsigned int uint;
+template <class T>
+
+class Nodo {
+public:
+
+    T dato;
+    Nodo<T>* siguiente;
+
+
+public:
+
+    Nodo(T v, Nodo<T>* sig = NULL) {
+        dato = v;
+        siguiente = sig;
+    }
+};
+anhos:} — 27/04/2024 16:08
+jean
+t llama
+::::::::::::::
+anhos:} — 28/04/2024 02:26
+bool deshacerUltimaAccion(ListaSimple<Stock>& listaPrendas) {
+    system("cls");
+    if (historialAcciones.estaVacia()) {
+        cout << "No hay acciones para deshacer." << endl;
+        return false;
+    }
+
+    string ultimaAccion = historialAcciones.pop();
+    if (ultimaAccion.find("Agregada:") != string::npos) {
+        // Extraer el código de la prenda agregada y eliminarla
+        size_t posCodigo = ultimaAccion.find("Codigo: ") + 8; // 8 es la longitud de la palabra "Codigo: "
+        size_t posComa = ultimaAccion.find(",", posCodigo);
+        string codigo = ultimaAccion.substr(posCodigo, posComa - posCodigo);
+
+        listaPrendas.eliminarNodo(codigo);
+        cout << "Se ha deshecho la accion de agregar la prenda con codigo: " << codigo << endl;
+    }
+    else if (ultimaAccion.find("Eliminada:") != string::npos) {
+        // Lógica para deshacer una eliminación, que ya se ha implementado anteriormente
+    }
+    else {
+        cout << "Tipo de acción desconocida." << endl;
+        return false;
+    }
+
+    return true;
+
+}
+aria uwu — 28/04/2024 02:52
+asasas
+asas
+aasa
+sa
+sa
+s
+as
+as
+s
+as
+as
+as
+as
+anhos:} — 28/04/2024 02:53
+hola
+aria uwu started a call that lasted 21 minutes. — 28/04/2024 04:52
+anhos:} — 28/04/2024 05:03
+f_lambda = [](const ListaSimple<Stock>& lista, const string& nombre) {
+     Nodo<Stock>* actual = lista.getInicio();
+
+     while (actual != nullptr) {
+         if (actual->dato.getNombre() == nombre) {
+             return IteradorLista<Stock>(actual);
+         }
+         actual = actual->siguiente;
+     }
+     return IteradorLista<Stock>(nullptr);
+     };
+#pragma once
+#include "pch.h"
+#include "ListaSimple.h"
+#include "Usuario.h"
+#include "Administrador.h"
+#include "Cliente.h"
+Expand
+message.txt
+30 KB
+.cpp
+void BuscarPrendaMayorPrecioPorCategoria(ListaSimple<Stock>& listaPrendas) {
+    string categoria;
+    cout << "Ingrese la categoria de la prenda: ";
+    cin >> categoria;
+
+    IteradorLista<Stock> iterador = listaPrendas.AmorMio(categoria);
+
+    if (iterador != nullptr) {
+        Stock prenda = iterador.operator*();
+        cout << "\nLa prenda de mayor precio en la categoria '" << categoria << "' es: " << endl;
+        cout << prenda.toString() << endl;
+    }
+    else {
+        cout << "\nNo se encontraron prendas en la categoria '" << categoria << "'." << endl;
+    }
+}
+anhos:} — 24/06/2024 00:02
+https://miro.com/app/board/uXjVK-busBM=/
+https://miro.com/
+Sign up | Miro | The Visual Workspace for Innovation
+Miro is a visual workspace for innovation where teams manage projects, design products, and build the future together. Join 60M+ users from around the world.
+Sign up | Miro | The Visual Workspace for Innovation
+Image
+anhos:} — 24/06/2024 03:49
+Image
+Image
+anhos:} — 09/11/2024 01:09
+Este modelo utiliza el patrón "One-to-Many con documentos embebidos", ya que la relación entre Emoción y Contenido es de uno a muchos. Embebes el documento de Emoción dentro de Contenido para facilitar el acceso y mantener todo en un único documento de la colección contenido.
+Este modelo utiliza el patrón "One-to-Many con documentos embebidos" para la relación entre Publicación y Puntuación. Embebes las puntuaciones dentro de la publicación, ya que cada publicación puede tener múltiples puntuaciones asociadas. Esto permite que toda la información relevante sobre una publicación y sus puntuaciones esté en un solo documento, facilitando la recuperación de datos.
+anhos:} — 13/11/2024 17:33
+ariana!
+t toco esta?
+Image
+aria uwu — 13/11/2024 17:34
+no
+me tocó con tres quintas
+anhos:} — 13/11/2024 17:38
+:,v
+anhos:} — 27/11/2024 00:35
+https://mangabuddy.com/december
+MangaBuddy
+Read December - MangaBuddy
+Read December - On a quiet dawn, in the midst of Yeonwoo's shrill buzzing, he met a runaway boy. Yeon-woo sees that he shares the same problem with the boy and since he is kind of cute he decides to help the boy he met for the first time, who then reacted strongly t
+anhos:} — 16/04/2025 23:15
+https://docs.google.com/spreadsheets/d/1BpOgbBCOa2twvORDjt_y6TrNxVdRiL6nyC2rRV0Jt9Y/edit?gid=0#gid=0
+Google Docs
+Trabajos
+Image
+Image
+anhos:} — 20/04/2025 13:46
+u202310358@upc.edu.pe 
+aria uwu — 20/04/2025 13:51
+Image
+aria uwu — Yesterday at 00:57
+Image
+aria uwu — Yesterday at 01:07
+Image
+anhos:} — Yesterday at 01:17
+http://127.0.0.1:3000/landingpage/main.html
+anhos:} — 01:15
+#### 1.1.2. Perfiles de integrantes del equipo
 <table>
-  <thead>
-    <tr>
-      <th colspan="5">Competitive Analysis Landscape</th>
-    </tr>
-    <tr>
-      <th>¿Por qué llevar a cabo este análisis?</th>
-      <td colspan="4">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
-    </tr>
-    <tr>
-      <th>(En la cabecera colocar por cada competidor nombre y logo)</th>
-      <th>StayMap</th>
-      <th>Songkick</th>
-      <th>Bandsintown</th>
-      <th>Fever</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Perfil -->
-    <tr>
-      <td><strong>Overview</strong></td>
-      <td>a</td><td>a</td><td>a</td><td>a</td>
-    </tr>
-    <tr>
-      <td>Ventaja competitiva: ¿Qué valor ofrece a los clientes?</td>
-      <td>a</td><td>a</td><td>a</td><td>a</td>
-    </tr>
-
-    <!-- Marketing -->
-    <tr>
-      <td><strong>Mercado objetivo</strong></td>
-      <td>a</td><td>a</td><td>a</td><td>a</td>
-    </tr>
-    <tr>
-      <td>Estrategias de marketing</td>
-      <td>a</td><td>a</td><td>a</td><td>a</td>
-    </tr>
-
-    <!-- Producto -->
-    <tr>
-      <td><strong>Productos & Servicios</strong></td>
-      <td>a</td><td>a</td><td>a</td><td>a</td>
-    </tr>
-    <tr>
-      <td>Precios & Costos</td>
-      <td>a</td><td>a</td><td>a</td><td>a</td>
-    </tr>
-    <tr>
-      <td>Canales de distribución (Web y/o Móvil)</td>
-      <td>a</td><td>a</td><td>a</td><td>a</td>
-    </tr>
-
-    <!-- Análisis SWOT -->
-    <tr>
-      <td><strong>Fortalezas</strong></td>
-      <td>a</td><td>a</td><td>a</td><td>a</td>
-    </tr>
-    <tr>
-      <td>Debilidades</td>
-      <td>a</td><td>a</td><td>a</td><td>a</td>
-    </tr>
-    <tr>
-      <td>Oportunidades</td>
-      <td>a</td><td>a</td><td>a</td><td>a</td>
-    </tr>
-    <tr>
-      <td>Amenazas</td>
-      <td>a</td><td>a</td><td>a</td><td>a</td>
-    </tr>
-  </tbody>
+  <tr>
+    <th colspan="2">Integrante 1</th>
+  </tr>
+  <tr>
+Expand
+message.txt
+3 KB
+aria uwu — 01:38
+https://github.com/ariaalizz/StayMap-Report.git
+GitHub
+GitHub - ariaalizz/StayMap-Report
+Contribute to ariaalizz/StayMap-Report development by creating an account on GitHub.
+Contribute to ariaalizz/StayMap-Report development by creating an account on GitHub.
+anhos:} — 02:42
+#### 2.1.1. Análisis competitivo
+<table border="2" style="text-align: center;">
+<tbody>
+<tr >
+<td colspan="6">Competitive Analysis Landscape</td>
+</tr>
+<tr>
+<td colspan="2">¿Por que llevar a cabo este análisis?</td>
+<td colspan="4">El analizar nuestros competidores nos permite identificar qué estrategias debemos usar para poder desarrollar una aplicación que destaque en el mercado, analizando todos los detalles que diferencie nuestro producto de otros.
+            </td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>FoodSuite</td>
+<td>Restaurant.pe</td>
+<td>El Tenedor</td>
+<td>Rest.pe</td>
+</tr>
+<tr>
+<td rowspan="2">Perfil</td>
+<td>Overview</td>
+<td>Aplicación que ofrece funcionalidades de gestión para diversos áreas de un restaurante, como los pedidos. Permite la realización de actividades diarias en un restaurante que se pueda realizar en un dispositivo móvil o desde una aplicación web.</td>
+<td>Aplicación que optimiza la gestión del restaurante proporcionando una interfaz amigable de pedidos, emisión de comprobantes y visualización de ventas. Presenta un conteo de stock e inventario en tiempo real, además de poder ser manejado desde múltiples dispositivos.</td>
+<td>Aplicación que gestiona las mesas del restaurante de manera sencilla, además de un listado digital de reservas confirmadas. Estas reservas las permite la aplicación sin necesidad de llamar e incluye la opción de pago desde la misma app.</td>
+<td>Aplicación customizada por un equipo para cada empresa cliente, cuyas funcionalidades incluyen una cocina smart, capacitación, estadísticas, búsqueda por voz, recetarios, publicidad local, entre otros.</td>
+</tr>
+<tr>
+<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
+<td>Optimiza la gestión del inventario de restaurantes mediante actualizaciones y alertas en tiempo real, lo que permite a los usuarios mantener el control del stock desde cualquier lugar.</td>
+<td>Proporciona una solución para la gestión de restaurantes, que abarca desde el control de caja y la gestión de productos hasta la facturación electrónica y el delivery.</td>
+<td>Facilita la visibilidad en línea de los restaurantes a través de su plataforma de reservas y descubrimiento, lo que ayuda a atraer nuevos clientes y aumentar las reservas tanto locales como internacionales. </td>
+<td>Ofrece una solución integral y transparente para restaurantes, eliminando sobrecostos al proporcionar un sistema sin sorpresas, que es adaptable tanto para restaurantes pequeños como para cadenas medianas.</td>
+</tr>
+<tr>
+<td rowspan="2">Perfil de Marketing</td>
+<td>Mercado objetivo</td>
+<td>Restaurantes que buscan una solución especializada en la gestión administrativa</td>
+<td>Desde pequeños restaurantes y foodtrucks hasta grandes cadenas de restaurantes</td>
+<td>Restaurantes en Europa y Australia que desean mejorar su visibilidad en línea</td>
+<td>Restaurantes de tamaño mediano a grande que buscan una solución de punto de venta completa y adaptable</td>
+</tr>
+<tr>
+<td>Estrategias de marketing</td>
+<td><ul>
+<li>Optimización de Inventario</li>
+<li>Automatización y Eficiencia</li>
+<li>Informes y Análisis</li>
+</ul></td>
+<td><ul>
+<li>Ahorro de Tiempo y Dinero</li>
+<li>Multiplataforma y Flexibilidad</li>
+<li>Precio Competitivo</li>
+</ul></td>
+<td><ul>
+<li>Promociones y Descuentos</li>
+<li>Visibilidad en Línea</li>
+<li>Reducción de No-Shows</li>
+</ul></td>
+<td><ul>
+<li>Eliminación de Costos Adicionales</li>
+<li>Adaptabilidad y Soporte</li>
+<li>Experiencia y Fiabilidad</li>
+</ul></td>
+</tr>
+<tr>
+<td rowspan="3">Perfil de Producto</td>
+<td>Productos & Servicios</td>
+<td><ul>
+<li>Control y actualización del inventario en tiempo real</li>
+<li>Sincronización de datos entre dispositivos</li>
+<li>Generación de informes detallados</li>
+<li>Automatización de tareas y procesos</li>
+</ul></td>
+<td><ul>
+<li>Control de caja y gestión de productos</li>
+<li>Control de insumos y stock</li>
+<li>Facturación electrónica</li>
+<li>Gestión de pedidos, delivery interno y externo</li>
+<li>Registro de recetas y movimientos entre almacenes</li>
+<li>Operación en línea y fuera de línea</li>
+</ul></td>
+<td><ul>
+<li>Visibilidad en línea para restaurantes a través de una página personalizada</li>
+<li>Sistema de reservas</li>
+<li>Descuentos de hasta el 50% y programa de recompensas</li>
+<li>Herramientas para reducir la inasistencia de clientes</li>
+<li>Capacitación gratuita y soporte continuo</li>
+</ul></td>
+<td><ul>
+<li>Gestión de ventas, delivery interno y externo, y mesas mapeadas</li>
+<li>Carta QR funcional y aplicación/web propia para pedidos</li>
+<li>Facturación electrónica</li>
+<li>Control de inventario, estadísticas de ventas y cierre de caja</li>
+<li>Automatización de procesos</li>
+</ul></td>
+</tr>
+<tr>
+<td>Precios &amp; Costos</td>
+<td><ul>
+<li>Basic: $99</li>
+... (57 lines left)
+Collapse
+message.txt
+8 KB
+﻿
+🐄
+anhos:}
+anhos
+ 
+ 
+⚝☽                         (￣^￣)ゞ
+#### 2.1.1. Análisis competitivo
+<table border="2" style="text-align: center;">
+	<tbody>
+		<tr >
+			<td colspan="6">Competitive Analysis Landscape</td>
+		</tr>
+		<tr>
+			<td colspan="2">¿Por que llevar a cabo este análisis?</td>
+			<td colspan="4">Esto es clave para entender cómo otras plataformas están abordando el descubrimiento de eventos musicales, qué características valoran los usuarios y dónde existen oportunidades no cubiertas, especialmente en relación con la promoción de conciertos de pequeña y mediana escala. Al conocer mejor a la competencia, podemos tomar decisiones más informadas sobre funcionalidades, modelo de negocio, diferenciadores clave y estrategias de crecimiento.
+            </td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td>StayMap</td>
+			<td>Songkick</td>
+			<td>Bandsintown</td>
+			<td>Fever</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil</td>
+			<td>Overview</td>
+			<td>Conecta a los fans con conciertos en vivo de pequeña y mediana escala a través de un mapa interactivo con geolocalización. Se enfoca en promover la escena musical independiente y fortalecer el vínculo entre artistas emergentes y su público local</td>
+			<td>APermite descubrir conciertos de artistas favoritos y recibir alertas personalizadas según ubicación. Se enfoca principalmente en giras de artistas reconocidos.</td>
+			<td>Conecta a fans con conciertos mediante recomendaciones basadas en gustos musicales. Incluye herramientas para que artistas promuevan sus eventos.</td>
+			<td>Ayuda a descubrir eventos culturales locales, incluyendo conciertos, teatro y experiencias únicas. Su enfoque va más allá de la música en vivo.</td>
+		</tr>
+		<tr>
+			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
+			<td>Optimiza la gestión del inventario de restaurantes mediante actualizaciones y alertas en tiempo real, lo que permite a los usuarios mantener el control del stock desde cualquier lugar.</td>
+			<td>Proporciona una solución para la gestión de restaurantes, que abarca desde el control de caja y la gestión de productos hasta la facturación electrónica y el delivery.</td>
+			<td>Facilita la visibilidad en línea de los restaurantes a través de su plataforma de reservas y descubrimiento, lo que ayuda a atraer nuevos clientes y aumentar las reservas tanto locales como internacionales. </td>
+			<td>Ofrece una solución integral y transparente para restaurantes, eliminando sobrecostos al proporcionar un sistema sin sorpresas, que es adaptable tanto para restaurantes pequeños como para cadenas medianas.</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil de Marketing</td>
+			<td>Mercado objetivo</td>
+			<td>Restaurantes que buscan una solución especializada en la gestión administrativa</td>
+			<td>Desde pequeños restaurantes y foodtrucks hasta grandes cadenas de restaurantes</td>
+			<td>Restaurantes en Europa y Australia que desean mejorar su visibilidad en línea</td>
+			<td>Restaurantes de tamaño mediano a grande que buscan una solución de punto de venta completa y adaptable</td>
+		</tr>
+		<tr>
+			<td>Estrategias de marketing</td>
+			<td><ul>
+				<li>Optimización de Inventario</li>
+				<li>Automatización y Eficiencia</li>
+				<li>Informes y Análisis</li>
+			</ul></td>
+			<td><ul>
+				<li>Ahorro de Tiempo y Dinero</li>
+				<li>Multiplataforma y Flexibilidad</li>
+				<li>Precio Competitivo</li>
+			</ul></td>
+			<td><ul>
+				<li>Promociones y Descuentos</li>
+				<li>Visibilidad en Línea</li>
+				<li>Reducción de No-Shows</li>
+			</ul></td>
+			<td><ul>
+				<li>Eliminación de Costos Adicionales</li>
+				<li>Adaptabilidad y Soporte</li>
+				<li>Experiencia y Fiabilidad</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td rowspan="3">Perfil de Producto</td>
+			<td>Productos & Servicios</td>
+			<td><ul>
+				<li>Control y actualización del inventario en tiempo real</li>
+				<li>Sincronización de datos entre dispositivos</li>
+				<li>Generación de informes detallados</li>
+				<li>Automatización de tareas y procesos</li>
+			</ul></td>
+			<td><ul>
+				<li>Control de caja y gestión de productos</li>
+				<li>Control de insumos y stock</li>
+				<li>Facturación electrónica</li>
+				<li>Gestión de pedidos, delivery interno y externo</li>
+				<li>Registro de recetas y movimientos entre almacenes</li>
+				<li>Operación en línea y fuera de línea</li>
+			</ul></td>
+			<td><ul>
+				<li>Visibilidad en línea para restaurantes a través de una página personalizada</li>
+				<li>Sistema de reservas</li>
+				<li>Descuentos de hasta el 50% y programa de recompensas</li>
+				<li>Herramientas para reducir la inasistencia de clientes</li>
+				<li>Capacitación gratuita y soporte continuo</li>
+			</ul></td>
+			<td><ul>
+				<li>Gestión de ventas, delivery interno y externo, y mesas mapeadas</li>
+				<li>Carta QR funcional y aplicación/web propia para pedidos</li>
+				<li>Facturación electrónica</li>
+				<li>Control de inventario, estadísticas de ventas y cierre de caja</li>
+				<li>Automatización de procesos</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Precios &amp; Costos</td>
+			<td><ul>
+				<li>Basic: $99</li>
+				<li>Pro: $199</li>
+				<li>Enterprise: $399</li>
+			</ul></td>	
+			<td><ul>
+				<li>Para crecimiento: $94</li>
+				<li>Para total control: $440</li>
+			</ul></td>
+			<td><ul>
+				<li>Basic: $32</li>
+				<li>Pro: $57</li>
+				<li>Pro+: $113</li>
+			</ul></td>	
+			<td><ul>
+				<li>Básico: $53</li>
+				<li>Cadena: $120</li>
+				<li>Básico (anual): $534</li>
+				<li>Cadena (anual): $1334</li>
+			</ul></td>	
+		</tr>
+		<tr>
+			<td>Canales de distribución (Web y/o Móvil)</td>
+			<td>Web y móvil</td>
+			<td>Web y móvil</td>
+			<td>Web y móvil</td>
+			<td>Web y móvil</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Análisis SWOT</td>
+			<td>Fortalezas</td>
+			<td>Se especializa en gestión de inventario, automatización e interfaz intuitiva.</td>
+			<td>Presenta una solución integral con una amplia gama de funciones cubriendo todas las áreas clave.</td>
+			<td>Proporciona a los restaurantes una plataforma sólida para aumentar su visibilidad.</td>
+			<td>Elimina sobrecostos y pagos adicionales, además de adaptarse a restaurantes de cualquier tamaño.</td>
+		</tr>
+		<tr>
+			<td>Debilidades</td>
+			<td>Tiene un enfoque limitado con respecto a trabajadores, no puede analizar roles que no necesitan de competencia.</td>
+			<td>El costo inicial, aunque sea competitivo, puede ser una limitación para pequeños negocios.</td>
+			<td>Su enfoque principal en un continente específico y algunos países puede limitar su alcance.</td>
+			<td>Aunque tengan experiencia nacional e internacional, hay una falta de presencia internacional.</td>
+		</tr>
+		<tr>
+			<td>Oportunidades</td>
+			<td>Puede encajar fácilmente en el crecimiento de mercados emergentes gracias a la digitalización de la gestión.</td>
+			<td>La digitalización de la gestión de restaurantes representa oportunidades para nuevos clientes, y tomó ventaja.</td>
+			<td>Colaborar con otras plataformas de gestión de restaurantes ofreciendo una solución más completa.</td>
+			<td>El desarrollo de funciones enfocados al análisis avanzado de datos o un marketing digital completo favorecería su crecimiento.</td>
+		</tr>
+		<tr>
+			<td>Amenazas</td>
+			<td>Podría perder mercado frente a software que presente una solución más completa y con más funciones.</td>
+			<td>Tiene mucha dependencia tecnológica, y su servicio al cliente es limitado, por lo que genera desconfianza.</td>
+			<td>Soluciones como éste tiene mucha competencia en el mercado, dificultando su dominio en el mismo.</td>
+			<td>La saturación del mercado con respecto a competencia en soluciones de punto de venta puede limitar su crecimiento.</td>
+		</tr>
+	</tbody>
 </table>
-
-
