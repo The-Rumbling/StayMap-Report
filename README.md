@@ -340,7 +340,7 @@ Accesibilidad y usabilidad
 - Disponible en smartphones, tablets y computadoras, incluso con acceso limitado a internet en algunos casos.
 
 Conexión con expertos y comunidad
-- Espacio para recibir recomendaciones de expertos (psicólogos, urbanistas, etc.) o experiencias de otros usuarios.
+- Espacio para recibir recomendaciones de expertos en musica o experiencias de otros usuarios.
 - Comunidad que comparte tips y lugares seguros, con opción de valorar y comentar.
 
 **Escalabilidad**
