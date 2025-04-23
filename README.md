@@ -382,13 +382,13 @@ Conexión con expertos y comunidad
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 Creemos que, si StayMap tiene una interfaz intuitiva y está optimizada para dispositivos móviles, incluso los usuarios con poca experiencia tecnológica podrán usar la aplicación fácilmente para orientarse y explorar nuevas zonas.
-Creemos que, si StayMap proporciona datos actualizados en tiempo real sobre zonas seguras e inseguras, los usuarios podrán planificar mejor sus recorridos y evitar áreas de riesgo, mejorando su experiencia de movilidad.
-Creemos que, si StayMap ofrece recomendaciones de lugares según intereses del usuario y zonas seguras cercanas, se fomentará la exploración urbana con mayor confianza y seguridad, atrayendo a viajeros más curiosos.
+Creemos que, si StayMap proporciona recomendaciones de conciertos basadas en los intereses y preferencias del usuario, así como la proximidad de estos eventos, los usuarios tendrán una experiencia más personalizada y disfrutarán de una exploración más fluida de los eventos musicales a su alrededor.
 Creemos que, si StayMap integra una comunidad activa donde los usuarios pueden reportar incidentes o compartir experiencias, se generará confianza colectiva y participación constante, fortaleciendo el valor colaborativo de la app.
-Creemos que, si StayMap funciona eficazmente en zonas con conectividad limitada o intermitente, será útil para viajeros en contextos rurales o en ciudades con poca cobertura de red, aumentando su alcance y utilidad.
-Creemos que, si StayMap ofrece notificaciones personalizadas sobre alertas de seguridad, eventos o cambios en zonas frecuentadas, los usuarios podrán reaccionar rápidamente y sentirse más seguros al desplazarse.
-Creemos que, si StayMap permite guardar rutas favoritas y recibir sugerencias basadas en comportamientos pasados, los usuarios tendrán una experiencia más personalizada y práctica, incrementando su uso continuo.
-Creemos que, si StayMap incluye un modo offline con mapas básicos y alertas descargadas previamente, los usuarios podrán seguir navegando con seguridad incluso sin conexión, reforzando la confianza en la app.
+Creemos que, si StayMap ofrece una interfaz intuitiva y optimizada para dispositivos móviles, los usuarios, incluso aquellos con poca experiencia tecnológica, podrán localizar fácilmente conciertos cercanos y acceder a la información relevante sin dificultad.
+Creemos que, si StayMap proporciona una plataforma que permite a los artistas emergentes listar sus conciertos, aumentar su visibilidad y conectar con un público local, los músicos tendrán más oportunidades de crecer y ganar seguidores leales, lo que potenciará su carrera a largo plazo.
+Creemos que, si StayMap permite a los usuarios dejar reseñas y comentarios sobre conciertos y actuaciones, los artistas podrán recibir retroalimentación constructiva y mejorar su performance, lo que contribuirá a su evolución profesional y éxito en futuros eventos.
+Creemos que, si StayMap destaca a los artistas más destacados y organiza conciertos a gran escala, brindará una plataforma para que los músicos emergentes se presenten junto a artistas establecidos, lo que aumentará sus oportunidades de ser reconocidos por profesionales de la industria y contribuirá a su crecimiento.
+
 
 #### 1.2.2.3. Lean UX Canvas. 
 
