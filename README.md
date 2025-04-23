@@ -10,7 +10,7 @@
 **1ASI0729 - DESARROLLO DE APLICACIONES OPEN SOURCE**
 
 Carrera de Ingeniería de Software
-a
+
 
 **NRC:** 2510-4334
 
