@@ -198,6 +198,7 @@ Con pasión, creatividad y enfoque social, desde el corazón de MIROH impulsamos
   </thead>
   <tbody>
     <tr>
+      <td><img src="assets/profile_images/diego_collantes.png" alt="team member profile photo" style="width: 300px"></td>
       <td>Collantes Carrillo, Diego Mateo (u202311823)</td>
       <td>Mi nombre es Diego Collantes. Tengo 19 años. Soy estudiante de quinto ciclo en la Universidad Peruana de Ciencias Aplicadas (UPC). Disfruto de leer, redactar y escuchar música en mi tiempo libre. Elegí esta carrera, ya que me interesó todo el proceso que hay detrás de cada aplicación o programa que usamos en nuestro día a día. Personalmente, espero ampliar mis conocimientos en este ámbito a lo largo de este curso. Además, estoy comprometido a contribuir en todo lo que sea posible con el equipo y a desempeñarme de manera adecuada.
 </td>
