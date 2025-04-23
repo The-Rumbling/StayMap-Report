@@ -737,7 +737,79 @@ Los user personas son perfiles representativos de los usuarios que ayudan a comp
 <img src="assets/user_persona/valeria_torres.png" alt="user_persona" style="width: 700px">
 <img src="assets/user_persona/diego_rivas.png" alt="user_persona" style="width: 700px">
 
+## 2.3.2. User Task Matrix
 
+<table border="1">
+  <thead>
+    <tr>
+      <th>Tareas</th>
+      <th colspan="2">Valeria Torres</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Buscar conciertos cerca de su zona</td>
+      <td>Frecuente</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Descubrir nuevos artistas y géneros</td>
+      <td>Frecuente</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Comparar información de eventos entre diferentes redes</td>
+      <td>Ocasional</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Consultas redes sociales para enterarse de eventos</td>
+      <td>Muy frecuente</td>
+      <td>Alta</td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Tareas</th>
+      <th colspan="2">Diego Rivas</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Promocionar sus conciertos</td>
+      <td>Frecuente</td>
+      <td>Muy alta</td>
+    </tr>
+    <tr>
+      <td>Buscar plataformas gratuitas o de bajo costo para difusión</td>
+      <td>Frecuente</td>
+      <td>Muy alta</td>
+    </tr>
+    <tr>
+      <td>Organizar y coordinar presentaciones en bares o festivales</td>
+      <td>Ocasional</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Interactuar con su comunidad de seguidores</td>
+      <td>Frecuente</td>
+      <td>Medio</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
