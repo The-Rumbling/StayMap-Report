@@ -558,19 +558,16 @@ Necesidades principales:
 				<li>Enterprise: $399</li>
 			</ul></td>	
 			<td><ul>
-				<li>Para crecimiento: $94</li>
-				<li>Para total control: $440</li>
+				<li>Precios: Gratuito para los usuarios. Las entradas para conciertos se venden a través de la aplicación, con un costo asociado por evento.</li>
+				<li>Costos: No tiene costos de suscripción para los usuarios. Las ganancias provienen de la venta de entradas y comisiones de los conciertos.</li>
 			</ul></td>
 			<td><ul>
-				<li>Basic: $32</li>
-				<li>Pro: $57</li>
-				<li>Pro+: $113</li>
+				<li>Precios: Gratuito para los usuarios. Los conciertos se promocionan a través de la plataforma, con la posibilidad de comprar entradas directamente.</li>
+				<li>Costos: Gratuito para los usuarios, pero Bandsintown cobra una tarifa por la venta de entradas y ofrece servicios premium a artistas para mejorar la visibilidad de sus conciertos.</li>
 			</ul></td>	
 			<td><ul>
-				<li>Básico: $53</li>
-				<li>Cadena: $120</li>
-				<li>Básico (anual): $534</li>
-				<li>Cadena (anual): $1334</li>
+				<li>Precios: Gratuito para los usuarios, con una tarifa adicional al comprar entradas para ciertos eventos exclusivos o experiencias premium.</li>
+				<li>Costos: Los costos de Fever están principalmente asociados a las entradas y experiencias exclusivas. La plataforma también obtiene ingresos mediante asociaciones con marcas y experiencias temáticas.</li>
 			</ul></td>	
 		</tr>
 		<tr>
