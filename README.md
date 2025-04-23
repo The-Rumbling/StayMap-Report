@@ -931,5 +931,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 </table>
 
 ## 2.3.4. As-is Scenario Mapping.
+**Fans de la música:**
+
 
 
