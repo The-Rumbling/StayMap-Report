@@ -936,10 +936,10 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 <table>
   <thead>
     <tr>
-      <th>Versión</th>
-      <th>Fecha</th>
-      <th>Autor</th>
-      <th>Descripción de modificación</th>
+      <th>Phases</th>
+      <th>Descubrimiento limitado</th>
+      <th>Búsqueda dispersa y confusa</th>
+      <th>Pérdida de oportunidades</th>
     </tr>
   </thead>
   <tbody>
