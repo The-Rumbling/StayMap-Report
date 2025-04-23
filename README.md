@@ -485,8 +485,11 @@ Necesidades principales:
 <table>
   <thead>
     <tr>
+      <th colspan="5">Competitive Analysis Landscape</th>
+    </tr>
+    <tr>
       <th>¿Por qué llevar a cabo este análisis?</th>
-      <th colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</th>
+      <td colspan="4">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
     </tr>
     <tr>
       <th>(En la cabecera colocar por cada competidor nombre y logo)</th>
@@ -498,7 +501,8 @@ Necesidades principales:
   </thead>
   <tbody>
     <tr>
-      <td><strong>Perfil</strong><br>Overview</td>
+      <th rowspan="2">Perfil</th>
+      <td>Overview</td>
       <td>a</td>
       <td>a</td>
       <td>a</td>
@@ -512,7 +516,8 @@ Necesidades principales:
       <td>a</td>
     </tr>
     <tr>
-      <td><strong>Perfil de Marketing</strong><br>Mercado objetivo</td>
+      <th rowspan="2">Perfil de Marketing</th>
+      <td>Mercado objetivo</td>
       <td>a</td>
       <td>a</td>
       <td>a</td>
@@ -526,7 +531,8 @@ Necesidades principales:
       <td>a</td>
     </tr>
     <tr>
-      <td><strong>Perfil de Producto</strong><br>Productos & Servicios</td>
+      <th rowspan="3">Perfil de Producto</th>
+      <td>Productos & Servicios</td>
       <td>a</td>
       <td>a</td>
       <td>a</td>
@@ -547,7 +553,8 @@ Necesidades principales:
       <td>a</td>
     </tr>
     <tr>
-      <td><strong>Análisis SWOT</strong><br>Fortalezas</td>
+      <th rowspan="4">Análisis SWOT</th>
+      <td>Fortalezas</td>
       <td>a</td>
       <td>a</td>
       <td>a</td>
@@ -576,4 +583,5 @@ Necesidades principales:
     </tr>
   </tbody>
 </table>
+
 
