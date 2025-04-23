@@ -1062,5 +1062,9 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
   </tbody>
 </table>
 
+# CAPÍTULO III: Requirements Specification
 
+## 3.1 To-Be Scenario Mapping
+
+** Fans de la música: **
 
