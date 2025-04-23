@@ -710,7 +710,7 @@ Opinión y expectativas sobre StayMap:
 ## 2.3.1. User Personas.
 Los user personas son perfiles representativos de los usuarios que ayudan a comprender mejor sus necesidades, motivaciones y comportamientos. En StayMap, estos perfiles guían el diseño y desarrollo de la plataforma para asegurar que responda a lo que realmente buscan nuestros principales segmentos, como los fans de la música y los artistas emergentes.
 
-<img src="assets/user_persona/valeria_torres.png" alt="user_persona1" style="width: 600px">
+<img src="assets/user_persona/valeria_torres.png" alt="user_persona1" style="width: 700px">
 
 
 
