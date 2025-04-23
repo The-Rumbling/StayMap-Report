@@ -332,10 +332,6 @@ Asistencia personalizada en tiempo real
 - Recomendaciones de lugares seguros, tranquilos o estimulantes según el estado de ánimo del usuario.
 - Guías para llegar de forma segura y eficiente a los destinos deseados.
   
-Optimización de la experiencia urbana
-- Ahorro de tiempo y energía evitando lugares inadecuados o con problemas (tráfico, obras, peligro, etc.).
-- Visualización en mapas de los mejores espacios para descansar, trabajar, socializar o pasear.
-  
 Promoción de bienestar y seguridad
 - Alertas y notificaciones ante zonas inseguras o poco recomendadas según el momento del día.
 - Sugerencias que promueven el autocuidado y la conexión positiva con el entorno.
@@ -355,7 +351,6 @@ Conexión con expertos y comunidad
 - Interfaz clara, amigable y acogedora.
 - Fluidez en la experiencia, con transiciones suaves, botones accesibles y navegación simple.
 - Alta confiabilidad en los datos mostrados y bajo margen de error en recomendaciones.
-- Capacidad de adaptarse al perfil emocional y de movilidad de cada usuario.
 
 **Business Outcomes**
 - Convertirse en la aplicación de referencia para movilizarse de forma segura y emocionalmente coherente con el usuario.
@@ -378,7 +373,6 @@ Conexión con expertos y comunidad
 - Modo "estado de ánimo" para sugerencias según cómo se siente el usuario (relajado, ansioso, social, introspectivo...).
 - Evaluaciones y puntuaciones de lugares según criterios de seguridad, ambiente, accesibilidad, etc.
 - Módulo de comunidad para compartir experiencias y recomendaciones.
-- Panel de control con estadísticas sobre hábitos de movilidad, zonas favoritas, y mejoras sugeridas.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 Creemos que, si StayMap tiene una interfaz intuitiva y está optimizada para dispositivos móviles, incluso los usuarios con poca experiencia tecnológica podrán usar la aplicación fácilmente para orientarse y explorar nuevas zonas.
