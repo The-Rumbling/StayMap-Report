@@ -657,7 +657,7 @@ Táctica: Ofrecer funciones como seguimiento de giras, alertas personalizadas, y
 
 ## 2.2.1. Diseño de entrevistas.
 
-Segmento objetivo #1: Fans de la música (16 a 35 años)
+**Segmento objetivo #1: Fans de la música (16 a 35 años)**
 
 Perfil demográfico y musical:
 
@@ -681,7 +681,7 @@ Comportamiento digital y uso de apps:
 - ¿Qué mejorarías de las apps que ya usas para buscar eventos musicales?
 - ¿Te interesaría compartir los eventos a los que vas con tus amigos desde la app?
 
-Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
+**Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)**
 
 Perfil artístico y canales de promoción:
 
@@ -705,5 +705,5 @@ Opinión y expectativas sobre StayMap:
 - ¿Cómo crees que StayMap podría ayudarte a crecer como artista?
 - ¿Recomendarías una app como StayMap a otros artistas emergentes?
 
-2.2.2. Registro de entrevistas.
+## 2.2.2. Registro de entrevistas.
 
