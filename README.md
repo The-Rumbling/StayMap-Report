@@ -302,7 +302,7 @@ Creemos que nuestros usuarios son personas jóvenes, adultos y turistas cultural
 **¿Dónde encaja nuestro producto en su trabajo o vida?**
 - StayMap será una herramienta esencial en el día a día de los usuarios, permitiéndoles tomar decisiones rápidas y seguras sobre a dónde ir.
 - Puede utilizarse al planificar una salida, durante una caminata, mientras se viaja o simplemente para descubrir nuevos espacios alineados con su estilo de vida.
-- Servirá como una guía personalizada que los acompaña constantemente, promoviendo el bienestar, la seguridad y la exploración responsable.
+- Funcionará como una guía personalizada que acompaña al usuario constantemente, facilitando la exploración urbana y la conexión con experiencias que realmente le interesan.
 
 **¿Qué problemas tiene nuestro producto?**
 - Falta de información confiable y en tiempo real sobre la seguridad, ambiente o calidad de los lugares públicos.
