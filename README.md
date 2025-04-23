@@ -572,39 +572,51 @@ Necesidades principales:
 		</tr>
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
-			<td>Web y móvil</td>
-			<td>Web y móvil</td>
-			<td>Web y móvil</td>
-			<td>Web y móvil</td>
+			<td><ul>
+				<li>Web: Plataforma web interactiva con un mapa dinámico de conciertos, donde los usuarios pueden explorar eventos en tiempo real</li>
+				<li>Móvil: Aplicación móvil para iOS y Android con geolocalización, alertas de eventos y la opción de seguir a artistas locales</li>
+			</ul></td>
+			<td><ul>
+				<li>Web: Disponible a través de su página web para descubrimiento de conciertos y compra de entradas</li>
+				<li>Móvil: Aplicación disponible para iOS y Android, donde los usuarios pueden recibir alertas personalizadas y comprar entradas</li>
+			</ul></td>
+			<td><ul>
+				<li>Web: Plataforma web que permite descubrir conciertos y gestionar las preferencias de artistas</li>
+				<li>Móvil: Aplicación para iOS y Android, con notificaciones personalizadas y la posibilidad de seguir a artistas y comprar entradas</li>
+			</ul></td>
+			<td><ul>
+				<li>Web: Plataforma web donde los usuarios pueden explorar eventos y comprar entradas</li>
+				<li>Móvil: Aplicación para iOS y Android que permite descubrir eventos locales y comprar entradas, con recomendaciones personalizadas</li>
+			</ul></td>
 		</tr>
 		<tr>
 			<td rowspan="4">Análisis SWOT</td>
 			<td>Fortalezas</td>
-			<td>Se especializa en gestión de inventario, automatización e interfaz intuitiva.</td>
-			<td>Presenta una solución integral con una amplia gama de funciones cubriendo todas las áreas clave.</td>
-			<td>Proporciona a los restaurantes una plataforma sólida para aumentar su visibilidad.</td>
-			<td>Elimina sobrecostos y pagos adicionales, además de adaptarse a restaurantes de cualquier tamaño.</td>
+			<td>Su enfoque en conciertos emergentes y locales le permite conectar con un público único y auténtico. La geolocalización en tiempo real facilita el descubrimiento de eventos cercanos.</td>
+			<td>Tiene una gran base de usuarios gracias a su integración con plataformas como Spotify y Apple Music. Su enfoque en conciertos grandes le permite ofrecer una experiencia robusta en la compra de entradas.</td>
+			<td>Ofrece alertas personalizadas para conciertos y promueve tanto artistas emergentes como establecidos. Su enfoque en la personalización le otorga una experiencia única a sus usuarios.</td>
+			<td>Ofrece una amplia variedad de eventos, no solo conciertos, lo que atrae a un público diverso. Su enfoque en experiencias exclusivas le da un valor añadido.</td>
 		</tr>
 		<tr>
 			<td>Debilidades</td>
-			<td>Tiene un enfoque limitado con respecto a trabajadores, no puede analizar roles que no necesitan de competencia.</td>
-			<td>El costo inicial, aunque sea competitivo, puede ser una limitación para pequeños negocios.</td>
-			<td>Su enfoque principal en un continente específico y algunos países puede limitar su alcance.</td>
-			<td>Aunque tengan experiencia nacional e internacional, hay una falta de presencia internacional.</td>
+			<td>Al ser una plataforma en crecimiento, su base de usuarios y oferta de conciertos son limitados. Depende de alianzas con locales y artistas para ampliar su alcance.</td>
+			<td>Tiene una gran base de usuarios gracias a su integración con plataformas como Spotify y Apple Music. Su enfoque en conciertos grandes le permite ofrecer una experiencia robusta en la compra de entradas.</td>
+			<td>Su interfaz puede ser confusa para nuevos usuarios debido a la gran cantidad de notificaciones y conciertos. Las recomendaciones no siempre son precisas ni relevantes para todos los usuarios.</td>
+			<td>Su enfoque generalista puede no satisfacer a usuarios que buscan solo conciertos en vivo. El contenido musical no es tan profundo o especializado como en otras plataformas.</td>
 		</tr>
 		<tr>
 			<td>Oportunidades</td>
-			<td>Puede encajar fácilmente en el crecimiento de mercados emergentes gracias a la digitalización de la gestión.</td>
-			<td>La digitalización de la gestión de restaurantes representa oportunidades para nuevos clientes, y tomó ventaja.</td>
-			<td>Colaborar con otras plataformas de gestión de restaurantes ofreciendo una solución más completa.</td>
-			<td>El desarrollo de funciones enfocados al análisis avanzado de datos o un marketing digital completo favorecería su crecimiento.</td>
+			<td>Expandir su enfoque en mercados locales y nichos de conciertos emergentes podría fortalecer su propuesta. Ofrecer servicios premium para artistas podría atraer más usuarios y aumentar sus ingresos.</td>
+			<td>Puede expandir su alcance hacia mercados más locales, promoviendo artistas emergentes. Colaborar con festivales locales y locales sería una buena forma de ampliar su base de usuarios.</td>
+			<td>Puede ampliar sus funciones para vender entradas directamente y ofrecer experiencias exclusivas. Colaboraciones con festivales y marcas musicales podrían atraer a más usuarios.</td>
+			<td>Expandir su oferta de conciertos locales podría atraer a un público más específico de fans de música en vivo. Crear contenido exclusivo y eventos personalizados podría aumentar la lealtad de los usuarios.</td>
 		</tr>
 		<tr>
 			<td>Amenazas</td>
-			<td>Podría perder mercado frente a software que presente una solución más completa y con más funciones.</td>
-			<td>Tiene mucha dependencia tecnológica, y su servicio al cliente es limitado, por lo que genera desconfianza.</td>
-			<td>Soluciones como éste tiene mucha competencia en el mercado, dificultando su dominio en el mismo.</td>
-			<td>La saturación del mercado con respecto a competencia en soluciones de punto de venta puede limitar su crecimiento.</td>
+			<td>Competir con plataformas consolidadas como Songkick y Bandsintown puede ser desafiante. La saturación del mercado de aplicaciones de conciertos podría dificultar la atracción de usuarios.</td>
+			<td>La competencia creciente de aplicaciones como Bandsintown y Fever puede restarle usuarios. La dependencia de plataformas de streaming lo hace vulnerable a cambios en ese ecosistema.</td>
+			<td>La competencia de plataformas especializadas en conciertos como Songkick y Fever podría reducir su cuota de mercado. Cambios en los hábitos de consumo de entretenimiento digital podrían afectar su relevancia.</td>
+			<td>La competencia de aplicaciones como Songkick y Bandsintown podría restarle relevancia en el ámbito musical. La saturación del mercado de eventos y actividades culturales podría hacerle perder protagonismo.</td>
 		</tr>
 	</tbody>
 </table>
