@@ -944,16 +944,18 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
   </thead>
   <tbody>
     <tr>
-      <td>TB1</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Doing</td>
+      <td>Revisa redes sociales esperando encontrar algún concierto interesante</td>
+      <td>Busca conciertos en Google, redes sociales, sitios de eventos</td>
+      <td>Se entera del evento al día siguiente o cuando las entradas ya se agotaron</td>
     </tr>
     <tr>
-      <td>TP</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Thinking</td>
+      <td>“No hay una app que me muestre todo en un solo lugar”</td>
+      <td>“Todo está muy desordenado, no sé por dónde empezar”
+
+“¿Por qué no hay una app que lo junte todo?”</td>
+      <td>“Otra vez me lo perdí un concierto”</td>
     </tr>
     <tr>
       <td>TB2</td>
