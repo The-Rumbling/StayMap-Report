@@ -624,11 +624,18 @@ Necesidades principales:
 ## 2.1.2. Estrategias y tácticas frente a competidores.
 
 **- Enfoque en el descubrimiento de música en vivo diversa**
+
 **Estrategia:** Diferenciarse de otras plataformas generalistas facilitando el acceso a una variedad de eventos musicales sin importar su escala
+
 **Táctica:** Mostrar de forma equitativa tanto conciertos masivos como presentaciones más íntimas o alternativas y resaltar aquellos eventos que se alineen con los intereses del usuario mediante algoritmos de recomendación y geolocalización
+
 **- Uso de geolocalización en tiempo real**
+
 **Estrategia:**Facilitar el descubrimiento espontáneo de conciertos cercanos al usuario
+
 **Táctica:**Implementar un mapa interactivo que muestre eventos activos cerca del usuario con filtros por género, horario y tipo de artista
+
 **- Alianzas con agentes locales**
+
 
 
