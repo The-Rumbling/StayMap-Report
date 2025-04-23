@@ -525,26 +525,10 @@ Necesidades principales:
 		</tr>
 		<tr>
 			<td>Estrategias de marketing</td>
-			<td><ul>
-				<li>Optimización de Inventario</li>
-				<li>Automatización y Eficiencia</li>
-				<li>Informes y Análisis</li>
-			</ul></td>
-			<td><ul>
-				<li>Ahorro de Tiempo y Dinero</li>
-				<li>Multiplataforma y Flexibilidad</li>
-				<li>Precio Competitivo</li>
-			</ul></td>
-			<td><ul>
-				<li>Promociones y Descuentos</li>
-				<li>Visibilidad en Línea</li>
-				<li>Reducción de No-Shows</li>
-			</ul></td>
-			<td><ul>
-				<li>Eliminación de Costos Adicionales</li>
-				<li>Adaptabilidad y Soporte</li>
-				<li>Experiencia y Fiabilidad</li>
-			</ul></td>
+			<td>Se enfoca en el marketing comunitario y uso de redes sociales para promover conciertos en tiempo real y crear comunidad entre fans y artistas.</td>
+			<td>Se apoya en integraciones con plataformas de streaming (como Spotify) y recomendaciones personalizadas para captar usuarios. También colabora con artistas reconocidos para promocionar giras y vender entradas.</td>
+			<td>Utiliza notificaciones personalizadas, campañas por email y presencia activa en redes sociales. Además, ofrece una plataforma para que los propios artistas promocionen sus shows directamente.</td>
+			<td>Realiza campañas digitales segmentadas, usa influencers locales y curaduría de eventos exclusivos para atraer a usuarios. También colabora con marcas para promocionar experiencias temáticas.</td>
 		</tr>
 		<tr>
 			<td rowspan="3">Perfil de Producto</td>
