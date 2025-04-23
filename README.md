@@ -706,4 +706,11 @@ Opinión y expectativas sobre StayMap:
 - ¿Recomendarías una app como StayMap a otros artistas emergentes?
 
 ## 2.2.2. Registro de entrevistas.
+## 2.3. Needfinding.
+## 2.3.1. User Personas.
+Los user personas son perfiles representativos de los usuarios que ayudan a comprender mejor sus necesidades, motivaciones y comportamientos. En StayMap, estos perfiles guían el diseño y desarrollo de la plataforma para asegurar que responda a lo que realmente buscan nuestros principales segmentos, como los fans de la música y los artistas emergentes.
+
+
+
+
 
