@@ -331,12 +331,9 @@ Creemos que nuestros usuarios son personas jóvenes, adultos y turistas cultural
 **Alcances**
 
 Asistencia personalizada en tiempo real
-- Recomendaciones de lugares seguros, tranquilos o estimulantes según el estado de ánimo del usuario.
-- Guías para llegar de forma segura y eficiente a los destinos deseados.
-  
-Promoción de bienestar y seguridad
-- Alertas y notificaciones ante zonas inseguras o poco recomendadas según el momento del día.
-- Sugerencias que promueven el autocuidado y la conexión positiva con el entorno.
+- Recomendaciones de conciertos y eventos musicales según los intereses, ubicación y estado de ánimo del usuario.
+- Actualizaciones en vivo sobre afluencia, horarios y cambios importantes en los eventos.
+- Mapas interactivos para encontrar eventos cercanos con rutas claras desde la ubicación actual.
 
 Accesibilidad y usabilidad
 - Interfaz sencilla, moderna e intuitiva para todo tipo de usuarios.
