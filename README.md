@@ -534,32 +534,20 @@ Necesidades principales:
 			<td rowspan="3">Perfil de Producto</td>
 			<td>Productos & Servicios</td>
 			<td><ul>
-				<li>Control y actualización del inventario en tiempo real</li>
-				<li>Sincronización de datos entre dispositivos</li>
-				<li>Generación de informes detallados</li>
-				<li>Automatización de tareas y procesos</li>
+				<li>Productos: Mapa interactivo de conciertos, geolocalización en tiempo real, notificaciones de eventos</li>
+				<li>Servicios: Promoción de conciertos, visibilidad para artistas emergentes, creación de comunidad entre fans y artistas</li>
 			</ul></td>
 			<td><ul>
-				<li>Control de caja y gestión de productos</li>
-				<li>Control de insumos y stock</li>
-				<li>Facturación electrónica</li>
-				<li>Gestión de pedidos, delivery interno y externo</li>
-				<li>Registro de recetas y movimientos entre almacenes</li>
-				<li>Operación en línea y fuera de línea</li>
+				<li>Productos: Alertas personalizadas sobre conciertos, compra de entradas, recomendaciones basadas en preferencias musicales</li>
+				<li>Servicios: Seguimiento de artistas, integración con Spotify y Apple Music, planificación de asistencia a conciertos</li>
 			</ul></td>
 			<td><ul>
-				<li>Visibilidad en línea para restaurantes a través de una página personalizada</li>
-				<li>Sistema de reservas</li>
-				<li>Descuentos de hasta el 50% y programa de recompensas</li>
-				<li>Herramientas para reducir la inasistencia de clientes</li>
-				<li>Capacitación gratuita y soporte continuo</li>
+				<li>Productos: Calendario de conciertos, alertas personalizadas, herramientas de promoción para artistas</li>
+				<li>Servicios: Promoción de eventos para artistas emergentes, recomendaciones personalizadas, venta de entradas</li>
 			</ul></td>
 			<td><ul>
-				<li>Gestión de ventas, delivery interno y externo, y mesas mapeadas</li>
-				<li>Carta QR funcional y aplicación/web propia para pedidos</li>
-				<li>Facturación electrónica</li>
-				<li>Control de inventario, estadísticas de ventas y cierre de caja</li>
-				<li>Automatización de procesos</li>
+				<li>Productos: Descubrimiento de eventos locales, compra de entradas, experiencias exclusivas</li>
+				<li>Servicios: Curaduría de eventos, recomendaciones basadas en ubicación, experiencias personalizadas</li>
 			</ul></td>
 		</tr>
 		<tr>
