@@ -811,5 +811,14 @@ Los user personas son perfiles representativos de los usuarios que ayudan a comp
   </tbody>
 </table>
 
+## 2.3.3. User Journey Mapping.
 
+En esta sección se presentan los User Journey Maps As-Is de los principales segmentos objetivos identificados. Estos mapas ilustran el recorrido actual que experimentan los usuarios en la vida real sin contar aún con la solución que ofrece StayMap.
 
+A través de las distintas fases de su experiencia, se analiza qué acciones realizan, qué necesidades o frustraciones enfrentan, qué puntos de contacto utilizan, cómo viven emocionalmente ese recorrido y qué oportunidades surgen para diseñar una solución que resuelva dichos puntos de dolor. Esta representación permite comprender de forma profunda el contexto de los usuarios y sirve como base para idear funcionalidades relevantes, empáticas y de alto impacto en futuras iteraciones de la plataforma.
+
+**Fans de la música**
+
+**Artistas emergentes**
+
+## 2.3.4. Empathy Mapping.
