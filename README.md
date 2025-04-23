@@ -368,7 +368,6 @@ Conexión con expertos y comunidad
   
 **Features**
 - Mapas personalizados según perfil del usuario, hora del día y contexto local.
-- Alertas en tiempo real sobre zonas peligrosas, congestionadas o poco recomendadas.
 - Modo "estado de ánimo" para sugerencias según cómo se siente el usuario (relajado, ansioso, social, introspectivo...).
 - Evaluaciones y puntuaciones de lugares según criterios de seguridad, ambiente, accesibilidad, etc.
 - Módulo de comunidad para compartir experiencias y recomendaciones.
