@@ -966,4 +966,39 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
   </tbody>
 </table>
 
+**Artistas emergentes y bandas independientes:**
+
+<table>
+  <thead>
+    <tr>
+      <th>Phases</th>
+      <th>Promoción limitada al alcance personal</th>
+      <th>Bajo alcance y visibilidad</th>
+      <th>Baja asistencia e invisibilidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Doing</td>
+      <td>Pública flyers de su concierto en Instagram y Facebook</td>
+      <td>Ve que su publicación tuvo pocas vistas o interacciones</td>
+      <td>-Toca en un bar con público reducido
+-Vuelve a casa con poca o ninguna ganancia</td>
+    </tr>
+    <tr>
+      <td>Thinking</td>
+      <td>“Ojalá alguien lo comparta.”</td>
+      <td>“El algoritmo no me ayuda.”</td>
+      <td>-“Doy lo mejor, pero casi nadie vino.”
+-“Esto no es sostenible así.”</td>
+    </tr>
+    <tr>
+      <td>Feeling</td>
+      <td>Esperanzado pero inseguro.</td>
+      <td>Frustración con las plataformas.</td>
+      <td>Tristeza, desánimo.</td>
+    </tr>
+  </tbody>
+</table>
+
 
