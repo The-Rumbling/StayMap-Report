@@ -878,7 +878,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 </table>
 
 
-**Rodrigo Rivas**
+**Diego Rivas**
 
 
 <table>
