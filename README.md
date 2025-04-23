@@ -625,17 +625,36 @@ Necesidades principales:
 
 **- Enfoque en el descubrimiento de música en vivo diversa**
 
-**Estrategia:** Diferenciarse de otras plataformas generalistas facilitando el acceso a una variedad de eventos musicales sin importar su escala
+Estrategia: Diferenciarse de otras plataformas generalistas facilitando el acceso a una variedad de eventos musicales sin importar su escala
 
-**Táctica:** Mostrar de forma equitativa tanto conciertos masivos como presentaciones más íntimas o alternativas y resaltar aquellos eventos que se alineen con los intereses del usuario mediante algoritmos de recomendación y geolocalización
+Táctica: Mostrar de forma equitativa tanto conciertos masivos como presentaciones más íntimas o alternativas y resaltar aquellos eventos que se alineen con los intereses del usuario mediante algoritmos de recomendación y geolocalización
 
 **- Uso de geolocalización en tiempo real**
 
-**Estrategia:** Facilitar el descubrimiento espontáneo de conciertos cercanos al usuario
+Estrategia: Facilitar el descubrimiento espontáneo de conciertos cercanos al usuario
 
-**Táctica:** Implementar un mapa interactivo que muestre eventos activos cerca del usuario con filtros por género, horario y tipo de artista
+Táctica: Implementar un mapa interactivo que muestre eventos activos cerca del usuario con filtros por género, horario y tipo de artista
 
 **- Alianzas con agentes locales**
 
+Estrategia: Fortalecer la oferta de eventos mediante colaboraciones directas con organizadores independientes
+
+Táctica: Crear programas de colaboración con venues, colectivos culturales y artistas emergentes que les permitan promocionar sus eventos fácilmente dentro de la plataforma
+
+**- Comunidad y participación de los fans**
+
+Estrategia: Construir una comunidad sólida y activa alrededor de la música en vivo
+
+Táctica: Permitir a los usuarios hacer check-in en eventos, compartir fotos y reseñas, seguir a otros fans y artistas, y recibir recompensas por su participación activa
+
+**- Funcionalidades exclusivas para fidelización**
+
+Estrategia: Aumentar la retención y lealtad de los usuarios frente a otras plataformas
+
+Táctica: Ofrecer funciones como seguimiento de giras, alertas personalizadas, y programas de recompensas por asistir a eventos frecuentes o apoyar a artistas locales
+
+##2.2. Entrevistas.
+
+##2.2.1. Diseño de entrevistas.
 
 
