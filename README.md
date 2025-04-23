@@ -653,8 +653,8 @@ Estrategia: Aumentar la retención y lealtad de los usuarios frente a otras plat
 
 Táctica: Ofrecer funciones como seguimiento de giras, alertas personalizadas, y programas de recompensas por asistir a eventos frecuentes o apoyar a artistas locales
 
-##2.2. Entrevistas.
+## 2.2. Entrevistas.
 
-##2.2.1. Diseño de entrevistas.
+## 2.2.1. Diseño de entrevistas.
 
 
