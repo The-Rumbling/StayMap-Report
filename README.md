@@ -500,86 +500,56 @@ Necesidades principales:
     </tr>
   </thead>
   <tbody>
+    <!-- Perfil -->
     <tr>
-      <th rowspan="2">Perfil</th>
-      <td>Overview</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td><strong>Overview</strong></td>
+      <td>a</td><td>a</td><td>a</td><td>a</td>
     </tr>
     <tr>
-      <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>Ventaja competitiva: ¿Qué valor ofrece a los clientes?</td>
+      <td>a</td><td>a</td><td>a</td><td>a</td>
     </tr>
+
+    <!-- Marketing -->
     <tr>
-      <th rowspan="2">Perfil de Marketing</th>
-      <td>Mercado objetivo</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td><strong>Mercado objetivo</strong></td>
+      <td>a</td><td>a</td><td>a</td><td>a</td>
     </tr>
     <tr>
       <td>Estrategias de marketing</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>a</td><td>a</td><td>a</td><td>a</td>
     </tr>
+
+    <!-- Producto -->
     <tr>
-      <th rowspan="3">Perfil de Producto</th>
-      <td>Productos & Servicios</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td><strong>Productos & Servicios</strong></td>
+      <td>a</td><td>a</td><td>a</td><td>a</td>
     </tr>
     <tr>
       <td>Precios & Costos</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>a</td><td>a</td><td>a</td><td>a</td>
     </tr>
     <tr>
       <td>Canales de distribución (Web y/o Móvil)</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>a</td><td>a</td><td>a</td><td>a</td>
     </tr>
+
+    <!-- Análisis SWOT -->
     <tr>
-      <th rowspan="4">Análisis SWOT</th>
-      <td>Fortalezas</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td><strong>Fortalezas</strong></td>
+      <td>a</td><td>a</td><td>a</td><td>a</td>
     </tr>
     <tr>
       <td>Debilidades</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>a</td><td>a</td><td>a</td><td>a</td>
     </tr>
     <tr>
       <td>Oportunidades</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>a</td><td>a</td><td>a</td><td>a</td>
     </tr>
     <tr>
       <td>Amenazas</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
-      <td>a</td>
+      <td>a</td><td>a</td><td>a</td><td>a</td>
     </tr>
   </tbody>
 </table>
