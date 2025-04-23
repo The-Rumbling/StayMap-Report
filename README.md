@@ -518,10 +518,10 @@ Necesidades principales:
 		<tr>
 			<td rowspan="2">Perfil de Marketing</td>
 			<td>Mercado objetivo</td>
-			<td>Restaurantes que buscan una solución especializada en la gestión administrativa</td>
-			<td>Desde pequeños restaurantes y foodtrucks hasta grandes cadenas de restaurantes</td>
-			<td>Restaurantes en Europa y Australia que desean mejorar su visibilidad en línea</td>
-			<td>Restaurantes de tamaño mediano a grande que buscan una solución de punto de venta completa y adaptable</td>
+			<td>Personas jóvenes y amantes de la música que buscan descubrir conciertos y conectar con la escena local</td>
+			<td>Fans de la música que siguen a artistas reconocidos y desean recibir alertas sobre giras y conciertos en su ciudad o alrededores</td>
+			<td>Amantes de la música en general, desde fans de artistas emergentes hasta grandes estrellas, así como músicos que buscan promocionar sus eventos</td>
+			<td>Personas urbanas interesadas en actividades culturales y de ocio variadas, que buscan planes originales y experiencias únicas en su ciudad</td>
 		</tr>
 		<tr>
 			<td>Estrategias de marketing</td>
