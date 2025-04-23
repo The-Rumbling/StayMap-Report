@@ -315,17 +315,19 @@ Creemos que nuestros usuarios son personas jóvenes, adultos y turistas cultural
 - Disponible en móviles y web, debe ser intuitiva y accesible para usuarios con distintos niveles de experiencia tecnológica.
 
 **¿Qué características son importantes?**
-- Mapas interactivos y personalizados según los gustos del usuario.
-- Información actualizada sobre seguridad, afluencia, accesibilidad y ambiente del lugar.
-- Alertas sobre zonas peligrosas o inconvenientes según el perfil del usuario.
-- Recomendaciones en tiempo real basadas en preferencias, historial y localización.
-- Integración con sensores o API externas para datos de tráfico, clima, etc.
+- Mapas interactivos y personalizados según los géneros musicales favoritos del usuario, mostrando eventos y conciertos en zonas cercanas.
+- Información en tiempo real sobre afluencia estimada, accesibilidad y ambiente del evento, permitiendo una mejor planificación.
+- Alertas contextuales sobre cambios relevantes en los conciertos (como hora, lugar o disponibilidad de entradas).
+- Recomendaciones musicales basadas en gustos del usuario, historial de asistencia y ubicación actual.
+- Sistema de perfiles personalizados para fans y artistas, con beneficios únicos según su rol en la comunidad.
+
   
 **Objetivos**
-- Evitar riesgos: Brindar información de zonas a evitar por seguridad, saturación o inadecuación con el perfil del usuario.
-- Descubrimiento personalizado: Impulsar la exploración de lugares nuevos según gustos, intereses y momentos del día.
-- Fomentar la conexión positiva con el entorno urbano: Convertir la movilidad urbana en una experiencia positiva, intuitiva y segura.
-  
+- Facilitar el descubrimiento de eventos cercanos: Ayudar a los usuarios a encontrar conciertos y actividades musicales de forma personalizada y rápida.
+- Impulsar la conexión entre fans y artistas: Crear una red activa donde los fans puedan seguir sus artistas favoritos, recibir alertas y acceder a beneficios exclusivos.
+- Convertir la movilidad urbana en una experiencia musical enriquecedora: Transformar el modo en que los usuarios se mueven por la ciudad, conectando lugares con emociones, música y comunidad.
+- Promover la participación activa en la escena local: Fomentar que los usuarios asistan a más eventos, descubran artistas emergentes y compartan sus experiencias.
+
 **Alcances**
 
 Asistencia personalizada en tiempo real
