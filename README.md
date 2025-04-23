@@ -958,16 +958,10 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>“Otra vez me lo perdí un concierto”</td>
     </tr>
     <tr>
-      <td>TB2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>TF</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Feeling</td>
+      <td>Ansioso por perderse algo.</td>
+      <td>Confundido y abrumado</td>
+      <td>Frustrado y decepcionado</td>
     </tr>
   </tbody>
 </table>
