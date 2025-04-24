@@ -1153,6 +1153,19 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
   </tbody>
 </table>
 
+## 3.2. User stories
+
+### Epics
+
+| Epic ID | Título                                             | Descripción                                                                                                                                                                                       |
+|---------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EP01    | Exploración y descubrimiento de conciertos         | Funcionalidades que permiten a los fans descubrir eventos musicales en su ciudad mediante mapas interactivos, búsquedas personalizadas y recomendaciones según ubicación y preferencias musicales. |
+| EP02    | Notificaciones personalizadas                      | Desarrollo de notificaciones para fans y artistas, configuradas según intereses, ubicación y actividades recientes para mantener a los usuarios informados y comprometidos.                       |
+| EP03    | Visibilidad para artistas emergentes               | Herramientas que permiten a los artistas emergentes destacar sus eventos, promocionar su música y conectar con nuevos públicos dentro de la comunidad musical.                                    |
+| EP04    | Interacción social y comunidades                   | Funcionalidades sociales como chats, comentarios y acceso a comunidades de fans, diseñadas para fomentar la conexión entre usuarios y compartir experiencias musicales.                           |
+| EP05    | Plataforma informativa (Landing Page y acceso)     | Experiencia inicial del usuario incluyendo la landing page, navegación básica, autenticación y presentación de la propuesta de valor de StayMap.                                                  |
+| EP06    | Desarrollo técnico del backend (RESTful API)       | Implementación del backend con una API RESTful robusta, integración de base de datos y soporte técnico para las funcionalidades clave de la aplicación web y móvil.                              |
+
 
 ## 3.3. Impact Mapping
 
@@ -1167,8 +1180,9 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 
 
-## Capítulo IV: Product Design
-**4.1. Style Guidelines.**
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines.
 
 En esta sección se define la línea visual que guiará el diseño de la aplicación y la versión web de StayMap. El objetivo es ofrecer una interfaz clara, accesible y coherente, que facilite la exploración de eventos musicales en distintos contextos urbanos. Para ello, se han seleccionado elementos gráficos funcionales y modernos, con una paleta de colores contrastante que permite una navegación intuitiva y una rápida identificación de la información relevante.
 La Guía de Estilo establece principios fundamentales como el uso de tipografías legibles, un sistema de iconografía simple y una estructura visual organizada. Este documento sirve como referencia para mantener una identidad visual unificada a medida que la plataforma evoluciona, asegurando consistencia en todos los puntos de contacto con el usuario, tanto en dispositivos móviles como en la web.
