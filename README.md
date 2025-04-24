@@ -1168,7 +1168,6 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 
 ## Capítulo IV: Product Design
-
 **4.1. Style Guidelines.**
 
 En esta sección se define la línea visual que guiará el diseño de la aplicación y la versión web de StayMap. El objetivo es ofrecer una interfaz clara, accesible y coherente, que facilite la exploración de eventos musicales en distintos contextos urbanos. Para ello, se han seleccionado elementos gráficos funcionales y modernos, con una paleta de colores contrastante que permite una navegación intuitiva y una rápida identificación de la información relevante.
