@@ -1159,3 +1159,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 **Fans de la Música:**
 
 <img src="assets/impact_mapping/Impact-Mapping-Fan.png" alt="impact mapping fan" style="width: 700px">
+
+**Artistas emergentes y bandas independientes:**
+
+<img src="assets/impact_mapping/Impact-Mapping-Artista.png" alt="impact mapping Artista" style="width: 700px">
