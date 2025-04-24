@@ -1154,3 +1154,8 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 </table>
 
 
+## 3.3. Impact Mapping
+
+**Fans de la Música:**
+
+
