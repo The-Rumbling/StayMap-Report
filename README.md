@@ -1167,3 +1167,33 @@ La arquitectura de la información de StayMap se centra en ofrecer una experienc
 El diseño está pensado para que cualquier usuario pueda navegar de forma intuitiva a través de las funciones clave de la plataforma, como explorar eventos musicales cercanos, filtrar por tipo de lugar o ambiente, y descubrir espacios ideales para presentarse, ensayar o disfrutar música en vivo. Se mantendrá una coherencia visual y funcional que se adapte a cada momento de uso.
 
 Las decisiones en torno a los Organization Systems, Labeling Systems, Navigation Systems y Searching Systems serán fundamentales para asegurar una experiencia ordenada y satisfactoria. Estas decisiones permitirán a los usuarios encontrar de forma rápida y sencilla la información oportuna, potenciando así su conexión con el entorno musical de la ciudad.
+
+### 4.2.1. Organization Systems.
+
+En StayMap, implementaremos sistemas de organización del contenido que respondan a las distintas necesidades de nuestros usuarios, desde fans de la música hasta artistas emergentes. Este enfoque nos permitirá ofrecer una experiencia de navegación clara y personalizada, donde los eventos se clasifiquen por ubicación, fecha, género musical y popularidad. Además, los perfiles de usuario, notificaciones y recomendaciones estarán organizados de forma coherente y accesible, lo que facilitará que los usuarios descubran eventos relevantes, interactúen con otros asistentes y gestionen su participación en tiempo real. Esta estructura organizada contribuirá a una experiencia fluida e intuitiva dentro de la plataforma.
+
+**Landing page:** La organización de la información en la landing page se centra en ofrecer una visión general atractiva y dirigir a los usuarios hacia las funcionalidades principales.
+
+- **Organización Visual Del Contenido:**
+
+- Jerárquica: La landing page de StayMap tiene una clara jerarquía visual en la presentación de los conciertos programados. El nombre del artista y el título del evento principal se destacan con mayor tamaño y prominencia, seguidos por la información secundaria como la fecha y el lugar. Esta jerarquía guía la atención del usuario hacia los detalles más relevantes de cada evento de un vistazo. De manera similar, los beneficios para fans y artistas también utilizan una jerarquía visual para resaltar los puntos clave.
+
+- **Esquemas de categorización de contenido:**
+
+- Por tópicos: Se organiza la información en secciones temáticas bien definidas, como "Conoce los conciertos programados", "Testimonios de Fans" y las secciones dedicadas a "Para Fans" y "Para Artistas". Esta categorización por temas permite a los usuarios encontrar rápidamente la información que les resulta más relevante según sus intereses.
+
+- Según audiencia: La distinción clara entre las secciones "Para Fans" y "Para Artistas" representa una categorización según la audiencia principal. Esto permite adaptar el mensaje y destacar los beneficios específicos para cada grupo de usuarios directamente en la página de inicio.
+
+**Aplicación web:** La organización de la información en la aplicación web se enfoca en permitir a los usuarios explorar, filtrar y acceder a detalles específicos de los eventos y perfiles.
+
+- **Organización visual del contenido:**
+
+- Jerárquica: En la vista de listado de conciertos filtrados, la imagen del artista o evento generalmente ocupa un lugar destacado, seguida del nombre y otros detalles relevantes. Esta jerarquía visual ayuda a los usuarios a identificar rápidamente los eventos de su interés. En las secciones de "Mi Perfil" y "Lista de Conciertos", la información principal del usuario o del evento seleccionado recibe mayor énfasis visual.
+
+- Matricial: La funcionalidad de filtrado de conciertos representa una forma de organización matricial implícita. Los usuarios pueden combinar diferentes criterios (género, fecha, lugar, etc.) para refinar su búsqueda, creando una matriz de resultados basada en la intersección de sus selecciones.
+
+- ** Esquemas de categorización de contenido:**
+
+- Por tópicos: La navegación principal de la app web ("Inicio", "Mapa", "Comunidad", "Notificaciones", "Mi Perfil") establece una clara categorización por temas o secciones funcionales. Dentro de la sección de conciertos, los filtros por género, fecha, lugar y otros criterios actúan como subcategorías temáticas que permiten a los usuarios enfocar su búsqueda.
+
+- Según audiencia: Al igual que en la landing page, la distinción entre secciones para "Fans" y "Artistas" representa una categorización por audiencia. Dentro de la sección de fans, la posibilidad de filtrar por género musical podría considerarse una subcategorización basada en los intereses específicos de diferentes grupos de usuarios.
