@@ -934,73 +934,11 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 ## 2.3.4. As-is Scenario Mapping.
 **Fans de la música:**
 
-<table>
-  <thead>
-    <tr>
-      <th>Phases</th>
-      <th>Descubrimiento limitado</th>
-      <th>Búsqueda dispersa y confusa</th>
-      <th>Pérdida de oportunidades</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Doing</td>
-      <td>Revisa redes sociales esperando encontrar algún concierto interesante</td>
-      <td>Busca conciertos en Google, redes sociales, sitios de eventos</td>
-      <td>Se entera del evento al día siguiente o cuando las entradas ya se agotaron</td>
-    </tr>
-    <tr>
-      <td>Thinking</td>
-      <td>“No hay una app que me muestre todo en un solo lugar”</td>
-      <td>“Todo está muy desordenado, no sé por dónde empezar”
-
-“¿Por qué no hay una app que lo junte todo?”</td>
-      <td>“Otra vez me lo perdí un concierto”</td>
-    </tr>
-    <tr>
-      <td>Feeling</td>
-      <td>Ansioso por perderse algo.</td>
-      <td>Confundido y abrumado</td>
-      <td>Frustrado y decepcionado</td>
-    </tr>
-  </tbody>
-</table>
+<img src="assets/as-is_scenario/as-is-scenario-fans-musica.png" alt="as is scenario fans" style="width: 700px">
 
 **Artistas emergentes y bandas independientes:**
 
-<table>
-  <thead>
-    <tr>
-      <th>Phases</th>
-      <th>Promoción limitada al alcance personal</th>
-      <th>Bajo alcance y visibilidad</th>
-      <th>Baja asistencia e invisibilidad</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Doing</td>
-      <td>Pública flyers de su concierto en Instagram y Facebook</td>
-      <td>Ve que su publicación tuvo pocas vistas o interacciones</td>
-      <td>-Toca en un bar con público reducido
--Vuelve a casa con poca o ninguna ganancia</td>
-    </tr>
-    <tr>
-      <td>Thinking</td>
-      <td>“Ojalá alguien lo comparta.”</td>
-      <td>“El algoritmo no me ayuda.”</td>
-      <td>-“Doy lo mejor, pero casi nadie vino.”
--“Esto no es sostenible así.”</td>
-    </tr>
-    <tr>
-      <td>Feeling</td>
-      <td>Esperanzado pero inseguro.</td>
-      <td>Frustración con las plataformas.</td>
-      <td>Tristeza, desánimo.</td>
-    </tr>
-  </tbody>
-</table>
+<img src="assets/as-is_scenario/as-is-scenario-artistas-emergentes.png" alt="as is scenario artistas" style="width: 700px">
 
 **2.4. Ubiquitous Language.**
 
