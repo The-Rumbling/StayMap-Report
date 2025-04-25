@@ -812,7 +812,7 @@ Los user personas son perfiles representativos de los usuarios que ayudan a comp
   </tbody>
 </table>
 
-## 2.3.3. User Journey Mapping.
+## 2.3.3. User Journey Mapping
 
 En esta sección se presentan los User Journey Maps As-Is de los principales segmentos objetivos identificados. Estos mapas ilustran el recorrido actual que experimentan los usuarios en la vida real sin contar aún con la solución que ofrece StayMap.
 
@@ -826,7 +826,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 <img src="assets/user_journey_mapping/user-journey-mapping-artista.png" alt="user_journey_mapping" style="width: 700px">
 
-## 2.3.4. Empathy Mapping.
+## 2.3.4. Empathy Mapping
 
 
 **Valeria Torres**
@@ -931,7 +931,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
   </tbody>
 </table>
 
-## 2.3.4. As-is Scenario Mapping.
+## 2.3.4. As-is Scenario Mapping
 **Fans de la música:**
 
 <img src="assets/as-is_scenario/as-is-scenrio-fans-musica.png" alt="as is scenario fans" style="width: 700px"/>
@@ -940,7 +940,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 <img src="assets/as-is_scenario/as-is-scenrio-artistas-emergentes.png" alt="as is scenario artistas" style="width: 700px"/>
 
-**2.4. Ubiquitous Language.**
+**2.4. Ubiquitous Language**
 
 <table>
   <thead>
@@ -1005,91 +1005,11 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 ## 3.1 To-Be Scenario Mapping
 
-**Fans de la música:**
-
-<table>
-  <thead>
-    <tr>
-      <th><strong>Phases</strong></th>
-      <th><strong>Descubrimiento fácil y personalizado</strong></th>
-      <th><strong>Exploración clara y decisiones rápidas</strong></th>
-      <th><strong>Asistencia y participación activa</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Doing</strong></td>
-      <td>
-        - Abre StayMap y ve eventos en vivo cerca de su ubicación<br>
-        - Recibe notificaciones de conciertos que coinciden con sus gustos
-      </td>
-      <td>
-        - Filtra por género, lugar o día. 
-	Guarda eventos y arma su agenda musical<br>
-        -Comparte eventos con amigos desde la app 
-      </td>
-      <td>
-        - Hace check-in en el evento, recibe recomendaciones futuras<br>
-        - Sigue a los artistas desde el evento
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Thinking</strong></td>
-      <td>“¡Hay varias tocadas este fin de semana cerca de mí!”
-      “¡Justo de mis bandas favoritas!”</td>
-      <td>“Todo está claro y actualizado.”<br>
-	<td>“Esta app realmente me conoce”</td>
-    </tr>
-    <tr>
-      <td><strong>Feeling</strong></td>
-      <td>Emocionado por tener opciones al instante.</td>
-      <td>Aliviado, sin estrés por buscar.</td>
-      <td>Conectado emocionalmente con la música</td>
-    </tr>
-  </tbody>
-</table>
+<img src="assets/to-be_scenario/to-be-scenrio-fans-musica.png" alt="to be scenario fans" style="width: 700px"/>
 
 **Artistas emergentes y bandas independientes**
 
-<table>
-  <thead>
-    <tr>
-      <th><strong>Phases</strong></th>
-      <th><strong>Publicación rápida y alcance efectivo</strong></th>
-      <th><strong>Interacción con nuevos públicos</strong></th>
-      <th><strong>Crecimiento y fidelización</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Doing</strong></td>
-      <td>
-        - Crea un evento desde su perfil en minutos<br>
-        - El evento aparece automáticamente a usuarios interesados
-      </td>
-      <td>
-        - Monitorea cuántas personas han guardado o visto su evento<br>
-        - Responde comentarios o agradece desde su perfil de artista
-      </td>
-      <td>
-        - Gana seguidores tras cada presentación<br>
-        - Recibe recomendaciones para futuros eventos según su performance
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Thinking</strong></td>
-      <td>“No necesito diseñar flyers ni depender del algoritmo”</td>
-      <td>“Hay interés real esta vez”</td>
-      <td>“Estoy creciendo de forma orgánica”</td>
-    </tr>
-    <tr>
-      <td><strong>Feeling</strong></td>
-      <td>Aliviado y empoderado</td>
-      <td>Validado y motivado</td>
-      <td>Orgulloso de su progreso</td>
-    </tr>
-  </tbody>
-</table>
+<img src="assets/to-be_scenario/to-be-scenrio-artistas-emergentes.png" alt="to be scenario artistas" style="width: 700px"/>
 
 ## 3.2. User stories
 
