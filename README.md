@@ -1239,3 +1239,19 @@ El sistema de búsqueda de StayMap está diseñado para que los usuarios encuent
 - **Ubicación:** Posibilidad de buscar eventos cercanos al usuario según su ciudad o distrito.
 
 Este sistema ayuda a los usuarios a descubrir experiencias musicales alineadas con sus intereses, reduciendo la complejidad en la navegación y mejorando su conexión con los eventos que realmente les importan.
+
+### 4.2.5. Navigation Systems.
+
+El enfoque de la navegación en StayMap se centra en ofrecer una experiencia fluida y clara, que guíe tanto a los fans como a los artistas a través de las principales funcionalidades de la plataforma. Las opciones están organizadas de forma que los usuarios puedan acceder rápidamente al contenido que más les interesa, optimizando su tiempo de búsqueda y exploración de eventos musicales.
+
+Estas son las principales secciones de navegación:
+
+- **Conciertos:** Página principal donde los usuarios podrán explorar los eventos disponibles, acceder a la barra de búsqueda y utilizar los filtros por género musical para encontrar conciertos según sus gustos.
+
+- **Para Fans:** Un espacio exclusivo que destaca los beneficios de los usuarios registrados como fans de StayMap, incluyendo entradas exclusivas, descuentos, y acceso prioritario a eventos especiales.
+
+- **Para Artistas:** Sección pensada para los músicos y bandas, donde pueden conocer cómo StayMap los apoya, visualizar estadísticas de sus eventos, y conectarse con su audiencia.
+
+- **Filtro:** Funcionalidad clave que permite filtrar eventos por género musical, facilitando el descubrimiento de experiencias alineadas con los intereses del usuario.
+
+Esta estructura de navegación garantiza que tanto los fans como los artistas encuentren valor en cada interacción con la plataforma, promoviendo una experiencia musical accesible, personalizada y eficiente.
