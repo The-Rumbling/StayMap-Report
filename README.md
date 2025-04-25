@@ -1160,7 +1160,7 @@ La paleta de colores de StayMap se centra en tonos oscuros de morado y negro, ac
 <div align="center">
 <img src="assets/style/colors.jpg" alt="StayMap Colors" style="width: 400px"></div>
 
-# 4.2. Information Architecture.
+## 4.2. Information Architecture.
 
 La arquitectura de la información de StayMap se centra en ofrecer una experiencia clara, fluida y organizada para nuestros usuarios, quienes son principalmente personas apasionadas por la música, artistas independientes y cantantes que buscan eventos o espacios relacionados con su arte. Tanto en la versión web como en la aplicación móvil, el contenido estará estructurado para que los usuarios accedan fácilmente a lugares, eventos y recomendaciones relevantes según su ubicación y preferencias.
 
