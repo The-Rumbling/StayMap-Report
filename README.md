@@ -1197,3 +1197,22 @@ En StayMap, implementaremos sistemas de organización del contenido que responda
 - Por tópicos: La navegación principal de la app web ("Inicio", "Mapa", "Comunidad", "Notificaciones", "Mi Perfil") establece una clara categorización por temas o secciones funcionales. Dentro de la sección de conciertos, los filtros por género, fecha, lugar y otros criterios actúan como subcategorías temáticas que permiten a los usuarios enfocar su búsqueda.
 
 - Según audiencia: Al igual que en la landing page, la distinción entre secciones para "Fans" y "Artistas" representa una categorización por audiencia. Dentro de la sección de fans, la posibilidad de filtrar por género musical podría considerarse una subcategorización basada en los intereses específicos de diferentes grupos de usuarios.
+
+### 4.2.2. Labeling Systems.
+
+En StayMap, utilizaremos etiquetas claras, modernas y directamente relacionadas con la experiencia musical de nuestros usuarios. El objetivo es facilitar una navegación rápida e intuitiva, tanto para fans como para artistas, promoviendo el descubrimiento de eventos musicales según sus intereses. Estas son algunas de las principales etiquetas que se mostrarán en la interfaz:
+
+- **Conciertos:** Accede a la lista de eventos musicales disponibles. Aquí los usuarios podrán explorar conciertos según su ubicación, fecha y tipo de música.
+
+- **Para Fans:** Sección dedicada a los beneficios exclusivos para los fans que usan StayMap, como acceso anticipado a eventos, descuentos y experiencias personalizadas.
+
+- **Para Artistas:** Espacio exclusivo para artistas, donde podrán ver cómo promocionar sus conciertos, registrar eventos, y conectar con sus seguidores de forma más cercana.
+
+- **Filtrar:** Herramienta que permite seleccionar eventos por género musical, fecha, ubicación y tipo de entrada (libre o con costo), mejorando la personalización de resultados.
+
+- **Mapa Interactivo:** Visualiza directamente los eventos cercanos en el mapa, con información rápida sobre cada espacio musical.
+
+- **Conciertos por asistir:** Accede a los eventos que el usuario ha marcado como favoritos o que ha decidido seguir.
+
+- **Perfil / Configuración:** Acceso a las preferencias del usuario, como sus géneros favoritos, ajustes de notificación, datos de cuenta y más.
+
