@@ -1227,3 +1227,15 @@ Se ha implementado una estrategia de SEO para asegurar una mejor visibilidad en 
 - **Meta Keywords:** conciertos Perú, eventos musicales Lima, artistas Perú, gestión de conciertos, comunidad de fans, StayMap
 
 - **Meta Author:** The Rumbling
+
+### 4.2.4. Searching Systems.
+
+El sistema de búsqueda de StayMap está diseñado para que los usuarios encuentren conciertos y eventos musicales de manera rápida, intuitiva y precisa. Al tratarse de una plataforma con gran variedad de propuestas artísticas, el buscador y los filtros son herramientas clave para facilitar la experiencia tanto de fans como de nuevos usuarios. Los siguientes elementos componen nuestro sistema de búsqueda:
+
+- **Barra de búsqueda por nombre:** Permite a los usuarios encontrar conciertos ingresando directamente el nombre del evento o del artista que desean seguir.
+
+- **Filtro por género musical:** Ofrece una búsqueda personalizada según los gustos musicales del usuario. Se podrá filtrar por géneros como rock, pop, reggaetón, electrónica, indie, entre otros.
+
+- **Ubicación:** Posibilidad de buscar eventos cercanos al usuario según su ciudad o distrito.
+
+Este sistema ayuda a los usuarios a descubrir experiencias musicales alineadas con sus intereses, reduciendo la complejidad en la navegación y mejorando su conexión con los eventos que realmente les importan.
