@@ -934,11 +934,11 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 ## 2.3.4. As-is Scenario Mapping.
 **Fans de la música:**
 
-<img src="assets/as-is_scenario/as-is-scenario-fans-musica.png" alt="as is scenario fans" style="width: 700px">
+<img src="assets/as-is_scenario/as-is-scenrio-fans-musica.png" alt="as is scenario fans" style="width: 700px">
 
 **Artistas emergentes y bandas independientes:**
 
-<img src="assets/as-is_scenario/as-is-scenario-artistas-emergentes.png" alt="as is scenario artistas" style="width: 700px">
+<img src="assets/as-is_scenario/as-is-scenrio-artistas-emergentes.png" alt="as is scenario artistas" style="width: 700px">
 
 **2.4. Ubiquitous Language.**
 
