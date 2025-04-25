@@ -1236,3 +1236,17 @@ La brújula no solo indica dirección, sino también la intención de explorar y
 <div align="center">
 <img src="assets/style/starymaplogo.png" alt="StayMap Logo" style="width: 200px"></div>
 
+**Typography**
+
+Para StayMap, hemos elegido la fuente Inter debido a su diseño geométrico, moderno y altamente legible, ideal para interfaces digitales. Esta tipografía está pensada para mejorar la experiencia del usuario, reduciendo el cansancio visual y asegurando una lectura fluida, tanto en textos largos como en elementos de la interfaz.
+
+Utilizamos diferentes estilos de Inter para estructurar nuestra comunicación visual:
+Inter Medium para textos principales y contenido en general, proporcionando una lectura cómoda y clara.
+
+
+- Inter Semi Bold para subtítulos y destacados, lo que permite una mejor jerarquía y énfasis en información clave.
+
+- Inter Bold se usa para títulos y llamadas de atención, asegurando que los elementos más importantes resalten de manera efectiva.
+
+Este enfoque tipográfico ayuda a mantener una apariencia limpia, profesional y accesible, alineada con el propósito de StayMap de ofrecer una experiencia intuitiva y fácil de usar para todos nuestros usuarios.
+
