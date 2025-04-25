@@ -1234,5 +1234,5 @@ El logotipo de StayMap representa el propósito central de la plataforma: guiar 
 La brújula no solo indica dirección, sino también la intención de explorar y conectar con lo auténtico, cualidades que definen a nuestros usuarios: amantes de la música en vivo, artistas independientes y personas en constante búsqueda de nuevas experiencias culturales. El estilo del logo equilibra lo moderno con lo accesible, reforzando la identidad de StayMap como una herramienta cercana, útil y confiable para descubrir la música que suena en la ciudad.
 
 <div align="center">
-<img src="assets/starymaplogo.png" alt="StayMap Logo" style="width: 100%"></div>
+<img src="assets/starymaplogo.png" alt="StayMap Logo" style="width: 100px"></div>
 
