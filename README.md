@@ -1276,4 +1276,4 @@ En StayMap, el lenguaje que utilizamos refleja nuestra misión de hacer que la b
 
 Queremos que nuestros usuarios, ya sean jóvenes exploradores de música o asistentes habituales a conciertos, sientan que StayMap es su compañero confiable en el descubrimiento de nuevos eventos. Nuestro enfoque combina un estilo comunicativo profesional con un toque accesible, lo que nos permite conectar de manera efectiva con una audiencia diversa, desde fanáticos de la música independiente hasta aquellos que buscan eventos más establecidos.
 
-
+### 4.1.2. Web Style Guidelines.
