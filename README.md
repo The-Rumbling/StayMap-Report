@@ -1062,7 +1062,6 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 ## 3.3. Impact Mapping
 
 
-
 **Fans de la Música:**
 
 <img src="assets/impact_mapping/Impact-Mapping-Fan.png" alt="impact mapping fan" style="width: 700px">
