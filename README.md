@@ -1263,3 +1263,8 @@ La propuesta de UI para la Landing Page de StayMap refleja un diseño centrado e
 Además, las decisiones tomadas en torno a los sistemas de organización, etiquetado, búsqueda y navegación optimizan la experiencia general, permitiendo que cada visitante explore fácilmente la plataforma desde su primera interacción. La landing transmite un equilibrio entre estilo moderno, accesibilidad y pasión por la música, captando la atención de nuevos usuarios y promoviendo una navegación clara, rápida y efectiva.
 
 ### 4.3.1. Landing Page Wireframe.
+
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-wireframe-inicio.png" alt="StayMap Landing Page Wireframe Inicio" style="width: 80%"></div>
+
+
