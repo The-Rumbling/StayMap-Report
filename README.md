@@ -1216,3 +1216,14 @@ En StayMap, utilizaremos etiquetas claras, modernas y directamente relacionadas 
 
 - **Perfil / Configuración:** Acceso a las preferencias del usuario, como sus géneros favoritos, ajustes de notificación, datos de cuenta y más.
 
+### 4.2.3. SEO Tags and Meta Tags
+
+Se ha implementado una estrategia de SEO para asegurar una mejor visibilidad en los motores de búsqueda. A continuación, se presentan las etiquetas utilizadas en las principales páginas de la experiencia StayMap:
+
+- **Title:** StayMap - Conciertos y Eventos para Fans y Artistas
+
+- **Meta Description:** Descubre los mejores conciertos cerca de ti, conecta con tus artistas favoritos y sé parte de la comunidad StayMap. Para artistas, gestiona tus eventos y conecta con tus fans de manera directa.
+
+- **Meta Keywords:** conciertos Perú, eventos musicales Lima, artistas Perú, gestión de conciertos, comunidad de fans, StayMap
+
+- **Meta Author:** The Rumbling
