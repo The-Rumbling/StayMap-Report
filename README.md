@@ -1192,7 +1192,7 @@ En StayMap, implementaremos sistemas de organización del contenido que responda
 
 - Matricial: La funcionalidad de filtrado de conciertos representa una forma de organización matricial implícita. Los usuarios pueden combinar diferentes criterios (género, fecha, lugar, etc.) para refinar su búsqueda, creando una matriz de resultados basada en la intersección de sus selecciones.
 
-- ** Esquemas de categorización de contenido:**
+- **Esquemas de categorización de contenido:**
 
 - Por tópicos: La navegación principal de la app web ("Inicio", "Mapa", "Comunidad", "Notificaciones", "Mi Perfil") establece una clara categorización por temas o secciones funcionales. Dentro de la sección de conciertos, los filtros por género, fecha, lugar y otros criterios actúan como subcategorías temáticas que permiten a los usuarios enfocar su búsqueda.
 
