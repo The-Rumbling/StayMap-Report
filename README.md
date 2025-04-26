@@ -1247,8 +1247,136 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 ## 3.4. Product Backlog.
 
-| # Orden | User Story Id                              | Título                                                                 | Descripción                                                                                                                                                                                                                                                                                                                                                | Story Points (1 / 2 / 3 / 5 / 8) |
-|----------|-------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+<div class="product-backlog">
+  <h3>3.4. Product Backlog</h3>
+  
+  <table class="backlog-table">
+    <thead>
+      <tr>
+        <th># Orden</th>
+        <th>User Story Id</th>
+        <th>Título</th>
+        <th>Description</th>
+        <th>Story Points<br>(1/2/3/5/8)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!--  User Stories -->
+      <tr>
+        <td>1</td>
+        <td>US01</td>
+        <td>Ver beneficios para fans</td>
+        <td>Como visitante del segmento fan, quiero conocer los beneficios de la app para mí, para decidir registrarme</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>US02</td>
+        <td>Ver beneficios para artista</td>
+        <td>Como visitante del segmento artista, quiero ver cómo la app me ayuda a promocionar mis eventos</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>US03</td>
+        <td>Acceder a testimonios</td>
+        <td>Como visitante, quiero leer testimonios de usuarios reales para aumentar mi confianza en la app.</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>US04</td>
+        <td>Registrarse en la landing page</td>
+        <td>Como visitante, quiero ver fácilmente dónde registrarme en la landing page de StayMap</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>US05</td>
+        <td>Iniciar sesión en la landing page</td>
+        <td>Como visitante que ya tiene cuenta, quiero poder iniciar sesión fácilmente desde la landing</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>US06</td>
+        <td>Explorar eventos cercanos</td>
+        <td>Como fan, quiero ver conciertos cerca de mi ubicación para decidir a cuál asistir</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>US07</td>
+        <td>Filtrar eventos por género musical</td>
+        <td>Como fan, quiero filtrar eventos por género para ver solo los que me interesan</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>US08</td>
+        <td>Recibir notificaciones de artistas favoritos</td>
+        <td>Como fan, quiero recibir notificaciones cuando mi artista favorito esté en concierto</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>US09</td>
+        <td>Compartir asistencia a un concierto</td>
+        <td>Como fan, quiero compartir que asistiré a un evento para animar a mis amistades a participar</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>US10</td>
+        <td>Calificar un evento asistido</td>
+        <td>Como fan, quiero poder dejar una calificación de un concierto para ayudar a otros usuarios</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>US11</td>
+        <td>Publicar nuevo concierto</td>
+        <td>Como artista, quiero crear un evento para promocionar mi presentación</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>US12</td>
+        <td>Medir asistencia estimada</td>
+        <td>Como artista, quiero ver cuántas personas marcaron asistencia para medir el interés</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td>US13</td>
+        <td>Personalizar perfil de artista</td>
+        <td>Como artista, quiero personalizar mi perfil con enlaces y biografía para conectar mejor con el público</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td>US14</td>
+        <td>Crear comunidad con seguidores</td>
+        <td>Como artista, quiero interactuar con mis seguidores para generar fidelización</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td>US15</td>
+        <td>Ingresar a comunidad de fans</td>
+        <td>Como fan, quiero ingresar a una comunidad dentro de la app para compartir experiencias con otros asistentes y seguidores</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td>US16</td>
+        <td>Ver mapa con geolocalización</td>
+        <td>Como fan, quiero ver un mapa con mi ubicación y los conciertos cercanos marcados para explorar visualmente las opciones disponibles</td>
+        <td>8</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 # Capítulo IV: Product Design
 
