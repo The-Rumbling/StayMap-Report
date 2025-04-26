@@ -926,7 +926,7 @@ Su perfil refleja la necesidad de una herramienta que centralice información di
     <tr>
 	    <td colspan="2" style="background-color: #f0f0f0;">
 		    <em>
-			    <div align="center"><img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px">
+			    <div align="center"><img src="assets/interviews/Analisis-Entrevista-Artista3.png" alt="user_persona" style="width: 700px">
 			    </em>
 			    </td></tr>
     <tr>
