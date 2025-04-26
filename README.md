@@ -1578,9 +1578,3 @@ Perfil de artista:
 </div>
 
 
-Filtrar: 
-
-<div align="center">
-  <img src="assets/web_application/web_applications_uxui_desing_wireflow_diagram_1.png" alt="Web Application Wireflow 1" style="width: 80%">
-</div>
-
