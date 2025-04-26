@@ -1537,3 +1537,50 @@ Perfil de artista:
 <div align="center">
   <img src="assets/web_application/web_applications_uxui_desing_wireframe_perfil_artista.png" alt="Web Application Wireframe Artista" style="width: 80%">
 </div>
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+**User flow #1:** Crear cuenta
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireflow_diagram_1.png" alt="Web Application Wireflow 1" style="width: 80%">
+</div>
+
+**User flow #2:** Filtrar por género
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireflow_diagram_2.png" alt="Web Application Wireflow 2" style="width: 80%">
+</div>
+
+**User flow #3:** Ver infromación del concierto, confirmar asistencia y buscar entrada.
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireflow_diagram_3.png" alt="Web Application Wireflow 3" style="width: 80%">
+</div>
+
+
+**User flow #4:** Acceder a un concierto mediante una notificación.
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireflow_diagram_4.png" alt="Web Application Wireflow 4" style="width: 80%">
+</div>
+
+**User flow #5:** Acceder a perfil de fan, ver la información de conciertos asistidos y por asistir.
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireflow_diagram_5.png" alt="Web Application Wireflow 5" style="width: 80%">
+</div>
+
+**User flow #6:** Acceder a perfil de artista.
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireflow_diagram_6.png" alt="Web Application Wireflow 6" style="width: 80%">
+</div>
+
+
+Filtrar: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireflow_diagram_1.png" alt="Web Application Wireflow 1" style="width: 80%">
+</div>
+
