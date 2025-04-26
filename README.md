@@ -738,7 +738,7 @@ Opinión y expectativas sobre StayMap:
     <td colspan="2">Entrevista #2</td>
   </tr>
   <tr>
-    <td colspan="2">foto</td>
+    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Fan2.jpeg" alt="user_persona" style="width: 700px"><</td>
   </tr>
   <tr>
     <td>Nombre: Massiel Cusi </td>
@@ -760,7 +760,7 @@ Opinión y expectativas sobre StayMap:
     <td colspan="2">Entrevista #3</td>
   </tr>
   <tr>
-    <td colspan="2">foto</td>
+    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Fan3.png" alt="user_persona" style="width: 700px"></td>
   </tr>
   <tr>
     <td>Nombre: Jazmin Roque </td>
@@ -782,7 +782,7 @@ Opinión y expectativas sobre StayMap:
     <td colspan="2">Entrevista #4</td>
   </tr>
   <tr>
-    <td colspan="2">foto</td>
+    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Artista1.png" alt="user_persona" style="width: 700px"></td>
   </tr>
   <tr>
     <td>Nombre: Gabriel Sumaeta </td>
@@ -804,7 +804,7 @@ Opinión y expectativas sobre StayMap:
     <td colspan="2">Entrevista #5</td>
   </tr>
   <tr>
-    <td colspan="2">foto</td>
+    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Artista2.png" alt="user_persona" style="width: 700px"></td>
   </tr>
   <tr>
     <td>Nombre: Diego Ruiz </td>
