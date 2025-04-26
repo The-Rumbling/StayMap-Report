@@ -1389,6 +1389,38 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       </td>
       <td>EP03</td>
     </tr>
+    <tr>
+      <td>US14</td>
+      <td>Crear comunidad con seguidores</td>
+      <td>Como artista, quiero interactuar con mis seguidores para generar fidelización</td>
+      <td>
+        <strong>Escenario: Acceso a lista de seguidores</strong><br>
+        <strong>Dado que</strong> el artista accede a su perfil<br>
+        <strong>Cuando</strong> visualiza la lista de seguidores<br>
+        <strong>Entonces</strong> puede ver quiénes lo siguen.<br><br>
+        <strong>Escenario: Envío de mensajes o actualizaciones</strong><br>
+        <strong>Dado que</strong> el artista desea interactuar<br>
+        <strong>Cuando</strong> selecciona un seguidor<br>
+        <strong>Entonces</strong> puede enviar mensajes o novedades.
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>US15</td>
+      <td>Ingresar a comunidad de fans</td>
+      <td>Como fan, quiero ingresar a una comunidad dentro de la app para compartir experiencias con otros asistentes y seguidores</td>
+      <td>
+        <strong>Escenario: Acceso a la comunidad</strong><br>
+        <strong>Dado que</strong> el usuario es un fan autenticado<br>
+        <strong>Cuando</strong> accede a la sección "Comunidad"<br>
+        <strong>Entonces</strong> puede unirse y participar en grupos temáticos o de eventos.<br><br>
+        <strong>Escenario: Interacción dentro de la comunidad</strong><br>
+        <strong>Dado que</strong> el fan ya forma parte de la comunidad<br>
+        <strong>Cuando</strong> publica un mensaje o comenta<br>
+        <strong>Entonces</strong> su contenido es visible para otros miembros.
+      </td>
+      <td>EP04</td>
+    </tr>
   </tbody>
 </table>
 
