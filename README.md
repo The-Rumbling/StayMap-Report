@@ -1104,12 +1104,14 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 **Fans de la Música:**
 
+<p align="center">
 <img src="assets/impact_mapping/Impact-Mapping-Fan.png" alt="impact mapping fan" style="width: 700px">
-
+</p>
 **Artistas emergentes y bandas independientes:**
 
+<p align="center">
 <img src="assets/impact_mapping/Impact-Mapping-Artista.png" alt="impact mapping Artista" style="width: 700px">
-
+</p>
 
 ## 3.4. Product Backlog.
 
