@@ -1048,12 +1048,12 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 ## 2.3.4. Empathy Mapping
 
 
-**Valeria Torres**
+**Diego Rivas**
 
 <img src="assets/empathy_map/empathy_map_artistas.png" alt="user_persona" style="width: 700px"><</td>
 
 
-**Diego Rivas**
+**Valeria Torres**
 
 <img src="assets/empathy_map/empathy_map_fan.png" alt="user_persona" style="width: 700px"><</td>
 
