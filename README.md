@@ -707,7 +707,7 @@ Opinión y expectativas sobre StayMap:
 - ¿Recomendarías una app como StayMap a otros artistas emergentes?
 
 ## 2.2.2. Registro de entrevistas.
-## 2.2.2. Análisis de entrevistas.
+## 2.2.3. Análisis de entrevistas.
 
 <table>
   <thead>
