@@ -717,7 +717,8 @@ Opinión y expectativas sobre StayMap:
     </thead>
     <tbody>
 	      <!-- Fila extra de una sola columna -->
-    <tr><td colspan="2" style="background-color: #f0f0f0;"><em><img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px"></em></td></tr>
+    <tr><td colspan="2" style="background-color: #f0f0f0;"><em><div align="center">
+<img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px"></div></em></td></tr>
     <tr><td>Entrevistador: Ariana Lizarbe Entrevistado: Jade Huaman</td><td>Jade Huaman, una joven de 20 años dedicada a la pastelería y apasionada por los géneros rock y pop, asiste a conciertos con frecuencia (2-3 veces al año). Sin embargo, enfrenta dificultades para enterarse a tiempo sobre eventos cercanos, especialmente en bares, lo que le hace perder oportunidades. Actualmente, utiliza Instagram y TikTok para seguir a sus artistas, pero critica la saturación de contenido irrelevante en estas plataformas. Jade mostraría interés en una aplicación que le permita descubrir conciertos en vivo de manera eficiente, con filtros por género y proximidad a su ubicación, así como notificaciones relevantes. Además, valdría funcionalidades como guardar eventos favoritos y compartir sus experiencias de conciertos asistidos. Su feedback refuerza la necesidad de una solución centrada en la puntualidad, personalización y usabilidad para fans como ella.</td></tr>
 	    	      <!-- Fila extra de una sola columna -->
     <tr><td colspan="2" style="background-color: #f0f0f0;"><em><img src="assets/interviews/Analisis-Entrevista-Fan2.jpeg" alt="user_persona" style="width: 700px"></em></td></tr>
