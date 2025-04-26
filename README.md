@@ -1421,6 +1421,22 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       </td>
       <td>EP04</td>
     </tr>
+    <tr>
+      <td>US16</td>
+      <td>Ver mapa con geolocalización</td>
+      <td>Como fan, quiero ver un mapa con mi ubicación y los conciertos cercanos marcados para explorar visualmente las opciones disponibles</td>
+      <td>
+        <strong>Escenario: Visualización del mapa con eventos</strong><br>
+        <strong>Dado que</strong> el usuario está logueado y ha permitido el acceso a su ubicación<br>
+        <strong>Cuando</strong> entra a la sección de mapa<br>
+        <strong>Entonces</strong> visualiza su ubicación y los conciertos cercanos.<br><br>
+        <strong>Escenario: Información de eventos en el mapa</strong><br>
+        <strong>Dado que</strong> el usuario interactúa con un marcador de evento<br>
+        <strong>Cuando</strong> hace clic en un ícono del mapa<br>
+        <strong>Entonces</strong> puede ver detalles del evento como nombre, hora y lugar.
+      </td>
+      <td>EP01</td>
+    </tr>
   </tbody>
 </table>
 
