@@ -1314,4 +1314,14 @@ Además, las decisiones tomadas en torno a los sistemas de organización, etique
 
 ### 4.3.2. Landing Page Mock-up.
 
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-inicio.png" alt="StayMap Landing Page Mockup Inicio" style="width: 80%"></div>
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-fans.png" alt="StayMap Landing Page Mockup Fans" style="width: 80%"></div>
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-artistas.png" alt="StayMap Landing Page Mockup Artistas" style="width: 80%"></div>
+
+- En la sección de “Para fans” podrás encontrar los beneficios de los usuarios que se registren como fans en StayMap.
+- En la sección de “Para artistas” podrás encontrar los beneficios de los usuarios que se registren como artistas en StayMap.
+- Como pie de página se muestra un formulario para suscribirse al newsletter y las diferentes secciones de nuestra landing page.
 
