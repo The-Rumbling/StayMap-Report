@@ -1481,3 +1481,59 @@ Crear cuenta:
 </div>
 
 
+Verificar cuenta cuenta: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_verificacion.png" alt="Web Application Wireframe Verificacion" style="width: 80%">
+</div>
+
+Cuenta creada:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_cuentacreada.png" alt="Web Application Wireframe Cuenta creada" style="width: 80%">
+</div>
+
+Página principal: Conciertos: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_conciertos.png" alt="Web Application Wireframe Conciertos" style="width: 80%">
+</div>
+
+
+Filtrar: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_filtrar.png" alt="Web Application Wireframe Filtrar" style="width: 80%">
+</div>
+
+Mapa:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_mapa.png" alt="Web Application Wireframe mapa" style="width: 80%">
+</div>
+
+
+Comunidad:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_comunidad.png" alt="Web Application Wireframe comunidad" style="width: 80%">
+</div>
+
+Concierto: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_concierto.png" alt="Web Application Wireframe Concierto" style="width: 80%">
+</div>
+
+Perfil de fan:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_perfil_fan.png" alt="Web Application Wireframe Perfil fan" style="width: 80%">
+</div>
+
+
+Perfil de artista:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_perfil_artista.png" alt="Web Application Wireframe Artista" style="width: 80%">
+</div>
