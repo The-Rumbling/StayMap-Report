@@ -709,7 +709,7 @@ Opinión y expectativas sobre StayMap:
 
 <table>
   <tr>
-    <th colspan="2">Segmento objetivo:</th>
+    <th colspan="2">Segmento objetivo #1:</th>
   </tr>
   <tr>
     <td colspan="2">Entrevista #1</td>
@@ -729,30 +729,10 @@ Opinión y expectativas sobre StayMap:
 
 <table>
   <tr>
-    <th colspan="2">Segmento objetivo:</th>
+    <th colspan="2">Segmento objetivo #1:</th>
   </tr>
   <tr>
-    <td colspan="2">Entrevista #1</td>
-  </tr>
-  <tr>
-    <td colspan="2">foto</td>
-  </tr>
-  <tr>
-    <td>Nombre:</td>
-    <td>Edad:</td>
-  </tr>
-  <tr>
-    <td>Duración:</td>
-    <td>Inicio:</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th colspan="2">Segmento objetivo:</th>
-  </tr>
-  <tr>
-    <td colspan="2">Entrevista #1</td>
+    <td colspan="2">Entrevista #2</td>
   </tr>
   <tr>
     <td colspan="2">foto</td>
@@ -769,30 +749,10 @@ Opinión y expectativas sobre StayMap:
 
 <table>
   <tr>
-    <th colspan="2">Segmento objetivo:</th>
+    <th colspan="2">Segmento objetivo #1:</th>
   </tr>
   <tr>
-    <td colspan="2">Entrevista #1</td>
-  </tr>
-  <tr>
-    <td colspan="2">foto</td>
-  </tr>
-  <tr>
-    <td>Nombre:</td>
-    <td>Edad:</td>
-  </tr>
-  <tr>
-    <td>Duración:</td>
-    <td>Inicio:</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th colspan="2">Segmento objetivo:</th>
-  </tr>
-  <tr>
-    <td colspan="2">Entrevista #1</td>
+    <td colspan="2">Entrevista #3</td>
   </tr>
   <tr>
     <td colspan="2">foto</td>
@@ -809,10 +769,50 @@ Opinión y expectativas sobre StayMap:
 
 <table>
   <tr>
-    <th colspan="2">Segmento objetivo:</th>
+    <th colspan="2">Segmento objetivo #2:</th>
   </tr>
   <tr>
-    <td colspan="2">Entrevista #1</td>
+    <td colspan="2">Entrevista #4</td>
+  </tr>
+  <tr>
+    <td colspan="2">foto</td>
+  </tr>
+  <tr>
+    <td>Nombre:</td>
+    <td>Edad:</td>
+  </tr>
+  <tr>
+    <td>Duración:</td>
+    <td>Inicio:</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2">Segmento objetivo #2:</th>
+  </tr>
+  <tr>
+    <td colspan="2">Entrevista #5</td>
+  </tr>
+  <tr>
+    <td colspan="2">foto</td>
+  </tr>
+  <tr>
+    <td>Nombre:</td>
+    <td>Edad:</td>
+  </tr>
+  <tr>
+    <td>Duración:</td>
+    <td>Inicio:</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2">Segmento objetivo #2:</th>
+  </tr>
+  <tr>
+    <td colspan="2">Entrevista #6</td>
   </tr>
   <tr>
     <td colspan="2">foto</td>
