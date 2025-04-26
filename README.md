@@ -1465,18 +1465,19 @@ Además, las decisiones tomadas en torno a los sistemas de organización, etique
 Pantalla de inicio:
 
 <div align="center">
-<img src="assets/web_application/web_applications_uxui_desing_wireframe_inicio.png" alt="Web Application Wireframe Inicio" style="width: 80%"></div>
-<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_inicio.png" alt="Web Application Wireframe Inicio" style="width: 80%">
+</div>
 
 Sesión iniciada correctamente:
 
 <div align="center">
-<img src="assets/web_application/web_applications_uxui_desing_wireframe_sesioniniciada.png" alt="Web Application Wireframe Sesión iniciada" style="width: 80%"></div>
-<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_sesioniniciada.png" alt="Web Application Wireframe Sesión iniciada" style="width: 80%">
+</div>
 
 Crear cuenta: 
 
 <div align="center">
-<img src="assets/web_application/web_applications_uxui_desing_wireframe_registro.png" alt="Web Application Wireframe Registro" style="width: 80%"></div>
-<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_registro.png" alt="Web Application Wireframe Registro" style="width: 80%">
+</div>
+
 
