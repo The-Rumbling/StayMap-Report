@@ -762,8 +762,8 @@ Opinión y expectativas sobre StayMap:
     <td>Edad: 21 años </td>
   </tr>
   <tr>
-    <td>Duración:</td>
-    <td>Inicio:</td>
+    <td>Duración: 06:04:20 </td>
+    <td>Inicio: 00:08:44 </td>
   </tr>
 </table>
 
@@ -782,8 +782,8 @@ Opinión y expectativas sobre StayMap:
     <td>Edad: 19 años </td>
   </tr>
   <tr>
-    <td>Duración:</td>
-    <td>Inicio:</td>
+    <td>Duración: 10:44:70 </td>
+    <td>Inicio: 00:14:54 </td>
   </tr>
 </table>
 
@@ -802,8 +802,8 @@ Opinión y expectativas sobre StayMap:
     <td>Edad: 19 años </td>
   </tr>
   <tr>
-    <td>Duración: </td>
-    <td>Inicio:</td>
+    <td>Duración: 09:58:40 </td>
+    <td>Inicio: 00:25:38 </td>
   </tr>
 </table>
 
