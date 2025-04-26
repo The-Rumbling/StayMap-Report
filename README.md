@@ -1781,3 +1781,29 @@ Notificaciones:
 <div align="center">
   <img src="assets/web_application/web_applications_uxui_desing_mockup_notificaciones.png" alt="Web Application Mockup Notificaciones" style="width: 80%">
 </div>
+
+### 4.4.3. Web Applications User Flow Diagrams
+
+**UserFlow #1:** En este user flow se encuentra el proceso de usuario al ingresar a la plataforma, mostrando los distintos happy e unhappy paths.
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_userflow_1.png" alt="Web Application Userflow 1" style="width: 80%">
+</div>
+
+**UserFlow #2:** En este user flow, el usuario busca y filtra a través de la aplicación, con sus respectivos happy e unhappu paths.
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_userflow_2.png" alt="Web Application Userflow 2" style="width: 80%">
+</div>
+
+**UserFlow #3:** En este user flow se muestra al usuario confirmando su asistencia a un evento, y su unhappy path al no encontrar boletos disponibles.
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_userflow_3.png" alt="Web Application Userflow 3" style="width: 80%">
+</div>
+
+**UserFlow #4:** En este user flow se encuentra el usuario buscando concierto cercanos, con su happy e unhappy path.
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_userflow_4.png" alt="Web Application Userflow 4" style="width: 80%">
+</div>
