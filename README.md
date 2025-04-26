@@ -1312,4 +1312,6 @@ Además, las decisiones tomadas en torno a los sistemas de organización, etique
 <div align="center">
 <img src="assets/landing_page_ui_desing/landing-page-wireframe-artistas.png" alt="StayMap Landing Page Wireframe Artistas" style="width: 80%"></div>
 
+### 4.3.2. Landing Page Mock-up.
+
 
