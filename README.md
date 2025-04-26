@@ -1282,27 +1282,50 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>Filtrar eventos por género musical</td>
       <td>Como fan, quiero filtrar eventos por género para ver solo los que me interesan</td>
       <td>
-        **Escenario: Uso del filtro de género**
-        **Dado que** el usuario abre los filtros
-        **Cuando** selecciona un género
-        **Entonces** solo se muestran eventos relacionados.<br><br>
-        **Escenario:** Interacción fluida con el filtrado</strong><br>
-        **Dado que** hay múltiples géneros disponibles<br>
-        **Cuando** se elige uno
-        **Entonces** la vista se actualiza dinámicamente.
+        <strong>Escenario: Uso del filtro de género</strong><br>
+        <strong>Dado que</strong> el usuario abre los filtros<br>
+        <strong>Cuando</strong> selecciona un género<br>
+        <strong>Entonces</strong> solo se muestran eventos relacionados.<br><br>
+        <strong>Escenario: Interacción fluida con el filtrado</strong><br>
+        <strong>Dado que</strong> hay múltiples géneros disponibles<br>
+        <strong>Cuando</strong> se elige uno<br>
+        <strong>Entonces</strong> la vista se actualiza dinámicamente.
       </td>
       <td>EP01</td>
     </tr>
-        <tr>
+    <tr>
       <td>US08</td>
       <td>Recibir notificaciones de artistas favoritos</td>
       <td>Como fan, quiero recibir notificaciones cuando mi artista favorito esté en concierto</td>
       <td>
-        **Escenario: Seguimiento de artista favorito**  <br> **Dado que** el usuario sigue a un artista  <br> **Cuando** ese artista crea un evento  <br> **Entonces** recibe una notificación inmediata.  <br> **Escenario: Notificación oportuna y relevante**  <br> **Dado que** la notificación es enviada  <br> **Cuando** el evento es reciente y cercano  <br> **Entonces** el usuario tiene tiempo suficiente para asistir.
+        <strong>Escenario: Seguimiento de artista favorito</strong><br>
+        <strong>Dado que</strong> el usuario sigue a un artista<br>
+        <strong>Cuando</strong> el usuario sigue a un artista<br>
+        <strong>Entonces</strong> recibe una notificación inmediata.<br><br>
+        <strong>Escenario: Notificación oportuna y relevante</strong><br>
+        <strong>Dado que</strong> la notificación es enviada<br>
+        <strong>Cuando</strong> el evento es reciente y cercano<br>
+        <strong>Entonces</strong> el usuario tiene tiempo suficiente para asistir.
       </td>
       <td>EP02</td>
     </tr>
-	  
+    <tr>
+      <td>US09</td>
+      <td>Compartir asistencia a un concierto</td>
+      <td>Como fan, quiero compartir que asistiré a un evento para animar a mis amistades a participar</td>
+      <td>
+        <strong>Escenario: Confirmación de asistencia</strong><br>
+        <strong>Dado que</strong> el usuario accede a un evento<br>
+        <strong>Cuando</strong> presiona "Asistiré"<br>
+        <strong>Entonces</strong> se registra su asistencia.<br><br>
+        <strong>Escenario: Compartir en redes o con amigos</strong><br>
+        <strong>Dado que</strong> se confirmó asistencia<br>
+        <strong>Cuando</strong> el usuario desea compartirlo<br>
+        <strong>Entonces</strong> puede hacerlo por redes o dentro de la app.
+      </td>
+      <td>EP04</td>
+    </tr>
+  
   </tbody>
 </table>
 
