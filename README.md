@@ -828,15 +828,15 @@ Opinión y expectativas sobre StayMap:
     <td colspan="2">Entrevista #6</td>
   </tr>
   <tr>
-    <td colspan="2">foto</td>
+    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Artista3.png" alt="user_persona" style="width: 700px"></td>
   </tr>
   <tr>
-    <td>Nombre:</td>
-    <td>Edad:</td>
+    <td>Nombre: Juan Carrillo</td>
+    <td>Edad: 21 años</td>
   </tr>
   <tr>
-    <td>Duración:</td>
-    <td>Inicio:</td>
+    <td>Duración: 07:57:21</td>
+    <td>Inicio: 00:35:38</td>
   </tr>
 </table>
 </div>
