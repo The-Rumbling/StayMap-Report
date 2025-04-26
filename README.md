@@ -1293,6 +1293,16 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       </td>
       <td>EP01</td>
     </tr>
+        <tr>
+      <td>US08</td>
+      <td>Recibir notificaciones de artistas favoritos</td>
+      <td>Como fan, quiero recibir notificaciones cuando mi artista favorito esté en concierto</td>
+      <td>
+        **Escenario: Seguimiento de artista favorito**  <br> **Dado que** el usuario sigue a un artista  <br> **Cuando** ese artista crea un evento  <br> **Entonces** recibe una notificación inmediata.  <br> **Escenario: Notificación oportuna y relevante**  <br> **Dado que** la notificación es enviada  <br> **Cuando** el evento es reciente y cercano  <br> **Entonces** el usuario tiene tiempo suficiente para asistir.
+      </td>
+      <td>EP02</td>
+    </tr>
+	  
   </tbody>
 </table>
 
