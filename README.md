@@ -1705,4 +1705,5 @@ Perfil de artista:
   <img src="assets/web_application/web_applications_uxui_desing_wireflow_diagram_6.png" alt="Web Application Wireflow 6" style="width: 80%">
 </div>
 
+### 4.4.2. Web Applications Mock-ups
 
