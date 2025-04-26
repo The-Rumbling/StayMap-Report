@@ -1252,7 +1252,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 # Capítulo IV: Product Design
 
-## 4.1. Style Guidelines.
+## 4.1. Style Guidelines
 
 En esta sección se define la línea visual que guiará el diseño de la aplicación y la versión web de StayMap. El objetivo es ofrecer una interfaz clara, accesible y coherente, que facilite la exploración de eventos musicales en distintos contextos urbanos. Para ello, se han seleccionado elementos gráficos funcionales y modernos, con una paleta de colores contrastante que permite una navegación intuitiva y una rápida identificación de la información relevante.
 La Guía de Estilo establece principios fundamentales como el uso de tipografías legibles, un sistema de iconografía simple y una estructura visual organizada. Este documento sirve como referencia para mantener una identidad visual unificada a medida que la plataforma evoluciona, asegurando consistencia en todos los puntos de contacto con el usuario, tanto en dispositivos móviles como en la web.
@@ -1307,7 +1307,7 @@ En StayMap, el lenguaje que utilizamos refleja nuestra misión de hacer que la b
 
 Queremos que nuestros usuarios, ya sean jóvenes exploradores de música o asistentes habituales a conciertos, sientan que StayMap es su compañero confiable en el descubrimiento de nuevos eventos. Nuestro enfoque combina un estilo comunicativo profesional con un toque accesible, lo que nos permite conectar de manera efectiva con una audiencia diversa, desde fanáticos de la música independiente hasta aquellos que buscan eventos más establecidos.
 
-### 4.1.2. Web Style Guidelines.
+### 4.1.2. Web Style Guidelines
 
 En la interfaz web de StayMap, hemos diseñado una experiencia visual que refleja la identidad de nuestra plataforma: accesible, moderna y enfocada en la búsqueda de eventos musicales. La paleta de colores y la tipografía elegida están alineadas con nuestra misión de guiar a los usuarios hacia sus próximos eventos musicales de una manera intuitiva y atractiva.
 
@@ -1334,7 +1334,7 @@ La paleta de colores de StayMap se centra en tonos oscuros de morado y negro, ac
 <div align="center">
 <img src="assets/style/colors.jpg" alt="StayMap Colors" style="width: 400px"></div>
 
-## 4.2. Information Architecture.
+## 4.2. Information Architecture
 
 La arquitectura de la información de StayMap se centra en ofrecer una experiencia clara, fluida y organizada para nuestros usuarios, quienes son principalmente personas apasionadas por la música, artistas independientes y cantantes que buscan eventos o espacios relacionados con su arte. Tanto en la versión web como en la aplicación móvil, el contenido estará estructurado para que los usuarios accedan fácilmente a lugares, eventos y recomendaciones relevantes según su ubicación y preferencias.
 
@@ -1342,7 +1342,7 @@ El diseño está pensado para que cualquier usuario pueda navegar de forma intui
 
 Las decisiones en torno a los Organization Systems, Labeling Systems, Navigation Systems y Searching Systems serán fundamentales para asegurar una experiencia ordenada y satisfactoria. Estas decisiones permitirán a los usuarios encontrar de forma rápida y sencilla la información oportuna, potenciando así su conexión con el entorno musical de la ciudad.
 
-### 4.2.1. Organization Systems.
+### 4.2.1. Organization Systems
 
 En StayMap, implementaremos sistemas de organización del contenido que respondan a las distintas necesidades de nuestros usuarios, desde fans de la música hasta artistas emergentes. Este enfoque nos permitirá ofrecer una experiencia de navegación clara y personalizada, donde los eventos se clasifiquen por ubicación, fecha, género musical y popularidad. Además, los perfiles de usuario, notificaciones y recomendaciones estarán organizados de forma coherente y accesible, lo que facilitará que los usuarios descubran eventos relevantes, interactúen con otros asistentes y gestionen su participación en tiempo real. Esta estructura organizada contribuirá a una experiencia fluida e intuitiva dentro de la plataforma.
 
@@ -1372,7 +1372,7 @@ En StayMap, implementaremos sistemas de organización del contenido que responda
 
 - Según audiencia: Al igual que en la landing page, la distinción entre secciones para "Fans" y "Artistas" representa una categorización por audiencia. Dentro de la sección de fans, la posibilidad de filtrar por género musical podría considerarse una subcategorización basada en los intereses específicos de diferentes grupos de usuarios.
 
-### 4.2.2. Labeling Systems.
+### 4.2.2. Labeling Systems
 
 En StayMap, utilizaremos etiquetas claras, modernas y directamente relacionadas con la experiencia musical de nuestros usuarios. El objetivo es facilitar una navegación rápida e intuitiva, tanto para fans como para artistas, promoviendo el descubrimiento de eventos musicales según sus intereses. Estas son algunas de las principales etiquetas que se mostrarán en la interfaz:
 
@@ -1402,7 +1402,7 @@ Se ha implementado una estrategia de SEO para asegurar una mejor visibilidad en 
 
 - **Meta Author:** The Rumbling
 
-### 4.2.4. Searching Systems.
+### 4.2.4. Searching Systems
 
 El sistema de búsqueda de StayMap está diseñado para que los usuarios encuentren conciertos y eventos musicales de manera rápida, intuitiva y precisa. Al tratarse de una plataforma con gran variedad de propuestas artísticas, el buscador y los filtros son herramientas clave para facilitar la experiencia tanto de fans como de nuevos usuarios. Los siguientes elementos componen nuestro sistema de búsqueda:
 
@@ -1414,7 +1414,7 @@ El sistema de búsqueda de StayMap está diseñado para que los usuarios encuent
 
 Este sistema ayuda a los usuarios a descubrir experiencias musicales alineadas con sus intereses, reduciendo la complejidad en la navegación y mejorando su conexión con los eventos que realmente les importan.
 
-### 4.2.5. Navigation Systems.
+### 4.2.5. Navigation Systems
 
 El enfoque de la navegación en StayMap se centra en ofrecer una experiencia fluida y clara, que guíe tanto a los fans como a los artistas a través de las principales funcionalidades de la plataforma. Las opciones están organizadas de forma que los usuarios puedan acceder rápidamente al contenido que más les interesa, optimizando su tiempo de búsqueda y exploración de eventos musicales.
 
@@ -1430,13 +1430,13 @@ Estas son las principales secciones de navegación:
 
 Esta estructura de navegación garantiza que tanto los fans como los artistas encuentren valor en cada interacción con la plataforma, promoviendo una experiencia musical accesible, personalizada y eficiente.
 
-## 4.3. Landing Page UI Design.
+## 4.3. Landing Page UI Design
 
 La propuesta de UI para la Landing Page de StayMap refleja un diseño centrado en el usuario, enfocado en facilitar el acceso inmediato a la oferta musical y los beneficios de la plataforma tanto para fans como para artistas. La arquitectura de la información garantiza que los usuarios puedan encontrar rápidamente eventos, artistas destacados y funcionalidades clave como el filtrado por género musical o la barra de búsqueda de conciertos.
 
 Además, las decisiones tomadas en torno a los sistemas de organización, etiquetado, búsqueda y navegación optimizan la experiencia general, permitiendo que cada visitante explore fácilmente la plataforma desde su primera interacción. La landing transmite un equilibrio entre estilo moderno, accesibilidad y pasión por la música, captando la atención de nuevos usuarios y promoviendo una navegación clara, rápida y efectiva.
 
-### 4.3.1. Landing Page Wireframe.
+### 4.3.1. Landing Page Wireframe
 
 <div align="center">
 <img src="assets/landing_page_ui_desing/landing-page-wireframe-inicio.png" alt="StayMap Landing Page Wireframe Inicio" style="width: 80%"></div>
@@ -1445,7 +1445,7 @@ Además, las decisiones tomadas en torno a los sistemas de organización, etique
 <div align="center">
 <img src="assets/landing_page_ui_desing/landing-page-wireframe-artistas.png" alt="StayMap Landing Page Wireframe Artistas" style="width: 80%"></div>
 
-### 4.3.2. Landing Page Mock-up.
+### 4.3.2. Landing Page Mock-up
 
 <div align="center">
 <img src="assets/landing_page_ui_desing/landing-page-mockup-inicio.png" alt="StayMap Landing Page Mockup Inicio" style="width: 80%"></div>
@@ -1457,4 +1457,26 @@ Además, las decisiones tomadas en torno a los sistemas de organización, etique
 - En la sección de “Para fans” podrás encontrar los beneficios de los usuarios que se registren como fans en StayMap.
 - En la sección de “Para artistas” podrás encontrar los beneficios de los usuarios que se registren como artistas en StayMap.
 - Como pie de página se muestra un formulario para suscribirse al newsletter y las diferentes secciones de nuestra landing page.
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes
+
+Pantalla de inicio:
+
+<div align="center">
+<img src="assets/web_application/web_applications_uxui_desing_wireframe_inicio.png" alt="Web Application Wireframe Inicio" style="width: 80%"></div>
+<div align="center">
+
+Sesión iniciada correctamente:
+
+<div align="center">
+<img src="assets/web_application/web_applications_uxui_desing_wireframe_sesioniniciada.png" alt="Web Application Wireframe Sesión iniciada" style="width: 80%"></div>
+<div align="center">
+
+Crear cuenta: 
+
+<div align="center">
+<img src="assets/web_application/web_applications_uxui_desing_wireframe_registro.png" alt="Web Application Wireframe Registro" style="width: 80%"></div>
+<div align="center">
 
