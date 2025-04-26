@@ -1170,23 +1170,131 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 ### User Stories
 
 
-| Story ID | Título                                                                          | Descripción                                                                                                                                                                                     | Criterios de Aceptación                      | Relacionado con (Epic ID) |
-|----------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| US01    | Ver beneficios para fans                   | Como visitante del segmento fan, quiero conocer los beneficios de la app para mí, para decidir registrarme                          | *Escenario: Acceso a sección para fans* <br> **Dado que** el visitante accede a la landing page, <br> **Cuando** visualiza la sección "Para fans de la música" <br> **Entonces** puede leer los beneficios de unirse a la app. <br><br> *Escenario: Decisión de registro influenciada por beneficios* <br> **Dado que** el visitante revisa los beneficios presentados <br> **Cuando** encuentra opciones que se alinean con sus intereses <br> **Entonces** aumenta su intención de registrarse en la plataforma  | EP05                     |
-| US02    | Ver beneficios para artista                   | Como visitante del segmento artista, quiero ver cómo la app me ayuda a promocionar mis eventos                          | *Escenario: Acceso a sección para artistas* <br> **Dado que** el visitante está en la landing page <br> **Cuando** revisa la sección "Para artistas" <br> **Entonces** puede visualizar herramientas y ventajas destacadas. <br><br> *Escenario: Evaluación del valor de la app* <br> **Dado que** el visitante es un artista emergente <br> **Cuando** analiza las herramientas promocionales disponibles <br> **Entonces** comprende cómo StayMap puede ayudarle a crecer  | EP05                   |
-| US03     | Acceder a testimonios                 | Como visitante, quiero leer testimonios de usuarios reales para aumentar mi confianza en la app                    | *Escenario: Visualización de comentarios de usuarios* <br> **Dado que** el visitante navega por la landing <br> **Cuando** encuentra la sección de testimonios <br> **Entonces** puede leer comentarios y valoraciones de otros usuarios. <br>  *Escenario: Confianza reforzada por experiencias ajenas* <br> **Dado que** el visitante tiene dudas sobre la app <br> **Cuando** lee testimonios positivos <br> **Entonces** se siente más confiado para unirse. | EP05 		|
-| US04     | Registrarse en la landing page        | Como visitante, quiero ver fácilmente dónde registrarme en la landing page de StayMap                            | **Escenario: Botón de registro visible en la landing** <br>  **Dado que** el visitante accede a la landing page <br> **Cuando** navega por el contenido <br> **Entonces** encuentra un botón destacado y accesible con la etiqueta "Registrarse". <br> **Escenario: Redirección inmediata al formulario de registro**  <br> **Dado que** el visitante hace clic en el botón "Registrarse"  <br> **Cuando** se redirige al formulario de creación de cuenta  <br> **Entonces** puede ingresar sus datos para crear su cuenta. | EP05 |
-| US05     | Iniciar sesión en la landing page     | Como visitante que ya tiene cuenta, quiero poder iniciar sesión fácilmente desde la landing                       | **Escenario: Botón de inicio de sesión accesible en la landing**  <br> **Dado que** el visitante ya tiene cuenta  <br> **Cuando** accede a la landing page  <br> **Entonces** encuentra un botón o enlace con la etiqueta "Iniciar sesión".  <br> **Escenario: Redirección al login**  <br> **Dado que** el visitante hace clic en "Iniciar sesión"  <br> **Cuando** se redirige al formulario correspondiente  <br> **Entonces** puede ingresar sus credenciales para acceder a su perfil. | EP05 |
-| US06     | Explorar eventos cercanos             | Como fan, quiero ver conciertos cerca de mi ubicación para decidir a cuál asistir                                 | **Escenario: Visualización de eventos geolocalizados**  <br>**Dado que** el usuario está logueado  <br> **Cuando** accede al mapa interactivo  <br> **Entonces** visualiza los eventos en su área geográfica. <br>  **Escenario: Uso del mapa para tomar decisiones**  <br> **Dado que** el usuario desea asistir a conciertos  <br> **Cuando** observa la oferta de eventos cercana  <br> **Entonces** puede elegir con mayor facilidad. | EP01 |
-| US07     | Filtrar eventos por género musical    | Como fan, quiero filtrar eventos por género para ver solo los que me interesan                                   | **Escenario: Uso del filtro de género**  <br> **Dado que** el usuario abre los filtros  <br> **Cuando** selecciona un género  <br> **Entonces** solo se muestran eventos relacionados.  <br> **Escenario: Interacción fluida con el filtrado**  <br> **Dado que** hay múltiples géneros disponibles <br>   **Cuando** se elige uno  <br> **Entonces** la vista se actualiza dinámicamente. | EP01 |
-| US08     | Recibir notificaciones de artistas favoritos | Como fan, quiero recibir notificaciones cuando mi artista favorito esté en concierto                         | **Escenario: Seguimiento de artista favorito**  <br> **Dado que** el usuario sigue a un artista  <br> **Cuando** ese artista crea un evento  <br> **Entonces** recibe una notificación inmediata.  <br> **Escenario: Notificación oportuna y relevante**  <br> **Dado que** la notificación es enviada  <br> **Cuando** el evento es reciente y cercano  <br> **Entonces** el usuario tiene tiempo suficiente para asistir. | EP02 |
-| US09     | Compartir asistencia a un concierto    | Como fan, quiero compartir que asistiré a un evento para animar a mis amistades a participar                     | **Escenario: Confirmación de asistencia**  <br> **Dado que** el usuario accede a un evento  <br> **Cuando** presiona "Asistiré"  <br> **Entonces** se registra su asistencia.  <br> **Escenario: Compartir en redes o con amigos**  <br> **Dado que** se confirmó asistencia  <br> **Cuando** el usuario desea compartirlo  <br> **Entonces** puede hacerlo por redes o dentro de la app. | EP04 |
-| US10     | Calificar un evento asistido          | Como fan, quiero poder dejar una calificación de un concierto para ayudar a otros usuarios                        | **Escenario: Acceso a evento pasado**  <br> **Dado que** el usuario asistió a un evento <br> **Cuando** accede al historial o evento pasado  <br> **Entonces** puede dejar una valoración y comentario.  <br> **Escenario: Comentario visible para la comunidad**  <br> **Dado que** la valoración ha sido enviada  <br> **Cuando** otros usuarios exploran ese evento  <br> **Entonces** pueden leer la experiencia compartida. | EP04 |
-| US11     | Publicar nuevo concierto              | Como artista, quiero crear un evento para promocionar mi presentación                                            | **Escenario: Acceso al formulario de creación de evento**  <br> **Dado que** el artista inicia sesión  <br> **Cuando** accede a "Crear evento"  <br> **Entonces** puede ingresar datos y publicarlo en el mapa.  <br> **Escenario: Publicación inmediata y visible**  <br> **Dado que** los datos son válidos  <br> **Cuando** se confirma la creación  <br> **Entonces** el evento aparece visible en la plataforma. | EP03 |
-| US12     | Medir asistencia estimada             | Como artista, quiero ver cuántas personas marcaron asistencia para medir el interés                              | **Escenario: Visualización de estadísticas de evento** <br>  **Dado que** el evento está publicado  <br> **Cuando** abre las estadísticas  <br> **Entonces** visualiza el número de asistentes confirmados.  <br> **Escenario: Reacción ante datos en tiempo real**  <br> **Dado que** los usuarios marcan "Asistiré"  <br> **Cuando** se actualizan los datos  <br> **Entonces** el artista ve reflejado el interés real. | EP03 |
-| US13     | Personalizar perfil de artista        | Como artista, quiero personalizar mi perfil con enlaces y biografía para conectar mejor con el público           | **Escenario: Edición del perfil**  <br> **Dado que** el artista abre su perfil  <br> **Cuando** edita sus datos  <br> **Entonces** puede agregar enlaces, descripción y foto.  <br> **Escenario: Atractivo visual para fans**  <br> **Dado que** el perfil ha sido personalizado  <br> **Cuando** un fan lo visita  <br> **Entonces** puede conocer mejor al artista. | EP03 |
-| US15     | Ingresar a comunidad de fans          | Como fan, quiero ingresar a una comunidad dentro de la app para compartir experiencias con otros asistentes       | **Escenario: Acceso a la comunidad**  <br> **Dado que** el usuario es un fan autenticado  <br> **Cuando** accede a la sección "Comunidad"  <br> **Entonces** puede unirse y participar en grupos temáticos o de eventos.  <br> **Escenario: Interacción dentro de la comunidad**  <br> **Dado que** el fan ya forma parte de la comunidad  <br> **Cuando** publica un mensaje o comenta  <br> **Entonces** su contenido es visible para otros miembros. | EP04 |
-| US16     | Ver mapa con geolocalización          | Como fan, quiero ver un mapa con mi ubicación y los conciertos cercanos marcados                                 | **Escenario: Visualización del mapa con eventos** <br>  **Dado que** el usuario está logueado y ha permitido el acceso a su ubicación  <br> **Cuando** entra a la sección de mapa  <br> **Entonces** visualiza su ubicación y los conciertos cercanos.  <br> **Escenario: Información de eventos en el mapa**  <br> **Dado que** el usuario interactúa con un marcador de evento  <br> **Cuando** hace clic en un ícono del mapa  <br> **Entonces** puede ver detalles del evento como nombre, hora y lugar. | EP01 |
+<table border="1">
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Ver beneficios para fans</td>
+      <td>Como visitante del segmento fan, quiero conocer los beneficios de la app para mí, para decidir registrarme</td>
+      <td>
+        <strong>Escenario: Acceso a sección para fans</strong><br>
+        <strong>Dado que</strong> el visitante accede a la landing page,<br>
+        <strong>Cuando</strong> visualiza la sección "Para fans de la música"<br>
+        <strong>Entonces</strong> puede leer los beneficios de unirse a la app.<br><br>
+        <strong>Escenario: Decisión de registro influenciada por beneficios</strong><br>
+        <strong>Dado que</strong> el visitante revisa los beneficios presentados<br>
+        <strong>Cuando</strong> encuentra opciones que se alinean con sus intereses<br>
+        <strong>Entonces</strong> aumenta su intención de registrarse en la plataforma
+      </td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Ver beneficios para artista</td>
+      <td>Como visitante del segmento artista, quiero ver cómo la app me ayuda a promocionar mis eventos</td>
+      <td>
+        <strong>Escenario: Acceso a sección para artistas</strong><br>
+        <strong>Dado que</strong> el visitante está en la landing page<br>
+        <strong>Cuando</strong> revisa la sección "Para artistas"<br>
+        <strong>Entonces</strong> puede visualizar herramientas y ventajas destacadas.<br><br>
+        <strong>Escenario: Evaluación del valor de la app</strong><br>
+        <strong>Dado que</strong> el visitante es un artista emergente<br>
+        <strong>Cuando</strong> analiza las herramientas promocionales disponibles<br>
+        <strong>Entonces</strong> comprende cómo StayMap puede ayudarle a crecer
+      </td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Acceder a testimonios</td>
+      <td>Como visitante, quiero leer testimonios de usuarios reales para aumentar mi confianza en la app</td>
+      <td>
+        <strong>Escenario: Visualización de comentarios de usuarios</strong><br>
+        <strong>Dado que</strong> el visitante navega por la landing<br>
+        <strong>Cuando</strong> encuentra la sección de testimonios<br>
+        <strong>Entonces</strong> puede leer comentarios y valoraciones de otros usuarios.<br><br>
+        <strong>Escenario: Confianza reforzada por experiencias ajenas</strong><br>
+        <strong>Dado que</strong> el visitante tiene dudas sobre la app<br>
+        <strong>Cuando</strong> lee testimonios positivos<br>
+        <strong>Entonces</strong> se siente más confiado para unirse.
+      </td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Registrarse en la landing page</td>
+      <td>Como visitante, quiero ver fácilmente dónde registrarme en la landing page de StayMap</td>
+      <td>
+        <strong>Escenario: Botón de registro visible en la landing</strong><br>
+        <strong>Dado que</strong> el visitante accede a la landing page<br>
+        <strong>Cuando</strong> navega por el contenido<br>
+        <strong>Entonces</strong> encuentra un botón destacado y accesible con la etiqueta "Registrarse".<br><br>
+        <strong>Escenario: Redirección inmediata al formulario de registro</strong><br>
+        <strong>Dado que</strong> el visitante hace clic en el botón "Registrarse"<br>
+        <strong>Cuando</strong> se redirige al formulario de creación de cuenta<br>
+        <strong>Entonces</strong> puede ingresar sus datos para crear su cuenta.
+      </td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Iniciar sesión en la landing page</td>
+      <td>Como visitante que ya tiene cuenta, quiero poder iniciar sesión fácilmente desde la landing</td>
+      <td>
+        <strong>Escenario: Botón de inicio de sesión accesible en la landing</strong><br>
+        <strong>Dado que</strong> el visitante ya tiene cuenta<br>
+        <strong>Cuando</strong> accede a la landing page<br>
+        <strong>Entonces</strong> encuentra un botón o enlace con la etiqueta "Iniciar sesión".<br><br>
+        <strong>Escenario: Redirección al login</strong><br>
+        <strong>Dado que</strong> el visitante hace clic en "Iniciar sesión"<br>
+        <strong>Cuando</strong> se redirige al formulario correspondiente<br>
+        <strong>Entonces</strong> puede ingresar sus credenciales para acceder a su perfil.
+      </td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Explorar eventos cercanos</td>
+      <td>Como fan, quiero ver conciertos cerca de mi ubicación para decidir a cuál asistir</td>
+      <td>
+        <strong>Escenario: Visualización de eventos geolocalizados</strong><br>
+        <strong>Dado que</strong> el usuario está logueado<br>
+        <strong>Cuando</strong> accede al mapa interactivo<br>
+        <strong>Entonces</strong> visualiza los eventos en su área geográfica.<br><br>
+        <strong>Escenario: Uso del mapa para tomar decisiones</strong><br>
+        <strong>Dado que</strong> el usuario desea asistir a conciertos<br>
+        <strong>Cuando</strong> observa la oferta de eventos cercana<br>
+        <strong>Entonces</strong> puede elegir con mayor facilidad.
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US07</td>
+      <td>Filtrar eventos por género musical</td>
+      <td>Como fan, quiero filtrar eventos por género para ver solo los que me interesan</td>
+      <td>
+        <strong>Escenario: Uso del filtro de género</strong><br>
+        <strong>Dado que</strong> el usuario abre los filtros<br>
+        <strong>Cuando</strong> selecciona un género<br>
+        <strong>Entonces</strong> solo se muestran eventos relacionados.<br><br>
+        <strong>Escenario: Interacción fluida con el filtrado</strong><br>
+        <strong>Dado que</strong> hay múltiples géneros disponibles<br>
+        <strong>Cuando</strong> se elige uno<br>
+        <strong>Entonces</strong> la vista se actualiza dinámicamente.
+      </td>
+      <td>EP01</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### Technical Stories:
