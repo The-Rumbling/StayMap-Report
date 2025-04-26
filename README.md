@@ -706,6 +706,128 @@ Opinión y expectativas sobre StayMap:
 - ¿Recomendarías una app como StayMap a otros artistas emergentes?
 
 ## 2.2.2. Registro de entrevistas.
+
+<table>
+  <tr>
+    <th colspan="2">Segmento objetivo:</th>
+  </tr>
+  <tr>
+    <td colspan="2">Entrevista #1</td>
+  </tr>
+  <tr>
+    <td colspan="2">foto</td>
+  </tr>
+  <tr>
+    <td>Nombre:</td>
+    <td>Edad:</td>
+  </tr>
+  <tr>
+    <td>Duración:</td>
+    <td>Inicio:</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2">Segmento objetivo:</th>
+  </tr>
+  <tr>
+    <td colspan="2">Entrevista #1</td>
+  </tr>
+  <tr>
+    <td colspan="2">foto</td>
+  </tr>
+  <tr>
+    <td>Nombre:</td>
+    <td>Edad:</td>
+  </tr>
+  <tr>
+    <td>Duración:</td>
+    <td>Inicio:</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2">Segmento objetivo:</th>
+  </tr>
+  <tr>
+    <td colspan="2">Entrevista #1</td>
+  </tr>
+  <tr>
+    <td colspan="2">foto</td>
+  </tr>
+  <tr>
+    <td>Nombre:</td>
+    <td>Edad:</td>
+  </tr>
+  <tr>
+    <td>Duración:</td>
+    <td>Inicio:</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2">Segmento objetivo:</th>
+  </tr>
+  <tr>
+    <td colspan="2">Entrevista #1</td>
+  </tr>
+  <tr>
+    <td colspan="2">foto</td>
+  </tr>
+  <tr>
+    <td>Nombre:</td>
+    <td>Edad:</td>
+  </tr>
+  <tr>
+    <td>Duración:</td>
+    <td>Inicio:</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2">Segmento objetivo:</th>
+  </tr>
+  <tr>
+    <td colspan="2">Entrevista #1</td>
+  </tr>
+  <tr>
+    <td colspan="2">foto</td>
+  </tr>
+  <tr>
+    <td>Nombre:</td>
+    <td>Edad:</td>
+  </tr>
+  <tr>
+    <td>Duración:</td>
+    <td>Inicio:</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2">Segmento objetivo:</th>
+  </tr>
+  <tr>
+    <td colspan="2">Entrevista #1</td>
+  </tr>
+  <tr>
+    <td colspan="2">foto</td>
+  </tr>
+  <tr>
+    <td>Nombre:</td>
+    <td>Edad:</td>
+  </tr>
+  <tr>
+    <td>Duración:</td>
+    <td>Inicio:</td>
+  </tr>
+</table>
+
+
 ## 2.2.3. Análisis de entrevistas.
 
 <table>
