@@ -1282,14 +1282,14 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>Filtrar eventos por género musical</td>
       <td>Como fan, quiero filtrar eventos por género para ver solo los que me interesan</td>
       <td>
-        <strong>Escenario: Uso del filtro de género</strong><br>
-        <strong>Dado que</strong> el usuario abre los filtros<br>
-        <strong>Cuando</strong> selecciona un género<br>
-        <strong>Entonces</strong> solo se muestran eventos relacionados.<br><br>
-        <strong>Escenario: Interacción fluida con el filtrado</strong><br>
-        <strong>Dado que</strong> hay múltiples géneros disponibles<br>
-        <strong>Cuando</strong> se elige uno<br>
-        <strong>Entonces</strong> la vista se actualiza dinámicamente.
+        **Escenario: Uso del filtro de género**
+        **Dado que** el usuario abre los filtros
+        **Cuando** selecciona un género
+        **Entonces** solo se muestran eventos relacionados.<br><br>
+        **Escenario:** Interacción fluida con el filtrado</strong><br>
+        **Dado que** hay múltiples géneros disponibles<br>
+        **Cuando** se elige uno
+        **Entonces** la vista se actualiza dinámicamente.
       </td>
       <td>EP01</td>
     </tr>
