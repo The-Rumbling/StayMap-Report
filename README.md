@@ -707,6 +707,7 @@ Opinión y expectativas sobre StayMap:
 
 ## 2.2.2. Registro de entrevistas.
 
+<div align="center">
 <table>
   <tr>
     <th colspan="2">Segmento objetivo #1:</th>
@@ -715,7 +716,7 @@ Opinión y expectativas sobre StayMap:
     <td colspan="2">Entrevista #1</td>
   </tr>
   <tr>
-    <td colspan="2">foto</td>
+    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px"></td>
   </tr>
   <tr>
     <td>Nombre: Jade Huaman</td>
@@ -726,7 +727,9 @@ Opinión y expectativas sobre StayMap:
     <td>Inicio: 00:10:00 </td>
   </tr>
 </table>
+</div>
 
+<div align="center">
 <table>
   <tr>
     <th colspan="2">Segmento objetivo #1:</th>
@@ -746,7 +749,9 @@ Opinión y expectativas sobre StayMap:
     <td>Inicio: 00:03:26 </td>
   </tr>
 </table>
+</div>
 
+<div align="center">
 <table>
   <tr>
     <th colspan="2">Segmento objetivo #1:</th>
@@ -766,7 +771,9 @@ Opinión y expectativas sobre StayMap:
     <td>Inicio: 00:08:44 </td>
   </tr>
 </table>
+</div>
 
+<div align="center">
 <table>
   <tr>
     <th colspan="2">Segmento objetivo #2:</th>
@@ -786,7 +793,9 @@ Opinión y expectativas sobre StayMap:
     <td>Inicio: 00:14:54 </td>
   </tr>
 </table>
+</div>
 
+<div align="center">
 <table>
   <tr>
     <th colspan="2">Segmento objetivo #2:</th>
@@ -806,7 +815,9 @@ Opinión y expectativas sobre StayMap:
     <td>Inicio: 00:25:38 </td>
   </tr>
 </table>
+</div>
 
+<div align="center">
 <table>
   <tr>
     <th colspan="2">Segmento objetivo #2:</th>
@@ -826,7 +837,7 @@ Opinión y expectativas sobre StayMap:
     <td>Inicio:</td>
   </tr>
 </table>
-
+</div>
 
 ## 2.2.3. Análisis de entrevistas.
 
