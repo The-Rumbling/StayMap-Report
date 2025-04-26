@@ -1707,3 +1707,77 @@ Perfil de artista:
 
 ### 4.4.2. Web Applications Mock-ups
 
+Pantalla de inicio:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_inicio.png" alt="Web Application Mockup Inicio" style="width: 80%">
+</div>
+
+Crear cuenta: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_crearcuenta.png" alt="Web Application Mockup Crear Cuenta" style="width: 80%">
+</div>
+
+
+Verificar cuenta cuenta: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_verificacion.png" alt="Web Application Mockup Verificacion" style="width: 80%">
+</div>
+
+Cuenta creada:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_cuentacreada.png" alt="Web Application Mockup Cuenta creada" style="width: 80%">
+</div>
+
+Filtrar: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_filtrar.png" alt="Web Application Mockup Filtrar" style="width: 80%">
+</div>
+
+Mapa:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_mapa.png" alt="Web Application Mockup mapa" style="width: 80%">
+</div>
+
+
+Comunidad:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_comunidad.png" alt="Web Application Mockup comunidad" style="width: 80%">
+</div>
+
+Concierto: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_concierto.png" alt="Web Application mockup Concierto" style="width: 80%">
+</div>
+
+Perfil de fan:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_perfil_fan.png" alt="Web Application Mockup Perfil fan" style="width: 80%">
+</div>
+
+
+Perfil de artista:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_perfil_artista.png" alt="Web Application Mockup Artista" style="width: 80%">
+</div>
+
+Calificar:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_calificar.png" alt="Web Application Mockup Calificar" style="width: 80%">
+</div>
+
+Notificaciones:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_mockup_notificaciones.png" alt="Web Application Mockup Notificaciones" style="width: 80%">
+</div>
