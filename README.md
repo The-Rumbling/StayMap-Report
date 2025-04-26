@@ -755,13 +755,19 @@ Para Diego, STAYMAP representa una oportunidad para democratizar el acceso a her
 
 
 
+# # 2.3. Needfinding.
 
-## 2.3. Needfinding.
-## 2.3.1. User Personas.
+## # 2.3.1. User Personas.
+
 Los user personas son perfiles representativos de los usuarios que ayudan a comprender mejor sus necesidades, motivaciones y comportamientos. En StayMap, estos perfiles guían el diseño y desarrollo de la plataforma para asegurar que responda a lo que realmente buscan nuestros principales segmentos, como los fans de la música y los artistas emergentes.
 
-<div align="center"><img src="assets/user_persona/valeria_torres.png" alt="user_persona" style="width: 700px">
-<div align="center"><img src="assets/user_persona/diego_rivas.png" alt="user_persona" style="width: 700px">
+<p align="center">
+  <img src="assets/user_persona/valeria_torres.png" alt="user_persona" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/user_persona/diego_rivas.png" alt="user_persona" width="700">
+</p>
 
 ## 2.3.2. User Task Matrix
 
@@ -845,11 +851,16 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 **Fans de la música**
 
-<div align="center"><img src="assets/user_journey_mapping/user-journey-mapping-fans.png" alt="user_journey_mapping" style="width: 700px">
+<p align="center">
+  <img src="assets/user_journey_mapping/user-journey-mapping-fans.png" alt="user_journey_mapping" width="700">
+</p>
 
 **Artistas emergentes**
 
-<div align="center"><img src="assets/user_journey_mapping/user-journey-mapping-artista.png" alt="user_journey_mapping" style="width: 700px">
+<p align="center">
+  <img src="assets/user_journey_mapping/user-journey-mapping-artista.png" alt="user_journey_mapping" width="700">
+</p>
+
 
 ## 2.3.4. Empathy Mapping
 
@@ -959,11 +970,15 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 ## 2.3.4. As-is Scenario Mapping
 **Fans de la música:**
 
-<img src="assets/as-is_scenario/as-is-scenrio-fans-musica.png" alt="as is scenario fans" style="width: 700px"/>
+<p align="center">
+  <img src="assets/as-is_scenario/as-is-scenrio-fans-musica.png" alt="as is scenario fans" width="700">
+</p>
 
 **Artistas emergentes y bandas independientes:**
 
-<img src="assets/as-is_scenario/as-is-scenrio-artistas-emergentes.png" alt="as is scenario artistas" style="width: 700px"/>
+<p align="center">
+  <img src="assets/as-is_scenario/as-is-scenrio-artistas-emergentes.png" alt="as is scenario artistas" width="700">
+</p>
 
 **2.4. Ubiquitous Language**
 
@@ -1029,13 +1044,13 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 # CAPÍTULO III: Requirements Specification
 
 ## 3.1 To-Be Scenario Mapping
-
-<img src="assets/to-be_scenario/to-be-scenrio-fans-musica.png" alt="to be scenario fans" style="width: 700px"/>
-
+<p align="center">
+	<img src="assets/to-be_scenario/to-be-scenrio-fans-musica.png" alt="to be scenario fans" style="width: 700px"/>
+</p>
 **Artistas emergentes y bandas independientes**
-
+<p align="center">
 <img src="assets/to-be_scenario/to-be-scenrio-artistas-emergentes.png" alt="to be scenario artistas" style="width: 700px"/>
-
+</p>
 ## 3.2. User stories
 
 ### Epics
