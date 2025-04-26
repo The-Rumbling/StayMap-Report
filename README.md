@@ -1319,7 +1319,7 @@ Además, las decisiones tomadas en torno a los sistemas de organización, etique
 <div align="center">
 <img src="assets/landing_page_ui_desing/landing-page-mockup-fans.png" alt="StayMap Landing Page Mockup Fans" style="width: 80%"></div>
 <div align="center">
-<img src="assets/landing_page_ui_desing/landing-page-mockup-artistas.png" alt="StayMap Landing Page Mockup Artistas" style="width: 80%"></div>
+<img src="assets/landing_page_ui_desing/landing-page-mockup-artista.png" alt="StayMap Landing Page Mockup Artistas" style="width: 80%"></div>
 
 - En la sección de “Para fans” podrás encontrar los beneficios de los usuarios que se registren como fans en StayMap.
 - En la sección de “Para artistas” podrás encontrar los beneficios de los usuarios que se registren como artistas en StayMap.
