@@ -748,7 +748,7 @@ La propuesta de STAYMAP resuena especialmente con Diego, quien ve en la aplicaci
 
 Para Diego, STAYMAP representa una oportunidad para democratizar el acceso a herramientas de promoción que actualmente son difíciles de obtener para artistas independientes. Considera que la aplicación podría eliminar barreras de entrada al ofrecer un espacio centrado en músicos, donde el arte sea el protagonista y el público pueda descubrir talento de manera más directa y personalizada. Su entusiasmo es evidente al recomendar la app a otros artistas emergentes, ya que cree firmemente en su potencial para transformar la forma en que los músicos se conectan con su audiencia y crecen en sus carreras. Su testimonio refuerza la importancia de desarrollar una plataforma que no solo solucione problemas prácticos, sino que también empodere a los artistas en su camino profesional..</td></tr>
      <!-- Fila extra de una sola columna -->
-    <tr><td colspan="2" style="background-color: #f0f0f0;"><em><img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px"></em></td></tr>
+    <tr><td colspan="2" style="background-color: #f0f0f0;"><em><div align="center"><img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px"></em></td></tr>
     <tr><td>Entrevistador: Diego Collantes Entrevistado: Su primo :v </td><td>MOMOMOMO.</td></tr>
  
 </table>
