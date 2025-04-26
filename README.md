@@ -376,7 +376,7 @@ Conexión con expertos y comunidad
 - Experiencia personalizada: La app muestra eventos relevantes según la ubicación actual del usuario y sus preferencias previas.
 
 
-### 1.2.2.3. Lean UX Hypothesis Statements.
+### 1.2.2.3. Lean UX Hypothesis Statements
 Creemos que, si StayMap tiene una interfaz intuitiva y está optimizada para dispositivos móviles, incluso los usuarios con poca experiencia tecnológica podrán usar la aplicación fácilmente para orientarse y explorar nuevas zonas.
 
 Creemos que, si StayMap proporciona recomendaciones de conciertos basadas en los intereses y preferencias del usuario, así como la proximidad de estos eventos, los usuarios tendrán una experiencia más personalizada y disfrutarán de una exploración más fluida de los eventos musicales a su alrededor.
@@ -392,7 +392,7 @@ Creemos que, si StayMap permite a los usuarios dejar reseñas y comentarios sobr
 Creemos que, si StayMap destaca a los artistas más destacados y organiza conciertos a gran escala, brindará una plataforma para que los músicos emergentes se presenten junto a artistas establecidos, lo que aumentará sus oportunidades de ser reconocidos por profesionales de la industria y contribuirá a su crecimiento.
 
 
-### 1.2.2.4. Lean UX Canvas. 
+### 1.2.2.4. Lean UX Canvas
 
 <table border="1">
   <tr>
@@ -446,7 +446,7 @@ Creemos que, si StayMap destaca a los artistas más destacados y organiza concie
   </tr>
 </table>
 
-# 1.3. Segmentos objetivo.
+# 1.3. Segmentos objetivo
 
 **Fans de la música (jóvenes y adultos jóvenes):**
 Según el Instituto de Estudios Peruanos (2019), el 54% de los estudiantes universitarios asiste ocasionalmente a conciertos musicales (1 o 2 veces al año), mientras que un 34% lo hace con mayor frecuencia (3 o más veces al año) y solo un 11% nunca ha asistido. Además, se observa que las mujeres (54,6%) muestran una mayor preferencia por géneros como la balada romántica, cumbia, pop, salsa y música clásica, mientras que los hombres (45,4%) se inclinan por el heavy metal, hip-hop y reggaetón. Por otro lado, según Ramos-Pla, Ramírez-Montoya y García-Peñalvo (2022), 4 de cada 10 personas escuchan música con mucha frecuencia, siendo los jóvenes de entre 18 y 24 años los oyentes más asiduos de distintos géneros musicales.
@@ -623,7 +623,7 @@ Necesidades principales:
 	</tbody>
 </table>
 
-## 2.1.2. Estrategias y tácticas frente a competidores.
+## 2.1.2. Estrategias y tácticas frente a competidores
 
 **- Enfoque en el descubrimiento de música en vivo diversa**
 
@@ -655,9 +655,9 @@ Estrategia: Aumentar la retención y lealtad de los usuarios frente a otras plat
 
 Táctica: Ofrecer funciones como seguimiento de giras, alertas personalizadas, y programas de recompensas por asistir a eventos frecuentes o apoyar a artistas locales
 
-# 2.2. Entrevistas.
+# 2.2. Entrevistas
 
-## 2.2.1. Diseño de entrevistas.
+## 2.2.1. Diseño de entrevistas
 
 **Segmento objetivo #1: Fans de la música (16 a 35 años)**
 
@@ -707,7 +707,7 @@ Opinión y expectativas sobre StayMap:
 - ¿Cómo crees que StayMap podría ayudarte a crecer como artista?
 - ¿Recomendarías una app como StayMap a otros artistas emergentes?
 
-## 2.2.2. Registro de entrevistas.
+## 2.2.2. Registro de entrevistas
 
 <div align="center">
 <table>
@@ -846,52 +846,101 @@ Opinión y expectativas sobre StayMap:
 <table>
   <thead>
     <tr>
-      <th colspan="2" style="background-color: #d3d3d3;"><strong>Segmento objetivo #1:</strong> Fans de la música (16 a 35 años)</th>
+      <th colspan="2" style="background-color: #d3d3d3;"><strong> Segmento objetivo #1: </strong> Fans de la música (16 a 35 años) </th>
 </tr>
     </thead>
     <tbody>
 	      <!-- Fila extra de una sola columna -->
-    <tr><td colspan="2" style="background-color: #f0f0f0;"><em><div align="center">
-<img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px"></div></em></td></tr>
-    <tr><td>Entrevistador: Ariana Lizarbe Entrevistado: Jade Huaman</td><td>Jade Huaman, una joven de 20 años dedicada a la pastelería y apasionada por los géneros rock y pop, asiste a conciertos con frecuencia (2-3 veces al año). Sin embargo, enfrenta dificultades para enterarse a tiempo sobre eventos cercanos, especialmente en bares, lo que le hace perder oportunidades. Actualmente, utiliza Instagram y TikTok para seguir a sus artistas, pero critica la saturación de contenido irrelevante en estas plataformas. Jade mostraría interés en una aplicación que le permita descubrir conciertos en vivo de manera eficiente, con filtros por género y proximidad a su ubicación, así como notificaciones relevantes. Además, valdría funcionalidades como guardar eventos favoritos y compartir sus experiencias de conciertos asistidos. Su feedback refuerza la necesidad de una solución centrada en la puntualidad, personalización y usabilidad para fans como ella.</td></tr>
+    <tr>
+<td colspan="2" style="background-color: #f0f0f0;">
+<em>
+<div align="center">
+<img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px">
+</div>
+    </em>
+    </td>
+    </tr>
+    <tr>
+<td> Entrevistador: Ariana Lizarbe Entrevistado: Jade Huaman </td><td> Jade Huaman, una joven de 20 años dedicada a la pastelería y apasionada por los géneros rock y pop, asiste a conciertos con frecuencia (2-3 veces al año). Sin embargo, enfrenta dificultades para enterarse a tiempo sobre eventos cercanos, especialmente en bares, lo que le hace perder oportunidades. Actualmente, utiliza Instagram y TikTok para seguir a sus artistas, pero critica la saturación de contenido irrelevante en estas plataformas. Jade mostraría interés en una aplicación que le permita descubrir conciertos en vivo de manera eficiente, con filtros por género y proximidad a su ubicación, así como notificaciones relevantes. Además, valdría funcionalidades como guardar eventos favoritos y compartir sus experiencias de conciertos asistidos. Su feedback refuerza la necesidad de una solución centrada en la puntualidad, personalización y usabilidad para fans como ella. </td>
+    </tr>
 	    	      <!-- Fila extra de una sola columna -->
-    <tr><td colspan="2" style="background-color: #f0f0f0;"><em><div align="center"><img src="assets/interviews/Analisis-Entrevista-Fan2.jpeg" alt="user_persona" style="width: 700px"></em></td></tr>
-    <tr><td>Entrevistador: Ariana Lizarbe Entrevistado: Massiel Cusi </td><td>Massiel Cusi, estudiante de marketing de 20 años y entusiasta del pop, kpop y baladas, asiste a conciertos con regularidad (aproximadamente 3 veces al año). Aunque utiliza plataformas como TikTok y Spotify para seguir a sus artistas, ha enfrentado problemas para estar al tanto de todos los eventos, como un concierto en marzo que se perdió debido a la falta de publicidad. Actualmente, Spotify le ayuda a conocer algunos tours, pero la información no siempre es completa o accesible. Massiel vería con buenos ojos una aplicación que centralice la información sobre conciertos, ofreciendo funciones como un mapa interactivo con eventos cercanos, alertas personalizadas por artista y detalles logísticos (como cómo llegar al lugar). Además, valora la posibilidad de guardar eventos favoritos y compartir sus experiencias, ya que esto simplificaría su proceso de planificación y le ahorraría tiempo en investigaciones manuales. Su testimonio resalta la importancia de integrar múltiples fuentes de información en una sola plataforma, priorizando la facilidad de uso y la actualización en tiempo real.</td></tr>
+    <tr>
+<td colspan="2" style="background-color: #f0f0f0;">
+<em>
+<div align="center">
+<img src="assets/interviews/Analisis-Entrevista-Fan2.jpeg" alt="user_persona" style="width: 700px">
+</em>
+</td>
+</tr>
+    <tr>
+	    <td> Entrevistador: Ariana Lizarbe Entrevistado: Massiel Cusi </td>
+	    <td> Massiel Cusi, estudiante de marketing de 20 años y entusiasta del pop, kpop y baladas, asiste a conciertos con regularidad (aproximadamente 3 veces al año). Aunque utiliza plataformas como TikTok y Spotify para seguir a sus artistas, ha enfrentado problemas para estar al tanto de todos los eventos, como un concierto en marzo que se perdió debido a la falta de publicidad. Actualmente, Spotify le ayuda a conocer algunos tours, pero la información no siempre es completa o accesible. Massiel vería con buenos ojos una aplicación que centralice la información sobre conciertos, ofreciendo funciones como un mapa interactivo con eventos cercanos, alertas personalizadas por artista y detalles logísticos (como cómo llegar al lugar). Además, valora la posibilidad de guardar eventos favoritos y compartir sus experiencias, ya que esto simplificaría su proceso de planificación y le ahorraría tiempo en investigaciones manuales. Su testimonio resalta la importancia de integrar múltiples fuentes de información en una sola plataforma, priorizando la facilidad de uso y la actualización en tiempo real. </td>
+    </tr>
 	    	    	      <!-- Fila extra de una sola columna -->
-    <tr><td colspan="2" style="background-color: #f0f0f0;"><em><div align="center"><img src="assets/interviews/Analisis-Entrevista-Fan3.png" alt="user_persona" style="width: 700px"></em></td></tr>
-    <tr><td>Entrevistador: Ariana Lizarbe Entrevistado: Jazmin Roque </td><td>Jazmín Roque, estudiante de ingeniería ambiental de 21 años, disfruta asistiendo principalmente a festivales musicales (un promedio de 4 al año), con preferencia por géneros variados como pop, rock y cumbia. Aunque utiliza redes sociales como Instagram y TikTok para seguir a sus artistas, enfrenta dificultades para encontrar información sobre conciertos de artistas menos contemporáneos o de géneros específicos como el neguetton.
-
-La propuesta de nuestra aplicación le resulta atractiva, especialmente por la posibilidad de acceder rápidamente a planes de conciertos para salidas espontáneas los fines de semana. Jazmín destaca la importancia de incluir filtros por género para personalizar la búsqueda, así como un sistema de notificaciones no intrusivo, sugiriendo formatos como calendarios semanales que muestren eventos de artistas vinculados a sus plataformas de streaming (Spotify o YouTube Music). Además, valora funcionalidades como: Información sobre discotecas con dinámicas especiales. Opción de compartir conciertos asistidos.
-Su perfil refleja la necesidad de una herramienta que centralice información dispersa y adapte las recomendaciones a gustos musicales diversos, combinando utilidad con flexibilidad para usuarios ocasionales..</td></tr>
+    <tr>
+	<td colspan="2" style="background-color: #f0f0f0;">
+		<em>
+			<div align="center"><img src="assets/interviews/Analisis-Entrevista-Fan3.png" alt="user_persona" style="width: 700px">
+			</em>
+			</td>
+			</tr>
+    <tr>
+	    <td> Entrevistador: Ariana Lizarbe Entrevistado: Jazmin Roque </td><td> Jazmín Roque, estudiante de ingeniería ambiental de 21 años, disfruta asistiendo principalmente a festivales musicales (un promedio de 4 al año), con preferencia por géneros variados como pop, rock y cumbia. Aunque utiliza redes sociales como Instagram y TikTok para seguir a sus artistas, enfrenta dificultades para encontrar información sobre conciertos de artistas menos contemporáneos o de géneros específicos como el neguetton. La propuesta de nuestra aplicación le resulta atractiva, especialmente por la posibilidad de acceder rápidamente a planes de conciertos para salidas espontáneas los fines de semana. Jazmín destaca la importancia de incluir filtros por género para personalizar la búsqueda, así como un sistema de notificaciones no intrusivo, sugiriendo formatos como calendarios semanales que muestren eventos de artistas vinculados a sus plataformas de streaming (Spotify o YouTube Music). Además, valora funcionalidades como: Información sobre discotecas con dinámicas especiales. Opción de compartir conciertos asistidos.
+Su perfil refleja la necesidad de una herramienta que centralice información dispersa y adapte las recomendaciones a gustos musicales diversos, combinando utilidad con flexibilidad para usuarios ocasionales. </td>
+    </tr>
     </tbody>
     <thead>
     <tr>
     <tr>
-      <th colspan="2" style="background-color: #d3d3d3;"><strong>Segmento objetivo #2:</strong> Artistas emergentes y bandas independientes (18 a 40 años)</th>
+      <th colspan="2" style="background-color: #d3d3d3;">
+	      <strong> Segmento objetivo #2: </strong> Artistas emergentes y bandas independientes (18 a 40 años)
+      </th>
       </tr>
     </thead>
     <tbody>
 	      <!-- Fila extra de una sola columna -->
-    <tr><td colspan="2" style="background-color: #f0f0f0;"><em><div align="center"><img src="assets/interviews/Analisis-Entrevista-Artista1.png" alt="user_persona" style="width: 700px"></em></td></tr>
-    <tr><td>Entrevistador: Renato Zegarra Entrevistado: Gabriel Sumaeta</td><td>El entrevistado, Gabriel Sumaeta, un músico de rock y blues que también se desempeña como sanitario domiciliario, promociona sus eventos principalmente a través de Instagram, donde ha logrado conectar con su audiencia objetivo, aunque reconoce limitaciones en la organización de conciertos debido a inconsistencias en los horarios y falta de coordinación con las empresas productoras. Destaca la importancia de las redes sociales para crecer rápidamente, incluso con pocos seguidores iniciales, pero señala la carencia de herramientas locales que faciliten la promoción de eventos, ya que opciones como Spotify Artists solo están disponibles en Estados Unidos. Valora especialmente la idea de una aplicación que permita personalizar perfiles artísticos, integrar estadísticas de engagement (como las de Instagram) y ofrecer funcionalidades creativas para artistas emergentes. Además, resalta la necesidad de soluciones accesibles y gratuitas que simplifiquen la logística de los eventos, como la sincronización de horarios y la centralización de información, aspectos que actualmente dificultan su gestión. Su testimonio subraya la demanda de plataformas intuitivas que combinen promoción digital con herramientas prácticas para la organización, especialmente diseñadas para escenas musicales locales.</td></tr>
+    <tr>
+	    <td colspan="2" style="background-color: #f0f0f0;">
+		    <em>
+			    <div align="center"><img src="assets/interviews/Analisis-Entrevista-Artista1.png" alt="user_persona" style="width: 700px">
+			    </em>
+			    </td>
+			    </tr>
+    <tr>
+	    <td> Entrevistador: Renato Zegarra Entrevistado: Gabriel Sumaeta </td>
+	    <td> El entrevistado, Gabriel Sumaeta, un músico de rock y blues que también se desempeña como sanitario domiciliario, promociona sus eventos principalmente a través de Instagram, donde ha logrado conectar con su audiencia objetivo, aunque reconoce limitaciones en la organización de conciertos debido a inconsistencias en los horarios y falta de coordinación con las empresas productoras. Destaca la importancia de las redes sociales para crecer rápidamente, incluso con pocos seguidores iniciales, pero señala la carencia de herramientas locales que faciliten la promoción de eventos, ya que opciones como Spotify Artists solo están disponibles en Estados Unidos. Valora especialmente la idea de una aplicación que permita personalizar perfiles artísticos, integrar estadísticas de engagement (como las de Instagram) y ofrecer funcionalidades creativas para artistas emergentes. Además, resalta la necesidad de soluciones accesibles y gratuitas que simplifiquen la logística de los eventos, como la sincronización de horarios y la centralización de información, aspectos que actualmente dificultan su gestión. Su testimonio subraya la demanda de plataformas intuitivas que combinen promoción digital con herramientas prácticas para la organización, especialmente diseñadas para escenas musicales locales. </td>
+    </tr>
      <!-- Fila extra de una sola columna -->
-    <tr><td colspan="2" style="background-color: #f0f0f0;"><em><div align="center"><img src="assets/interviews/Analisis-Entrevista-Artista2.png" alt="user_persona" style="width: 700px"></em></td></tr>
-    <tr><td>Entrevistador: Renato Zegarra Entrevistado: Diego Ruiz</td><td>Diego Ruiz, músico emergente y miembro de la banda de rock latino "Los Vinilos", lleva tres años en la escena musical utilizando principalmente Instagram como herramienta de promoción. Reconoce el valor de esta plataforma para llegar al público joven, pero destaca las limitaciones actuales: la saturación de contenido y la necesidad de contar con una base de seguidores inicial para tener visibilidad. Su estrategia combina publicaciones recurrentes (2-3 veces por semana) con el boca a boca, además de mencionar sus redes al final de cada presentación para captar nuevos seguidores. Sin embargo, admite que el proceso es lento y competitivo, especialmente para artistas que buscan monetizar su trabajo y ganar reconocimiento.
-
-La propuesta de STAYMAP resuena especialmente con Diego, quien ve en la aplicación una solución integral para varios de sus desafíos. La funcionalidad de geolocalización de eventos le parece clave para aumentar la asistencia a sus conciertos, ya que permitiría a los usuarios descubrir fácilmente lugares con presentaciones en vivo. Además, valora la posibilidad de crear un perfil artístico completo que muestre el género musical, la trayectoria de la banda y eventos pasados, lo que brindaría mayor profesionalismo a su imagen. La integración con Instagram y Spotify también es atractiva para él, pues facilitaría el crecimiento de su audiencia y la difusión de su música de manera más orgánica.
-
-Para Diego, STAYMAP representa una oportunidad para democratizar el acceso a herramientas de promoción que actualmente son difíciles de obtener para artistas independientes. Considera que la aplicación podría eliminar barreras de entrada al ofrecer un espacio centrado en músicos, donde el arte sea el protagonista y el público pueda descubrir talento de manera más directa y personalizada. Su entusiasmo es evidente al recomendar la app a otros artistas emergentes, ya que cree firmemente en su potencial para transformar la forma en que los músicos se conectan con su audiencia y crecen en sus carreras. Su testimonio refuerza la importancia de desarrollar una plataforma que no solo solucione problemas prácticos, sino que también empodere a los artistas en su camino profesional..</td></tr>
+    <tr>
+	    <td colspan="2" style="background-color: #f0f0f0;">
+		    <em>
+			    <div align="center">
+				    <img src="assets/interviews/Analisis-Entrevista-Artista2.png" alt="user_persona" style="width: 700px">
+			    </em>
+			    </td>
+			    </tr>
+    <tr>
+	    <td> Entrevistador: Renato Zegarra Entrevistado: Diego Ruiz </td>
+	    <td> Diego Ruiz, músico emergente y miembro de la banda de rock latino "Los Vinilos", lleva tres años en la escena musical utilizando principalmente Instagram como herramienta de promoción. Reconoce el valor de esta plataforma para llegar al público joven, pero destaca las limitaciones actuales: la saturación de contenido y la necesidad de contar con una base de seguidores inicial para tener visibilidad. Su estrategia combina publicaciones recurrentes (2-3 veces por semana) con el boca a boca, además de mencionar sus redes al final de cada presentación para captar nuevos seguidores. Sin embargo, admite que el proceso es lento y competitivo, especialmente para artistas que buscan monetizar su trabajo y ganar reconocimiento. La propuesta de STAYMAP resuena especialmente con Diego, quien ve en la aplicación una solución integral para varios de sus desafíos. La funcionalidad de geolocalización de eventos le parece clave para aumentar la asistencia a sus conciertos, ya que permitiría a los usuarios descubrir fácilmente lugares con presentaciones en vivo. Además, valora la posibilidad de crear un perfil artístico completo que muestre el género musical, la trayectoria de la banda y eventos pasados, lo que brindaría mayor profesionalismo a su imagen. La integración con Instagram y Spotify también es atractiva para él, pues facilitaría el crecimiento de su audiencia y la difusión de su música de manera más orgánica. Para Diego, STAYMAP representa una oportunidad para democratizar el acceso a herramientas de promoción que actualmente son difíciles de obtener para artistas independientes. Considera que la aplicación podría eliminar barreras de entrada al ofrecer un espacio centrado en músicos, donde el arte sea el protagonista y el público pueda descubrir talento de manera más directa y personalizada. Su entusiasmo es evidente al recomendar la app a otros artistas emergentes, ya que cree firmemente en su potencial para transformar la forma en que los músicos se conectan con su audiencia y crecen en sus carreras. Su testimonio refuerza la importancia de desarrollar una plataforma que no solo solucione problemas prácticos, sino que también empodere a los artistas en su camino profesional..</td></tr>
      <!-- Fila extra de una sola columna -->
-    <tr><td colspan="2" style="background-color: #f0f0f0;"><em><div align="center"><img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px"></em></td></tr>
-    <tr><td>Entrevistador: Diego Collantes Entrevistado: Su primo :v </td><td>MOMOMOMO.</td></tr>
+    <tr>
+	    <td colspan="2" style="background-color: #f0f0f0;">
+		    <em>
+			    <div align="center"><img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px">
+			    </em>
+			    </td></tr>
+    <tr>
+	    <td> Entrevistador: Diego Collantes Entrevistado: Su primo :v </td>
+	    <td> MOMOMOMO. </td>
+    </tr>
  
 </table>
 
 
 
-#2.3. Needfinding.
+# 2.3. Needfinding
 
-##2.3.1. User Personas.
+## 2.3.1. User Personas
 
 Los user personas son perfiles representativos de los usuarios que ayudan a comprender mejor sus necesidades, motivaciones y comportamientos. En StayMap, estos perfiles guían el diseño y desarrollo de la plataforma para asegurar que responda a lo que realmente buscan nuestros principales segmentos, como los fans de la música y los artistas emergentes.
 
@@ -929,14 +978,14 @@ Los user personas son perfiles representativos de los usuarios que ayudan a comp
       <td>Media</td>
     </tr>
     <tr>
-      <td>Comparar información de eventos entre diferentes redes</td>
-      <td>Ocasional</td>
-      <td>Media</td>
+      <td> Comparar información de eventos entre diferentes redes</td>
+      <td> Ocasional </td>
+      <td> Media </td>
     </tr>
     <tr>
-      <td>Consultas redes sociales para enterarse de eventos</td>
-      <td>Muy frecuente</td>
-      <td>Alta</td>
+      <td> Consultas redes sociales para enterarse de eventos </td>
+      <td> Muy frecuente </td>
+      <td> Alta </td>
     </tr>
   </tbody>
 </table>
@@ -944,35 +993,35 @@ Los user personas son perfiles representativos de los usuarios que ayudan a comp
 <table border="1">
   <thead>
     <tr>
-      <th>Tareas</th>
-      <th colspan="2">Diego Rivas</th>
+      <th> Tareas </th>
+      <th colspan="2"> Diego Rivas </th>
     </tr>
     <tr>
       <th></th>
-      <th>Frecuencia</th>
-      <th>Importancia</th>
+      <th> Frecuencia </th>
+      <th> Importancia </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Promocionar sus conciertos</td>
-      <td>Frecuente</td>
-      <td>Muy alta</td>
+      <td> Promocionar sus conciertos </td>
+      <td> Frecuente </td>
+      <td> Muy alta </td>
     </tr>
     <tr>
-      <td>Buscar plataformas gratuitas o de bajo costo para difusión</td>
-      <td>Frecuente</td>
-      <td>Muy alta</td>
+      <td> Buscar plataformas gratuitas o de bajo costo para difusión </td>
+      <td> Frecuente </td>
+      <td> Muy alta </td>
     </tr>
     <tr>
-      <td>Organizar y coordinar presentaciones en bares o festivales</td>
-      <td>Ocasional</td>
-      <td>Alta</td>
+      <td> Organizar y coordinar presentaciones en bares o festivales </td>
+      <td> Ocasional </td>
+      <td> Alta </td>
     </tr>
     <tr>
-      <td>Interactuar con su comunidad de seguidores</td>
-      <td>Frecuente</td>
-      <td>Medio</td>
+      <td> Interactuar con su comunidad de seguidores </td>
+      <td> Frecuente </td>
+      <td> Medio </td>
     </tr>
   </tbody>
 </table>
@@ -1005,43 +1054,47 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 <table>
   <thead>
     <tr>
-      <th colspan="3"><strong>¿Qué piensa y siente?</strong><br>
+      <th colspan="3"><strong> ¿Qué piensa y siente? </strong>
+	      <br>
         - Ama la música y los conciertos en vivo<br>
-        - Siente frustración cuando se pierde eventos de sus artistas favoritos<br>
+        - Siente frustración cuando se pierde eventos de sus artistas favoritos <br>
         - Desea aprovechar al máximo las experiencias musicales con sus amigos
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>¿Qué oye?</strong><br>
-        - Recomendaciones de amigos sobre eventos o artistas<br>
-        - Historias en redes sociales donde otros comparten experiencias en conciertos<br>
+      <td><strong> ¿Qué oye? </strong>
+	      <br>
+        - Recomendaciones de amigos sobre eventos o artistas <br>
+        - Historias en redes sociales donde otros comparten experiencias en conciertos <br>
         - Noticias musicales en Spotify, TikTok o Instagram
       </td>
-      <td style="text-align: center;"><strong>Fans de la música<br>(Valeria Torres)</strong></td>
-      <td><strong>¿Qué ve?</strong><br>
-        - Contenido en redes sociales de conciertos que ya pasaron<br>
-        - Plataformas dispersas que no le permiten ver todos los eventos de interés fácilmente<br>
+      <td style="text-align: center;"><strong> Fans de la música<br>(Valeria Torres) </strong></td>
+      <td><strong> ¿Qué ve? </strong>
+	      <br>
+        - Contenido en redes sociales de conciertos que ya pasaron <br>
+        - Plataformas dispersas que no le permiten ver todos los eventos de interés fácilmente <br>
         - Influencers o seguidores que comparten información de última hora
       </td>
     </tr>
     <tr>
-      <td colspan="3"><strong>¿Qué dice y hace?</strong><br>
-        - Comenta en redes sobre música y conciertos<br>
-        - Comparte publicaciones de sus artistas favoritos<br>
-        - Se queja de enterarse tarde de eventos importantes<br>
+      <td colspan="3"><strong> ¿Qué dice y hace? </strong>
+	      <br>
+        - Comenta en redes sobre música y conciertos <br>
+        - Comparte publicaciones de sus artistas favoritos <br>
+        - Se queja de enterarse tarde de eventos importantes <br>
         - Intenta mantenerse al tanto, pero siente que no tiene una fuente centralizada
       </td>
     </tr>
     <tr>
-      <td><strong>¿Qué le duele?</strong><br>
-        - No encontrar conciertos fácilmente según su estilo<br>
+      <td><strong> ¿Qué le duele? </strong> <br>
+        - No encontrar conciertos fácilmente según su estilo <br>
         - Sentirse desinformada o llegar tarde a la compra de entradas
       </td>
-      <td colspan="2"><strong>¿A qué aspira?</strong><br>
-        - A no perderse ningún concierto importante con amigos<br>
-        - A vivir experiencias únicas y compartirlas<br>
+      <td colspan="2"><strong> ¿A qué aspira? </strong> <br>
+        - A no perderse ningún concierto importante con amigos <br>
+        - A vivir experiencias únicas y compartirlas <br>
         - A descubrir nuevos artistas que se alineen con sus gustos
       </td>
     </tr>
@@ -1452,14 +1505,16 @@ Hemos optado por la fuente Inter en sus variantes Medium, Bold y Semi-Bold, debi
 
 
 <div align="center">
-<img src="assets/style/tipography.jpg" alt="StayMap Typography" style="width: 450px"></div>
+<img src="assets/style/tipography.jpg" alt="StayMap Typography" style="width: 450px">
+</div>
 
 **Branding:**
 
 El logo de StayMap es una brújula estilizada, simbolizando la búsqueda de eventos musicales por parte de nuestros usuarios. Su diseño sencillo y directo no solo facilita la recordación, sino que también refleja la misión de la plataforma: guiar a los usuarios hacia los eventos musicales más adecuados para sus gustos e intereses. La brújula conecta visualmente con la idea de exploración, tanto de la ciudad como de la música, reforzando nuestra identidad de ser un referente confiable en el descubrimiento de eventos.
 
 <div align="center">
-<img src="assets/style/starymaplogo.png" alt="StayMap Logo" style="width: 200px"></div>
+<img src="assets/style/starymaplogo.png" alt="StayMap Logo" style="width: 200px">
+</div>
 
 
 **Colors:**
@@ -1467,7 +1522,8 @@ El logo de StayMap es una brújula estilizada, simbolizando la búsqueda de even
 La paleta de colores de StayMap se centra en tonos oscuros de morado y negro, acompañados de blanco, creando una atmósfera sofisticada y moderna que resalta los elementos clave de la interfaz sin abrumar al usuario. El morado oscuro simboliza creatividad, pasión y misterio, elementos relacionados con la experiencia de descubrir eventos musicales únicos. El uso de blanco aporta claridad y un contraste nítido, lo que mejora la legibilidad y facilita una navegación intuitiva y agradable. Esta combinación de colores re fuerza el enfoque elegante y accesible de nuestra plataforma, asegurando que los usuarios se sientan cómodos mientras exploran y descubren nuevos eventos musicales.
 
 <div align="center">
-<img src="assets/style/colors.jpg" alt="StayMap Colors" style="width: 400px"></div>
+<img src="assets/style/colors.jpg" alt="StayMap Colors" style="width: 400px">
+</div>
 
 # 4.2. Information Architecture
 
@@ -1574,20 +1630,26 @@ Además, las decisiones tomadas en torno a los sistemas de organización, etique
 ## 4.3.1. Landing Page Wireframe
 
 <div align="center">
-<img src="assets/landing_page_ui_desing/landing-page-wireframe-inicio.png" alt="StayMap Landing Page Wireframe Inicio" style="width: 80%"></div>
+<img src="assets/landing_page_ui_desing/landing-page-wireframe-inicio.png" alt="StayMap Landing Page Wireframe Inicio" style="width: 80%">
+</div>
 <div align="center">
-<img src="assets/landing_page_ui_desing/landing-page-wireframe-fans.png" alt="StayMap Landing Page Wireframe Fans" style="width: 80%"></div>
+<img src="assets/landing_page_ui_desing/landing-page-wireframe-fans.png" alt="StayMap Landing Page Wireframe Fans" style="width: 80%">
+</div>
 <div align="center">
-<img src="assets/landing_page_ui_desing/landing-page-wireframe-artistas.png" alt="StayMap Landing Page Wireframe Artistas" style="width: 80%"></div>
+<img src="assets/landing_page_ui_desing/landing-page-wireframe-artistas.png" alt="StayMap Landing Page Wireframe Artistas" style="width: 80%">
+</div>
 
 ## 4.3.2. Landing Page Mock-up
 
 <div align="center">
-<img src="assets/landing_page_ui_desing/landing-page-mockup-inicio.png" alt="StayMap Landing Page Mockup Inicio" style="width: 80%"></div>
+<img src="assets/landing_page_ui_desing/landing-page-mockup-inicio.png" alt="StayMap Landing Page Mockup Inicio" style="width: 80%">
+</div>
 <div align="center">
-<img src="assets/landing_page_ui_desing/landing-page-mockup-fans.png" alt="StayMap Landing Page Mockup Fans" style="width: 80%"></div>
+<img src="assets/landing_page_ui_desing/landing-page-mockup-fans.png" alt="StayMap Landing Page Mockup Fans" style="width: 80%">
+</div>
 <div align="center">
-<img src="assets/landing_page_ui_desing/landing-page-mockup-artista.png" alt="StayMap Landing Page Mockup Artistas" style="width: 80%"></div>
+<img src="assets/landing_page_ui_desing/landing-page-mockup-artista.png" alt="StayMap Landing Page Mockup Artistas" style="width: 80%">
+</div>
 
 - En la sección de “Para fans” podrás encontrar los beneficios de los usuarios que se registren como fans en StayMap.
 - En la sección de “Para artistas” podrás encontrar los beneficios de los usuarios que se registren como artistas en StayMap.
@@ -1814,4 +1876,4 @@ Notificaciones:
 <div align="center">
   <img src="assets/web_application/web_applications_uxui_desing_userflow_4.png" alt="Web Application Userflow 4" style="width: 80%">
 </div>
-</div>
+
