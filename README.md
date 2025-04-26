@@ -1325,7 +1325,70 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       </td>
       <td>EP04</td>
     </tr>
-  
+    <tr>
+      <td>US10</td>
+      <td>Calificar un evento asistido</td>
+      <td>Como fan, quiero poder dejar una calificación de un concierto para ayudar a otros usuarios</td>
+      <td>
+        <strong>Escenario: Acceso a evento pasado</strong><br>
+        <strong>Dado que</strong> el usuario asistió a un evento<br>
+        <strong>Cuando</strong> accede al historial o evento pasado<br>
+        <strong>Entonces</strong> puede dejar una valoración y comentario.<br><br>
+        <strong>Escenario: Comentario visible para la comunidad</strong><br>
+        <strong>Dado que</strong> la valoración ha sido enviada<br>
+        <strong>Cuando</strong> otros usuarios exploran ese evento<br>
+        <strong>Entonces</strong> pueden leer la experiencia compartida.
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>US11</td>
+      <td>Publicar nuevo concierto</td>
+      <td>Como artista, quiero crear un evento para promocionar mi presentación</td>
+      <td>
+        <strong>Escenario: Acceso al formulario de creación de evento</strong><br>
+        <strong>Dado que</strong> el artista inicia sesión<br>
+        <strong>Cuando</strong> accede a "Crear evento"<br>
+        <strong>Entonces</strong> puede ingresar datos y publicarlo en el mapa.<br><br>
+        <strong>Escenario: Publicación inmediata y visible</strong><br>
+        <strong>Dado que</strong> los datos son válidos<br>
+        <strong>Cuando</strong> se confirma la creación<br>
+        <strong>Entonces</strong> el evento aparece visible en la plataforma.
+      </td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>US12</td>
+      <td>Medir asistencia estimada</td>
+      <td>Como artista, quiero ver cuántas personas marcaron asistencia para medir el interés</td>
+      <td>
+        <strong>Escenario: Visualización de estadísticas de evento</strong><br>
+        <strong>Dado que</strong> el evento está publicado<br>
+        <strong>Cuando</strong> abre las estadísticas<br>
+        <strong>Entonces</strong> visualiza el número de asistentes confirmados.<br><br>
+        <strong>Escenario: Reacción ante datos en tiempo real</strong><br>
+        <strong>Dado que</strong> los usuarios marcan "Asistiré"<br>
+        <strong>Cuando</strong> se actualizan los datos<br>
+        <strong>Entonces</strong> el artista ve reflejado el interés real.
+      </td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>US13</td>
+      <td>Personalizar perfil de artista</td>
+      <td>Como artista, quiero personalizar mi perfil con enlaces y biografía para conectar mejor con el público</td>
+      <td>
+        <strong>Escenario: Edición del perfil</strong><br>
+        <strong>Dado que</strong> el artista abre su perfil<br>
+        <strong>Cuando</strong> edita sus datos<br>
+        <strong>Entonces</strong> puede agregar enlaces, descripción y foto.<br><br>
+        <strong>Escenario: Atractivo visual para fans</strong><br>
+        <strong>Dado que</strong> el perfil ha sido personalizado<br>
+        <strong>Cuando</strong> un fan lo visita<br>
+        <strong>Entonces</strong> puede conocer mejor al artista.
+      </td>
+      <td>EP03</td>
+    </tr>
   </tbody>
 </table>
 
