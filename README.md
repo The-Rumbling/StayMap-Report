@@ -391,7 +391,7 @@ Creemos que, si StayMap permite a los usuarios dejar reseñas y comentarios sobr
 Creemos que, si StayMap destaca a los artistas más destacados y organiza conciertos a gran escala, brindará una plataforma para que los músicos emergentes se presenten junto a artistas establecidos, lo que aumentará sus oportunidades de ser reconocidos por profesionales de la industria y contribuirá a su crecimiento.
 
 
-#### 1.2.2.3. Lean UX Canvas. 
+#### 1.2.2.4. Lean UX Canvas. 
 
 <table border="1">
   <tr>
