@@ -483,7 +483,6 @@ Necesidades principales:
 
 ## 2.1.1. Análisis competitivo
 
-#### 2.1.1. Análisis competitivo
 <table border="2" style="text-align: center;">
 	<tbody>
 		<tr >
