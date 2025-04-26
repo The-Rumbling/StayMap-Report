@@ -1307,5 +1307,9 @@ Además, las decisiones tomadas en torno a los sistemas de organización, etique
 
 <div align="center">
 <img src="assets/landing_page_ui_desing/landing-page-wireframe-inicio.png" alt="StayMap Landing Page Wireframe Inicio" style="width: 80%"></div>
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-wireframe-fans.png" alt="StayMap Landing Page Wireframe Fans" style="width: 80%"></div>
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-wireframe-artistas.png" alt="StayMap Landing Page Wireframe Artistas" style="width: 80%"></div>
 
 
