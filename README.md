@@ -1050,109 +1050,13 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 **Valeria Torres**
 
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="3"><strong> ¿Qué piensa y siente? </strong>
-	      <br>
-        - Ama la música y los conciertos en vivo<br>
-        - Siente frustración cuando se pierde eventos de sus artistas favoritos <br>
-        - Desea aprovechar al máximo las experiencias musicales con sus amigos
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong> ¿Qué oye? </strong>
-	      <br>
-        - Recomendaciones de amigos sobre eventos o artistas <br>
-        - Historias en redes sociales donde otros comparten experiencias en conciertos <br>
-        - Noticias musicales en Spotify, TikTok o Instagram
-      </td>
-      <td style="text-align: center;"><strong> Fans de la música<br>(Valeria Torres) </strong></td>
-      <td><strong> ¿Qué ve? </strong>
-	      <br>
-        - Contenido en redes sociales de conciertos que ya pasaron <br>
-        - Plataformas dispersas que no le permiten ver todos los eventos de interés fácilmente <br>
-        - Influencers o seguidores que comparten información de última hora
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3"><strong> ¿Qué dice y hace? </strong>
-	      <br>
-        - Comenta en redes sobre música y conciertos <br>
-        - Comparte publicaciones de sus artistas favoritos <br>
-        - Se queja de enterarse tarde de eventos importantes <br>
-        - Intenta mantenerse al tanto, pero siente que no tiene una fuente centralizada
-      </td>
-    </tr>
-    <tr>
-      <td><strong> ¿Qué le duele? </strong> <br>
-        - No encontrar conciertos fácilmente según su estilo <br>
-        - Sentirse desinformada o llegar tarde a la compra de entradas
-      </td>
-      <td colspan="2"><strong> ¿A qué aspira? </strong> <br>
-        - A no perderse ningún concierto importante con amigos <br>
-        - A vivir experiencias únicas y compartirlas <br>
-        - A descubrir nuevos artistas que se alineen con sus gustos
-      </td>
-    </tr>
-  </tbody>
-</table>
+<img src="assets/empathy_map/empathy_map_artistas.png" alt="user_persona" style="width: 700px"><</td>
 
 
 **Diego Rivas**
 
+<img src="assets/empathy_map/empathy_map_fan.png" alt="user_persona" style="width: 700px"><</td>
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="3"><strong>¿Qué piensa y siente?</strong><br>
-        - Tiene una fuerte pasión por la música y el deseo de ser escuchado<br>
-        - Siente que su talento merece una audiencia más grande<br>
-        - Se frustra al no tener recursos suficientes para invertir en marketing<br>
-        - Cree en su comunidad y desea verla crecer
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>¿Qué oye?</strong><br>
-        - Consejos de otros músicos sobre cómo crecer en redes<br>
-        - Opiniones sobre lo difícil que es destacar sin una disquera o apoyo financiero<br>
-        - Comentarios positivos de sus seguidores fieles
-      </td>
-      <td style="text-align: center;"><strong>Artistas emergentes y bandas independientes<br>(Diego Rivas)</strong></td>
-      <td><strong>¿Qué ve?</strong><br>
-        - Plataformas saturadas con artistas consolidados<br>
-        - Oportunidades que requieren inversión para tener visibilidad<br>
-        - Pocas herramientas accesibles para artistas locales<br>
-        - Eventos donde solo se promocionan artistas populares
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3"><strong>¿Qué dice y hace?</strong><br>
-        - Publica constantemente en redes sociales sobre su música y conciertos<br>
-        - Agradece a su comunidad de seguidores<br>
-        - Pregunta en foros o grupos sobre espacios para tocar<br>
-        - Se queja de la falta de apoyo a la música emergente
-      </td>
-    </tr>
-    <tr>
-      <td><strong>¿Qué le duele?</strong><br>
-        - No poder llegar a más público sin pagar por publicidad<br>
-        - Sentir que el talento no es suficiente para ser descubierto<br>
-        - La dificultad para promocionar conciertos sin una red establecida
-      </td>
-      <td colspan="2"><strong>¿A qué aspira?</strong><br>
-        - A tener una plataforma donde su música pueda ser descubierta fácilmente<br>
-        - A llenar sus conciertos y conectar con nuevos fans<br>
-        - A vivir de su arte sin depender de grandes inversiones
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ## 2.3.4. As-is Scenario Mapping
 **Fans de la música:**
