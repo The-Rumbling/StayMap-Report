@@ -2536,6 +2536,35 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
+En este Sprint, nos enfocamos en el diseño e implementación de la Landing Page de StayMap. Esta página fue desarrollada para captar la atención de los visitantes, mostrando de manera clara y atractiva el valor que ofrece la plataforma tanto para fans como para artistas. Se implementaron las siguientes secciones:
+
+- Beneficios para Usuarios: Se diseñó una sección destacando las ventajas de usar StayMap, como descubrir eventos locales, hacer check-in en conciertos y conectar con otros fans.
+
+- Beneficios para Artistas: Se creó un apartado dirigido a artistas emergentes, resaltando cómo StayMap puede ayudarlos a aumentar su visibilidad y conectar con nuevas audiencias.
+
+- Testimonios de Fans: Se incorporaron testimonios de usuarios reales, mostrando sus experiencias positivas con la plataforma y reforzando la confianza en el servicio.
+
+- Conciertos Programados Cerca de Ti: Se añadió una sección dinámica que muestra eventos musicales próximos en función de la ubicación del usuario, incentivando la exploración y asistencia a conciertos locales.
+
+**Screenshots de las principales vistas:**
+
+--Sección de Beneficios para Usuarios
+
+Sección de Inicio:
+
+
+
+Sección de Para Fans:
+
+
+
+Sección de Para Artistas:
+
+
+
+Video de visualización y navegación:
+Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
+
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review
 
 **Las principales actividades de Deployment llevadas a cabo fueron:**
