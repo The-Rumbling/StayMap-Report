@@ -1061,6 +1061,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 
 ## 2.3.4. As-is Scenario Mapping
+
 **Fans de la música:**
 
 <p align="center">
@@ -1073,7 +1074,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
   <img src="assets/as-is_scenario/as-is-scenrio-artistas-emergentes.png" alt="as is scenario artistas" width="700">
 </p>
 
-**2.4. Ubiquitous Language**
+# 2.4. Ubiquitous Language
 
 <table>
   <thead>
@@ -1152,7 +1153,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 # 3.2. User stories
 
-### Epics
+**Epics**
 
 
 | Epic ID | Título                                             | Descripción                                                                                                                                                                                       |
@@ -1167,7 +1168,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 <br>
 
 
-### User Stories
+**User Stories**
 
 
 <table border="1">
@@ -1469,7 +1470,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 <img src="assets/impact_mapping/Impact-Mapping-Artista.png" alt="impact mapping Artista" style="width: 700px">
 </p>
 
-# 3.4. Product Backlog.
+# 3.4. Product Backlog
 
 <div class="product-backlog">
   <h3>3.4. Product Backlog</h3>
@@ -2042,4 +2043,38 @@ Notificaciones:
 </div>
 
 # 4.5. Web Applications Prototyping
+
+# CAPÍTULO V 
+
+# 5.1. Software Configuration Management
+
+# 5.1.1. Software Development Environment Configuration
+
+# 5.1.2. Source Code Management
+
+## 5.1.3. Source Code Style Guide & Conventions
+
+## 5.1.4. Software Deployment Configuration
+
+# 5.2. Landing Page, Services & Applications Implementation
+
+## 5.2.1. Sprint N
+
+### 5.2.1.1. Sprint Planning 1
+
+### 5.2.1.2. Aspect Leaders and Collaborators
+
+### 5.2.1.3. Sprint Backlog 1
+
+### 5.2.1.4. Development Evidence for Sprint Review
+
+### 5.2.1.5. Execution Evidence for Sprint Review
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+### 5.2.1.8. Team Collaboration Insights during Sprint
+
+# Avance de Conclusiones, Bibliografía y Anexos
 
