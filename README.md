@@ -588,8 +588,8 @@ Necesidades principales:
 		<tr>
 			<td>Precios &amp; Costos</td>
 			<td><ul>
-				<li>Precios: StayMap será una aplicación gratuita para usuarios y artistas, sin cobros de suscripción ni pago por descarga. Esta política busca eliminar barreras de acceso y fomentar una adopción rápida y masiva de la plataforma.</li>
-				<li>Costos: La app monetizará mediante publicidad selectiva, como promociones de conciertos, eventos culturales y anuncios de locales relacionados con la música. También se evaluarán alianzas estratégicas con organizadores de eventos y marcas del sector para generar ingresos sin afectar la experiencia de descubrimiento musical.</li>
+				<li>Precios: StayMap será una aplicación gratuita para usuarios y artistas, sin cobros de suscripción ni pago por descarga.</li>
+				<li>Costos: Gratuita, pero generará dinero a partir de publicidad como promociones de conciertos. También se evaluarán alianzas estratégicas con organizadores de eventos y marcas del sector para generar ingresos sin afectar la experiencia de descubrimiento musical.</li>
 			</ul></td>	
 			<td><ul>
 				<li>Precios: Gratuito para los usuarios. Las entradas para conciertos se venden a través de la aplicación, con un costo asociado por evento.</li>
