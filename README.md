@@ -1938,7 +1938,7 @@ Perfil de artista:
   <img src="assets/web_application/web_applications_uxui_desing_wireflow_diagram_6.png" alt="Web Application Wireflow 6" style="width: 80%">
 </div>
 
-## 4.4.2. Web Applications Mock-ups
+## 4.4.3. Web Applications Mock-ups
 
 Pantalla de inicio:
 
@@ -2015,7 +2015,7 @@ Notificaciones:
   <img src="assets/web_application/web_applications_uxui_desing_mockup_notificaciones.png" alt="Web Application Mockup Notificaciones" style="width: 80%">
 </div>
 
-## 4.4.3. Web Applications User Flow Diagrams
+## 4.4.4. Web Applications User Flow Diagrams
 
 **UserFlow #1:** En este user flow se encuentra el proceso de usuario al ingresar a la plataforma, mostrando los distintos happy e unhappy paths.
 
