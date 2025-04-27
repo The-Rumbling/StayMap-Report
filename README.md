@@ -154,8 +154,8 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 	- [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
 	- [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
 	- [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-	- [5.2.1.6. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-	- [5.2.1.7. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+	- [5.2.1.6. Software Deployment Evidence for Sprint Review](#5216-software-deployment-evidence-for-sprint-review)
+	- [5.2.1.7. Team Collaboration Insights during Sprint](#5217-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -229,6 +229,10 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
   </tbody>
 </table>
 
+
+# Project Report Collaboration Insights
+
+URL del repositorio de "StayMap": 
 
 # CAPÍTULO I: INTRODUCCIÓN
 
@@ -1934,7 +1938,7 @@ Este prototipo demuestra cómo StayMap traduce la arquitectura de información e
 
 # 4.7. Software Object-Oriented Design
 
-## 4.7.1. Class Diagram
+## 4.7.1. Class Diagrams
 
 <div align="center">
   <img src="assets/class_diagram/class_diagram.png" alt="UML Class Diagram" style="width: 80%">
@@ -1993,7 +1997,7 @@ Este prototipo demuestra cómo StayMap traduce la arquitectura de información e
 
 En la base de datos de StayMap, el modelo lógico define la tabla usuario, cuyos registros pueden ser simplemente usuarios o convertirse en fans o artistas. Si un usuario es artista, tiene la posibilidad de organizar cero, uno o varios conciertos. La tabla organizar_concierto se conecta de forma uno a uno con concierto, ya que cada organización corresponde a un solo evento. A su vez, los conciertos están asociados a un recinto, donde un concierto se realiza en un único recinto, pero un recinto puede albergar muchos conciertos a lo largo del tiempo. Los usuarios pueden consultar los conciertos cercanos y también guardar aquellos conciertos a los que planean asistir o los que ya han asistido, todo esto mediante relaciones de uno a muchos con la tabla de conciertos. Además, los fans pueden unirse a cero o muchas comunidades, dejar múltiples comentarios sobre conciertos o artistas, y también calificar tanto a los conciertos como a los artistas.
 
-# CAPÍTULO V 
+# Capítulo V: Product Implementation, Validation & Deployment
 
 # 5.1. Software Configuration Management
 
@@ -2548,22 +2552,29 @@ En este Sprint, nos enfocamos en el diseño e implementación de la Landing Page
 
 **Screenshots de las principales vistas:**
 
---Sección de Beneficios para Usuarios
-
 Sección de Inicio:
 
-
+<div align="center">
+  <img src="assets/capturas/captura-inicio.png" alt="inicio" style="width: 80%">
+</div>
 
 Sección de Para Fans:
 
-
+<div align="center">
+  <img src="assets/capturas/captura-fans.png" alt="cap fans" style="width: 80%">
+</div>
 
 Sección de Para Artistas:
 
+<div align="center">
+  <img src="assets/capturas/captura-artistas.png" alt="artistas" style="width: 80%">
+</div>
 
+**Enlace de la Landing Page:** https://the-rumbling.github.io/StayMap-Landing_Page/
 
-Video de visualización y navegación:
+**Video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
+
 
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review
 
@@ -2587,25 +2598,25 @@ Para complementar, se preparó un video donde se muestra la navegación completa
 1. Repositorio creado en GitHub:
 
 <div align="center">
-  <img src="assets/capturas/captura-repositorio.png" alt="Database Diagram" style="width: 80%">
+  <img src="assets/capturas/captura-repositorio.png" alt="repositorio" style="width: 80%">
 </div>
 
 2. Configuración de Git y primer Push:
 
 <div align="center">
-  <img src="assets/capturas/captura-bash.png" alt="Database Diagram" style="width: 80%">
+  <img src="assets/capturas/captura-bash.png" alt="bash" style="width: 80%">
 </div>
 
 3. Configuración de GitHub Pages:
 
 <div align="center">
-  <img src="assets/capturas/captura-pages.png" alt="Database Diagram" style="width: 80%">
+  <img src="assets/capturas/captura-pages.png" alt="pages" style="width: 80%">
 </div>
 
 4. Landing Page publicada:
 
 <div align="center">
-  <img src="assets/capturas/captura-landing.png" alt="Database Diagram" style="width: 80%">
+  <img src="assets/capturas/captura-landing.png" alt="landing" style="width: 80%">
 </div>
 
 
@@ -2635,3 +2646,29 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 # Avance de Conclusiones, Bibliografía y Anexos
 
+
+# Conclusiones
+
+
+# Anexos
+
+- As is y To be scenario: https://miro.com/app/board/uXjVLbCX2lg=/
+
+- User Personas: https://www.canva.com/design/DAGPeEqmyeA/L9wnJC-9PFCQaduEDKvmPQ/edit?utm_content=DAGPeEqmyeA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- User Journey Mapping: https://www.canva.com/design/DAGk8-I0Hrg/xJaTzrcNYGSHJ6VSb8zFfQ/edit?utm_content=DAGk8-I0Hrg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- Impact Mapping: https://www.canva.com/design/DAGk9rcKRI8/ZQ2ST5mLQJLqqllDFvBzKg/edit
+
+# Bibliografía
+
+- Instituto de Estudios Peruanos (IEP). (2019). Informe de Opinión: Música y hábitos de consumo cultural. https://iep.org.pe/wp-content/uploads/2019/09/Informe-OP-Septiembre-2019-M%C3%BAsica-7.pdf
+
+- Ramos-Pla, A., Ramírez-Montoya, M. S., & García-Peñalvo, F. J. (2022). Consumo musical y su relación con la asistencia a conciertos entre universitarios. Revista de Comunicación, 21(2). https://www.redalyc.org/journal/280/28065583023/html/
+
+- Chartmetric. (2023). Year in music 2023: Part 1. Chartmetric. https://reports.chartmetric.com/2023/year-in-music/part-1
+
+- Industriamusical.com. (2024). Solo el 0.01% de los artistas emergentes alcanza niveles moderados de éxito. https://industriamusical.com/solo-el-0-01-de-los-artistas-emergentes-alcanza-niveles-moderados-de-exito/
+Mordor Intelligence. (2024). Análisis del mercado de artistas independientes - crecimiento, tendencias y pronósticos (2024-2029). https://www.mordorintelligence.com/es/industry-reports/independent-artists
+
+- GlobeNewswire. (2025). Music Tourism Market Analysis Report 2024: Specialized Music Festivals, Expanding Offering, Niche Genres, and Unique Cultural Experiences – Global Long-term Forecast to 2028 and 2033. https://www.globenewswire.com/news-release/2025/01/07/3005534/28124/en/Music-Tourism-Market-Analysis-Report-2024-Specialized-Music-Festivals-Expanding-Offering-Niche-Genres-and-Unique-Cultural-Experiences-Global-Long-term-Forecast-to-2028-and-2033.html
