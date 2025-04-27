@@ -2051,6 +2051,11 @@ Notificaciones:
 
 # 4.5. Web Applications Prototyping
 
+|Tipo|Link del video|
+|---|--------------|
+|Desktop|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EX_5H4ofoydGrjyaxA3pE1wBrclkUgJO2V4Tse0Y0pZmBg?e=TYIOYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+|Mobile|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg85OUFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Ciz3g?e=ca8Kze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+
 # 4.6. Domain-Driven Software Architecture
 
 ## 4.6.1. Software Architecture Context Diagram
@@ -2129,6 +2134,8 @@ Notificaciones:
 <div align="center">
   <img src="assets/database_diagram/database_diagram.png" alt="Database Diagram" style="width: 80%">
 </div>
+
+En la base de datos de StayMap, el modelo lógico define la tabla usuario, cuyos registros pueden ser simplemente usuarios o convertirse en fans o artistas. Si un usuario es artista, tiene la posibilidad de organizar cero, uno o varios conciertos. La tabla organizar_concierto se conecta de forma uno a uno con concierto, ya que cada organización corresponde a un solo evento. A su vez, los conciertos están asociados a un recinto, donde un concierto se realiza en un único recinto, pero un recinto puede albergar muchos conciertos a lo largo del tiempo. Los usuarios pueden consultar los conciertos cercanos y también guardar aquellos conciertos a los que planean asistir o los que ya han asistido, todo esto mediante relaciones de uno a muchos con la tabla de conciertos. Además, los fans pueden unirse a cero o muchas comunidades, dejar múltiples comentarios sobre conciertos o artistas, y también calificar tanto a los conciertos como a los artistas.
 
 # CAPÍTULO V 
 
