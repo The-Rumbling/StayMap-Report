@@ -2037,7 +2037,9 @@ Para el desarrollo de la interfaz responsive del sistema StayMap se utilizaron t
 
 Se aplicó una estructura clara y organizada mediante el uso de etiquetas semánticas y contenedores:
 
-&lt;<header>&lt;
+<pre>
+<code><header><pre>
+<code>
 
 Encabezado general de la página.
 
