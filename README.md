@@ -2037,56 +2037,53 @@ Para el desarrollo de la interfaz responsive del sistema StayMap se utilizaron t
 
 Se aplicó una estructura clara y organizada mediante el uso de etiquetas semánticas y contenedores:
 
-<pre>
-<code><header><pre>
-<code>
+	<header></header>
+
 
 Encabezado general de la página.
 
+	<nav></nav>
 
-&lt;<nav>&lt;
 Barra de navegación.
 
-
-&lt;<main>&lt;
+	<main></main>
 
 Contenedor principal del contenido.
 
 
-
-&lt;<div class="container">&lt;
-
+	<div class="container">
+	
 Se utilizó para agrupar bloques de contenido relacionados.
 
-
-&lt;<footer>&lt;
+	<footer>
 
 Pie de página con información adicional.
 
 
 Los títulos se declararon jerárquicamente usando las etiquetas 
 
-&lt;<h1> a <h6>&lt;
+	<h1> a <h6>
 
 Las imágenes se insertaron mediante la etiqueta 
 
-&lt;<img>&lt; 
+	<img>
 
 incluyendo el atributo alt.
 
 Ejemplo:
 
-&lt;<header>
-  <h1>StayMap</h1>
-</header>&lt;
+	<header>
+ 	 <h1>StayMap</h1>
+	</header>
 
 
-&lt;<div class="container">
-  <p>Contenido relacionado agrupado.</p>
-</div>&lt;
+
+	<div class="container">
+  	<p>Contenido relacionado agrupado.</p>
+	</div>
 
 
-&lt;<img src="imagen.jpg" alt="Descripción de la imagen">&lt;
+	<img src="imagen.jpg" alt="Descripción de la imagen">
 
 
 **CSS**
@@ -2106,10 +2103,10 @@ Nombres de clases en formato kebab-case (ej. .contenedor-principal).
 Ejemplo:
 
 
-&lt;h1 {
-  font-size: 24px;
-  color: #0066cc;
-}&lt;
+	h1 {
+ 	 font-size: 24px;
+	  color: #0066cc;
+	}
 
 **JavaScript**
 
@@ -2124,9 +2121,9 @@ Uso de nombres en camelCase.
 
 
 
-&lt;function mostrarMenu() {
-  // Código para mostrar u ocultar el menú
-}&lt;
+		function mostrarMenu() {
+  			// Código para mostrar u ocultar el menú
+		}
 
 **Buenas prácticas generales**
 
