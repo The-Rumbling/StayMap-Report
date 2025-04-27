@@ -196,43 +196,13 @@ Con pasión, creatividad y enfoque social, desde el corazón de The Rumbling imp
 
 ## 1.1.2. Perfiles de integrantes del equipo
 
-<table>
-  <thead>
-    <tr>
-      <th>Estudiante</th>
-      <th>Descripción</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="assets/profile_images/diego_collantes.png" alt="team member profile photo" style="width: 300px">Collantes Carrillo, Diego Mateo (u202311823)</td>
-      <td>Mi nombre es Diego Collantes. Tengo 19 años. Soy estudiante de quinto ciclo en la Universidad Peruana de Ciencias Aplicadas (UPC). Disfruto de leer, redactar y escuchar música en mi tiempo libre. Elegí esta carrera, ya que me interesó todo el proceso que hay detrás de cada aplicación o programa que usamos en nuestro día a día. Personalmente, espero ampliar mis conocimientos en este ámbito a lo largo de este curso. Además, estoy comprometido a contribuir en todo lo que sea posible con el equipo y a desempeñarme de manera adecuada.
-</td>
-    </tr>
-    <tr>
-       <td><img src="assets/profile_images/ariana_lizarbe.png" alt="team member profile photo" style="width: 300px">Lizarbe Alvarez, Ariana Nickole (u202311704)</td>
-      <td>Mi nombre es Ariana Lizarbe, tengo 19 años y estoy cursando el cuarto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. En mi tiempo libre fuera de la universidad, procuro mejorar mis habilidades blandas, como la empatía o inteligencia emocional. También, me esfuerzo en adquirir conocimientos que pueden ayudarme a desarrollarme como futura profesional, como distintos lenguajes de programación. A su vez, disfruto de escuchar música, podcasts, leer y ver series de televisión. Me comprometo a colaborar de manera activa y responsable en la creación de esta startup, aportando mis habilidades en pensamiento crítico, trabajo en equipo y adaptabilidad para alcanzar un trabajo de calidad sobresaliente.
-</td>
-    </tr>
-    <tr>
-      <td><img src="assets/profile_images/antuanete_ortiz.png" alt="team member profile photo" style="width: 300px">Ortiz Cardenas, Johanna Antuanete (u202310358)</td>
-      <td>Mi nombre es Johanna Antuanete Ortiz Cárdenas, tengo 18 años y me encuentro en el quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona proactiva y responsable, siempre buscando que mis trabajos sean de la mejor calidad posible. Me apasiona investigar sobre tecnología, lo que me permite estar al tanto de las últimas novedades y tendencias. En mi tiempo libre, disfruto jugar videojuegos, escuchar música y leer cómics. En el presente proyecto grupal, me comprometo a colaborar de manera activa, aportando ideas y siendo puntual con los entregables para garantizar resultados sobresalientes.
-</td>
-    </tr>
-    <tr>
-      <td><img src="assets/profile_images/renato_zegarra.png" alt="team member profile photo" style="width: 300px">Zegarra Lopez, Renato Sebastian Rubber (u202311558)</td>
-      <td>Mi nombre es Renato Zegarra, tengo 19 años y actualmente estoy cursando la carrera de Ingeniería de Sistemas de Información en la Universidad Peruana de Ciencias Aplicadas. Fuera de mis estudios, disfruto explorar mis intereses en música, videojuegos y tecnología, siempre buscando nuevas formas de integrar estas pasiones en mi vida cotidiana. Me comprometo a colaborar de manera activa y responsable en la elaboración de este documento y en la concreción de la idea propuesta, aportando mis habilidades en análisis, creatividad y adaptabilidad. Estoy convencido de que con esfuerzo y trabajo en equipo, podemos alcanzar resultados innovadores y de alta calidad.
-</td>
-    </tr>
-    <tr>
-       <td><img src="assets/profile_images/diego_zuniga.png" alt="team member profile photo" style="width: 300px">Zúñiga Murillo, Diego Sebastian (u202310636)</td>
-      <td>Mi nombre es Diego Sebastián Zúñiga Murillo, tengo 20 años y actualmente curso el quinto ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona puntual, participativa y responsable, con una fuerte pasión por la tecnología y el aprendizaje constante.
-En mi tiempo libre disfruto de escuchar música, lo que me ayuda a relajarme y mantener el equilibrio entre mis estudios y mi vida personal. Como estudiante, me comprometo a aportar activamente en el desarrollo de este proyecto, contribuyendo con creatividad, iniciativa y habilidades de liderazgo.
-Confío en que, trabajando en equipo y manteniendo una comunicación constante, lograremos resultados destacados que reflejan nuestro esfuerzo y compromiso.
-</td>
-    </tr>
-  </tbody>
-</table>
+| Estudiante | Descripción |
+|------------|-------------|
+| ![team member profile photo](assets/profile_images/diego_collantes.png) **Collantes Carrillo, Diego Mateo (u202311823)** | Mi nombre es Diego Collantes. Tengo 19 años. Soy estudiante de quinto ciclo en la Universidad Peruana de Ciencias Aplicadas (UPC). Disfruto de leer, redactar y escuchar música en mi tiempo libre. Elegí esta carrera, ya que me interesó todo el proceso que hay detrás de cada aplicación o programa que usamos en nuestro día a día. Personalmente, espero ampliar mis conocimientos en este ámbito a lo largo de este curso. Además, estoy comprometido a contribuir en todo lo que sea posible con el equipo y a desempeñarme de manera adecuada. |
+| ![team member profile photo](assets/profile_images/ariana_lizarbe.png) **Lizarbe Alvarez, Ariana Nickole (u202311704)** | Mi nombre es Ariana Lizarbe, tengo 19 años y estoy cursando el cuarto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. En mi tiempo libre fuera de la universidad, procuro mejorar mis habilidades blandas, como la empatía o inteligencia emocional. También, me esfuerzo en adquirir conocimientos que pueden ayudarme a desarrollarme como futura profesional, como distintos lenguajes de programación. A su vez, disfruto de escuchar música, podcasts, leer y ver series de televisión. Me comprometo a colaborar de manera activa y responsable en la creación de esta startup, aportando mis habilidades en pensamiento crítico, trabajo en equipo y adaptabilidad para alcanzar un trabajo de calidad sobresaliente. |
+| ![team member profile photo](assets/profile_images/antuanete_ortiz.png) **Ortiz Cardenas, Johanna Antuanete (u202310358)** | Mi nombre es Johanna Antuanete Ortiz Cárdenas, tengo 18 años y me encuentro en el quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona proactiva y responsable, siempre buscando que mis trabajos sean de la mejor calidad posible. Me apasiona investigar sobre tecnología, lo que me permite estar al tanto de las últimas novedades y tendencias. En mi tiempo libre, disfruto jugar videojuegos, escuchar música y leer cómics. En el presente proyecto grupal, me comprometo a colaborar de manera activa, aportando ideas y siendo puntual con los entregables para garantizar resultados sobresalientes. |
+| ![team member profile photo](assets/profile_images/renato_zegarra.png) **Zegarra Lopez, Renato Sebastian Rubber (u202311558)** | Mi nombre es Renato Zegarra, tengo 19 años y actualmente estoy cursando la carrera de Ingeniería de Sistemas de Información en la Universidad Peruana de Ciencias Aplicadas. Fuera de mis estudios, disfruto explorar mis intereses en música, videojuegos y tecnología, siempre buscando nuevas formas de integrar estas pasiones en mi vida cotidiana. Me comprometo a colaborar de manera activa y responsable en la elaboración de este documento y en la concreción de la idea propuesta, aportando mis habilidades en análisis, creatividad y adaptabilidad. Estoy convencido de que con esfuerzo y trabajo en equipo, podemos alcanzar resultados innovadores y de alta calidad. |
+| ![team member profile photo](assets/profile_images/diego_zuniga.png) **Zúñiga Murillo, Diego Sebastian (u202310636)** | Mi nombre es Diego Sebastián Zúñiga Murillo, tengo 20 años y actualmente curso el quinto ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona puntual, participativa y responsable, con una fuerte pasión por la tecnología y el aprendizaje constante. En mi tiempo libre disfruto de escuchar música, lo que me ayuda a relajarme y mantener el equilibrio entre mis estudios y mi vida personal. Como estudiante, me comprometo a aportar activamente en el desarrollo de este proyecto, contribuyendo con creatividad, iniciativa y habilidades de liderazgo. Confío en que, trabajando en equipo y manteniendo una comunicación constante, lograremos resultados destacados que reflejan nuestro esfuerzo y compromiso. |
 
 # 1.2 Solution Profile
 ## 1.2.1. Antecedentes y problemática
@@ -715,236 +685,121 @@ Opinión y expectativas sobre StayMap:
 
 ## 2.2.2. Registro de entrevistas
 
-<div align="center">
-<table>
-  <tr>
-    <th colspan="2">Segmento objetivo #1:</th>
-  </tr>
-  <tr>
-    <td colspan="2">Entrevista #1</td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px"></td>
-  </tr>
-  <tr>
-    <td>Nombre: Jade Huaman</td>
-    <td>Edad: 20 años </td>
-  </tr>
-  <tr>
-    <td>Duración: 03:16:20 </td>
-    <td>Inicio: 00:10:00 </td>
-  </tr>
-</table>
-</div>
+#### Entrevista #1
+![user_persona](assets/interviews/Analisis-Entrevista-Fans1.png)
 
-<div align="center">
-<table>
-  <tr>
-    <th colspan="2">Segmento objetivo #1:</th>
-  </tr>
-  <tr>
-    <td colspan="2">Entrevista #2</td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Fan2.jpeg" alt="user_persona" style="width: 700px"><</td>
-  </tr>
-  <tr>
-    <td>Nombre: Massiel Cusi </td>
-    <td>Edad: 20 años </td>
-  </tr>
-  <tr>
-    <td>Duración: 05:18:20 </td>
-    <td>Inicio: 00:03:26 </td>
-  </tr>
-</table>
-</div>
+**Nombre:** Jade Huaman  
+**Edad:** 20 años  
+**Duración:** 03:16:20  
+**Inicio:** 00:10:00  
 
-<div align="center">
-<table>
-  <tr>
-    <th colspan="2">Segmento objetivo #1:</th>
-  </tr>
-  <tr>
-    <td colspan="2">Entrevista #3</td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Fan3.png" alt="user_persona" style="width: 700px"></td>
-  </tr>
-  <tr>
-    <td>Nombre: Jazmin Roque </td>
-    <td>Edad: 21 años </td>
-  </tr>
-  <tr>
-    <td>Duración: 06:04:20 </td>
-    <td>Inicio: 00:08:44 </td>
-  </tr>
-</table>
-</div>
+#### Entrevista #2
+![user_persona](assets/interviews/Analisis-Entrevista-Fan2.jpeg)
 
-<div align="center">
-<table>
-  <tr>
-    <th colspan="2">Segmento objetivo #2:</th>
-  </tr>
-  <tr>
-    <td colspan="2">Entrevista #4</td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Artista1.png" alt="user_persona" style="width: 700px"></td>
-  </tr>
-  <tr>
-    <td>Nombre: Gabriel Sumaeta </td>
-    <td>Edad: 19 años </td>
-  </tr>
-  <tr>
-    <td>Duración: 10:44:70 </td>
-    <td>Inicio: 00:14:54 </td>
-  </tr>
-</table>
-</div>
+**Nombre:** Massiel Cusi  
+**Edad:** 20 años  
+**Duración:** 05:18:20  
+**Inicio:** 00:03:26  
 
-<div align="center">
-<table>
-  <tr>
-    <th colspan="2">Segmento objetivo #2:</th>
-  </tr>
-  <tr>
-    <td colspan="2">Entrevista #5</td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Artista2.png" alt="user_persona" style="width: 700px"></td>
-  </tr>
-  <tr>
-    <td>Nombre: Diego Ruiz </td>
-    <td>Edad: 19 años </td>
-  </tr>
-  <tr>
-    <td>Duración: 09:58:40 </td>
-    <td>Inicio: 00:25:38 </td>
-  </tr>
-</table>
-</div>
+#### Entrevista #3
+![user_persona](assets/interviews/Analisis-Entrevista-Fan3.png)
 
-<div align="center">
-<table>
-  <tr>
-    <th colspan="2">Segmento objetivo #2:</th>
-  </tr>
-  <tr>
-    <td colspan="2">Entrevista #6</td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="assets/interviews/Analisis-Entrevista-Artista3.png" alt="user_persona" style="width: 700px"></td>
-  </tr>
-  <tr>
-    <td>Nombre: Juan Carrillo</td>
-    <td>Edad: 21 años</td>
-  </tr>
-  <tr>
-    <td>Duración: 07:57:21</td>
-    <td>Inicio: 00:35:38</td>
-  </tr>
-</table>
-</div>
+**Nombre:** Jazmin Roque  
+**Edad:** 21 años  
+**Duración:** 06:04:20  
+**Inicio:** 00:08:44  
+
+### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
+
+#### Entrevista #4
+![user_persona](assets/interviews/Analisis-Entrevista-Artista1.png)
+
+**Nombre:** Gabriel Sumaeta  
+**Edad:** 19 años  
+**Duración:** 10:44:70  
+**Inicio:** 00:14:54  
+
+#### Entrevista #5
+![user_persona](assets/interviews/Analisis-Entrevista-Artista2.png)
+
+**Nombre:** Diego Ruiz  
+**Edad:** 19 años  
+**Duración:** 09:58:40  
+**Inicio:** 00:25:38  
+
+#### Entrevista #6
+*Foto pendiente*
+
+**Nombre:**  
+**Edad:**  
+**Duración:**  
+**Inicio:**
+
+---
 
 ## 2.2.3. Análisis de entrevistas.
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="2" style="background-color: #d3d3d3;"><strong> Segmento objetivo #1: </strong> Fans de la música (16 a 35 años) </th>
-</tr>
-    </thead>
-    <tbody>
-	      <!-- Fila extra de una sola columna -->
-    <tr>
-<td colspan="2" style="background-color: #f0f0f0;">
-<em>
-<div align="center">
-<img src="assets/interviews/Analisis-Entrevista-Fans1.png" alt="user_persona" style="width: 700px">
-</div>
-    </em>
-    </td>
-    </tr>
-    <tr>
-<td> Entrevistador: Ariana Lizarbe Entrevistado: Jade Huaman </td><td> Jade Huaman, una joven de 20 años dedicada a la pastelería y apasionada por los géneros rock y pop, asiste a conciertos con frecuencia (2-3 veces al año). Sin embargo, enfrenta dificultades para enterarse a tiempo sobre eventos cercanos, especialmente en bares, lo que le hace perder oportunidades. Actualmente, utiliza Instagram y TikTok para seguir a sus artistas, pero critica la saturación de contenido irrelevante en estas plataformas. Jade mostraría interés en una aplicación que le permita descubrir conciertos en vivo de manera eficiente, con filtros por género y proximidad a su ubicación, así como notificaciones relevantes. Además, valdría funcionalidades como guardar eventos favoritos y compartir sus experiencias de conciertos asistidos. Su feedback refuerza la necesidad de una solución centrada en la puntualidad, personalización y usabilidad para fans como ella. </td>
-    </tr>
-	    	      <!-- Fila extra de una sola columna -->
-    <tr>
-<td colspan="2" style="background-color: #f0f0f0;">
-<em>
-<div align="center">
-<img src="assets/interviews/Analisis-Entrevista-Fan2.jpeg" alt="user_persona" style="width: 700px">
-</em>
-</td>
-</tr>
-    <tr>
-	    <td> Entrevistador: Ariana Lizarbe Entrevistado: Massiel Cusi </td>
-	    <td> Massiel Cusi, estudiante de marketing de 20 años y entusiasta del pop, kpop y baladas, asiste a conciertos con regularidad (aproximadamente 3 veces al año). Aunque utiliza plataformas como TikTok y Spotify para seguir a sus artistas, ha enfrentado problemas para estar al tanto de todos los eventos, como un concierto en marzo que se perdió debido a la falta de publicidad. Actualmente, Spotify le ayuda a conocer algunos tours, pero la información no siempre es completa o accesible. Massiel vería con buenos ojos una aplicación que centralice la información sobre conciertos, ofreciendo funciones como un mapa interactivo con eventos cercanos, alertas personalizadas por artista y detalles logísticos (como cómo llegar al lugar). Además, valora la posibilidad de guardar eventos favoritos y compartir sus experiencias, ya que esto simplificaría su proceso de planificación y le ahorraría tiempo en investigaciones manuales. Su testimonio resalta la importancia de integrar múltiples fuentes de información en una sola plataforma, priorizando la facilidad de uso y la actualización en tiempo real. </td>
-    </tr>
-	    	    	      <!-- Fila extra de una sola columna -->
-    <tr>
-	<td colspan="2" style="background-color: #f0f0f0;">
-		<em>
-			<div align="center"><img src="assets/interviews/Analisis-Entrevista-Fan3.png" alt="user_persona" style="width: 700px">
-			</em>
-			</td>
-			</tr>
-    <tr>
-	    <td> Entrevistador: Ariana Lizarbe Entrevistado: Jazmin Roque </td><td> Jazmín Roque, estudiante de ingeniería ambiental de 21 años, disfruta asistiendo principalmente a festivales musicales (un promedio de 4 al año), con preferencia por géneros variados como pop, rock y cumbia. Aunque utiliza redes sociales como Instagram y TikTok para seguir a sus artistas, enfrenta dificultades para encontrar información sobre conciertos de artistas menos contemporáneos o de géneros específicos como el neguetton. La propuesta de nuestra aplicación le resulta atractiva, especialmente por la posibilidad de acceder rápidamente a planes de conciertos para salidas espontáneas los fines de semana. Jazmín destaca la importancia de incluir filtros por género para personalizar la búsqueda, así como un sistema de notificaciones no intrusivo, sugiriendo formatos como calendarios semanales que muestren eventos de artistas vinculados a sus plataformas de streaming (Spotify o YouTube Music). Además, valora funcionalidades como: Información sobre discotecas con dinámicas especiales. Opción de compartir conciertos asistidos.
-Su perfil refleja la necesidad de una herramienta que centralice información dispersa y adapte las recomendaciones a gustos musicales diversos, combinando utilidad con flexibilidad para usuarios ocasionales. </td>
-    </tr>
-    </tbody>
-    <thead>
-    <tr>
-    <tr>
-      <th colspan="2" style="background-color: #d3d3d3;">
-	      <strong> Segmento objetivo #2: </strong> Artistas emergentes y bandas independientes (18 a 40 años)
-      </th>
-      </tr>
-    </thead>
-    <tbody>
-	      <!-- Fila extra de una sola columna -->
-    <tr>
-	    <td colspan="2" style="background-color: #f0f0f0;">
-		    <em>
-			    <div align="center"><img src="assets/interviews/Analisis-Entrevista-Artista1.png" alt="user_persona" style="width: 700px">
-			    </em>
-			    </td>
-			    </tr>
-    <tr>
-	    <td> Entrevistador: Renato Zegarra Entrevistado: Gabriel Sumaeta </td>
-	    <td> El entrevistado, Gabriel Sumaeta, un músico de rock y blues que también se desempeña como sanitario domiciliario, promociona sus eventos principalmente a través de Instagram, donde ha logrado conectar con su audiencia objetivo, aunque reconoce limitaciones en la organización de conciertos debido a inconsistencias en los horarios y falta de coordinación con las empresas productoras. Destaca la importancia de las redes sociales para crecer rápidamente, incluso con pocos seguidores iniciales, pero señala la carencia de herramientas locales que faciliten la promoción de eventos, ya que opciones como Spotify Artists solo están disponibles en Estados Unidos. Valora especialmente la idea de una aplicación que permita personalizar perfiles artísticos, integrar estadísticas de engagement (como las de Instagram) y ofrecer funcionalidades creativas para artistas emergentes. Además, resalta la necesidad de soluciones accesibles y gratuitas que simplifiquen la logística de los eventos, como la sincronización de horarios y la centralización de información, aspectos que actualmente dificultan su gestión. Su testimonio subraya la demanda de plataformas intuitivas que combinen promoción digital con herramientas prácticas para la organización, especialmente diseñadas para escenas musicales locales. </td>
-    </tr>
-     <!-- Fila extra de una sola columna -->
-    <tr>
-	    <td colspan="2" style="background-color: #f0f0f0;">
-		    <em>
-			    <div align="center">
-				    <img src="assets/interviews/Analisis-Entrevista-Artista2.png" alt="user_persona" style="width: 700px">
-			    </em>
-			    </td>
-			    </tr>
-    <tr>
-	    <td> Entrevistador: Renato Zegarra Entrevistado: Diego Ruiz </td>
-	    <td> Diego Ruiz, músico emergente y miembro de la banda de rock latino "Los Vinilos", lleva tres años en la escena musical utilizando principalmente Instagram como herramienta de promoción. Reconoce el valor de esta plataforma para llegar al público joven, pero destaca las limitaciones actuales: la saturación de contenido y la necesidad de contar con una base de seguidores inicial para tener visibilidad. Su estrategia combina publicaciones recurrentes (2-3 veces por semana) con el boca a boca, además de mencionar sus redes al final de cada presentación para captar nuevos seguidores. Sin embargo, admite que el proceso es lento y competitivo, especialmente para artistas que buscan monetizar su trabajo y ganar reconocimiento. La propuesta de STAYMAP resuena especialmente con Diego, quien ve en la aplicación una solución integral para varios de sus desafíos. La funcionalidad de geolocalización de eventos le parece clave para aumentar la asistencia a sus conciertos, ya que permitiría a los usuarios descubrir fácilmente lugares con presentaciones en vivo. Además, valora la posibilidad de crear un perfil artístico completo que muestre el género musical, la trayectoria de la banda y eventos pasados, lo que brindaría mayor profesionalismo a su imagen. La integración con Instagram y Spotify también es atractiva para él, pues facilitaría el crecimiento de su audiencia y la difusión de su música de manera más orgánica. Para Diego, STAYMAP representa una oportunidad para democratizar el acceso a herramientas de promoción que actualmente son difíciles de obtener para artistas independientes. Considera que la aplicación podría eliminar barreras de entrada al ofrecer un espacio centrado en músicos, donde el arte sea el protagonista y el público pueda descubrir talento de manera más directa y personalizada. Su entusiasmo es evidente al recomendar la app a otros artistas emergentes, ya que cree firmemente en su potencial para transformar la forma en que los músicos se conectan con su audiencia y crecen en sus carreras. Su testimonio refuerza la importancia de desarrollar una plataforma que no solo solucione problemas prácticos, sino que también empodere a los artistas en su camino profesional.</td></tr>
-     <!-- Fila extra de una sola columna -->
-    <tr>
-	    <td colspan="2" style="background-color: #f0f0f0;">
-		    <em>
-			    <div align="center"><img src="assets/interviews/Analisis-Entrevista-Artista3.png" alt="user_persona" style="width: 700px">
-			    </em>
-			    </td></tr>
-    <tr>
-	    <td> Entrevistador: Diego Collantes Entrevistado: Juan Carrillo </td>
-	    <td> Juan Carrillo, conocido artísticamente como Jaün, es un músico emergente de 21 años que inició su carrera en noviembre del año pasado. Aunque su estilo favorito es el R&B, ha optado por empezar con el reguetón por su mayor alcance comercial. Promociona su música principalmente en TikTok e Instagram, donde mantiene una estrategia diferenciada: en Instagram proyecta una imagen artística más seria, mientras que en TikTok se muestra más cercano y aprovecha la viralidad. A pesar de tener experiencia generando contenido, comenta que la transición de comedia a música fue difícil, y que el algoritmo no siempre favorece la calidad musical, obligándolo incluso a invertir en publicidad paga.
+| **Entrevistador** | **Entrevistado** |
+|------------------|------------------|
+| **Ariana Lizarbe** | **Jade Huaman** |
+
+Jade Huaman, una joven de 20 años dedicada a la pastelería y apasionada por los géneros rock y pop, asiste a conciertos con frecuencia (2-3 veces al año). Sin embargo, enfrenta dificultades para enterarse a tiempo sobre eventos cercanos, especialmente en bares, lo que le hace perder oportunidades. Actualmente, utiliza Instagram y TikTok para seguir a sus artistas, pero critica la saturación de contenido irrelevante en estas plataformas. Jade mostraría interés en una aplicación que le permita descubrir conciertos en vivo de manera eficiente, con filtros por género y proximidad a su ubicación, así como notificaciones relevantes. Además, valdría funcionalidades como guardar eventos favoritos y compartir sus experiencias de conciertos asistidos. Su feedback refuerza la necesidad de una solución centrada en la puntualidad, personalización y usabilidad para fans como ella.
+
+![user_persona](assets/interviews/Analisis-Entrevista-Fans1.png)
+
+---
+
+| **Entrevistador** | **Entrevistado** |
+|------------------|------------------|
+| **Ariana Lizarbe** | **Massiel Cusi** |
+
+Massiel Cusi, estudiante de marketing de 20 años y entusiasta del pop, kpop y baladas, asiste a conciertos con regularidad (aproximadamente 3 veces al año). Aunque utiliza plataformas como TikTok y Spotify para seguir a sus artistas, ha enfrentado problemas para estar al tanto de todos los eventos, como un concierto en marzo que se perdió debido a la falta de publicidad. Actualmente, Spotify le ayuda a conocer algunos tours, pero la información no siempre es completa o accesible. Massiel vería con buenos ojos una aplicación que centralice la información sobre conciertos, ofreciendo funciones como un mapa interactivo con eventos cercanos, alertas personalizadas por artista y detalles logísticos (como cómo llegar al lugar). Además, valora la posibilidad de guardar eventos favoritos y compartir sus experiencias, ya que esto simplificaría su proceso de planificación y le ahorraría tiempo en investigaciones manuales. Su testimonio resalta la importancia de integrar múltiples fuentes de información en una sola plataforma, priorizando la facilidad de uso y la actualización en tiempo real.
+
+![user_persona](assets/interviews/Analisis-Entrevista-Fan2.jpeg)
+
+---
+
+| **Entrevistador** | **Entrevistado** |
+|------------------|------------------|
+| **Ariana Lizarbe** | **Jazmín Roque** |
+
+Jazmín Roque, estudiante de ingeniería ambiental de 21 años, disfruta asistiendo principalmente a festivales musicales (un promedio de 4 al año), con preferencia por géneros variados como pop, rock y cumbia. Aunque utiliza redes sociales como Instagram y TikTok para seguir a sus artistas, enfrenta dificultades para encontrar información sobre conciertos de artistas menos contemporáneos o de géneros específicos como el neguetton. La propuesta de nuestra aplicación le resulta atractiva, especialmente por la posibilidad de acceder rápidamente a planes de conciertos para salidas espontáneas los fines de semana. Jazmín destaca la importancia de incluir filtros por género para personalizar la búsqueda, así como un sistema de notificaciones no intrusivo, sugiriendo formatos como calendarios semanales que muestren eventos de artistas vinculados a sus plataformas de streaming (Spotify o YouTube Music). Además, valora funcionalidades como: Información sobre discotecas con dinámicas especiales. Opción de compartir conciertos asistidos. Su perfil refleja la necesidad de una herramienta que centralice información dispersa y adapte las recomendaciones a gustos musicales diversos, combinando utilidad con flexibilidad para usuarios ocasionales.
+
+![user_persona](assets/interviews/Analisis-Entrevista-Fan3.png)
+
+---
+
+## Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
+
+| **Entrevistador** | **Entrevistado** |
+|------------------|------------------|
+| **Renato Zegarra** | **Gabriel Sumaeta** |
+
+El entrevistado, Gabriel Sumaeta, un músico de rock y blues que también se desempeña como sanitario domiciliario, promociona sus eventos principalmente a través de Instagram, donde ha logrado conectar con su audiencia objetivo, aunque reconoce limitaciones en la organización de conciertos debido a inconsistencias en los horarios y falta de coordinación con las empresas productoras. Destaca la importancia de las redes sociales para crecer rápidamente, incluso con pocos seguidores iniciales, pero señala la carencia de herramientas locales que faciliten la promoción de eventos, ya que opciones como Spotify Artists solo están disponibles en Estados Unidos. Valora especialmente la idea de una aplicación que permita personalizar perfiles artísticos, integrar estadísticas de engagement (como las de Instagram) y ofrecer funcionalidades creativas para artistas emergentes. Además, resalta la necesidad de soluciones accesibles y gratuitas que simplifiquen la logística de los eventos, como la sincronización de horarios y la centralización de información, aspectos que actualmente dificultan su gestión. Su testimonio subraya la demanda de plataformas intuitivas que combinen promoción digital con herramientas prácticas para la organización, especialmente diseñadas para escenas musicales locales.
+
+![user_persona](assets/interviews/Analisis-Entrevista-Artista1.png)
+
+---
+
+| **Entrevistador** | **Entrevistado** |
+|------------------|------------------|
+| **Renato Zegarra** | **Diego Ruiz** |
+
+Diego Ruiz, músico emergente y miembro de la banda de rock latino "Los Vinilos", lleva tres años en la escena musical utilizando principalmente Instagram como herramienta de promoción. Reconoce el valor de esta plataforma para llegar al público joven, pero destaca las limitaciones actuales: la saturación de contenido y la necesidad de contar con una base de seguidores inicial para tener visibilidad. Su estrategia combina publicaciones recurrentes (2-3 veces por semana) con el boca a boca, además de mencionar sus redes al final de cada presentación para captar nuevos seguidores. Sin embargo, admite que el proceso es lento y competitivo, especialmente para artistas que buscan monetizar su trabajo y ganar reconocimiento. La propuesta de STAYMAP resuena especialmente con Diego, quien ve en la aplicación una solución integral para varios de sus desafíos. La funcionalidad de geolocalización de eventos le parece clave para aumentar la asistencia a sus conciertos, ya que permitiría a los usuarios descubrir fácilmente lugares con presentaciones en vivo. Además, valora la posibilidad de crear un perfil artístico completo que muestre el género musical, la trayectoria de la banda y eventos pasados, lo que brindaría mayor profesionalismo a su imagen. La integración con Instagram y Spotify también es atractiva para él, pues facilitaría el crecimiento de su audiencia y la difusión de su música de manera más orgánica. Para Diego, STAYMAP representa una oportunidad para democratizar el acceso a herramientas de promoción que actualmente son difíciles de obtener para artistas independientes. Considera que la aplicación podría eliminar barreras de entrada al ofrecer un espacio centrado en músicos, donde el arte sea el protagonista y el público pueda descubrir talento de manera más directa y personalizada. Su entusiasmo es evidente al recomendar la app a otros artistas emergentes, ya que cree firmemente en su potencial para transformar la forma en que los músicos se conectan con su audiencia y crecen en sus carreras. Su testimonio refuerza la importancia de desarrollar una plataforma que no solo solucione problemas prácticos, sino que también empodere a los artistas en su camino profesional.
+
+![user_persona](assets/interviews/Analisis-Entrevista-Artista2.png)
+
+---
+
+| **Entrevistador** | **Entrevistado** |
+|------------------|------------------|
+| **Diego Collantes** | **Juan Carrillo** |
+
+Juan Carrillo, conocido artísticamente como Jaün, es un músico emergente de 21 años que inició su carrera en noviembre del año pasado. Aunque su estilo favorito es el R&B, ha optado por empezar con el reguetón por su mayor alcance comercial. Promociona su música principalmente en TikTok e Instagram, donde mantiene una estrategia diferenciada: en Instagram proyecta una imagen artística más seria, mientras que en TikTok se muestra más cercano y aprovecha la viralidad. A pesar de tener experiencia generando contenido, comenta que la transición de comedia a música fue difícil, y que el algoritmo no siempre favorece la calidad musical, obligándolo incluso a invertir en publicidad paga.
 La propuesta de StayMap le parece sumamente útil, sobre todo por la posibilidad de mostrar eventos en un mapa local. Considera que esta funcionalidad ayudaría a los artistas independientes a ser descubiertos por nuevos oyentes y facilitaría la asistencia a conciertos, fomentando una comunidad real de seguidores. También valora la idea de contar con filtros por género musical, ya que permitiría segmentar el contenido y asegurar que llegue a un público realmente interesado, evitando que su música se pierda entre estilos no afines.
-Para Juan, StatMap representa una oportunidad concreta para hacer visible el talento emergente. Cree que la app puede empoderar a los artistas que hoy compiten en plataformas saturadas y dominadas por algoritmos poco predecibles. Su entusiasmo por la idea se refleja en su disposición a recomendarla a otros músicos, convencido de que una herramienta enfocada en la música independiente puede cambiar la forma en que los artistas se conectan con su audiencia y hacen crecer su carrera. </td>
-    </tr>
- 
-</table>
+Para Juan, StatMap representa una oportunidad concreta para hacer visible el talento emergente. Cree que la app puede empoderar a los artistas que hoy compiten en plataformas saturadas y dominadas por algoritmos poco predecibles. Su entusiasmo por la idea se refleja en su disposición a recomendarla a otros músicos, convencido de que una herramienta enfocada en la música independiente puede cambiar la forma en que los artistas se conectan con su audiencia y hacen crecer su carrera. 
 
-
+![user_persona](assets/interviews/Analisis-Entrevista-Artista3.png)
 
 # 2.3. Needfinding
 
@@ -962,77 +817,21 @@ Los user personas son perfiles representativos de los usuarios que ayudan a comp
 
 ## 2.3.2. User Task Matrix
 
-<table border="1">
-  <thead>
-    <tr>
-      <th>Tareas</th>
-      <th colspan="2">Valeria Torres</th>
-    </tr>
-    <tr>
-      <th></th>
-      <th>Frecuencia</th>
-      <th>Importancia</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Buscar conciertos cerca de su zona</td>
-      <td>Frecuente</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Descubrir nuevos artistas y géneros</td>
-      <td>Frecuente</td>
-      <td>Media</td>
-    </tr>
-    <tr>
-      <td> Comparar información de eventos entre diferentes redes</td>
-      <td> Ocasional </td>
-      <td> Media </td>
-    </tr>
-    <tr>
-      <td> Consultas redes sociales para enterarse de eventos </td>
-      <td> Muy frecuente </td>
-      <td> Alta </td>
-    </tr>
-  </tbody>
-</table>
+| Tareas                                        | Frecuencia | Importancia |
+|-----------------------------------------------|------------|-------------|
+| Buscar conciertos cerca de su zona            | Frecuente  | Alta        |
+| Descubrir nuevos artistas y géneros           | Frecuente  | Media       |
+| Comparar información de eventos entre diferentes redes | Ocasional | Media |
+| Consultas redes sociales para enterarse de eventos | Muy frecuente | Alta |
 
-<table border="1">
-  <thead>
-    <tr>
-      <th> Tareas </th>
-      <th colspan="2"> Diego Rivas </th>
-    </tr>
-    <tr>
-      <th></th>
-      <th> Frecuencia </th>
-      <th> Importancia </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> Promocionar sus conciertos </td>
-      <td> Frecuente </td>
-      <td> Muy alta </td>
-    </tr>
-    <tr>
-      <td> Buscar plataformas gratuitas o de bajo costo para difusión </td>
-      <td> Frecuente </td>
-      <td> Muy alta </td>
-    </tr>
-    <tr>
-      <td> Organizar y coordinar presentaciones en bares o festivales </td>
-      <td> Ocasional </td>
-      <td> Alta </td>
-    </tr>
-    <tr>
-      <td> Interactuar con su comunidad de seguidores </td>
-      <td> Frecuente </td>
-      <td> Medio </td>
-    </tr>
-  </tbody>
-</table>
+### Diego Rivas
+
+| Tareas                                        | Frecuencia | Importancia |
+|-----------------------------------------------|------------|-------------|
+| Promocionar sus conciertos                    | Frecuente  | Muy alta    |
+| Buscar plataformas gratuitas o de bajo costo para difusión | Frecuente  | Muy alta |
+| Organizar y coordinar presentaciones en bares o festivales | Ocasional | Alta |
+| Interactuar con su comunidad de seguidores    | Frecuente  | Medio       |
 
 ## 2.3.3. User Journey Mapping
 
