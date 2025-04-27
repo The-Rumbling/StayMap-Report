@@ -2691,15 +2691,15 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 - As is y To be scenario: https://miro.com/app/board/uXjVLbCX2lg=/
 
-- User Personas: https://www.canva.com/design/DAGPeEqmyeA/L9wnJC-9PFCQaduEDKvmPQ/edit?utm_content=DAGPeEqmyeA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-- User Journey Mapping: https://www.canva.com/design/DAGk8-I0Hrg/xJaTzrcNYGSHJ6VSb8zFfQ/edit?utm_content=DAGk8-I0Hrg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-- Impact Mapping: https://www.canva.com/design/DAGk9rcKRI8/ZQ2ST5mLQJLqqllDFvBzKg/edit
-
 - Wireflow Diagrams: https://lucid.app/lucidspark/78aa6bcf-2d30-441a-afe8-c467f961dd5a/edit?viewport_loc=-3901%2C8387%2C7816%2C3715%2C0_0&invitationId=inv_a6a2e377-b71d-4fd7-9685-fdf246851546
 
 - User Flow Diagrams: https://lucid.app/lucidspark/c12ba67c-79fe-4958-b296-cbf52fc67ce1/edit?viewport_loc=-5597%2C-2950%2C9600%2C4563%2C0_0&invitationId=inv_e02cd09b-80a5-4067-8990-e93d5c30fcfc
+
+- WireFrames: https://www.figma.com/design/77Z93r3nalqetBCDUTVvU0/Untitled?node-id=0-1&p=f&t=84cnNflph9dQEFVu-0
+
+- Mockups: https://www.figma.com/design/WgoQkLQBZxOM76KcRnpysS/Untitled?node-id=0-1&p=f&t=25lXEAyLkHpZuAcH-0
+
+- Diagrama UML: https://lucid.app/lucidchart/c0654847-5143-4121-8907-1f8bae86b31d/edit?viewport_loc=-8104%2C-1137%2C5901%2C2770%2C0_0&invitationId=inv_459664a2-b7f6-49a0-8cc8-e2640f08ee88
 
 # Bibliografía
 
