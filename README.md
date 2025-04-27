@@ -2079,6 +2079,12 @@ Notificaciones:
   <img src="assets/class_diagram/class_diagram.png" alt="Web Application Userflow 4" style="width: 80%">
 </div>
 
+## 4.7.2. Class Dictionary
+
+|Clase|Nombre de atributo|Descripcion|Tipo de dato|
+|-----|------------------|-----------|------------|
+|Mapa |id|Identificador del mapa|Ubicacion|
+
 # CAPÍTULO V 
 
 # 5.1. Software Configuration Management
