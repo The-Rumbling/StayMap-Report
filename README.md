@@ -2098,6 +2098,10 @@ Notificaciones:
 |Concierto|id|Identificador del concierto|string|
 |Concierto|idRecinto|Identificador del recinto|string|
 |Concierto|artista|Artista que se presenta|Artista|
+|Ubicacion|ciudad|Ciudad de la ubicación|string|
+|Ubicacion|pais|País de la ubicación|string|
+|Comentario|id|Identificador del comentario|string|
+|Comentario|idConcierto|Identificador del concierto comentado|string|
 
 # CAPÍTULO V 
 
