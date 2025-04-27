@@ -2059,6 +2059,14 @@ Notificaciones:
   <img src="assets/c4_model/context-diagram.png" alt="Web Application Userflow 4" style="width: 80%">
 </div>
 
+## 4.6.2. Software Architecture Container Diagram
+
+<div align="center">
+  <img src="assets/c4_model/container-diagram.png" alt="Web Application Userflow 4" style="width: 80%">
+</div>
+
+
+
 # CAPÍTULO V 
 
 # 5.1. Software Configuration Management
