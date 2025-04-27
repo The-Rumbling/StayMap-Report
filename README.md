@@ -2077,11 +2077,9 @@ Notificaciones:
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
-### 5.2.1.6. Services Documentation Evidence for Sprint Review
+### 5.2.1.6. Software Deployment Evidence for Sprint Review
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
-### 5.2.1.8. Team Collaboration Insights during Sprint
+### 5.2.1.7. Team Collaboration Insights during Sprint
 
 # Avance de Conclusiones, Bibliografía y Anexos
 
