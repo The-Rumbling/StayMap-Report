@@ -163,27 +163,46 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 ## STUDENT OUTCOME
 ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro.
 
-<table>
-  <thead>
-    <tr>
-      <th>Criterio específico</th>
-      <th>Acciones realizadas</th>
-      <th>Conclusiones</th>
-    </tr>
-  </thead>
-<tbody>
-    <tr>
-      <td>Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-      <td></td>
-      <td></td>
-    </tr>
-    </tbody>
-</table>
+|Criterio específico|Acciones realizadas|Conclusiones|
+|-------------------|-------------------|------------|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia|Collantes Carrillo, Diego Mateo
+TB1:
+Como parte del equipo de STAYMAP, me encargué de diseñar los diagramas C4 y UML para representar la arquitectura del sistema. Presenté estos diagramas al equipo y a los stakeholders, explicando su estructura y cómo cada componente se integra en el proyecto
+
+Lizarbe Alvarez, Ariana Nickole
+TB1:
+Desarrollé la Landing Page de STAYMAP, como modelo inicial en figma, enfocándome en un diseño atractivo y funcional. Mi objetivo fue comunicar claramente el propósito de la plataforma a los usuarios potenciales y recoger sus primeras impresiones
+
+Ortiz Cardenas, Johanna Antuanete
+TB1:
+Elaboré el Modelo C4 de STAYMAP, detallando los niveles de abstracción del sistema. Mi contribución ayudó a que tanto el equipo técnico como los clientes entendieran la escalabilidad y las conexiones entre módulos.
+
+Zegarra Lopez, Renato Sebastian Rubber
+TB1:
+Diseñé la base de datos de STAYMAP, definiendo las tablas, relaciones y consultas principales. Mi trabajo aseguró que los datos se almacenaran de manera eficiente y estuvieran listos para su implementación
+
+Zúñiga Murillo, Diego Sebastián
+TB1:
+Realicé los análisis de entrevistas con usuarios potenciales de STAYMAP y señalé sus necesidades. Registré y comuniqué los hallazgos al equipo para que el desarrollo se alineara con las expectativas del público objetivo
+|Collantes Carrillo, Diego Mateo
+TB1:
+Los diagramas que creé facilitaron la comunicación técnica dentro del equipo y con los stakeholders, evitando malentendidos en las fases iniciales de STAYMAP.
+
+Lizarbe Alvarez, Ariana Nickole
+TB1:
+La Landing Page que desarrollé no solo presentó STAYMAP de manera profesional, sino que también nos permitió validar el interés de los usuarios antes del lanzamiento.
+
+Ortiz Cardenas, Johanna Antuanete
+TB1:
+El Modelo C4 que elaboré se convirtió en una herramienta clave para explicar la complejidad técnica de STAYMAP de manera accesible, incluso para perfiles no técnicos.
+
+Zegarra Lopez, Renato Sebastian Rubber
+TB1:
+El diseño de la base de datos que propuse optimizó el rendimiento de STAYMAP, sentando las bases para un sistema escalable y confiable.
+
+Zúñiga Murillo, Diego Sebastian
+TB1:
+Las entrevistas que conduje revelaron insights valiosos, permitiendo que STAYMAP priorizara funciones clave como la personalización de búsquedas y la confiabilidad de las reseñas.|
 
 # CAPÍTULO I: INTRODUCCIÓN
 
