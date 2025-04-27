@@ -2049,7 +2049,9 @@ Notificaciones:
 	</tr>
         <tr>
 		<td>
-                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg8S0UFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Cizg?e=ca8Kzec&nav=eyJvZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHIyWlXZWJbcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxrZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg8S0UFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c<br>
+		4Cizge=ca8Kzec&nav=eyJvZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHIyWlXZWJbcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYW<br>
+		xrZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 		</td>
 	</tr>
     </table>
