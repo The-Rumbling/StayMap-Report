@@ -2111,6 +2111,12 @@ Notificaciones:
 |Fan|conciertosAsistidos|Lista de conciertos asistidos|List<Concierto>|
 |Comunidad|id|Identificador de la comunidad|string|
 |Comunidad|nombre|Nombre de la comunidad|string|
+|Comunidad|descripcion|Descripción de la comunidad|string|
+|Comunidad|artista|Artista asociado a la comunidad|Artista|
+|Comunidad|miembros|Lista de fans miembros|List<Fan>|
+|ControladorNotificaciones|(atributo interno) obj|Estrategia de notificación usada|NotificacionStrategy|
+|CheckIn|id|Identificador del check-in|string|
+|CheckIn|objUsuario|Usuario que realiza el check-in|Usuario|
 
 # CAPÍTULO V 
 
