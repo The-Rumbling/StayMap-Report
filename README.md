@@ -786,10 +786,12 @@ Opinión y expectativas sobre StayMap:
 #### Entrevista #6
 *Foto pendiente*
 
-**Nombre:**  
-**Edad:**  
+**Nombre:*Juan Carlos*  
+**Edad:*20*  
 **Duración:**  
-**Inicio:**
+**Inicio:*00:35:37*
+
+Link del video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ERJfpT5HoF9Ckz2iN8QzbjEBPFxFxVCkACtrv2SSjkxb1w?e=VY6fld&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ---
 
