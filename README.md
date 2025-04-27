@@ -2086,7 +2086,7 @@ Notificaciones:
 |Mapa |id|Identificador del mapa|Ubicacion|
 |Mapa|ubicacion|Ubicación geográfica del mapa|Ubicacion|
 |Mapa|conciertos|Lista de conciertos en el mapa|list<Concierto>|
-|Recinto|id||Identificador del recinto|string|
+|Recinto|id|Identificador del recinto|string|
 |Recinto|nombre|Nombre del recinto|string|
 |Recinto|ubicacion|Ubicación del recinto|Ubicacion|
 |PromocionConcierto|id|Identificador de la promoción|string|
