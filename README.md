@@ -163,26 +163,72 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 ## STUDENT OUTCOME
 ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro.
 
-|Criterio específico|Acciones realizadas|Conclusiones|
-|-------------------|-------------------|------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia| - Collantes Carrillo, Diego Mateo  TB1: Como parte del equipo de STAYMAP, me encargué de diseñar los diagramas C4 y UML para representar la arquitectura del sistema. Presenté estos diagramas al equipo y a los stakeholders, explicando su estructura y cómo cada componente se integra en el proyecto. - Lizarbe Alvarez, Ariana Nickole TB1: Desarrollé la Landing Page de STAYMAP, como modelo inicial en figma, enfocándome en un diseño atractivo y funcional. Mi objetivo fue comunicar claramente el propósito de la plataforma a los usuarios potenciales y recoger sus primeras impresiones. Ortiz Cardenas, Johanna Antuanete TB1: Elaboré el Modelo C4 de STAYMAP, detallando los niveles de abstracción del sistema. Mi contribución ayudó a que tanto el equipo técnico como los clientes entendieran la escalabilidad y las conexiones entre módulos. Zegarra Lopez, Renato Sebastian Rubber TB1: Diseñé la base de datos de STAYMAP, definiendo las tablas, relaciones y consultas principales. Mi trabajo aseguró que los datos se almacenaran de manera eficiente y estuvieran listos para su implementación. Zúñiga Murillo, Diego Sebastián TB1: Realicé los análisis de entrevistas con usuarios potenciales de STAYMAP y señalé sus necesidades. Registré y comuniqué los hallazgos al equipo para que el desarrollo se alineara con las expectativas del público objetivo.|
-Collantes Carrillo, Diego Mateo TB1: Los diagramas que creé facilitaron la comunicación técnica dentro del equipo y con los stakeholders, evitando malentendidos en las fases iniciales de STAYMAP.
+<table border="1">
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
+      <td>
+        <strong>Collantes Carrillo, Diego Mateo</strong><br>
+        TB1: Como parte del equipo de STAYMAP, me encargué de diseñar los diagramas C4 y UML para representar la arquitectura del sistema. Presenté estos diagramas al equipo y a los stakeholders, explicando su estructura y cómo cada componente se integra en el proyecto.<br>
+        <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
+        TB1: Desarrollé la Landing Page de STAYMAP, como modelo inicial en figma, enfocándome en un diseño atractivo y funcional. Mi objetivo fue comunicar claramente el propósito de la plataforma a los usuarios potenciales y recoger sus primeras impresiones.<br>
+        <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
+        TB1: Elaboré el Modelo C4 de STAYMAP, detallando los niveles de abstracción del sistema. Mi contribución ayudó a que tanto el equipo técnico como los clientes entendieran la escalabilidad y las conexiones entre módulos.<br>
+        <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
+        TB1: Diseñé la base de datos de STAYMAP, definiendo las tablas, relaciones y consultas principales. Mi trabajo aseguró que los datos se almacenaran de manera eficiente y estuvieran listos para su implementación.<br>
+        <strong>Zúñiga Murillo, Diego Sebastián</strong><br>
+        TB1: Realicé los análisis de entrevistas con usuarios potenciales de STAYMAP y señalé sus necesidades. Registré y comuniqué los hallazgos al equipo para que el desarrollo se alineara con las expectativas del público objetivo.
+      </td>
+      <td>
+        <strong>Collantes Carrillo, Diego Mateo</strong><br>
+        TB1: Los diagramas que creé facilitaron la comunicación técnica dentro del equipo y con los stakeholders, evitando malentendidos en las fases iniciales de STAYMAP.<br>
+        <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
+        TB1: La Landing Page que desarrollé no solo presentó STAYMAP de manera profesional, sino que también nos permitió validar el interés de los usuarios antes del lanzamiento.<br>
+        <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
+        TB1: El Modelo C4 que elaboré se convirtió en una herramienta clave para explicar la complejidad técnica de STAYMAP de manera accesible, incluso para perfiles no técnicos.<br>
+        <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
+        TB1: El diseño de la base de datos que propuse optimizó el rendimiento de STAYMAP, sentando las bases para un sistema escalable y confiable.<br>
+        <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
+        TB1: Las entrevistas que conduje revelaron insights valiosos, permitiendo que STAYMAP priorizara funciones clave como la personalización de búsquedas y la confiabilidad de las reseñas.
+      </td>
+    </tr>
+    <tr>
+      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+      <td>
+        <strong>Collantes Carrillo, Diego Mateo</strong><br>
+        TB1: Lideré la creación de documentos técnicos especializados para STAYMAP, transformando complejos diagramas arquitectónicos en guías accesibles con versiones para equipos de desarrollo (detalle técnico) y stakeholders (enfoque ejecutivo).<br>
+        <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
+        TB1: Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando desde whitepapers técnicos hasta copywriting persuasivo para la Landing Page, ajustando registro y profundidad según cada canal.<br>
+        <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
+        TB1: Estructuré el sistema de documentación modular de STAYMAP, creando plantillas estandarizadas para reportes técnicos que permitieron escalar la comunicación del proyecto sin perder consistencia.<br>
+        <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
+        TB1: Publiqué artículos técnicos en el blog interno de STAYMAP explicando patrones de diseño de bases de datos, estableciéndome como referente para consultas escritas del equipo.<br>
+        <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
+        TB1: Implementé un sistema de síntesis de feedback con dashboards escritos automatizados para STAYMAP, transformando datos cualitativos en informes ejecutivos mensuales.
+      </td>
+      <td>
+        <strong>Collantes Carrillo, Diego Mateo</strong><br>
+        TB1: La documentación que preparé se convirtió en la referencia principal para el equipo técnico, asegurando una correcta implementación de los diagramas en STAYMAP.<br>
+        <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
+        TB1: Los textos que desarrollé comunicaron efectivamente el propósito de STAYMAP, recibiendo comentarios positivos tanto de usuarios como del equipo interno.<br>
+        <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
+        TB1: Las guías que escribí permitieron que nuevos integrantes del equipo pudieran entender rápidamente el Modelo C4 y su aplicación en STAYMAP.<br>
+        <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
+        TB1: La documentación de la base de datos que elaboré facilitó el trabajo diario del equipo, evitando confusiones en el manejo de la información.<br>
+        <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
+        TB1: Mis informes organizaron el feedback de los usuarios de manera clara, permitiendo priorizar funciones importantes para STAYMAP.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Lizarbe Alvarez, Ariana Nickole
-TB1:
-La Landing Page que desarrollé no solo presentó STAYMAP de manera profesional, sino que también nos permitió validar el interés de los usuarios antes del lanzamiento.
-
-Ortiz Cardenas, Johanna Antuanete
-TB1:
-El Modelo C4 que elaboré se convirtió en una herramienta clave para explicar la complejidad técnica de STAYMAP de manera accesible, incluso para perfiles no técnicos.
-
-Zegarra Lopez, Renato Sebastian Rubber
-TB1:
-El diseño de la base de datos que propuse optimizó el rendimiento de STAYMAP, sentando las bases para un sistema escalable y confiable.
-
-Zúñiga Murillo, Diego Sebastian
-TB1:
-Las entrevistas que conduje revelaron insights valiosos, permitiendo que STAYMAP priorizara funciones clave como la personalización de búsquedas y la confiabilidad de las reseñas.|
 
 # CAPÍTULO I: INTRODUCCIÓN
 
@@ -865,7 +911,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 <img src="assets/empathy_map/empathy_map_fan.png" alt="user_persona" style="width: 700px"><</td>
 
 
-## 2.3.4. As-is Scenario Mapping
+## 2.3.5. As-is Scenario Mapping
 
 **Fans de la música:**
 
@@ -2003,7 +2049,26 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
 
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review
 
+**Las principales actividades de Deployment llevadas a cabo fueron:**
+
+- Creación de repositorio en GitHub: Se creó un repositorio público dedicado para la Landing Page, facilitando el control de versiones y la colaboración futura.
+
+- Configuración de Git: Se configuró el entorno local para trabajar con Git, incluyendo la identificación de usuario (git config --global user.name y git config --global user.email).
+
+- Inicialización de proyecto Git: Se ejecutó la inicialización del repositorio local (git init), la adición de archivos (git add .) y la generación de un primer commit (git commit -m "Subiendo landing page").
+
+- Asociación a repositorio remoto: Se estableció el enlace entre el repositorio local y GitHub mediante git remote add origin, permitiendo realizar el push del proyecto.
+
+**Publicación mediante GitHub Pages:**
+
+- En la sección Settings > Pages del repositorio, se configuró la publicación seleccionando la rama main y la carpeta raíz (/ (root)).
+
+- Se habilitó el hosting automático, lo que permitió que la Landing Page estuviera disponible en línea a través de un URL público proporcionado por GitHub.
+
+
 ### 5.2.1.7. Team Collaboration Insights during Sprint
+
+
 
 # Avance de Conclusiones, Bibliografía y Anexos
 
