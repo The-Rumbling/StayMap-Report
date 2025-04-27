@@ -2041,3 +2041,22 @@ Notificaciones:
   <img src="assets/web_application/web_applications_uxui_desing_userflow_4.png" alt="Web Application Userflow 4" style="width: 80%">
 </div>
 
+# 4.5. Web Applications Prototyping
+
+<table>
+        <tr>
+            <th>Mobile</th>
+            <th>Desktop</th>
+        </tr>
+        <tr>
+            <td>
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg8S0UFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Cizg?e=ca8Kzec&nav=eyJvZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHIyWlXZWJbcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxrZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVyc mFsTW9kZSI6InZpZXcifX0%3D
+                <a href="#">link</a>
+            </td>
+            <td>
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EX_5H4ofovdGriyyxA3pElwBrclkUgJ0zV4Tse0Y0pZmBg?e=TY1OYy&nav=eyJvZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHIyWlXZWJbcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxrZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmV ycmFsTW9kZSI6InZpZXcifX0%3D
+                <a href="#">link</a>
+            </td>
+        </tr>
+    </table>
+
