@@ -2688,6 +2688,10 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 - Impact Mapping: https://www.canva.com/design/DAGk9rcKRI8/ZQ2ST5mLQJLqqllDFvBzKg/edit
 
+- Wireflow Diagrams: https://lucid.app/lucidspark/78aa6bcf-2d30-441a-afe8-c467f961dd5a/edit?viewport_loc=-3901%2C8387%2C7816%2C3715%2C0_0&invitationId=inv_a6a2e377-b71d-4fd7-9685-fdf246851546
+
+- User Flow Diagrams: https://lucid.app/lucidspark/c12ba67c-79fe-4958-b296-cbf52fc67ce1/edit?viewport_loc=-5597%2C-2950%2C9600%2C4563%2C0_0&invitationId=inv_e02cd09b-80a5-4067-8990-e93d5c30fcfc
+
 # Bibliografía
 
 - Instituto de Estudios Peruanos (IEP). (2019). Informe de Opinión: Música y hábitos de consumo cultural. https://iep.org.pe/wp-content/uploads/2019/09/Informe-OP-Septiembre-2019-M%C3%BAsica-7.pdf
