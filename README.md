@@ -13,7 +13,7 @@
 Carrera de Ingeniería de Software
 
 
-**NRC:** 2510-4334
+**NRC:** 4334
 
 **Profesor:** Hugo Allan Mori Paiva
 
