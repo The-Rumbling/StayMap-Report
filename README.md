@@ -2094,7 +2094,7 @@ La colaboración se realizó principalmente a través de GitHub, donde cada miem
 
 **Gráficos de colaboración (GitHub Insights):**
 
-
+<img src="assets/capturas/captura-repositorio.png" alt="repositorio" style="width: 80%">
 
 Los gráficos de contribución muestran cómo cada miembro participó de manera activa en la implementación del producto. Se evidencia un flujo de trabajo constante mediante pushes regulares y trabajo en paralelo en los diferentes elementos de la Landing Page.
 
