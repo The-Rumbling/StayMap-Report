@@ -47,8 +47,14 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
   <tbody>
     <tr>
       <td>TB1</td>
-      <td></td>
-      <td></td>
+      <td>27/04/2025</td>
+      <td>
+	- Collantes Carrillo, Diego Mateo <br>
+	- Lizarbe Alvarez, Ariana Nickole <br>
+	- Ortiz Cardenas, Johanna Antuanete <br>
+	- Zegarra Lopez, Renato Sebastian Rubber <br> 
+	- Zúñiga Murillo, Diego Sebastian <br>
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -2027,7 +2033,7 @@ Durante esta fase, se emplearon diversas herramientas visuales para identificar,
 
 En esta etapa se utilizaron herramientas de diseño que permitieron crear interfaces intuitivas, visualmente atractivas y centradas en el usuario. Estas herramientas facilitaron la elaboración de prototipos interactivos y estructuras visuales claras del sistema.
 
-- (**Figma:**](https://www.figma.com/es-la/) Utilizamos Figma para la creación de wireframes, mockups y prototipos interactivos. Esta herramienta colaborativa nos permitió iterar rápidamente sobre el diseño de la interfaz, evaluando su usabilidad y estética.
+- [**Figma:**](https://www.figma.com/es-la/) Utilizamos Figma para la creación de wireframes, mockups y prototipos interactivos. Esta herramienta colaborativa nos permitió iterar rápidamente sobre el diseño de la interfaz, evaluando su usabilidad y estética.
 
 - [**Lucidchart:**](https://www.lucidchart.com/pages/es) Empleamos Lucidchart para diseñar el modelo de base de datos y elaborar diagramas UML, lo cual facilitó la visualización estructurada de las entidades, relaciones y comportamientos del sistema.
 
