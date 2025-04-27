@@ -1686,16 +1686,16 @@ Además, las decisiones tomadas en torno a los sistemas de organización, etique
 **Mobile:**
 
 <div align="center">
-<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-inicio" alt="StayMap Landing Page Mockup Mobile Inicio" style="width: 80%">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-inicio.png" alt="StayMap Landing Page Mockup Mobile Inicio" style="width: 80%">
 </div>
 <div align="center">
-<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-menu" alt="StayMap Landing Page Mockup Mobile Menu" style="width: 80%">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-menu.png" alt="StayMap Landing Page Mockup Mobile Menu" style="width: 80%">
 </div>
 <div align="center">
-<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-fans" alt="StayMap Landing Page Mockup Mobile Fans" style="width: 80%">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-fans.png" alt="StayMap Landing Page Mockup Mobile Fans" style="width: 80%">
 </div>
 <div align="center">
-<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-artistas" alt="StayMap Landing Page Mockup Mobile Artistas" style="width: 80%">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-artistas.png" alt="StayMap Landing Page Mockup Mobile Artistas" style="width: 80%">
 </div>
 
 - En la sección de “Para fans” podrás encontrar los beneficios de los usuarios que se registren como fans en StayMap.
