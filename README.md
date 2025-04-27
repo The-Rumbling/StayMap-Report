@@ -2065,7 +2065,11 @@ Notificaciones:
   <img src="assets/c4_model/container-diagram.png" alt="Web Application Userflow 4" style="width: 80%">
 </div>
 
+## 4.6.3. Software Architecture Components Diagram
 
+<div align="center">
+  <img src="assets/c4_model/component-diagram.png" alt="Web Application Userflow 4" style="width: 80%">
+</div>
 
 # CAPÍTULO V 
 
