@@ -2090,7 +2090,8 @@ Notificaciones:
 |Recinto|nombre|Nombre del recinto|string|
 |Recinto|ubicacion|Ubicación del recinto|Ubicacion|
 |PromocionConcierto|id|Identificador de la promoción|string|
-
+|PromocionConcierto|conciertoId|Identificador del concierto asociado|string|
+|PromocionConcierto|fechaInicio|Fecha de inicio de la promoción|string|
 
 # CAPÍTULO V 
 
