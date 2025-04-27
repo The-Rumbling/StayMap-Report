@@ -2051,23 +2051,52 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
 
 **Las principales actividades de Deployment llevadas a cabo fueron:**
 
-- Creación de repositorio en GitHub: Se creó un repositorio público dedicado para la Landing Page, facilitando el control de versiones y la colaboración futura.
+   - Creación de repositorio en GitHub: Se creó un repositorio público dedicado para la Landing Page, facilitando el control de versiones y la colaboración futura.
 
-- Configuración de Git: Se configuró el entorno local para trabajar con Git, incluyendo la identificación de usuario (git config --global user.name y git config --global user.email).
+   - Configuración de Git: Se configuró el entorno local para trabajar con Git, incluyendo la identificación de usuario (git config --global user.name y git config --global user.email).
 
-- Inicialización de proyecto Git: Se ejecutó la inicialización del repositorio local (git init), la adición de archivos (git add .) y la generación de un primer commit (git commit -m "Subiendo landing page").
+   - Inicialización de proyecto Git: Se ejecutó la inicialización del repositorio local (git init), la adición de archivos (git add .) y la generación de un primer commit (git commit -m "Subiendo landing page").
 
-- Asociación a repositorio remoto: Se estableció el enlace entre el repositorio local y GitHub mediante git remote add origin, permitiendo realizar el push del proyecto.
+   - Asociación a repositorio remoto: Se estableció el enlace entre el repositorio local y GitHub mediante git remote add origin, permitiendo realizar el push del proyecto.
 
 **Publicación mediante GitHub Pages:**
 
-- En la sección Settings > Pages del repositorio, se configuró la publicación seleccionando la rama main y la carpeta raíz (/ (root)).
+   - En la sección Settings > Pages del repositorio, se configuró la publicación seleccionando la rama main y la carpeta raíz (/ (root)).
 
-- Se habilitó el hosting automático, lo que permitió que la Landing Page estuviera disponible en línea a través de un URL público proporcionado por GitHub.
+   - Se habilitó el hosting automático, lo que permitió que la Landing Page estuviera disponible en línea a través de un URL público proporcionado por GitHub.
+
+
+1. Repositorio creado en GitHub:
+
+2. Configuración de Git y primer Push:
+
+3. Configuración de GitHub Pages:
+
+4. Landing Page publicada:
 
 
 ### 5.2.1.7. Team Collaboration Insights during Sprint
 
+Desarrollo de Actividades de Implementación:
+Durante este Sprint, el equipo trabajó de manera colaborativa para la implementación de la Landing Page del proyecto. Las tareas principales incluyeron:
+
+	- Diseño y estructuración del contenido HTML.
+
+	- Aplicación de estilos CSS para el diseño visual.
+
+	- Configuración del entorno local de desarrollo.
+
+	- Uso de Git para control de versiones.
+
+	- Coordinación para el despliegue de la Landing Page mediante GitHub Pages.
+
+La colaboración se realizó principalmente a través de GitHub, donde cada miembro del equipo realizó commits documentando los avances individuales y contribuyendo al repositorio compartido. Se fomentó la revisión mutua de cambios y la sincronización de actividades para garantizar una entrega integrada y de calidad.
+
+**Gráficos de colaboración (GitHub Insights):**
+
+
+
+Los gráficos de contribución muestran cómo cada miembro participó de manera activa en la implementación del producto. Se evidencia un flujo de trabajo constante mediante pushes regulares y trabajo en paralelo en los diferentes elementos de la Landing Page.
 
 
 # Avance de Conclusiones, Bibliografía y Anexos
