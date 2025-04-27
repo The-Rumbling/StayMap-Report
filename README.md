@@ -2084,6 +2084,9 @@ Notificaciones:
 |Clase|Nombre de atributo|Descripcion|Tipo de dato|
 |-----|------------------|-----------|------------|
 |Mapa |id|Identificador del mapa|Ubicacion|
+|Mapa|ubicacion|Ubicación geográfica del mapa|Ubicacion|
+|Mapa|conciertos|Lista de conciertos en el mapa|list<Concierto>|
+
 
 # CAPÍTULO V 
 
