@@ -2581,8 +2581,9 @@ Sección de Para Artistas:
 
 **Enlace de la Landing Page:** https://the-rumbling.github.io/StayMap-Landing_Page/
 
-**Video de visualización y navegación:**
+**Link de video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B
 
 
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review
