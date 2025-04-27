@@ -2281,6 +2281,76 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
 
 ### 5.2.1.3. Sprint Backlog 1
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="8">Sprint 1</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>id</th>
+    <th>title</th>
+    <th>id</th>
+    <th>title</th>
+    <th>description</th>
+    <th>estimation</th>
+    <th>assigned to</th>
+    <th>status</th>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Ver beneficios para fans</td>
+    <td>TSK01</td>
+    <td>Diseñar sección de beneficios para fans</td>
+    <td>Crear una sección en la landing page que muestre los beneficios para los fans.</td>
+    <td>2 horas</td>
+    <td>Ariana</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Ver beneficios para artistas</td>
+    <td>TSK02</td>
+    <td>Diseñar sección de beneficios para artistas</td>
+    <td>Crear una sección en la landing page que muestre los beneficios para los artistas.</td>
+    <td>2 horas</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Acceder a testimonios</td>
+    <td>TSK03</td>
+    <td>Implementar módulo de testimonios</td>
+    <td>Permitir a los usuarios visualizar testimonios de otros fans y artistas.</td>
+    <td>1 hora</td>
+    <td>Antuanete</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Registrase en la landing page</td>
+    <td>TSK04</td>
+    <td>Crear formulario de registro</td>
+    <td>Implementar el formulario de registro para nuevos usuarios.</td>
+    <td>2 horas</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Iniciarse sin en la landing page</td>
+    <td>TSK05</td>
+    <td>Implementar login en landing page</td>
+    <td>Permitir a usuarios registrados iniciarse desde la landing page.</td>
+    <td>5 horas</td>
+    <td>Diego</td>
+    <td>in process</td>
+  </tr>
+</table>
+
 ### 5.2.1.4. Development Evidence for Sprint Review
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
