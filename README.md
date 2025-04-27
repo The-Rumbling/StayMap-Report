@@ -2701,6 +2701,10 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 - Diagrama UML: https://lucid.app/lucidchart/c0654847-5143-4121-8907-1f8bae86b31d/edit?viewport_loc=-8104%2C-1137%2C5901%2C2770%2C0_0&invitationId=inv_459664a2-b7f6-49a0-8cc8-e2640f08ee88
 
+videos de exposición:
+
+- TB1: [VIDEO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EVv_U2U49hJMolwRzGWkQhQBZcf4GmKbvnnzPN5Zk3Uovw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uHFIQZ)
+
 # Bibliografía
 
 - Instituto de Estudios Peruanos (IEP). (2019). Informe de Opinión: Música y hábitos de consumo cultural. https://iep.org.pe/wp-content/uploads/2019/09/Informe-OP-Septiembre-2019-M%C3%BAsica-7.pdf
