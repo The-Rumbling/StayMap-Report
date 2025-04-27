@@ -2068,11 +2068,27 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
 
 1. Repositorio creado en GitHub:
 
+<div align="center">
+  <img src="assets/capturas/captura-repositorio.png" alt="Database Diagram" style="width: 80%">
+</div>
+
 2. Configuración de Git y primer Push:
+
+<div align="center">
+  <img src="assets/capturas/captura-bash.png" alt="Database Diagram" style="width: 80%">
+</div>
 
 3. Configuración de GitHub Pages:
 
+<div align="center">
+  <img src="assets/capturas/captura-pages.png" alt="Database Diagram" style="width: 80%">
+</div>
+
 4. Landing Page publicada:
+
+<div align="center">
+  <img src="assets/capturas/captura-landing.png" alt="Database Diagram" style="width: 80%">
+</div>
 
 
 ### 5.2.1.7. Team Collaboration Insights during Sprint
@@ -2094,7 +2110,7 @@ La colaboración se realizó principalmente a través de GitHub, donde cada miem
 
 **Gráficos de colaboración (GitHub Insights):**
 
-<img src="assets/capturas/captura-repositorio.png" alt="repositorio" style="width: 80%">
+
 
 Los gráficos de contribución muestran cómo cada miembro participó de manera activa en la implementación del producto. Se evidencia un flujo de trabajo constante mediante pushes regulares y trabajo en paralelo en los diferentes elementos de la Landing Page.
 
