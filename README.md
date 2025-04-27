@@ -2175,6 +2175,13 @@ Durante esta fase, se emplearon diversas herramientas visuales para identificar,
 
 - **Structurizr:** Implementamos Structurizr para la creación de los diagramas C4, los cuales nos ayudaron a definir la arquitectura del sistema en distintos niveles (Contexto, Contenedor, Componente y Código), brindando una visión clara de cómo se estructuran los elementos del software.
 
+**Product UX/UI Design**
+
+En esta etapa se utilizaron herramientas de diseño que permitieron crear interfaces intuitivas, visualmente atractivas y centradas en el usuario. Estas herramientas facilitaron la elaboración de prototipos interactivos y estructuras visuales claras del sistema.
+
+- **Figma:** Utilizamos Figma para la creación de wireframes, mockups y prototipos interactivos. Esta herramienta colaborativa nos permitió iterar rápidamente sobre el diseño de la interfaz, evaluando su usabilidad y estética.
+
+- **Lucidchart:** Empleamos Lucidchart para diseñar el modelo de base de datos y elaborar diagramas UML, lo cual facilitó la visualización estructurada de las entidades, relaciones y comportamientos del sistema.
 
 # 5.1.2. Source Code Management
 
