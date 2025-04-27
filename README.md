@@ -55,7 +55,12 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 	- Zegarra Lopez, Renato Sebastian Rubber <br> 
 	- Zúñiga Murillo, Diego Sebastian <br>
       </td>
-      <td> Se ha llevado a cabo un trabajo integral que abarca desde la investigación inicial hasta las primeras fases de diseño del producto. Se han realizado entrevistas y análisis de usuarios para comprender mejor las necesidades y expectativas del público objetivo, lo que ha permitido definir de manera clara el enfoque de la solución. Además, se ha trabajado en la construcción de perfiles de usuario, journey maps, mapas de empatía y escenarios, fortaleciendo así la comprensión de la experiencia del usuario. Posteriormente, se elaboraron wireframes, mockups y diagramas de arquitectura de información y software, estableciendo una base visual y técnica para el desarrollo de la aplicación. Todo este proceso ha sido clave para estructurar adecuadamente el producto, alineándolo tanto a las necesidades detectadas como a los objetivos estratégicos del proyecto. Actualmente, el equipo cuenta con una visión sólida y organizada que guiará las próximas etapas de prototipado, validación e implementación.</td>
+      <td> Se ha llevado a cabo un trabajo integral que abarca desde la investigación inicial hasta las primeras fases de diseño del producto. 
+	Se han realizado entrevistas y análisis de usuarios para comprender mejor las necesidades y expectativas del público objetivo, lo que ha permitido definir de manera clara el enfoque de la solución. 
+	Además, se ha trabajado en la construcción de perfiles de usuario, journey maps, mapas de empatía y escenarios, fortaleciendo así la comprensión de la experiencia del usuario. 
+	Posteriormente, se elaboraron wireframes, mockups y diagramas de arquitectura de información y software, estableciendo una base visual y técnica para el desarrollo de la aplicación. 
+	Todo este proceso ha sido clave para estructurar adecuadamente el producto, alineándolo tanto a las necesidades detectadas como a los objetivos estratégicos del proyecto.
+	Actualmente, el equipo cuenta con una visión sólida y organizada que guiará las próximas etapas de prototipado, validación e implementación.</td>
     </tr>
     <tr>
       <td>TP</td>
