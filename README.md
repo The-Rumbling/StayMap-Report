@@ -2076,13 +2076,13 @@ Este prototipo demuestra cómo StayMap traduce la arquitectura de información e
   <img src="assets/c4_model/context-diagram.png" alt="C4 Context Diagram" style="width: 80%">
 </div>
 
-## 4.6.2. Software Architecture Container Diagram
+## 4.6.2. Software Architecture Container Diagrams
 
 <div align="center">
   <img src="assets/c4_model/container-diagram.png" alt="C4 Container Diagram" style="width: 80%">
 </div>
 
-## 4.6.3. Software Architecture Components Diagram
+## 4.6.3. Software Architecture Components Diagrams
 
 <div align="center">
   <img src="assets/c4_model/component-diagram.png" alt="C4 Components Diagram" style="width: 80%">
