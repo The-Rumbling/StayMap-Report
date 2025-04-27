@@ -2056,19 +2056,19 @@ Notificaciones:
 ## 4.6.1. Software Architecture Context Diagram
 
 <div align="center">
-  <img src="assets/c4_model/context-diagram.png" alt="Web Application Userflow 4" style="width: 80%">
+  <img src="assets/c4_model/context-diagram.png" alt="C4 Context Diagram" style="width: 80%">
 </div>
 
 ## 4.6.2. Software Architecture Container Diagram
 
 <div align="center">
-  <img src="assets/c4_model/container-diagram.png" alt="Web Application Userflow 4" style="width: 80%">
+  <img src="assets/c4_model/container-diagram.png" alt="C4 Container Diagram" style="width: 80%">
 </div>
 
 ## 4.6.3. Software Architecture Components Diagram
 
 <div align="center">
-  <img src="assets/c4_model/component-diagram.png" alt="Web Application Userflow 4" style="width: 80%">
+  <img src="assets/c4_model/component-diagram.png" alt="C4 Components Diagram" style="width: 80%">
 </div>
 
 # 4.7. Software Object-Oriented Design
@@ -2076,7 +2076,7 @@ Notificaciones:
 ## 4.7.1. Class Diagram
 
 <div align="center">
-  <img src="assets/class_diagram/class_diagram.png" alt="Web Application Userflow 4" style="width: 80%">
+  <img src="assets/class_diagram/class_diagram.png" alt="UML Class Diagram" style="width: 80%">
 </div>
 
 ## 4.7.2. Class Dictionary
@@ -2121,6 +2121,14 @@ Notificaciones:
 |CheckIn|asistencia|Estado de asistencia|bool|
 |GestionConciertos|conciertos|Lista de conciertos administrados|List<Concierto>|
 |Artista|biografia|Biografia del artista|String|
+
+# 4.8. Database Design
+
+# 4.8.1. Database Diagram
+
+<div align="center">
+  <img src="assets/database_diagram/database_diagram.png" alt="Database Diagram" style="width: 80%">
+</div>
 
 # CAPÍTULO V 
 
