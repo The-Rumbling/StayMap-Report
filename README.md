@@ -2252,7 +2252,7 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
   </tr>
   <tr>
     <td>Ortiz Johanna</td>
-    <td>Antuanet eÜ</td>
+    <td>Antuanet01</td>
     <td>C</td>
     <td>L</td>
     <td>L</td>
