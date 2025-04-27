@@ -2032,93 +2032,112 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
 ## 5.1.3. Source Code Style Guide & Conventions
 
 Para el desarrollo de la interfaz responsive del sistema StayMap se utilizaron tecnologías web como HTML, CSS y JavaScript. A continuación, se presentan las convenciones seguidas en la implementación:
-HTML
+
+**HTML**
+
 Se aplicó una estructura clara y organizada mediante el uso de etiquetas semánticas y contenedores:
-<header>: Encabezado general de la página.
+
+&lt;<header>&lt;
+
+Encabezado general de la página.
 
 
-<nav>: Barra de navegación.
+&lt;<nav>&lt;
+Barra de navegación.
 
 
-<main>: Contenedor principal del contenido.
+&lt;<main>&lt;
+
+Contenedor principal del contenido.
 
 
-<div class="container">: Se utilizó para agrupar bloques de contenido relacionados.
+
+&lt;<div class="container">&lt;
+
+Se utilizó para agrupar bloques de contenido relacionados.
 
 
-<footer>: Pie de página con información adicional.
+&lt;<footer>&lt;
+
+Pie de página con información adicional.
 
 
-Los títulos se declararon jerárquicamente usando las etiquetas <h1> a <h6>. Las imágenes se insertaron mediante la etiqueta <img> incluyendo el atributo alt.
+Los títulos se declararon jerárquicamente usando las etiquetas 
+
+&lt;<h1> a <h6>&lt;
+
+Las imágenes se insertaron mediante la etiqueta 
+
+&lt;<img>&lt; 
+
+incluyendo el atributo alt.
+
 Ejemplo:
-html
-CopiarEditar
-<header>
+
+&lt;<header>
   <h1>StayMap</h1>
-</header>
+</header>&lt;
 
-html
-CopiarEditar
-<div class="container">
+
+&lt;<div class="container">
   <p>Contenido relacionado agrupado.</p>
-</div>
-
-html
-CopiarEditar
-<img src="imagen.jpg" alt="Descripción de la imagen">
+</div>&lt;
 
 
-CSS
+&lt;<img src="imagen.jpg" alt="Descripción de la imagen">&lt;
+
+
+**CSS**
 Los estilos se definieron en un archivo externo. Se emplearon las siguientes prácticas:
 Nombres de clases en formato kebab-case (ej. .contenedor-principal).
 
 
-Separación por secciones (tipografía, layout, botones).
+- Separación por secciones (tipografía, layout, botones).
 
 
-Uso de media queries para diseño responsive.
+- Uso de media queries para diseño responsive.
 
 
-Colores definidos por variables CSS para facilitar su reutilización.
+- Colores definidos por variables CSS para facilitar su reutilización.
 
 
 Ejemplo:
-css
-CopiarEditar
-h1 {
+
+
+&lt;h1 {
   font-size: 24px;
   color: #0066cc;
-}
+}&lt;
 
-JavaScript
+**JavaScript**
+
 Se utilizó JavaScript para interacciones básicas de la interfaz. Las principales convenciones fueron:
 Uso de nombres en camelCase.
 
 
-Separación del código en archivos externos.
+- Separación del código en archivos externos.
 
 
-Comentarios explicativos cuando fue necesario.
+- Comentarios explicativos cuando fue necesario.
 
 
-Ejemplo:
-javascript
-CopiarEditar
-function mostrarMenu() {
+
+&lt;function mostrarMenu() {
   // Código para mostrar u ocultar el menú
-}
+}&lt;
 
-Buenas prácticas generales
-Indentación de 2 espacios.
+**Buenas prácticas generales**
 
-
-Uso correcto de etiquetas semánticas y atributos de accesibilidad.
+- Indentación de 2 espacios.
 
 
-Organización de archivos en carpetas: /css, /js, /img.
+- Uso correcto de etiquetas semánticas y atributos de accesibilidad.
 
 
-Separación del contenido (HTML), presentación (CSS) y comportamiento (JavaScript).
+- Organización de archivos en carpetas: /css, /js, /img.
+
+
+- Separación del contenido (HTML), presentación (CSS) y comportamiento (JavaScript).
 
 
 
