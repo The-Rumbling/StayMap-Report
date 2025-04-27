@@ -2564,6 +2564,10 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
   </tbody>
 </table>
 
+<div align="center">
+  <img src="assets/capturas/captura-commits.png" alt="commits" style="width: 80%">
+</div>
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
 En este Sprint, nos enfocamos en el diseño e implementación de la Landing Page de StayMap. Esta página fue desarrollada para captar la atención de los visitantes, mostrando de manera clara y atractiva el valor que ofrece la plataforma tanto para fans como para artistas. Se implementaron las siguientes secciones:
