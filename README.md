@@ -2096,6 +2096,8 @@ Notificaciones:
 |PromocionConcierto|vigente|Estado vigente de la promoción|boolean|
 |PromocionConcierto|descripcion|Descripción de la promoción|string|
 |Concierto|id|Identificador del concierto|string|
+|Concierto|idRecinto|Identificador del recinto|string|
+|Concierto|artista|Artista que se presenta|Artista|
 
 # CAPÍTULO V 
 
