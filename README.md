@@ -2353,6 +2353,187 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
 
 ### 5.2.1.4. Development Evidence for Sprint Review
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit id</th>
+      <th>Commit message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">ariaalizz</td>
+      <td>louis-tour.png</td>
+      <td>07cbb65</td>
+      <td>archive .png</td>
+      <td>landing page image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>starymapiogo.png</td>
+      <td>2fe5ae4</td>
+      <td>archive.png</td>
+      <td>logo StayMap</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>taylor.jpeg</td>
+      <td>5be819f</td>
+      <td>archive.png</td>
+      <td>landing page image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>styles.css</td>
+      <td>0253b2a</td>
+      <td>archive.css</td>
+      <td>image design</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>index.html</td>
+      <td>4c24312</td>
+      <td>archive.html</td>
+      <td>landing testing</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td rowspan="5">DekayDeCanela</td>
+      <td>fans.css</td>
+      <td>754862b</td>
+      <td>archive.css</td>
+      <td>landing testing</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>artista.css</td>
+      <td>2eb7f30</td>
+      <td>archive.css</td>
+      <td>landing testing</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>sk-tour.jpg</td>
+      <td>c3f347c</td>
+      <td>archive.jpg</td>
+      <td>landing page image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>main.html</td>
+      <td>d1a23bc</td>
+      <td>archive.html</td>
+      <td>landing testing</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>skz-concert.jpg</td>
+      <td>9e327a8</td>
+      <td>archive.jpg</td>
+      <td>landing page image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td rowspan="5">D4D3val</td>
+      <td>skz-tour.jpg</td>
+      <td>7be9471</td>
+      <td>archive.jpg</td>
+      <td>landing page image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>niall-tour.jpg</td>
+      <td>d7c95a4</td>
+      <td>archive.jpg</td>
+      <td>landing page image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>monkeys-tour.jpg</td>
+      <td>5c55361</td>
+      <td>archive.jpg</td>
+      <td>landing page image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>emilia-tour.jpg</td>
+      <td>6706966</td>
+      <td>archive.jpg</td>
+      <td>landing page image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>main.css</td>
+      <td>485049f</td>
+      <td>archive.css</td>
+      <td>landing testing</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td rowspan="4">ReizCode</td>
+      <td>fans.html</td>
+      <td>65ed194</td>
+      <td>archivo .html</td>
+      <td>landing desing</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>harry.jpg</td>
+      <td>599a130</td>
+      <td>archivo .jpg</td>
+      <td>landing image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>louis.jpg</td>
+      <td>566a2e9</td>
+      <td>archivo .jpg</td>
+      <td>landing image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>stay.jpg</td>
+      <td>1488808</td>
+      <td>archivo .jpg</td>
+      <td>landing image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Antuanet01</td>
+      <td>artista.html</td>
+      <td>eb55af7</td>
+      <td>archivo .html</td>
+      <td>landing desing</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>main.js</td>
+      <td>145dd26</td>
+      <td>archivo .js</td>
+      <td>landing page logic</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>close-icon.png</td>
+      <td>221c792</td>
+      <td>archivo .png</td>
+      <td>landing page image</td>
+      <td>27/04/2025</td>
+    </tr>
+    <tr>
+      <td>hamburger-icon.png</td>
+      <td>fca3f79</td>
+      <td>archivo .png</td>
+      <td>landing page image</td>
+      <td>27/04/2025</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review
