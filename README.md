@@ -79,7 +79,7 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 </table>
 </div>
 
-## Contents
+**Contents**
 
 - [STUDENT OUTCOME](#student-outcome)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
