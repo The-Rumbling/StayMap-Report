@@ -2102,6 +2102,15 @@ Notificaciones:
 |Ubicacion|pais|País de la ubicación|string|
 |Comentario|id|Identificador del comentario|string|
 |Comentario|idConcierto|Identificador del concierto comentado|string|
+|Comentario|idUsuario|Identificador del usuario que comenta|string|
+|Comentario|valoracion|Valoración numérica del comentario|int|
+|Usuario|id|Identificador del usuario|string|
+|Usuario|name|Nombre del usuario|string|
+|Usuario|email|Email del usuario|string|
+|Usuario|ubicacion|Ubicación del usuario|Ubicacion|
+|Fan|conciertosAsistidos|Lista de conciertos asistidos|List<Concierto>|
+|Comunidad|id|Identificador de la comunidad|string|
+|Comunidad|nombre|Nombre de la comunidad|string|
 
 # CAPÍTULO V 
 
