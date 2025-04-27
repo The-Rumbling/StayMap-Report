@@ -2051,6 +2051,14 @@ Notificaciones:
 
 # 4.5. Web Applications Prototyping
 
+# 4.6. Domain-Driven Software Architecture
+
+## 4.6.1. Software Architecture Context Diagram
+
+<div align="center">
+  <img src="assets/c4_model/context-diagram.png" alt="Web Application Userflow 4" style="width: 80%">
+</div>
+
 # CAPÍTULO V 
 
 # 5.1. Software Configuration Management
