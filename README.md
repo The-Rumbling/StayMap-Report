@@ -2117,6 +2117,10 @@ Notificaciones:
 |ControladorNotificaciones|(atributo interno) obj|Estrategia de notificación usada|NotificacionStrategy|
 |CheckIn|id|Identificador del check-in|string|
 |CheckIn|objUsuario|Usuario que realiza el check-in|Usuario|
+|CheckIn|objConcierto|Concierto donde se realiza el check-in|Concierto|
+|CheckIn|asistencia|Estado de asistencia|bool|
+|GestionConciertos|conciertos|Lista de conciertos administrados|List<Concierto>|
+|Artista|biografia|Biografia del artista|String|
 
 # CAPÍTULO V 
 
