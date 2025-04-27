@@ -34,7 +34,7 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 </div>
 
 ## Registro de Versiones del Informe
-
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -77,7 +77,7 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
     </tr>
   </tbody>
 </table>
-
+</div>
 ## Contents
 
 - [STUDENT OUTCOME](#student-outcome)
