@@ -2092,6 +2092,8 @@ Notificaciones:
 |PromocionConcierto|id|Identificador de la promoción|string|
 |PromocionConcierto|conciertoId|Identificador del concierto asociado|string|
 |PromocionConcierto|fechaInicio|Fecha de inicio de la promoción|string|
+|PromocionConcierto|fechaFin|Fecha de fin de la promoción|string|
+|PromocionConcierto|vigente|Estado vigente de la promoción|boolean|
 
 # CAPÍTULO V 
 
