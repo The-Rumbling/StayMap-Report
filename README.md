@@ -184,9 +184,9 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
   </thead>
   <tbody>
     <tr>
-      <td>Trabaja en equipo para
-proporcionar liderazgo en
-forma conjunta</td>
+      <td>Comunica oralmente con
+efectividad a diferentes rangos
+de audiencia.</td>
       <td>
         <strong>Collantes Carrillo, Diego Mateo</strong><br>
         TB1: Como líder del primer sprint, organicé meticulosamente las reuniones diarias asegurando que cada uno compartiera sus avances, bloqueos y próximos pasos. Implementé un sistema rotativo para que todos tuvieran la oportunidad de facilitar estas sesiones, desarrollando así habilidades de liderazgo compartido.<br>
@@ -241,10 +241,9 @@ forma conjunta</td>
       </td>
     </tr>
     <tr>
-      <td>Crea un entorno colaborativo e
-inclusivo, establece metas,
-planifica tareas y cumple
-objetivos. </td>
+      <td>Comunica por escrito con
+efectividad a diferentes rangos
+de audiencia </td>
       <td>
         <strong>Collantes Carrillo, Diego Mateo</strong><br>
         TB1: 
