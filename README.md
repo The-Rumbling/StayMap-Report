@@ -3067,8 +3067,8 @@ Sección login:
 <div align="center">
   <img src="assets/capturas/captura-login.png" alt="cap" style="width: 80%">
 </div>
-Enlace de la APP WEB: https://stay-map-app-web-j88c.vercel.app/assets/data/db.json
 
+Enlace de la APP WEB: stay-map-app-web-j88c.vercel.app
 
 
 ### 5.2.2.7.Software Deployment Evidence for Sprint Review.
