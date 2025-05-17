@@ -3052,13 +3052,21 @@ Estas funcionalidades se validaron con vistas funcionales, integración completa
 Screenshots de las principales:
 
 Sección conciertos:
-
+<div align="center">
+  <img src="assets/capturas/captura-concierto.png" alt="cap" style="width: 80%">
+</div>
 Sección mapa:
-
+<div align="center">
+  <img src="assets/capturas/capturas-mapa.png" alt="cap" style="width: 80%">
+</div>
 Sección comunidad:
-
+<div align="center">
+  <img src="assets/capturas/capturas-comunidad.png" alt="cap" style="width: 80%">
+</div>
 Sección login:
-
+<div align="center">
+  <img src="assets/capturas/capturas-login.jpg" alt="cap" style="width: 80%">
+</div>
 Enlace de la APP WEB: https://stay-map-app-web-j88c.vercel.app/assets/data/db.json
 
 
