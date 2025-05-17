@@ -2952,8 +2952,57 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 </table>
 
 ### 5.2.2.4.Development Evidence for Sprint Review.
+Durante el Sprint 2, nos enfocamos en el desarrollo de funcionalidades clave dentro de la aplicación web StayMap, como por ejemplo la integración de una imagen de Google Maps donde se visualiza la ubicación del usuario, además de la gestión de comunidades musicales, la creación de conciertos y la visualización del perfil registrado.
+
+Entre las principales evidencias de ejecución se incluyen:
+
+Vista de conciertos en mapa: Se desarrolló una vista que utiliza Google Maps API para mostrar los conciertos geolocalizados, permitiendo al usuario visualizar de forma espacial los eventos próximos según su ubicación actual.
+
+Gestión de comunidades musicales: Se creó una interfaz para visualizar, crear, editar y eliminar comunidades usando un sistema de tarjetas. Esta sección conecta directamente con una API simulada (fake API) donde se almacenan los datos en un archivo JSON. Cada comunidad cuenta con nombre, cantidad de miembros e imagen representativa.
+
+Creación de conciertos: Se implementó una funcionalidad que permite registrar nuevos conciertos, con datos como ubicación, fecha, nombre del artista y género musical, los cuales se almacenan también en la fake API.
+
+Visualización de perfil: Se habilitó la vista de perfil del usuario registrado, donde puede consultar su información y actividad dentro de la plataforma.
+
+Sistema de calificación y registro de asistencia: Se añadieron funcionalidades para que los usuarios puedan registrar su interés por un concierto y calificar eventos pasados, permitiendo mejorar la interacción con la plataforma.
+
+Notificaciones de artistas favoritos: Se integró un módulo que muestra novedades o alertas relevantes en el dashboard, asociado a los artistas seguidos por el usuario.
+
+Estas funcionalidades se validaron con vistas funcionales, integración completa del servicio CommunityService, ConcertService, almacenamiento en localStorage para sesiones y variables de entorno configuradas para los endpoints. A continuación, se muestran capturas de pantalla y commits asociados que evidencian la ejecución del Sprint.
+
+Screenshots de las principales:
+
+Sección conciertos:
+
+Sección mapa:
+
+Sección comunidad:
+
+Sección login:
+
+Enlace de la APP WEB:
 
 ### 5.2.2.5.Execution Evidence for Sprint Review.
+
+En este segundo sprint, se llevó a cabo el despliegue del proyecto StayMap utilizando la plataforma Vercel, la cual facilita la publicación de proyectos open source al integrarse directamente con repositorios en GitHub. Esto permitió mantener un flujo de trabajo continuo y automatizado, ideal para entornos colaborativos en Angular.
+
+Repositorio y estructura del proyecto:
+Se inició creando un repositorio en GitHub donde se subió el código completo desarrollado con Angular, incluyendo los módulos que manejan comunidades, conciertos y usuarios.
+
+Preparación y configuración en Vercel:
+
+Se estableció la conexión entre el repositorio y Vercel, permitiendo que cada cambio en la rama principal desencadene un nuevo despliegue automático.
+
+Se añadieron las variables de entorno necesarias, como la URL base para la API y las rutas correspondientes a los recursos utilizados.
+
+
+Automatización del despliegue:
+
+Con cada actualización en la rama main, Vercel ejecuta automáticamente el proceso de construcción y despliegue sin necesidad de intervención manual.
+
+El resultado final se aloja en un enlace público proporcionado por la plataforma, lo que permite acceder fácilmente al proyecto desde cualquier navegador.
+
+
 
 ### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
