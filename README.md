@@ -2744,6 +2744,65 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 </div>
 
 ##5.2.2. Sprint 2
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Background</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2025-05-25</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>9:00 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Virtual, via Discord</td>
+    </tr>
+    <tr>
+      <td><strong>Prepared by</strong></td>
+      <td>Lizarbe Álvarez, Ariana Nickole</td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (to planning meeting)</strong></td>
+      <td>
+        Lizarbe Álvarez, Ariana Nickole / Ortiz Cardenas, Johanna Antuanete / 
+        Zúñiga Murillo, Diego Sebastian / Collantes Carrillo, Diego Mateo / 
+        Zegarra López, Renato / Rubber Sebastian
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+      <td><strong>Sprint n Goal</strong></td>
+      <td>
+        Desarrollar una página funcional para comunidades de artistas y fans en donde se pueda observar en un mapa 
+        los eventos deseados por nuestros usuarios y una relación de eventos disponibles en nuestra área que indiquen 
+        la disponibilidad de estos eventos.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sprint n Velocity</strong></td>
+      <td>
+        Para organizar este sprint, emplearemos la secuencia de Fibonacci (1, 2, 3, 5, 8…) como guía para valorar 
+        de manera relativa el esfuerzo de cada historia de usuario, lo que facilitará la comparación entre tareas 
+        y la calibración de la carga de trabajo.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>27</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ###5.2.2.1.Sprint Planning 2.
 ###5.2.2.2. Aspect Leaders and Collaborators.
 ###5.2.2.3.Sprint Backlog 2.
