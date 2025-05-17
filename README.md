@@ -3061,7 +3061,7 @@ Sección mapa:
 </div>
 Sección comunidad:
 <div align="center">
-  <img src="assets/capturas/captura-comunidad.png" alt="cap" style="width: 80%">
+  <img src="assets/capturas/captura-comunidades.png" alt="cap" style="width: 80%">
 </div>
 Sección login:
 <div align="center">
