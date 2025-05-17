@@ -2873,6 +2873,84 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 ### 5.2.2.3.Sprint Backlog 2.
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="8">Sprint 2</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>id</th>
+    <th>title</th>
+    <th>id</th>
+    <th>title</th>
+    <th>description</th>
+    <th>estimation</th>
+    <th>assigned to</th>
+    <th>status</th>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Explorar eventos cercanos</td>
+    <td>TSK06</td>
+    <td>Visualización en mapa de eventos cerca</td>
+    <td>Crear una vista en mapa con iconos que muestre los eventos cerca a mi ubicacion
+
+</td>
+    <td>2 horas</td>
+    <td>Ariana</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td>Filtrar eventos por género musical</td>
+    <td>TSK07</td>
+    <td>Filtro por genero musical en busqueda de conciertos</td>
+    <td>Barra lateral en la que el usuario pueda seleccionar el genero de su preferencia</td>
+    <td>2 horas</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US08</td>
+    <td>Recibir notificaciones de artistas favorito</td>
+    <td>TSK08</td>
+    <td>Notificar novedades o actualizaciones de artistas o comunidades
+
+</td>
+    <td>SSistema de notificaciones dentro de STAYMAP que se actualice con las novedades de los artistas
+
+</td>
+    <td>1 hora</td>
+    <td>Antuanete</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US09</td>
+    <td>Compartir asistencia a un concierto</td>
+    <td>TSK09</td>
+    <td>Registro de asistencia a conciertos</td>
+    <td>Validacion de asistencia a un concierto al que el usuario desea ir
+
+</td>
+    <td>2 horas</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US10</td>
+    <td>Calificar un evento asistid</td>
+    <td>TSK10</td>
+    <td>Registro de calificacion a eventos</td>
+    <td>Sistema de estrellas que sirva para calificar la experiencia del usuario en un concierto</td>
+    <td>2 horas</td>
+    <td>Diego</td>
+    <td>DONE</td>
+  </tr>
+</table>
+
 ### 5.2.2.4.Development Evidence for Sprint Review.
 
 ### 5.2.2.5.Execution Evidence for Sprint Review.
