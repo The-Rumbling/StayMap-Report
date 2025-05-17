@@ -2743,10 +2743,15 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
   <img src="assets/capturas/captura-commits.png" alt="commits" style="width: 80%">
 </div>
 
-### 5.2.2 Sprint 2
-### 5.2.2.1 Sprint Planning
-### 5.2.2.2 Aspect Leaders and Collaboratos
-### 5.2.2.3 Sprint Backlog 2
+##5.2.2. Sprint 2
+###5.2.2.1.Sprint Planning 2.
+###5.2.2.2. Aspect Leaders and Collaborators.
+###5.2.2.3.Sprint Backlog 2.
+###5.2.2.4.Development Evidence for Sprint Review.
+###5.2.2.5.Execution Evidence for Sprint Review.
+###5.2.2.6.Services Documentation Evidence for Sprint Review.
+###5.2.2.7.Software Deployment Evidence for Sprint Review.
+###5.2.2.8.Team Collaboration Insights during Sprint.
 
 
 
