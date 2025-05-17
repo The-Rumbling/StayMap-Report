@@ -3053,7 +3053,7 @@ Screenshots de las principales:
 
 Sección conciertos:
 <div align="center">
-  <img src="assets/capturas/captura-concierto.png" alt="cap" style="width: 80%">
+  <img src="assets/capturas/captura-conciertos.png" alt="cap" style="width: 80%">
 </div>
 Sección mapa:
 <div align="center">
