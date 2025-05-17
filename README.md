@@ -5,7 +5,7 @@
 
 ![Image](images/upc-logo.png)
 
-## TB1 "StayMap"
+## TP "StayMap"
 
 
 **1ASI0729 - DESARROLLO DE APLICACIONES OPEN SOURCE**
