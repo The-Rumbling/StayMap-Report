@@ -3057,15 +3057,15 @@ Sección conciertos:
 </div>
 Sección mapa:
 <div align="center">
-  <img src="assets/capturas/capturas-mapa.png" alt="cap" style="width: 80%">
+  <img src="assets/capturas/captura-mapa.png" alt="cap" style="width: 80%">
 </div>
 Sección comunidad:
 <div align="center">
-  <img src="assets/capturas/capturas-comunidad.png" alt="cap" style="width: 80%">
+  <img src="assets/capturas/captura-comunidad.png" alt="cap" style="width: 80%">
 </div>
 Sección login:
 <div align="center">
-  <img src="assets/capturas/capturas-login.jpg" alt="cap" style="width: 80%">
+  <img src="assets/capturas/captura-login.png" alt="cap" style="width: 80%">
 </div>
 Enlace de la APP WEB: https://stay-map-app-web-j88c.vercel.app/assets/data/db.json
 
