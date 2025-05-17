@@ -2633,22 +2633,17 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
 
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+Durante el Sprint 1 nos centramos en el desarrollo de la estructura base de la aplicación web StayMap, enfocándonos principalmente en el diseño visual y la experiencia de usuario mediante tecnologías como HTML y CSS.
 
-Durante el Sprint 2, nos enfocamos en el desarrollo de funcionalidades clave para StayMap, como por ejemplo la integración de una imagen de Google Maps donde se visualiza la ubicación del usuario, además de la gestión de comunidades musicales, la creación de conciertos y la visualización del perfil registrado.
+Entre las funcionalidades desarrolladas se encuentran:
 
-Entre las principales evidencias de ejecución se incluyen:
+Landing Page interactiva: Se creó una página de inicio atractiva y funcional que presenta la propuesta de valor de StayMap, con un diseño visual moderno, secciones informativas y una navegación fluida. Esta landing page cumple el rol de dar la bienvenida al usuario y explicar brevemente las principales características de la plataforma.
 
-Vista de conciertos en mapa: Se desarrolló una vista que utiliza Google Maps API para mostrar los conciertos geolocalizados, permitiendo al usuario visualizar de forma espacial los eventos próximos según su ubicación actual.
+Sección para fans: Se diseñó una vista dedicada a los usuarios fanáticos de la música, donde podrán registrarse, acceder a próximos eventos y comenzar a personalizar su experiencia dentro de la plataforma. Esta sección está pensada para ofrecer contenido relevante como conciertos cercanos y recomendaciones personalizadas.
 
-Gestión de comunidades musicales: Se creó una interfaz para visualizar, crear, editar y eliminar comunidades usando un sistema de tarjetas. Esta sección conecta directamente con una API simulada (fake API) donde se almacenan los datos en un archivo JSON. Cada comunidad cuenta con nombre, cantidad de miembros e imagen representativa.
+Sección para artistas: Se desarrolló un apartado orientado a los artistas, donde podrán registrarse y más adelante gestionar conciertos, comunidades y seguidores. Este espacio sienta las bases para la autogestión de contenido por parte de los músicos y bandas dentro de StayMap.
 
-Creación de conciertos: Se implementó una funcionalidad que permite registrar nuevos conciertos, con datos como ubicación, fecha, nombre del artista y género musical.
-
-Visualización de perfil: Se habilitó la vista de perfil del usuario registrado, donde puede consultar su información y actividad dentro de la plataforma.
-
-Sistema de calificación y registro de asistencia: Se añadieron funcionalidades para que los usuarios puedan registrar su interés por un concierto y calificar eventos pasados, permitiendo mejorar la interacción con la plataforma.
-
-Estas funcionalidades se validaron con vistas funcionales, integración completa del servicio CommunityService, ConcertService, almacenamiento en localStorage para sesiones y variables de entorno configuradas para los endpoints. A continuación, se muestran capturas de pantalla y commits asociados que evidencian la ejecución del Sprint.
+Este primer Sprint permitió establecer la identidad visual y la arquitectura inicial de la aplicación, dejando sentadas las bases para el desarrollo funcional que se realizaría en los siguientes Sprints.
 
 **Screenshots de las principales vistas:**
 
