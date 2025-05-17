@@ -2811,6 +2811,65 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 ### 5.2.2.2. Aspect Leaders and Collaborators.
 
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="7">5.2.1.2. Aspect Leaders and Collaborators</th>
+  </tr>
+  <tr>
+    <th>Team Member</th>
+    <th>Github Username</th>
+    <th>FAKE API</th>
+    <th>MANAGEMENT</th>
+    <th>SERVICES</th>
+    <th>COMPONENTS</th>
+    <th>DEVELOPMENT</th>
+  </tr>
+  <tr>
+    <td>Collantes Diego</td>
+    <td>D4D3v4l</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Lizarbe Ariana</td>
+    <td>ariaalizz</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Ortiz Johanna</td>
+    <td>Antuanet01</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Zegarra Renato</td>
+    <td>ReiZCode</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Zúniga Diego</td>
+    <td>DekayDe Canela</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+  </tr>
+</table>
 
 ### 5.2.2.3.Sprint Backlog 2.
 
