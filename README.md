@@ -2953,6 +2953,64 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 ### 5.2.2.4.Development Evidence for Sprint Review.
 
+<tr>
+  <td rowspan="5">ariaalizz</td>
+  <td>user.service.ts</td>
+  <td>f6a0d00</td>
+  <td>user.service.ts</td>
+  <td>Update image in user.service.ts</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>community-management.component.css</td>
+  <td>1743cbb</td>
+  <td>community-management.component.css</td>
+  <td>Update styles in community-management.component.css</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>community.service.ts</td>
+  <td>e1da430</td>
+  <td>community.service.ts</td>
+  <td>Update image in community.service.ts</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>login-management.component.css</td>
+  <td>fe356e5</td>
+  <td>login-management.component.css</td>
+  <td>Improve image styles in login-management.component.css</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>user.service.ts</td>
+  <td>4766acb</td>
+  <td>user.service.ts</td>
+  <td>Landing page HTML testing in user.service.ts</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td rowspan="3">DekayDeCanela</td>
+  <td>community-management.component.css</td>
+  <td>79a63cc</td>
+  <td>community-management.component.css</td>
+  <td>Refine styles in community-management.component.css</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>community.service.ts</td>
+  <td>8cdab20</td>
+  <td>community.service.ts</td>
+  <td>Refine styles in community.service.ts</td>
+  <td>16/05/2025</td>
+</tr>
+<tr>
+  <td>login-management.component.html</td>
+  <td>5a0247f</td>
+  <td>login-management.component.html</td>
+  <td>Update landing image in login-management.component.html</td>
+  <td>16/05/2025</td>
+</tr>
 
 ### 5.2.2.5.Execution Evidence for Sprint Review.
 
