@@ -3059,10 +3059,9 @@ Sección comunidad:
 
 Sección login:
 
-Enlace de la APP WEB:
+Enlace de la APP WEB: https://stay-map-app-web-j88c.vercel.app/assets/data/db.json
 
 
-### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 ### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
@@ -3137,6 +3136,7 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
 videos de exposición:
 
 - TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EVv_U2U49hJMolwRzGWkQhQBZcf4GmKbvnnzPN5Zk3Uovw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uHFIQZ
+- TP: [https://upcedupe-my.sharepoint.com/personal/u202311704_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311704_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4334-TheRumbling-expo-tp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E86bdec34-e8a5-40e4-b710-2c2394302dee](https://upcedupe-my.sharepoint.com/personal/u202311704_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311704_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4334-TheRumbling-expo-tp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E86bdec34-e8a5-40e4-b710-2c2394302dee)
 
 # Bibliografía
 
