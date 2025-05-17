@@ -2952,6 +2952,11 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 </table>
 
 ### 5.2.2.4.Development Evidence for Sprint Review.
+
+
+### 5.2.2.5.Execution Evidence for Sprint Review.
+
+
 Durante el Sprint 2, nos enfocamos en el desarrollo de funcionalidades clave dentro de la aplicación web StayMap, como por ejemplo la integración de una imagen de Google Maps donde se visualiza la ubicación del usuario, además de la gestión de comunidades musicales, la creación de conciertos y la visualización del perfil registrado.
 
 Entre las principales evidencias de ejecución se incluyen:
@@ -2982,7 +2987,11 @@ Sección login:
 
 Enlace de la APP WEB:
 
-### 5.2.2.5.Execution Evidence for Sprint Review.
+
+### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
 
 En este segundo sprint, se llevó a cabo el despliegue del proyecto StayMap utilizando la plataforma Vercel, la cual facilita la publicación de proyectos open source al integrarse directamente con repositorios en GitHub. Esto permitió mantener un flujo de trabajo continuo y automatizado, ideal para entornos colaborativos en Angular.
 
@@ -3003,14 +3012,27 @@ Con cada actualización en la rama main, Vercel ejecuta automáticamente el proc
 El resultado final se aloja en un enlace público proporcionado por la plataforma, lo que permite acceder fácilmente al proyecto desde cualquier navegador.
 
 
-
-### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-
-### 5.2.2.7.Software Deployment Evidence for Sprint Review.
-
 ### 5.2.2.8.Team Collaboration Insights during Sprint.
 
+Durante este Sprint, el equipo trabajó de manera colaborativa en la implementación de funcionalidades clave del proyecto StayMap, desarrollado con Angular y utilizando una API simulada basada en json-server para la gestión de datos de usuarios, conciertos y comunidades.
 
+Las tareas principales incluyeron:
+
+		-Estructuración de componentes y vistas utilizando Angular.
+
+		-Aplicación de estilos personalizados mediante CSS para una presentación visual coherente.
+
+		-Configuración del entorno de desarrollo local con json-server como fake backend.
+
+		-Uso de Git y GitHub para el control de versiones y la colaboración.
+
+		-Coordinación para el despliegue del proyecto a través de Vercel, permitiendo la visualización continua de avances.
+
+La colaboración se llevó a cabo principalmente en GitHub, donde cada integrante del equipo realizó commits documentados para registrar sus avances individuales y sincronizar los cambios en el repositorio compartido. Se fomentó una dinámica de revisión cruzada y trabajo paralelo para asegurar una integración fluida y una entrega funcional del producto.
+
+Gráficos de colaboración (GitHub Insights):
+
+Los datos de contribución reflejan la participación activa del equipo, con un flujo constante de trabajo evidenciado en pushes regulares, creación de ramas y trabajo en distintos módulos del proyecto StayMap. Esta dinámica apoyó una implementación efectiva de los servicios conectados a la fake API y de las vistas principales de la plataforma.
 
 
 
