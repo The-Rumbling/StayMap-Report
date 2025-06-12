@@ -1100,14 +1100,11 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 **User Stories**
 
-
-| ID    | Título                             | Descripción                                                                                         | Escenarios                                                                                                                                                                                                                                                                                                                                                                                             | Epic  |
-|-------|------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| US01  | Ver beneficios para fans           | Como visitante del segmento fan, quiero conocer los beneficios de la app para mí, para decidir registrarme. | **Escenario: Acceso a sección para fans**  
+| ID    | Título                             | Descripción                                                                                         | Escenarios                                                                                                                                                                                                                                                                                                                            | Epic  |
+|-------|------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|| US01  | Ver beneficios para fans           | Como visitante del segmento fan, quiero conocer los beneficios de la app para mí, para decidir registrarme. | **Escenario: Acceso a sección para fans**  
 Dado que el visitante accede a la landing page  
 Cuando visualiza la sección "Para fans de la música"  
-Entonces puede leer los beneficios de unirse a la app.  
-  
+Entonces puede leer los beneficios de unirse a la app.   
 **Escenario: Decisión de registro influenciada por beneficios**  
 Dado que el visitante revisa los beneficios presentados  
 Cuando encuentra opciones que se alinean con sus intereses  
@@ -1116,7 +1113,6 @@ Entonces aumenta su intención de registrarse en la plataforma. | EP05 |
 Dado que el visitante está en la landing page  
 Cuando revisa la sección "Para artistas"  
 Entonces puede visualizar herramientas y ventajas destacadas.  
-  
 **Escenario: Evaluación del valor de la app**  
 Dado que el visitante es un artista emergente  
 Cuando analiza las herramientas promocionales disponibles  
@@ -1125,7 +1121,6 @@ Entonces comprende cómo StayMap puede ayudarle a crecer. | EP05 |
 Dado que el visitante navega por la landing  
 Cuando encuentra la sección de testimonios  
 Entonces puede leer comentarios y valoraciones de otros usuarios.  
-  
 **Escenario: Confianza reforzada por experiencias ajenas**  
 Dado que el visitante tiene dudas sobre la app  
 Cuando lee testimonios positivos  
