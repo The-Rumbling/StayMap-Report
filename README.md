@@ -1335,6 +1335,76 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       </td>
       <td>EP01</td>
     </tr>
+<tr>
+      <td>US15</td>
+      <td>Cambiar idioma en la landing page</td>
+      <td>Como visitante, quiero cambiar el idioma de la página entre español e inglés para entender mejor el contenido.</td>
+      <td><strong>Escenario: Cambio a inglés</strong><br>Dado que el usuario está en la landing page<br>Cuando selecciona la opción 'English'<br>Entonces el contenido se muestra en inglés.<br><br><strong>Escenario: Cambio a español</strong><br>Dado que el usuario está en la versión en inglés<br>Cuando selecciona 'Español'<br>Entonces el contenido se muestra en español.</td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>Buscar conciertos</td>
+      <td>Como usuario, quiero buscar conciertos por nombre o artista para encontrarlos fácilmente.</td>
+      <td><strong>Escenario: Búsqueda por palabra clave</strong><br>Dado que el usuario accede al buscador de conciertos<br>Cuando escribe un nombre o artista<br>Entonces se muestran los conciertos coincidentes.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US17</td>
+      <td>Buscar comunidades</td>
+      <td>Como usuario, quiero buscar comunidades por nombre o temática para unirme a las que me interesen.</td>
+      <td><strong>Escenario: Búsqueda de comunidades</strong><br>Dado que el usuario accede al buscador de comunidades<br>Cuando ingresa una palabra clave<br>Entonces ve las comunidades coincidentes.</td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>US18</td>
+      <td>Iniciar sesión en la app web</td>
+      <td>Como usuario registrado, quiero iniciar sesión desde la aplicación web para acceder a mi cuenta.</td>
+      <td><strong>Escenario: Ingreso exitoso desde app web</strong><br>Dado que el usuario tiene una cuenta<br>Cuando accede al formulario de login y envía sus credenciales<br>Entonces accede correctamente a su perfil.</td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US19</td>
+      <td>Registrarse como artista</td>
+      <td>Como nuevo usuario, quiero registrarme como artista para promocionar mis conciertos.</td>
+      <td><strong>Escenario: Registro como artista</strong><br>Dado que el visitante accede al formulario de registro<br>Cuando selecciona la opción 'Artista' y completa sus datos<br>Entonces su cuenta es creada con perfil de artista.</td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>Registrarse como fan</td>
+      <td>Como nuevo usuario, quiero registrarme como fan para participar en la comunidad y explorar conciertos.</td>
+      <td><strong>Escenario: Registro como fan</strong><br>Dado que el visitante accede al formulario de registro<br>Cuando selecciona la opción 'Fan' y completa sus datos<br>Entonces su cuenta es creada con perfil de fan.</td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US21</td>
+      <td>Zoom a concierto en el mapa</td>
+      <td>Como fan, quiero que al seleccionar un concierto en el mapa se haga zoom a su ubicación.</td>
+      <td><strong>Escenario: Zoom en mapa a concierto seleccionado</strong><br>Dado que el usuario está en el mapa<br>Cuando hace clic en un concierto<br>Entonces el mapa se centra y hace zoom sobre su ubicación.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US22</td>
+      <td>Ver estado del concierto</td>
+      <td>Como usuario, quiero saber si un concierto está disponible o agotado para decidir si puedo asistir.</td>
+      <td><strong>Escenario: Visualización de estado del concierto</strong><br>Dado que el usuario revisa la lista de conciertos<br>Cuando observa el estado de disponibilidad<br>Entonces puede ver si el evento está 'Disponible' o 'Agotado'.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US23</td>
+      <td>Ver información detallada del concierto</td>
+      <td>Como fan, quiero ver la información completa de un concierto para decidir si asistir.</td>
+      <td><strong>Escenario: Acceso a detalles del concierto</strong><br>Dado que el usuario selecciona un concierto<br>Cuando accede a su ficha de detalle<br>Entonces visualiza el artista, ubicación, fecha, hora, imagen, y descripción.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US24</td>
+      <td>Unirse a una comunidad</td>
+      <td>Como fan, quiero unirme a una comunidad musical para interactuar con otros usuarios con intereses similares.</td>
+      <td><strong>Escenario: Unirse a comunidad</strong><br>Dado que el fan accede a una comunidad disponible<br>Cuando presiona el botón 'Unirse'<br>Entonces queda registrado como miembro.</td>
+      <td>EP04</td>
+    </tr>
   </tbody>
 </table>
 
