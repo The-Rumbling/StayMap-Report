@@ -1224,7 +1224,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>EP01</td>
     </tr>
     <tr>
-      <td>US09</td>
+      <td>US08</td>
       <td>Confirmar o cancelar asistencia</td>
       <td>Como fan, quiero confirmar o cancelar mi asistencia a un evento para organizarme mejor y motivar a mis amigos.</td>
       <td>
@@ -1240,7 +1240,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>EP04</td>
     </tr>
     <tr>
-      <td>US11</td>
+      <td>US9</td>
       <td>Publicar nuevo concierto</td>
       <td>Como artista, quiero crear un evento para promocionar mi presentación.</td>
       <td>
@@ -1256,7 +1256,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>EP03</td>
     </tr>
     <tr>
-      <td>US12</td>
+      <td>US10</td>
       <td>Medir asistencia estimada</td>
       <td>Como artista, quiero ver cuántas personas marcaron asistencia para medir el interés.</td>
       <td>
@@ -1272,7 +1272,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>EP03</td>
     </tr>
     <tr>
-      <td>US13</td>
+      <td>US11</td>
       <td>Personalizar perfil de artista</td>
       <td>Como artista, quiero personalizar mi perfil con enlaces, foto y una biografía para conectar mejor con el público.</td>
       <td>
@@ -1288,7 +1288,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>EP03</td>
     </tr>
     <tr>
-      <td>US14</td>
+      <td>US12</td>
       <td>Crear comunidad con seguidores</td>
       <td>Como artista, quiero crear una comunidad y publicar actualizaciones para fidelizar a mis seguidores.</td>
       <td>
@@ -1304,7 +1304,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>EP04</td>
     </tr>
     <tr>
-      <td>US15</td>
+      <td>US13</td>
       <td>Ingresar a comunidad de fans</td>
       <td>Como fan, quiero ingresar a una comunidad dentro de la app para compartir experiencias con otros asistentes y seguidores.</td>
       <td>
@@ -1320,7 +1320,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>EP04</td>
     </tr>
     <tr>
-      <td>US16</td>
+      <td>US14</td>
       <td>Ver mapa con geolocalización</td>
       <td>Como fan, quiero ver un mapa con mi ubicación y los conciertos cercanos marcados para explorar visualmente las opciones disponibles.</td>
       <td>
