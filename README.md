@@ -2724,9 +2724,27 @@ A continuación, se presenta una tabla con los principales endpoints documentado
 
 Vista de conciertos
 
+<div align="center">
+  <img src="assets/service_documentation/vista_conciertos.png" alt="Vista Conciertos" style="width: 80%;">
+</div>
+
 Vista de comunidades 
 
-Fake API 
+<div align="center">
+  <img src="assets/service_documentation/vista_comunidades.png" alt="Vista Comunidades" style="width: 80%;">
+</div>
+
+Fake API conciertos
+
+<div align="center">
+  <img src="assets/service_documentation/fakeAPI_conciertos.png" alt="Fake API Conciertos" style="width: 80%;">
+</div>
+
+Fake API comunidades 
+
+<div align="center">
+  <img src="assets/service_documentation/fakeAPI_comunidades.png" alt="Fake API Comunidades" style="width: 80%;">
+</div>
 
 #### Repositorio del Proyecto
 
@@ -3141,6 +3159,55 @@ Sección login:
 Enlace de la APP WEB: stay-map-app-web-j88c.vercel.app
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, se avanzó significativamente en la documentación y estructuración de los servicios simulados de StayMap, utilizando una Fake API estructurada como backend provisional. Además, se integraron servicios clave dentro de componentes funcionales, como `CommunityService`, `ConcertService` y `UserService`, conectando correctamente la interfaz con los datos simulados.
+
+#### 📄 Endpoints simulados documentados
+
+| Endpoint                           | Método | Descripción                                           | Ejemplo de llamada             | Ejemplo de respuesta                             |
+|------------------------------------|--------|-------------------------------------------------------|--------------------------------|--------------------------------------------------|
+| `/api/concerts`                    | GET    | Obtener todos los conciertos                         | `GET /api/concerts`            | `[{"id":1,"artist":"Adele",...}]`               |
+| `/api/concerts?genre={genre}`      | GET    | Obtener conciertos filtrados por género musical       | `GET /api/concerts?genre=Pop`  | `[{"id":4,"genre":"Pop",...}]`                  |
+| `/api/communities`                | POST   | Crear una nueva comunidad musical                    | `POST /api/communities`        | `{ "message": "Comunidad creada exitosamente" }`|
+| `/api/profile`                    | GET    | Obtener perfil del usuario actual                    | `GET /api/profile`             | `{ "username": "user1", "email": "..." }`        |
+
+
+#### Capturas de evidencia funcional
+
+**Figura 1.** Vista del mapa con eventos integrados vía Google Maps API.
+
+<div align="center">
+  <img src="assets/service_documentation/conciertos_mapa.png" alt="Conciertos en mapa" style="width: 80%;">
+</div>
+
+**Figura 2.** Barra de filtros musicales para búsqueda personalizada.
+
+<div align="center">
+  <img src="assets/service_documentation/filtros_genero.png" alt="Filtros musicales" style="width: 80%;">
+</div>
+
+**Figura 3.** Formulario de creación de comunidades conectado a `community.service.ts`.
+
+<div align="center">
+  <img src="assets/service_documentation/crear_comunidad.png" alt="Crear comunidad" style="width: 80%;">
+</div>
+
+**Figura 4.** Vista del perfil del usuario registrado.
+
+<div align="center">
+  <img src="assets/service_documentation/perfil_usuario.png" alt="Perfil usuario" style="width: 80%;">
+</div>
+
+- **Repositorio del proyecto**: [StayMap_Landing_PageAW](https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW)
+- **Fake API**: `src/assets/data/`
+
+#### Commits relevantes del Sprint 2
+
+- `f6a0d00`: Integración del mapa con Google Maps API para mostrar conciertos geolocalizados.
+- `e1da430`: Implementación del filtro por género musical en `concert.service.ts`.
+- `8cdab20`: Desarrollo de lógica para crear nuevas comunidades musicales usando datos simulados.
+- `5a0247f`: Construcción de la vista de perfil de usuario con datos obtenidos de localStorage.
+
 
 
 
