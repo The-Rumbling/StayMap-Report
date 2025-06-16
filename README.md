@@ -3174,25 +3174,25 @@ Durante el Sprint 2, se avanzó significativamente en la documentación y estruc
 
 #### Capturas de evidencia funcional
 
-**Figura 1.** Vista del mapa con eventos integrados vía Google Maps API.
+Vista del mapa con eventos integrados vía Google Maps API.
 
 <div align="center">
   <img src="assets/service_documentation/conciertos_mapa.png" alt="Conciertos en mapa" style="width: 80%;">
 </div>
 
-**Figura 2.** Barra de filtros musicales para búsqueda personalizada.
+Barra de filtros musicales para búsqueda personalizada.
 
 <div align="center">
   <img src="assets/service_documentation/filtros_genero.png" alt="Filtros musicales" style="width: 80%;">
 </div>
 
-**Figura 3.** Formulario de creación de comunidades conectado a `community.service.ts`.
+Formulario de creación de comunidades conectado a `community.service.ts`.
 
 <div align="center">
   <img src="assets/service_documentation/crear_comunidad.png" alt="Crear comunidad" style="width: 80%;">
 </div>
 
-**Figura 4.** Vista del perfil del usuario registrado.
+Vista del perfil del usuario registrado.
 
 <div align="center">
   <img src="assets/service_documentation/perfil_usuario.png" alt="Perfil usuario" style="width: 80%;">
@@ -3204,11 +3204,9 @@ Durante el Sprint 2, se avanzó significativamente en la documentación y estruc
 #### Commits relevantes del Sprint 2
 
 - `f6a0d00`: Integración del mapa con Google Maps API para mostrar conciertos geolocalizados.
-- `e1da430`: Implementación del filtro por género musical en `concert.service.ts`.
+- `e1da430`: Implementación del filtro por género musical.
 - `8cdab20`: Desarrollo de lógica para crear nuevas comunidades musicales usando datos simulados.
 - `5a0247f`: Construcción de la vista de perfil de usuario con datos obtenidos de localStorage.
-
-
 
 
 ### 5.2.2.7.Software Deployment Evidence for Sprint Review.
