@@ -306,7 +306,7 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 
 # Project Report Collaboration Insights
 
-URL del repositorio de "StayMap": https://github.com/The-Rumbling/StayMap-Report.git
+URL del repositorio de "StayMap":` https://github.com/The-Rumbling/StayMap-Report.git`
 
 # CAPÍTULO I: INTRODUCCIÓN
 
@@ -858,7 +858,7 @@ Opinión y expectativas sobre StayMap:
 **Duración:** 9:30:20
 **Inicio:** 00:35:37
 
-Link del video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ERJfpT5HoF9Ckz2iN8QzbjEBPFxFxVCkACtrv2SSjkxb1w?e=VY6fld&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link del video de las entrevistas:` https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ERJfpT5HoF9Ckz2iN8QzbjEBPFxFxVCkACtrv2SSjkxb1w?e=VY6fld&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
 ---
 
@@ -2030,8 +2030,8 @@ Notificaciones:
 
 |Tipo|Link del video|
 |---|--------------|
-|Desktop|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EX_5H4ofoydGrjyaxA3pE1wBrclkUgJO2V4Tse0Y0pZmBg?e=TYIOYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
-|Mobile|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg85OUFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Ciz3g?e=ca8Kze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+|Desktop|`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EX_5H4ofoydGrjyaxA3pE1wBrclkUgJO2V4Tse0Y0pZmBg?e=TYIOYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`|
+|Mobile|`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg85OUFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Ciz3g?e=ca8Kze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`|
 
 Estos videos muestran los prototipos interactivos de StayMap para navegador web en versiones desktop y mobile, destacando cómo se han aplicado principios clave de arquitectura de información y decisiones de diseño centradas en el usuario.
 La simulación inicia con una introducción al sistema de navegación, explicando cómo se estructura la información para garantizar una experiencia clara y personalizada tanto para fans de la música como para artistas emergentes. Se evidencian las decisiones relacionadas con:
@@ -2138,29 +2138,46 @@ La gestión de la configuración del software desempeña un papel fundamental en
 
 En esta etapa, se utilizaron herramientas colaborativas que permitieron planificar, organizar y supervisar el avance del proyecto de manera efectiva. Estas plataformas facilitaron la comunicación entre los integrantes y el seguimiento de tareas, optimizando el flujo de trabajo.
 
-- [**Discord:**](https://discord.com/) Cada miembro utilizó la aplicación Discord para realizar reuniones virtuales, coordinar avances y resolver dudas en tiempo real. Esta herramienta fue clave para mantener una comunicación fluida y una colaboración continua durante el desarrollo del proyecto.
+- [**Discord:**]`(https://discord.com/)` Cada miembro utilizó la aplicación Discord para realizar reuniones virtuales, coordinar avances y resolver dudas en tiempo real. Esta herramienta fue clave para mantener una comunicación fluida y una colaboración continua durante el desarrollo del proyecto.
 
-- [**Google Docs:**](https://workspace.google.com/intl/es-419/products/docs/) Google Docs nos permitió dividir el trabajo de forma equitativa y registrar los avances individuales de cada integrante. También facilitó la organización de la información previa que luego se documentó en GitHub.
+- [**Google Docs:**]`(https://workspace.google.com/intl/es-419/products/docs/)` Google Docs nos permitió dividir el trabajo de forma equitativa y registrar los avances individuales de cada integrante. También facilitó la organización de la información previa que luego se documentó en GitHub.
 
 **Requirements Management**
 
 Durante esta fase, se emplearon diversas herramientas visuales para identificar, analizar y documentar los requerimientos del sistema. Esto ayudó a comprender profundamente a los usuarios y definir los objetivos del producto.
 
-- [**UXPressia:**](https://uxpressia.com/) Utilizamos esta plataforma para crear User Personas, Empathy Maps, Journey Maps e Impact Maps. Estas herramientas fueron fundamentales para identificar y comprender las necesidades, expectativas y motivaciones de nuestros usuarios objetivo.
+- [**UXPressia:**]`(https://uxpressia.com/) `Utilizamos esta plataforma para crear User Personas, Empathy Maps, Journey Maps e Impact Maps. Estas herramientas fueron fundamentales para identificar y comprender las necesidades, expectativas y motivaciones de nuestros usuarios objetivo.
 
-- [**Miro:**](https://miro.com/es/) Miro fue empleada para diseñar los escenarios As-Is y To-Be, lo cual nos permitió visualizar el estado actual del problema y proyectar una solución ideal centrada en el usuario.
+- [**Miro:**]`(https://miro.com/es/) `Miro fue empleada para diseñar los escenarios As-Is y To-Be, lo cual nos permitió visualizar el estado actual del problema y proyectar una solución ideal centrada en el usuario.
 
-- [**Structurizr:**](https://structurizr.com/) Implementamos Structurizr para la creación de los diagramas C4, los cuales nos ayudaron a definir la arquitectura del sistema en distintos niveles (Contexto, Contenedor, Componente y Código), brindando una visión clara de cómo se estructuran los elementos del software.
+- [**Structurizr:**]`(https://structurizr.com/) `Implementamos Structurizr para la creación de los diagramas C4, los cuales nos ayudaron a definir la arquitectura del sistema en distintos niveles (Contexto, Contenedor, Componente y Código), brindando una visión clara de cómo se estructuran los elementos del software.
 
 **Product UX/UI Design**
 
 En esta etapa se utilizaron herramientas de diseño que permitieron crear interfaces intuitivas, visualmente atractivas y centradas en el usuario. Estas herramientas facilitaron la elaboración de prototipos interactivos y estructuras visuales claras del sistema.
 
-- [**Figma:**](https://www.figma.com/es-la/) Utilizamos Figma para la creación de wireframes, mockups y prototipos interactivos. Esta herramienta colaborativa nos permitió iterar rápidamente sobre el diseño de la interfaz, evaluando su usabilidad y estética.
+- [**Figma:**]`(https://www.figma.com/es-la/)` Utilizamos Figma para la creación de wireframes, mockups y prototipos interactivos. Esta herramienta colaborativa nos permitió iterar rápidamente sobre el diseño de la interfaz, evaluando su usabilidad y estética.
 
-- [**Lucidchart:**](https://www.lucidchart.com/pages/es) Empleamos Lucidchart para diseñar el modelo de base de datos y elaborar diagramas UML, lo cual facilitó la visualización estructurada de las entidades, relaciones y comportamientos del sistema.
+- [**Lucidchart:**]`(https://www.lucidchart.com/pages/es) `Empleamos Lucidchart para diseñar el modelo de base de datos y elaborar diagramas UML, lo cual facilitó la visualización estructurada de las entidades, relaciones y comportamientos del sistema.
 
-# 5.1.2. Source Code Management
+### 5.1.2. Source Code Management
+
+El código fuente del proyecto StayMap fue gestionado mediante la plataforma GitHub, en un repositorio público que refleja los principios del desarrollo de software de código abierto.
+
+Repositorio del proyecto:
+
+- `https://github.com/The-Rumbling-AW/StayMap-Landing_Page`
+
+Durante el desarrollo se trabajó únicamente sobre la rama `main`, lo que simplificó la gestión de cambios al mantener una única línea de desarrollo centralizada.
+Aunque no se implementó una estrategia compleja de ramas como GitFlow, se priorizó una organización clara y ordenada del historial de versiones, con confirmaciones frecuentes y mensajes descriptivos.
+
+#### Convenciones de commits
+
+Se empleó la convención **Conventional Commits** para estructurar los mensajes de commit de forma clara y semántica. Algunos prefijos utilizados fueron:
+
+- `feat:` para agregar nuevas funcionalidades a la interfaz.
+- `style:` para aplicar ajustes de formato y diseño.
+
 
 ## 5.1.3. Source Code Style Guide & Conventions
 
@@ -2701,11 +2718,11 @@ Sección de Para Artistas:
   <img src="assets/capturas/captura-artistas.png" alt="artistas" style="width: 80%">
 </div>
 
-**Enlace de la Landing Page:** https://landing-v2-bice.vercel.app/
+**Enlace de la Landing Page:** `https://landing-v2-bice.vercel.app/`
 
 **Link de video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B
+Link: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B`
 
 ### 5.2.1.6. Service Documentation Evidence for Sprint Review
 
@@ -2748,7 +2765,7 @@ Fake API comunidades
 
 #### Repositorio del Proyecto
 
-- **Repositorio Web App (StayMap)**: [https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW](https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW)
+- **Repositorio Web App (StayMap)**: `[https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW](https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW)`
 
 - **Ruta de la Fake API (datos JSON)**: `src/assets/data/`
 
@@ -3198,7 +3215,7 @@ Vista del perfil del usuario registrado.
   <img src="assets/service_documentation/perfil_usuario.png" alt="Perfil usuario" style="width: 80%;">
 </div>
 
-- **Repositorio del proyecto**: [StayMap_Landing_PageAW](https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW)
+- **Repositorio del proyecto**: `[StayMap_Landing_PageAW](https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW)`
 - **Fake API**: `src/assets/data/`
 
 #### Commits relevantes del Sprint 2
@@ -3267,32 +3284,32 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
 
 # Anexos
 
-- As is y To be scenario: https://miro.com/app/board/uXjVLbCX2lg=/
+- As is y To be scenario: `https://miro.com/app/board/uXjVLbCX2lg=/`
 
-- Wireflow Diagrams: https://lucid.app/lucidspark/78aa6bcf-2d30-441a-afe8-c467f961dd5a/edit?viewport_loc=-3901%2C8387%2C7816%2C3715%2C0_0&invitationId=inv_a6a2e377-b71d-4fd7-9685-fdf246851546
+- Wireflow Diagrams: `https://lucid.app/lucidspark/78aa6bcf-2d30-441a-afe8-c467f961dd5a/edit?viewport_loc=-3901%2C8387%2C7816%2C3715%2C0_0&invitationId=inv_a6a2e377-b71d-4fd7-9685-fdf246851546`
 
-- User Flow Diagrams: https://lucid.app/lucidspark/c12ba67c-79fe-4958-b296-cbf52fc67ce1/edit?viewport_loc=-5597%2C-2950%2C9600%2C4563%2C0_0&invitationId=inv_e02cd09b-80a5-4067-8990-e93d5c30fcfc
+- User Flow Diagrams: `https://lucid.app/lucidspark/c12ba67c-79fe-4958-b296-cbf52fc67ce1/edit?viewport_loc=-5597%2C-2950%2C9600%2C4563%2C0_0&invitationId=inv_e02cd09b-80a5-4067-8990-e93d5c30fcfc`
 
-- WireFrames: https://www.figma.com/design/77Z93r3nalqetBCDUTVvU0/Untitled?node-id=0-1&p=f&t=84cnNflph9dQEFVu-0
+- WireFrames: `https://www.figma.com/design/77Z93r3nalqetBCDUTVvU0/Untitled?node-id=0-1&p=f&t=84cnNflph9dQEFVu-0`
 
-- Mockups: https://www.figma.com/design/WgoQkLQBZxOM76KcRnpysS/Untitled?node-id=0-1&p=f&t=25lXEAyLkHpZuAcH-0
+- Mockups:` https://www.figma.com/design/WgoQkLQBZxOM76KcRnpysS/Untitled?node-id=0-1&p=f&t=25lXEAyLkHpZuAcH-0`
 
-- Diagrama UML: https://lucid.app/lucidchart/c0654847-5143-4121-8907-1f8bae86b31d/edit?viewport_loc=-8104%2C-1137%2C5901%2C2770%2C0_0&invitationId=inv_459664a2-b7f6-49a0-8cc8-e2640f08ee88
+- Diagrama UML:` https://lucid.app/lucidchart/c0654847-5143-4121-8907-1f8bae86b31d/edit?viewport_loc=-8104%2C-1137%2C5901%2C2770%2C0_0&invitationId=inv_459664a2-b7f6-49a0-8cc8-e2640f08ee88`
 
 videos de exposición:
 
-- TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EVv_U2U49hJMolwRzGWkQhQBZcf4GmKbvnnzPN5Zk3Uovw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uHFIQZ
-- TP: [https://upcedupe-my.sharepoint.com/personal/u202311704_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311704_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4334-TheRumbling-expo-tp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E86bdec34-e8a5-40e4-b710-2c2394302dee](https://upcedupe-my.sharepoint.com/personal/u202311704_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311704_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4334-TheRumbling-expo-tp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E86bdec34-e8a5-40e4-b710-2c2394302dee)
+- TB1: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EVv_U2U49hJMolwRzGWkQhQBZcf4GmKbvnnzPN5Zk3Uovw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uHFIQZ`
+- TP: `[https://upcedupe-my.sharepoint.com/personal/u202311704_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311704_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4334-TheRumbling-expo-tp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E86bdec34-e8a5-40e4-b710-2c2394302dee](https://upcedupe-my.sharepoint.com/personal/u202311704_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311704_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4334-TheRumbling-expo-tp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E86bdec34-e8a5-40e4-b710-2c2394302dee)`
 
 # Bibliografía
 
-- Instituto de Estudios Peruanos (IEP). (2019). Informe de Opinión: Música y hábitos de consumo cultural. https://iep.org.pe/wp-content/uploads/2019/09/Informe-OP-Septiembre-2019-M%C3%BAsica-7.pdf
+- Instituto de Estudios Peruanos (IEP). (2019). Informe de Opinión: Música y hábitos de consumo cultural. `https://iep.org.pe/wp-content/uploads/2019/09/Informe-OP-Septiembre-2019-M%C3%BAsica-7.pdf`
 
-- Ramos-Pla, A., Ramírez-Montoya, M. S., & García-Peñalvo, F. J. (2022). Consumo musical y su relación con la asistencia a conciertos entre universitarios. Revista de Comunicación, 21(2). https://www.redalyc.org/journal/280/28065583023/html/
+- Ramos-Pla, A., Ramírez-Montoya, M. S., & García-Peñalvo, F. J. (2022). Consumo musical y su relación con la asistencia a conciertos entre universitarios. Revista de Comunicación, 21(2). `https://www.redalyc.org/journal/280/28065583023/html/`
 
-- Chartmetric. (2023). Year in music 2023: Part 1. Chartmetric. https://reports.chartmetric.com/2023/year-in-music/part-1
+- Chartmetric. (2023). Year in music 2023: Part 1. Chartmetric. `https://reports.chartmetric.com/2023/year-in-music/part-1`
 
-- Industriamusical.com. (2024). Solo el 0.01% de los artistas emergentes alcanza niveles moderados de éxito. https://industriamusical.com/solo-el-0-01-de-los-artistas-emergentes-alcanza-niveles-moderados-de-exito/
-Mordor Intelligence. (2024). Análisis del mercado de artistas independientes - crecimiento, tendencias y pronósticos (2024-2029). https://www.mordorintelligence.com/es/industry-reports/independent-artists
+- Industriamusical.com. (2024). Solo el 0.01% de los artistas emergentes alcanza niveles moderados de éxito. `https://industriamusical.com/solo-el-0-01-de-los-artistas-emergentes-alcanza-niveles-moderados-de-exito/`
+Mordor Intelligence. (2024). Análisis del mercado de artistas independientes - crecimiento, tendencias y pronósticos (2024-2029). `https://www.mordorintelligence.com/es/industry-reports/independent-artists`
 
-- GlobeNewswire. (2025). Music Tourism Market Analysis Report 2024: Specialized Music Festivals, Expanding Offering, Niche Genres, and Unique Cultural Experiences – Global Long-term Forecast to 2028 and 2033. https://www.globenewswire.com/news-release/2025/01/07/3005534/28124/en/Music-Tourism-Market-Analysis-Report-2024-Specialized-Music-Festivals-Expanding-Offering-Niche-Genres-and-Unique-Cultural-Experiences-Global-Long-term-Forecast-to-2028-and-2033.html
+- GlobeNewswire. (2025). Music Tourism Market Analysis Report 2024: Specialized Music Festivals, Expanding Offering, Niche Genres, and Unique Cultural Experiences – Global Long-term Forecast to 2028 and 2033.` https://www.globenewswire.com/news-release/2025/01/07/3005534/28124/en/Music-Tourism-Market-Analysis-Report-2024-Specialized-Music-Festivals-Expanding-Offering-Niche-Genres-and-Unique-Cultural-Experiences-Global-Long-term-Forecast-to-2028-and-2033.html`
