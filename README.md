@@ -3301,7 +3301,7 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
 
 # 5.3. Validation Interviews.
 
-En esta sección se documenta el proceso de validación realizado con usuarios reales pertenecientes a los dos segmentos objetivo: fans de la música y artistas emergentes. El objetivo fue validar la solución StayMap —una aplicación web hecha en Vue que recomienda conciertos según ubicación y preferencias musicales— y recolectar recomendaciones a través de feedback directo e indirecto. La aplicación incluye funcionalidades como:
+En esta sección se documenta el proceso de validación realizado con usuarios reales pertenecientes a los dos segmentos objetivo: fans de la música y artistas emergentes. El objetivo fue validar la solución StayMap —una aplicación web hecha en Angular que recomienda conciertos según ubicación y preferencias musicales— y recolectar recomendaciones a través de feedback directo e indirecto. La aplicación incluye funcionalidades como:
 
 - Mapa con integración de Google Maps.
 - Filtros por género musical.
