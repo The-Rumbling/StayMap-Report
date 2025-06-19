@@ -5,7 +5,7 @@
 
 ![Image](images/upc-logo.png)
 
-## TP "StayMap"
+## TB2 "StayMap"
 
 
 **1ASI0729 - DESARROLLO DE APLICACIONES OPEN SOURCE**
@@ -69,12 +69,6 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
     </tr>
     <tr>
       <td>TB2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>TF</td>
       <td></td>
       <td></td>
       <td></td>
@@ -329,7 +323,7 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 
 # Project Report Collaboration Insights
 
-URL del repositorio de "StayMap":` https://github.com/The-Rumbling/StayMap-Report.git`
+URL del repositorio de "StayMap": `https://github.com/The-Rumbling/StayMap-Report.git`
 
 # CAPÍTULO I: INTRODUCCIÓN
 
@@ -3293,7 +3287,93 @@ Gráficos de colaboración (GitHub Insights):
 
 Los datos de contribución reflejan la participación activa del equipo, con un flujo constante de trabajo evidenciado en pushes regulares, creación de ramas y trabajo en distintos módulos del proyecto StayMap. Esta dinámica apoyó una implementación efectiva de los servicios conectados a la fake API y de las vistas principales de la plataforma.
 
+## 5.2.3. Sprint 3
 
+### 5.2.3.1. Sprint Planning 3
+
+### 5.2.3.2. Aspect Leaders and Collaborators.
+### 5.2.3.3. Sprint Backlog 3.
+### 5.2.3.4. Development Evidence for Sprint Review.
+### 5.2.3.5. Execution Evidence for Sprint Review.
+### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+# 5.3. Validation Interviews.
+
+En esta sección se documenta el proceso de validación realizado con usuarios reales pertenecientes a los dos segmentos objetivo: fans de la música y artistas emergentes. El objetivo fue validar la solución StayMap —una aplicación web hecha en Vue que recomienda conciertos según ubicación y preferencias musicales— y recolectar recomendaciones a través de feedback directo e indirecto. La aplicación incluye funcionalidades como:
+
+- Mapa con integración de Google Maps.
+- Filtros por género musical.
+- Creación y visualización de conciertos.
+- Participación y creación de comunidades.
+
+Se presentó tanto el Landing Page como la aplicación funcional ya desplegada.
+
+## 5.3.1. Diseño de Entrevistas.
+
+**Segmento 1: Fans de la música**
+
+**Objetivo:**
+Validar la utilidad de la aplicación para descubrir conciertos cercanos, interactuar con el mapa, filtrar eventos, y participar o crear comunidades.
+
+**User Flows a validar:**
+
+- Ingreso a la Landing Page e identificación de la propuesta de valor.
+- Visualización de conciertos recomendados en el mapa según ubicación.
+- Uso de filtros por género musical.
+- Unirse o crear una comunidad.
+- Confirmar asistencia
+- Agregar publicaciones en comunidades
+
+**Elementos a observar:**
+
+- ¿El usuario comprende rápidamente el propósito de la app?
+- ¿Puede navegar sin ayuda excesiva?
+- ¿Los filtros por género son útiles y fáciles de usar?
+- ¿La opción de crear una comunidad resulta atractiva o confusa?
+- ¿El mapa ofrece una experiencia clara?
+
+**Preguntas guía:**
+
+- ¿Te resultó fácil encontrar conciertos que te interesan?
+- ¿Qué tan clara te pareció la navegación general?
+- ¿Pudiste crear o unirte a una comunidad fácilmente?
+- ¿Qué mejorarías en la experiencia con el mapa?
+- ¿Qué funcionalidad agregarías para sentirte más conectado con tus artistas favoritos?
+
+**Segmento 2: Artistas emergentes**
+
+**Objetivo:**
+Validar la funcionalidad que permite a los artistas promocionar eventos, visualizar conciertos en el mapa, y construir una comunidad de fans dentro de la plataforma.
+
+**User Flows a validar:**
+
+- Ingreso al Landing Page y comprensión del valor que StayMap les ofrece como artistas.
+- Creación de un nuevo concierto.
+- Visualización de su evento en el mapa.
+- Creación de una comunidad para sus fans.
+- Agregar publicaciones en comunidades
+
+**Elementos a observar:**
+
+- ¿Es clara la propuesta de valor como artista?
+- ¿Pueden publicar un concierto sin dificultad?
+- ¿Comprenden el propósito de las comunidades?
+- ¿Encuentran útil la interacción entre mapa y eventos?
+
+**Preguntas guía:**
+
+- ¿Fue sencillo crear un concierto desde tu cuenta?
+- ¿Crees que la funcionalidad de comunidades puede ayudarte a tener más alcance?
+- ¿Qué parte del proceso fue menos intuitiva?
+- ¿Agregarías alguna herramienta extra para la gestión de tus conciertos?
+- ¿Sientes que la aplicación te conecta realmente con nuevos fans?
+
+
+## 5.3.2. Registro de Entrevistas.
+## 5.3.3. Evaluaciones según heurísticas.
+# 5.4. Video About-the-Product.
 
 # Avance de Conclusiones, Bibliografía y Anexos
 
