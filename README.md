@@ -2882,7 +2882,7 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 
 
-### 5.2.2.1.Sprint Planning 2.
+### 5.2.2.1. Sprint Planning 2.
 
 <table>
   <thead>
@@ -3006,7 +3006,7 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
   </tr>
 </table>
 
-### 5.2.2.3.Sprint Backlog 2.
+### 5.2.2.3. Sprint Backlog 2.
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -3086,7 +3086,7 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
   </tr>
 </table>
 
-### 5.2.2.4.Development Evidence for Sprint Review.
+### 5.2.2.4. Development Evidence for Sprint Review.
 
 
 <table border="1" cellpadding="5" cellspacing="0">
