@@ -3303,8 +3303,123 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
 ## 5.2.3. Sprint 3
 
 ### 5.2.3.1. Sprint Planning 3
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Background</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2025-06-20</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>9:00 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Virtual, via Discord</td>
+    </tr>
+    <tr>
+      <td><strong>Prepared by</strong></td>
+      <td>Lizarbe Álvarez, Ariana Nickole</td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (to planning meeting)</strong></td>
+      <td>
+        Lizarbe Álvarez, Ariana Nickole / Ortiz Cardenas, Johanna Antuanete / 
+        Zúñiga Murillo, Diego Sebastian / Collantes Carrillo, Diego Mateo / 
+        Zegarra López, Renato / Rubber Sebastian
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+      <td><strong>Sprint n Goal</strong></td>
+      <td>
+      Se desarrollará una aplicación web funcional dirigida a comunidades de artistas y fans, que permitirá visualizar en un mapa interactivo los eventos musicales cercanos a la ubicación del usuario, junto con una lista de eventos disponibles en su área que indique su disponibilidad. Además, los usuarios podrán crear y unirse a comunidades según sus intereses, así como filtrar los eventos por género musical, con el fin de personalizar su experiencia y facilitar la conexión entre fans y artistas emergentes.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sprint n Velocity</strong></td>
+      <td>
+        Para organizar este sprint, emplearemos la secuencia de Fibonacci (1, 2, 3, 5, 8…) como guía para valorar 
+        de manera relativa el esfuerzo de cada historia de usuario, lo que facilitará la comparación entre tareas 
+        y la calibración de la carga de trabajo.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>AUN POR ACTUALIZAR</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 5.2.3.2. Aspect Leaders and Collaborators.
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="7">5.2.1.2. Aspect Leaders and Collaborators</th>
+  </tr>
+  <tr>
+    <th>Team Member</th>
+    <th>Github Username</th>
+    <th>Landing Page</th>
+    <th>Communities</th>
+    <th>Development</th>
+    <th>Components</th>
+    <th>Deployment</th>
+  </tr>
+  <tr>
+    <td>Collantes Diego</td>
+    <td>D4D3v4l</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Lizarbe Ariana</td>
+    <td>ariaalizz</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Ortiz Johanna</td>
+    <td>Antuanet01</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Zegarra Renato</td>
+    <td>ReiZCode</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Zúniga Diego</td>
+    <td>DekayDe Canela</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+
 ### 5.2.3.3. Sprint Backlog 3.
 ### 5.2.3.4. Development Evidence for Sprint Review.
 ### 5.2.3.5. Execution Evidence for Sprint Review.
