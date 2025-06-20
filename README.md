@@ -1440,8 +1440,8 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 	<td>US27</td>
       <td>Confirmar o marcar asistencia a un evento</td>
       <td>Como fan, quiero poder marcar un evento como “Por asistir” o “Asistido”,<br>para que pueda llevar un seguimiento de los conciertos que planeo o ya he disfrutado.</td>
-      <td><strong>Escenario: Confirmar asistencia a un evento</strong><br>Dado que el usuario visualiza los detalles de un evento,<br>Cuando presiona el botón "Confirmar asistencia",<br>Entonces el evento se agrega a su lista de “Por asistir” y el botón cambia a "Cancelar asistencia".</td>
-      <td><strong>Escenario : Cancelar asistencia</strong><br>Dado que el evento ya está marcado como “Por asistir”,<br>Cuando presiona el botón "Cancelar asistencia",<br>Entonces el evento se elimina de su lista de eventos futuros y vuelve a estar disponible para confirmar.</td>
+      <td><strong>Escenario: Confirmar asistencia a un evento</strong><br>Dado que el usuario visualiza los detalles de un evento,<br>Cuando presiona el botón "Confirmar asistencia",<br>Entonces el evento se agrega a su lista de “Por asistir” y el botón cambia a "Cancelar asistencia".<br>
+      <strong>Escenario : Cancelar asistencia</strong><br>Dado que el evento ya está marcado como “Por asistir”,<br>Cuando presiona el botón "Cancelar asistencia",<br>Entonces el evento se elimina de su lista de eventos futuros y vuelve a estar disponible para confirmar.</td>
       <td>EP01</td>
     </tr>
   </tbody>
