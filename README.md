@@ -325,6 +325,14 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 
 URL del repositorio de "StayMap": `https://github.com/The-Rumbling/StayMap-Report.git`
 
+<p align="center">
+  <img src="assets/capturas/captura-commits2.png" alt="commits2" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/capturas/captura-grafico-commits.png" alt="commits grafico" width="700">
+</p>
+
 # CAPÍTULO I: INTRODUCCIÓN
 
 # 1.1. Startup Profile
