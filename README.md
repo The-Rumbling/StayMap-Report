@@ -1065,10 +1065,6 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>Red de usuarios y artistas que interactúan en una misma ciudad o región, promoviendo la música en vivo</td>
     </tr>
     <tr>
-      <td>Notificación personalizada</td>
-      <td>Alerta automática que se envía al fan cuando hay un evento que coincide con sus gustos y ubicación</td>
-    </tr>
-    <tr>
       <td>Exploración de evento</td>
       <td>Función que permite descubrir conciertos por género, zona, fecha o artista recomendado</td>
     </tr>
