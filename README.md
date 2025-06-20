@@ -3740,6 +3740,33 @@ Ambos despliegues fueron validados como evidencia funcional durante la revisión
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+Durante el Sprint 3, el equipo de desarrollo colaboró activamente para implementar las funcionalidades centrales de la plataforma <strong>StayMap</strong>. La coordinación entre los miembros permitió una integración fluida de componentes, servicios y vistas, trabajando de forma distribuida pero sincronizada.
+
+Las principales actividades realizadas fueron:
+
+- <strong>Estructuración de módulos y componentes</strong> en Angular, separados por funcionalidades (usuarios, conciertos, comunidades).
+- <strong>Diseño e implementación de estilos visuales</strong> siguiendo una línea gráfica moderna y coherente.
+- <strong>Integración de una Fake API</strong> con json-server para simular un backend RESTful, alojada en Render.
+- <strong>Control de versiones y ramas</strong> usando Git y GitHub, con convenciones claras para nombres de ramas (`features/`).
+- <strong>Despliegue automático</strong> de la aplicación en Vercel a partir de los cambios en el repositorio.
+
+El equipo utilizó GitHub como principal herramienta de colaboración. Cada integrante trabajó en su rama asignada, realizando <strong>commits frecuentes y descriptivos</strong>. Se aplicaron revisiones cruzadas y pruebas integradas antes de hacer merge al branch principal.
+
+<strong>Gráficos de colaboración:</strong>  
+
+<div align="center">
+  <img src="assets/capturas/captura-commits-appweb.png" alt="commits appweb" style="width: 80%;">
+</div>
+
+Este enfoque fomentó una dinámica de trabajo colaborativo en paralelo, donde se avanzó simultáneamente en tareas como:
+
+- Vista de perfil editable por fans y artistas.
+- Publicación en comunidades musicales.
+- Buscador de conciertos y comunidades.
+- Interacción en el mapa de conciertos.
+
+La participación activa del equipo quedó evidenciada en la frecuencia de los commits y en la cantidad de tareas completadas a tiempo, fortaleciendo el cumplimiento de los objetivos del Sprint.
+
 # 5.3. Validation Interviews.
 
 En esta sección se documenta el proceso de validación realizado con usuarios reales pertenecientes a los dos segmentos objetivo: fans de la música y artistas emergentes. El objetivo fue validar la solución StayMap —una aplicación web hecha en Angular que recomienda conciertos según ubicación y preferencias musicales— y recolectar recomendaciones a través de feedback directo e indirecto. La aplicación incluye funcionalidades como:
