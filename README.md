@@ -2378,30 +2378,59 @@ Las rutas se declararon mediante loadComponent para carga perezosa (lazy loading
 
 ## 5.1.4. Software Deployment Configuration
 
-Para la publicación de nuestra landing page y aplicación web, utilizamos GitHub Pages, una herramienta gratuita de GitHub que permite alojar sitios estáticos directamente desde un repositorio. Esta opción resultó ideal para presentar el proyecto de forma accesible, sin necesidad de servidores adicionales ni configuraciones complejas.
+Para la publicación del sistema StayMap - Open Source, utilizamos GitHub Pages, una herramienta gratuita que permite alojar sitios estáticos directamente desde un repositorio. Esta opción fue ideal para presentar el proyecto de forma accesible, sin necesidad de servidores externos ni configuraciones complejas.
 
-A continuación, se detallan los pasos que seguimos para configurar el despliegue:
+Dado que el proyecto fue desarrollado con Angular 16, se implementó una configuración especial para compilar y desplegar el contenido de la carpeta dist/, la cual contiene el resultado del build del proyecto.
+Pasos seguidos para el despliegue:
 
-1. Creación del repositorio en GitHub:
-Iniciamos el proceso creando un nuevo repositorio en GitHub, donde alojaremos todos los archivos relacionados con el proyecto de la landing page, incluyendo el HTML, CSS y JavaScript.
+1. Creación del repositorio en GitHub
+Creamos un nuevo repositorio remoto en GitHub donde alojamos todo el proyecto Angular, incluyendo los módulos, componentes y archivos de configuración.
 
-2. Preparación del entorno local:
-Clonamos el repositorio en nuestra computadora utilizando Git, lo que nos permitió trabajar de manera local, realizar pruebas y organizar el contenido antes de subirlo a la nube.
+2. Clonado y preparación del entorno local
+Clonamos el repositorio en nuestra computadora e instalamos las dependencias necesarias ejecutando:
 
-3. Organización de los archivos del proyecto:
-Diseñamos una estructura clara de carpetas que incluyera el archivo principal index.html, las hojas de estilo y los scripts necesarios para el correcto funcionamiento de la página. Esta organización facilitó el mantenimiento y despliegue del proyecto.
+		```ts
+		npm install
 
-4. Configuración de GitHub Pages:
-Una vez que el contenido estuvo listo y subido al repositorio, procedimos a activar GitHub Pages. Para ello:
+Luego, realizamos las configuraciones necesarias para preparar el proyecto para despliegue estático.
 
-- Accedimos a la pestaña Settings del repositorio.
+3. Configuración del archivo angular.json
+En el archivo angular.json, actualizamos el valor de outputPath para asegurarnos de que el contenido compilado se genere en la carpeta dist/staymap.
 
-- En la sección Pages, seleccionamos la rama principal (por ejemplo, main) y la carpeta raíz como fuente de publicación.
+4. Build de producción
+Ejecutamos el siguiente comando para generar la versión optimizada del proyecto:
 
-- Guardamos los cambios y GitHub generó automáticamente la URL pública para visualizar el sitio.
+		```ts
+		ng build --base-href "https://<usuario>.github.io/<repositorio>/"
 
-5. Verificación del despliegue:
-Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible nuestra landing page en línea. Accedimos al enlace proporcionado para comprobar que todo funcionaba correctamente y que los archivos se renderizaban sin errores.
+Esto generó los archivos estáticos en la carpeta dist/staymap, listos para desplegar.
+
+5. Creación de la rama gh-pages
+Usamos el paquete angular-cli-ghpages para automatizar el despliegue. Primero lo instalamos:
+
+		```ts
+		npm install -g angular-cli-ghpages
+
+
+Luego ejecutamos:
+
+		```ts
+		npx angular-cli-ghpages --dir=dist/staymap
+
+Esto publicó automáticamente el contenido generado a la rama gh-pages del repositorio.
+
+6. Verificación en GitHub Pages
+Accedimos a la pestaña Settings > Pages y confirmamos que la rama gh-pages esté seleccionada como fuente de publicación. GitHub generó automáticamente una URL pública para visualizar la aplicación, del tipo:
+
+		```ts
+		https://<usuario>.github.io/<repositorio>/
+
+
+7. Pruebas del despliegue
+Comprobamos que la aplicación StayMap funcionara correctamente en línea, validando que el enrutamiento, las vistas y los estilos se cargaran sin errores. También verificamos que la navegación entre componentes Angular funcione mediante rutas relativas.
+
+Este flujo de despliegue nos permitió mantener actualizaciones continuas del sistema, aprovechando el soporte de GitHub Pages para aplicaciones Angular, sin depender de servidores backend ni plataformas de pago.
+
 
 
 # 5.2. Landing Page, Services & Applications Implementation
