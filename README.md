@@ -2335,6 +2335,43 @@ Uso de nombres en camelCase.
 
 - Separación del contenido (HTML), presentación (CSS) y comportamiento (JavaScript).
 
+**Angular**
+
+El sistema StayMap Open Source fue desarrollado con **Angular 16**, siguiendo las convenciones modernas del framework:
+
+- Se utilizaron **componentes standalone** para mayor modularidad y simplicidad. Cada componente tiene su propio archivo `.ts`, `.html` y `.scss`.
+
+	```ts
+	@Component({
+	  selector: 'app-home',
+	  standalone: true,
+	  templateUrl: './home.component.html',
+	  styleUrls: ['./home.component.scss'],
+	  imports: [CommonModule],
+	})
+	export class HomeComponent {}
+
+Las rutas se declararon mediante loadComponent para carga perezosa (lazy loading), mejorando el rendimiento:
+
+	```ts
+	export const routes: Routes = [
+		  {
+		    path: '',
+		    loadComponent: () => import('./public/pages/home.component').then(m => m.HomeComponent),
+		  },
+		];
+  
+- Se aplicó una arquitectura basada en subdominios: public, shared, maintenance, analytics, con su propio enrutamiento y organización de componentes.
+
+- Los nombres de archivos siguen la convención kebab-case, y las clases y servicios en PascalCase.
+
+- Se empleó ReactiveForms para formularios robustos y validados, y servicios inyectables para el manejo de datos.
+
+- Los estilos se encapsularon por componente (styleUrls) usando .scss, y se definieron en formato kebab-case.
+
+- Se aplicaron directivas propias de Angular (*ngIf, *ngFor, [routerLink]) para control de vista y navegación.
+
+- Se utilizó Angular Material como biblioteca de componentes UI accesibles y consistentes.
 
 
 
