@@ -3421,6 +3421,147 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
 </table>
 
 ### 5.2.3.3. Sprint Backlog 3.
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="8">Sprint 2</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>id</th>
+    <th>title</th>
+    <th>id</th>
+    <th>title</th>
+    <th>description</th>
+    <th>estimation</th>
+    <th>assigned to</th>
+    <th>status</th>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Ver beneficios para fans</td>
+    <td>TSK01</td>
+    <td>Ver beneficios para fans en la Landing Page</td>
+    <td>Mostrar sección destacada en la página principal con los beneficios que ofrece StayMap para los fans.
+</td>
+    <td>30 minutos</td>
+    <td>Ariana Lizarbe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Ver beneficios para artista</td>
+    <td>TSK02</td>
+    <td>Ver beneficios para artistas en la Landing Page</td>
+    <td>Añadir contenido informativo que explique cómo StayMap apoya a los artistas en la promoción de eventos.</td>
+    <td>30 minutos</td>
+    <td>Ariana Lizarbe</td> 
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Acceder a testimonios</td>
+    <td>TSK03</td>
+    <td>Acceder a testimonios de personas quienes hayan utilizado StayMap
+</td>
+    <td>Implementar módulo visual en la landing que muestre testimonios de personas que hayan utilizado StayMap.
+</td>
+    <td>30 minutos</td>
+    <td>Ariana Lizarbe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US11</td>
+    <td>Personalizar perfil de artista</td>
+    <td>TSK11</td>
+    <td>Permitir al artista personalizar su perfil</td>
+    <td>Opción que permite al artista cambiar su nombre y fotografía de perfil.
+</td>
+    <td>2 horas</td>
+    <td>Diego Collantes</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Ingresar a comunidad de fans</td>
+    <td>TSK13</td>
+    <td>Funcionalidad para ingresar a comunidad</td>
+    <td>Permitir que el usuario fan se una a comunidades dentro de la app para interactuar con otros asistentes y seguidores.</td>
+    <td>2 horas</td>
+    <td>Diego Collantes</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US15</td>
+    <td>Cambiar idioma en la landing page</td>
+    <td>TSK15</td>
+    <td>Implementar selector de idioma en la landing</td>
+    <td>Agregar opción en la interfaz para alternar entre español e inglés y traducir dinámicamente el contenido de la página.</td>
+    <td>2 horas</td>
+    <td>Ariana Lizarbe</td>
+    <td>Done</td> <tr>
+	<td>US16</td>
+    <td>Buscar conciertos</td>
+    <td>TSK16</td>
+    <td>Implementar buscador de conciertos por nombre o artista</td>
+    <td> Crear barra de búsqueda que filtre y muestre resultados de conciertos según palabras clave ingresadas por el usuario.
+</td>
+    <td>2 horas</td>
+    <td>Diego Zúñiga</td>
+    <td>Done</td>
+  </tr>
+    <td>US17</td>
+    <td>Buscar comunidades</td>
+    <td>TSK17</td>
+    <td>Habilitar buscador de comunidades</td>
+    <td>Implementar funcionalidad que permita buscar comunidades por nombre o temática e integrar resultados en tiempo real.</td>
+    <td>2 horas</td>
+    <td>Diego Zúñiga</td>
+    <td>Done</td> <tr>
+	    <td>US21</td>
+    <td> Zoom a concierto en el mapa</td>
+    <td>TSK21</td>
+    <td>Hacer zoom al concierto seleccionado en el mapa</td>
+    <td> Implementar función para centrar y aplicar zoom automático a la ubicación del concierto cuando el usuario lo selecciona en el mapa.</td>
+    <td>2 horas</td>
+    <td>AWRRR</td>
+    <td>Done</td> <tr>
+	 <td>US23</td>
+    <td>Ver información detallada del concierto</td>
+    <td>TSK23</td>
+    <td>Mostrar detalles completos de un concierto</td>
+    <td>Diseñar e implementar una ficha que contenga nombre del artista, ubicación, fecha, hora, imagen y descripción del evento seleccionado.</td>
+    <td>2 horas</td>
+    <td>AWRRR</td>
+    <td>Done</td> <tr>
+	<td>US24</td>
+    <td>Unirse a una comunidad</td>
+    <td>TSK24</td>
+    <td>Funcionalidad para unirse a una comunidad musical</td>
+    <td>Permitir que un fan se registre como miembro de una comunidad pulsando el botón 'Unirse'.</td>
+    <td>2 horas</td>
+    <td>AWRRR</td>
+    <td>Done</td> <tr>
+	<td>US25</td>
+    <td>Publicar en la comunidad</td>
+    <td>TSK25</td>
+    <td>Crear publicaciones en comunidad</td>
+    <td>Habilitar opción para que los usuarios redacten y publiquen mensajes, fotos o recomendaciones en el feed de la comunidad a la que pertenecen.</td>
+    <td>2 horas</td>
+    <td>AWRRR</td>
+    <td>Done</td> <tr>
+	<td>US26</td>
+    <td>Editar perfil personal</td>
+    <td>TSK26</td>
+    <td>Editar información del perfil del fan</td>
+    <td> Permitir que el fan modifique su nombre, nombre de usuario y fotografía desde la sección “Mi Perfil”.</td>
+    <td>2 horas</td>
+    <td>AWRRR</td>
+    <td>Done</td> <tr>
+</table>
+
 ### 5.2.3.4. Development Evidence for Sprint Review.
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
