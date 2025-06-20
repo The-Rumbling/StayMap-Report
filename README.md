@@ -1429,6 +1429,12 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td><strong>Escenario: Crear publicación exitosa</strong><br>Dado que el usuario está unido a una comunidad,<br>Cuando accede a la comunidad y le da al boton agregar una nueva publicación escribe un mensaje,<br>Entonces la publicación se guarda y se muestra en el feed de la comunidad.</td>
       <td>EP04</td>
     </tr>
+	<td>US26</td>
+      <td>Editar perfil personal</td>
+      <td>Como fan, quiero poder editar mi información de perfil (foto, nombre y nombre de usuario),<br>para que los demás usuarios puedan reconocerme fácilmente y mantener mi perfil actualizado.</td>
+      <td><strong>Escenario: Actualizar información del perfil</strong><br>Dado que el usuario accede a la sección "Mi Perfil",<br>Cuando le doy al boton editar perfil,<br>Entonces puedo editar mi nombre, nombre de usuario y cambiar mi foto de perfil.</td>
+      <td>EP04</td>
+    </tr>
   </tbody>
 </table>
 
