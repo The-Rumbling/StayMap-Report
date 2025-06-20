@@ -3638,14 +3638,106 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
     <td>Editar información del perfil del fan</td>
     <td> Permitir que el fan modifique su nombre, nombre de usuario y fotografía desde la sección “Mi Perfil”.</td>
     <td>2 horas</td>
-    <td>AWRRR</td>
+    <td>Antuanete Ortiz</td>
     <td>Done</td> <tr>
 </table>
 
 ### 5.2.3.4. Development Evidence for Sprint Review.
+
 ### 5.2.3.5. Execution Evidence for Sprint Review.
+
+Durante el Sprint 3 del proyecto StayMap, nos centramos en fortalecer la experiencia del usuario fan y artista a través de nuevas funcionalidades orientadas a la personalización, búsqueda, interacción social y mejora del acceso a contenidos clave. Todas las tareas contempladas en el Sprint Backlog 3 fueron completadas exitosamente por los integrantes del equipo.
+
+Entre las principales evidencias de ejecución se encuentran:
+
+	- Sección de beneficios en la landing page: Se habilitaron dos secciones destacadas que presentan los beneficios tanto para fans como para artistas. Estas secciones se visualizaron directamente en la página principal, como elementos informativos que motivan el uso de la plataforma.
+
+	- Testimonios en la página de inicio: Se integró un módulo que muestra testimonios de personas que han utilizado StayMap, brindando mayor credibilidad a la plataforma. Estos testimonios se cargan dinámicamente en tarjetas dentro de la interfaz.
+
+	- Personalización del perfil del artista: Se implementó una opción que permite a los artistas modificar su nombre e imagen de perfil desde su página de perfil personal.
+
+	- Ingreso y unión a comunidades: Se desarrolló la funcionalidad para que los fans puedan visualizar comunidades musicales y unirse a ellas mediante un botón interactivo. Esto actualiza dinámicamente su estado de pertenencia en la base de datos simulada (fake API).
+
+	- Selector de idioma: Se incorporó un menú de cambio de idioma en la landing page, permitiendo alternar entre español e inglés. Esta función usa ngx-translate e integra archivos de internacionalización.
+
+	- Búsqueda inteligente de conciertos y comunidades: Se crearon componentes de búsqueda en tiempo real que permiten filtrar por nombre de concierto, artista o nombre de comunidad. Estos resultados se integran visualmente en tarjetas.
+
+	- Zoom en conciertos en el mapa: Al seleccionar un evento en la vista del mapa, se centra la ubicación y se aplica automáticamente un zoom, mejorando la experiencia espacial del usuario.
+
+	- Detalle completo del concierto: Se diseñó e implementó una ficha informativa donde se muestra nombre del artista, lugar, fecha, hora, imagen y descripción del evento.
+
+	- Publicación de contenido en comunidades: Se habilitó la opción para que los fans puedan publicar textos en las comunidades a las que pertenecen. Las publicaciones están filtradas por ID de comunidad y se almacenan en la fake API.
+
+	- Edición del perfil del fan: Se desarrolló un formulario donde el usuario puede modificar su nombre, nombre de usuario e imagen de perfil. Los datos se actualizan en tiempo real y se reflejan en su sección de perfil.
+
+Todas estas funcionalidades fueron integradas con llamadas al backend simulado mediante json-server, usando servicios específicos como UserService, CommunityService y ConcertService. Se utilizaron variables de entorno para definir los endpoints y se implementaron validaciones visuales, toasts de confirmación y filtros contextuales para mejorar la experiencia del usuario.
+
+<strong> Screenshots de las evidencias: </strong>
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 3, se completó exitosamente el despliegue de dos componentes principales del sistema StayMap: la <strong>Landing Page</strong> informativa y la <strong>Aplicación Web funcional</strong>. Cada uno fue desplegado utilizando una plataforma distinta según sus características y necesidades técnicas.
+
+---
+
+#### Landing Page
+
+La Landing Page de StayMap, orientada a la presentación del proyecto y sus beneficios, fue desarrollada como un módulo independiente en Angular. Para su despliegue, se generó una carpeta <strong>dist/</strong> mediante el comando de compilación en producción:
+
+```
+npm run build -- --configuration production
+```
+
+Esta carpeta fue publicada en GitHub Pages a través del branch <strong>gh-pages</strong>, configurado para servir contenido estático desde <strong>dist/landing</strong>.
+
+Este despliegue permitió mostrar funcionalidades clave como:
+
+- Presentación de beneficios para fans y artistas.
+- Testimonios de usuarios reales.
+- Selector de idioma (Español/Inglés) que traduce dinámicamente el contenido.
+
+<strong> Vista de la Landing Page desplegada en GitHub Pages: </strong>  
+
+<div align="center">
+  <img src="assets/capturas/captura-deployment-landingpage.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+
+---
+
+#### Aplicación Web 
+
+La aplicación principal de StayMap fue desplegada en la plataforma <strong>Vercel</strong>, directamente desde el repositorio en GitHub mediante la integración automática.
+
+En este caso:
+
+- No fue necesario generar ni subir manualmente la carpeta dist/.
+- Vercel detectó automáticamente el proyecto Angular.
+- Ejecutó internamente:
+
+```
+npm install && npm run build
+```
+
+La aplicación permite al usuario:
+
+- Visualizar conciertos y comunidades.
+- Editar perfil de usuario.
+- Confirmar asistencia a eventos.
+- Ver mapa interactivo con Google Maps API.
+- Publicar y explorar contenido de comunidades.
+
+<strong>Vista de la Aplicación Web desplegada en Vercel </strong>  
+
+<div align="center">
+  <img src="assets/capturas/captura-deployment-appweb.png" alt="deploy appweb" style="width: 80%;">
+</div>
+
+---
+
+Ambos despliegues fueron validados como evidencia funcional durante la revisión del Sprint 3, garantizando que el sistema StayMap se encuentra operativo en entornos productivos accesibles públicamente.
+
+
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 # 5.3. Validation Interviews.
