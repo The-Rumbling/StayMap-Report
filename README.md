@@ -159,8 +159,9 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 	- [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
 	- [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
 	- [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-	- [5.2.1.6. Software Deployment Evidence for Sprint Review](#5216-software-deployment-evidence-for-sprint-review)
-	- [5.2.1.7. Team Collaboration Insights during Sprint](#5217-team-collaboration-insights-during-sprint)
+	- [5.2.1.6. Service Documentation Evidence for Sprint Review](#5216-service-documentation-evidence-for-sprint-review)
+  	- [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)	
+	- [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     -  [5.2.2. Sprint 2](#522-sprint-2)
       	- [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
 	- [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
@@ -3217,7 +3218,7 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 </table>
 
 
-### 5.2.2.5.Execution Evidence for Sprint Review.
+### 5.2.2.5. Execution Evidence for Sprint Review
 
 
 Durante el Sprint 2, nos enfocamos en el desarrollo de funcionalidades clave dentro de la aplicación web StayMap, como por ejemplo la integración de una imagen de Google Maps donde se visualiza la ubicación del usuario, además de la gestión de comunidades musicales, la creación de conciertos y la visualización del perfil registrado.
@@ -3259,7 +3260,7 @@ Sección login:
 
 Enlace de la APP WEB: stay-map-app-web-j88c.vercel.app
 
-### 5.2.2.6. Services Documentation Evidence for Sprint Review
+### 5.2.2.6. Software Deployment Evidence for Sprint Review
 
 Durante el Sprint 2, se avanzó significativamente en la documentación y estructuración de los servicios simulados de StayMap, utilizando una Fake API estructurada como backend provisional. Además, se integraron servicios clave dentro de componentes funcionales, como `CommunityService`, `ConcertService` y `UserService`, conectando correctamente la interfaz con los datos simulados.
 
@@ -3310,7 +3311,7 @@ Vista del perfil del usuario registrado.
 - `5a0247f`: Construcción de la vista de perfil de usuario con datos obtenidos de localStorage.
 
 
-### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+### 5.2.2.7. Team Collaboration Insights during Sprint
 
 
 En este segundo sprint, se llevó a cabo el despliegue del proyecto StayMap utilizando la plataforma Vercel, la cual facilita la publicación de proyectos open source al integrarse directamente con repositorios en GitHub. Esto permitió mantener un flujo de trabajo continuo y automatizado, ideal para entornos colaborativos en Angular.
