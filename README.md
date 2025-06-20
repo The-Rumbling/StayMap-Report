@@ -1291,12 +1291,12 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
     <tr>
       <td>US11</td>
       <td>Personalizar perfil de artista</td>
-      <td>Como artista, quiero personalizar mi perfil con enlaces, foto y una biografía para conectar mejor con el público.</td>
+      <td>Como artista, quiero personalizar mi perfil con mi nombre artistico y fotografía para conectar mejor con el público.</td>
       <td>
         <strong>Escenario: Edición del perfil</strong><br>
         Dado que el artista abre su perfil<br>
         Cuando edita sus datos<br>
-        Entonces puede agregar enlaces, descripción, biografía y foto.<br><br>
+        Entonces puede foto y mis datos como nombre.<br><br>
         <strong>Escenario: Atractivo visual para fans</strong><br>
         Dado que el perfil ha sido personalizado<br>
         Cuando un fan lo visita<br>
@@ -1420,6 +1420,13 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <td>Unirse a una comunidad</td>
       <td>Como fan, quiero unirme a una comunidad musical para interactuar con otros usuarios con intereses similares.</td>
       <td><strong>Escenario: Unirse a comunidad</strong><br>Dado que el fan accede a una comunidad disponible<br>Cuando presiona el botón 'Unirse'<br>Entonces queda registrado como miembro.</td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>US25</td>
+      <td>Publicar en la comunidad</td>
+      <td>Como fan, quiero crear publicaciones en la comunidad a la que me he unido,<br>para que pueda compartir opiniones, fotos o recomendaciones con otros miembros.</td>
+      <td><strong>Escenario: Crear publicación exitosa</strong><br>Dado que el usuario está unido a una comunidad,<br>Cuando accede a la comunidad y le da al boton agregar una nueva publicación escribe un mensaje,<br>Entonces la publicación se guarda y se muestra en el feed de la comunidad.</td>
       <td>EP04</td>
     </tr>
   </tbody>
@@ -1558,7 +1565,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
         <td>13</td>
         <td>US13</td>
         <td>Personalizar perfil de artista</td>
-        <td>Como artista, quiero personalizar mi perfil con enlaces y biografía para conectar mejor con el público</td>
+        <td>Como artista, quiero personalizar mi perfil con mi nombre artistico y fotografía para conectar mejor con el público</td>
         <td>5</td>
       </tr>
       <tr>
