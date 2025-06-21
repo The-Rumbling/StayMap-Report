@@ -2922,19 +2922,6 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
   <strong>Esto se confirmará cuando</strong> los usuarios puedan ingresar a la página, ver eventos geolocalizados en el mapa y distinguir cuáles están disponibles en su zona según sus preferencias.
 </td>
 
-    </tr>
-    <tr>
-      <td><strong>Sprint n Velocity</strong></td>
-      <td>
-        Para organizar este sprint, emplearemos la secuencia de Fibonacci (1, 2, 3, 5, 8…) como guía para valorar 
-        de manera relativa el esfuerzo de cada historia de usuario, lo que facilitará la comparación entre tareas 
-        y la calibración de la carga de trabajo.
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Sum of Story Points</strong></td>
-      <td>27</td>
-    </tr>
   </tbody>
 </table>
 
@@ -3341,20 +3328,6 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
   <strong>Creemos que esto ofrece</strong> una experiencia personalizada que fomenta la participación en comunidades musicales, fortaleciendo el vínculo entre fans y artistas emergentes.
   <strong>Esto se confirmará cuando</strong> los usuarios puedan ver eventos geolocalizados, aplicar filtros por género musical, y crear o unirse a comunidades afines dentro de la plataforma.
 </td>
-
-    </tr>
-    <tr>
-      <td><strong>Sprint n Velocity</strong></td>
-      <td>
-        Para organizar este sprint, emplearemos la secuencia de Fibonacci (1, 2, 3, 5, 8…) como guía para valorar 
-        de manera relativa el esfuerzo de cada historia de usuario, lo que facilitará la comparación entre tareas 
-        y la calibración de la carga de trabajo.
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Sum of Story Points</strong></td>
-      <td>35</td>
-    </tr>
   </tbody>
 </table>
 
