@@ -159,7 +159,7 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 		- [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
 		- [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
 		- [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-		- [5.2.1.6. Service Documentation Evidence for Sprint Review](#5216-service-documentation-evidence-for-sprint-review)
+		- [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
   		- [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)	
 		- [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     -  [5.2.2. Sprint 2](#522-sprint-2)
@@ -168,9 +168,9 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 		- [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
 		- [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
 		- [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-		- [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-service-documentation-evidence-for-sprint-review)
-    		- [5.2.2.7. Software Deployment Evidence for Sprint Review](#5226-software-deployment-evidence-for-sprint-review)
-		- [5.2.2.7. Team Collaboration Insights during Sprint](#5227-team-collaboration-insights-during-sprint)
+		- [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    	- [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+		- [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 	- [5.2.3. Sprint 3](#523-sprint-3)
    		 - [5.2.3.1. Sprint Planning 3.](#5231-sprint-planning-3)
   		 - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
@@ -178,7 +178,7 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
    	 	 - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
   		 - [5.2.3.5. Execution Evidence for Sprint Review.](#5235-execution-evidence-for-sprint-review)
    		 - [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)
-  	  - [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
+  	  	- [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)
  	   - [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
@@ -1475,6 +1475,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 <p align="center">
 <img src="assets/impact_mapping/Impact-Mapping-Fan.png" alt="impact mapping fan" style="width: 700px">
 </p>
+
 **Artistas emergentes y bandas independientes:**
 
 <p align="center">
@@ -1483,136 +1484,36 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 # 3.4. Product Backlog
 
-<div class="product-backlog">
-  <h3>3.4. Product Backlog</h3>
-  
-  <table class="backlog-table">
-    <thead>
-      <tr>
-        <th># Orden</th>
-        <th>User Story Id</th>
-        <th>Título</th>
-        <th>Description</th>
-        <th>Story Points<br>(1/2/3/5/8)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!--  User Stories -->
-      <tr>
-        <td>1</td>
-        <td>US01</td>
-        <td>Ver beneficios para fans</td>
-        <td>Como visitante del segmento fan, quiero conocer los beneficios de la app para mí, para decidir registrarme</td>
-        <td>2</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>US02</td>
-        <td>Ver beneficios para artista</td>
-        <td>Como visitante del segmento artista, quiero ver cómo la app me ayuda a promocionar mis eventos</td>
-        <td>2</td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>US03</td>
-        <td>Acceder a testimonios</td>
-        <td>Como visitante, quiero leer testimonios de usuarios reales para aumentar mi confianza en la app.</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>US04</td>
-        <td>Registrarse en la landing page</td>
-        <td>Como visitante, quiero ver fácilmente dónde registrarme en la landing page de StayMap</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>5</td>
-        <td>US05</td>
-        <td>Iniciar sesión en la landing page</td>
-        <td>Como visitante que ya tiene cuenta, quiero poder iniciar sesión fácilmente desde la landing</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>6</td>
-        <td>US06</td>
-        <td>Explorar eventos cercanos</td>
-        <td>Como fan, quiero ver conciertos cerca de mi ubicación para decidir a cuál asistir</td>
-        <td>8</td>
-      </tr>
-      <tr>
-        <td>7</td>
-        <td>US07</td>
-        <td>Filtrar eventos por género musical</td>
-        <td>Como fan, quiero filtrar eventos por género para ver solo los que me interesan</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>8</td>
-        <td>US08</td>
-        <td>Recibir notificaciones de artistas favoritos</td>
-        <td>Como fan, quiero recibir notificaciones cuando mi artista favorito esté en concierto</td>
-        <td>8</td>
-      </tr>
-      <tr>
-        <td>9</td>
-        <td>US09</td>
-        <td>Compartir asistencia a un concierto</td>
-        <td>Como fan, quiero compartir que asistiré a un evento para animar a mis amistades a participar</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>10</td>
-        <td>US10</td>
-        <td>Calificar un evento asistido</td>
-        <td>Como fan, quiero poder dejar una calificación de un concierto para ayudar a otros usuarios</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>11</td>
-        <td>US11</td>
-        <td>Publicar nuevo concierto</td>
-        <td>Como artista, quiero crear un evento para promocionar mi presentación</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>12</td>
-        <td>US12</td>
-        <td>Medir asistencia estimada</td>
-        <td>Como artista, quiero ver cuántas personas marcaron asistencia para medir el interés</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>13</td>
-        <td>US13</td>
-        <td>Personalizar perfil de artista</td>
-        <td>Como artista, quiero personalizar mi perfil con mi nombre artistico y fotografía para conectar mejor con el público</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>14</td>
-        <td>US14</td>
-        <td>Crear comunidad con seguidores</td>
-        <td>Como artista, quiero interactuar con mis seguidores para generar fidelización</td>
-        <td>8</td>
-      </tr>
-      <tr>
-        <td>15</td>
-        <td>US15</td>
-        <td>Ingresar a comunidad de fans</td>
-        <td>Como fan, quiero ingresar a una comunidad dentro de la app para compartir experiencias con otros asistentes y seguidores</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>16</td>
-        <td>US16</td>
-        <td>Ver mapa con geolocalización</td>
-        <td>Como fan, quiero ver un mapa con mi ubicación y los conciertos cercanos marcados para explorar visualmente las opciones disponibles</td>
-        <td>8</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| # Orden | User Story Id | Título                                   | Description                                                                                                                | Story Points (1/2/3/5/8) |
+|--------:|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| 1       | US01         | Ver beneficios para fans                 | Como visitante fan, quiero conocer los beneficios de la app para decidir registrarme.                                      | 1                        |
+| 2       | US02         | Ver beneficios para artista             | Como visitante artista, quiero ver cómo la app me ayuda a promocionar mis eventos.                                         | 1                        |
+| 3       | US03         | Acceder a testimonios                   | Como visitante, quiero leer testimonios de usuarios reales para aumentar mi confianza en la app.                           | 1                        |
+| 4       | US04         | Registrarse en la landing page          | Como visitante, quiero encontrar fácilmente dónde registrarme en la landing page.                                          | 2                        |
+| 5       | US05         | Iniciar sesión en la landing page       | Como visitante con cuenta, quiero iniciar sesión fácilmente desde la landing page.                                         | 2                        |
+| 6       | US06         | Explorar eventos cercanos               | Como fan, quiero ver conciertos cerca de mi ubicación para decidir a cuál asistir.                                         | 5                        |
+| 7       | US07         | Filtrar eventos por género musical      | Como fan, quiero filtrar eventos por género para ver solo los que me interesan.                                           | 3                        |
+| 8       | US08         | Confirmar o cancelar asistencia         | Como fan, quiero confirmar o cancelar mi asistencia para organizarme mejor y motivar a mis amigos.                         | 5                        |
+| 9       | US09         | Publicar nuevo concierto                | Como artista, quiero crear un evento para promocionar mi presentación.                                                    | 5                        |
+| 10      | US10         | Medir asistencia estimada               | Como artista, quiero ver cuántas personas marcaron asistencia para medir el interés.                                       | 3                        |
+| 11      | US11         | Personalizar perfil de artista          | Como artista, quiero personalizar mi perfil con nombre y foto para conectar mejor con el público.                         | 3                        |
+| 12      | US12         | Crear comunidad con seguidores          | Como artista, quiero crear una comunidad para publicar actualizaciones y fidelizar a mis seguidores.                      | 5                        |
+| 13      | US13         | Ingresar a comunidad de fans            | Como fan, quiero ingresar a comunidades para compartir experiencias con otros seguidores.                                 | 5                        |
+| 14      | US14         | Ver mapa con geolocalización            | Como fan, quiero ver un mapa con mi ubicación y conciertos cercanos marcados para explorar opciones visualmente.          | 5                        |
+| 15      | US15         | Cambiar idioma en la landing page       | Como visitante, quiero cambiar el idioma entre español e inglés para entender mejor el contenido.                         | 3                        |
+| 16      | US16         | Buscar conciertos                      | Como usuario, quiero buscar conciertos por nombre o artista para encontrarlos fácilmente.                                 | 2                        |
+| 17      | US17         | Buscar comunidades                     | Como usuario, quiero buscar comunidades por nombre o temática para unirme a las que me interesen.                         | 2                        |
+| 18      | US18         | Iniciar sesión en la app web            | Como usuario registrado, quiero iniciar sesión desde la app web para acceder a mi cuenta.                                  | 2                        |
+| 19      | US19         | Registrarse como artista                | Como nuevo usuario, quiero registrarme como artista para promocionar mis conciertos.                                      | 3                        |
+| 20      | US20         | Registrarse como fan                    | Como nuevo usuario, quiero registrarme como fan para participar en la comunidad y explorar conciertos.                    | 3                        |
+| 21      | US21         | Zoom a concierto en el mapa             | Como fan, quiero que al seleccionar un concierto en el mapa se haga zoom a su ubicación.                                  | 3                        |
+| 22      | US22         | Ver estado del concierto                | Como usuario, quiero saber si un concierto está disponible o agotado para decidir si puedo asistir.                       | 2                        |
+| 23      | US23         | Ver información detallada del concierto | Como fan, quiero ver la información completa de un concierto para decidir si asistir.                                      | 3                        |
+| 24      | US24         | Unirse a una comunidad                  | Como fan, quiero unirme a una comunidad musical para interactuar con otros usuarios con intereses similares.              | 5                        |
+| 25      | US25         | Publicar en la comunidad                | Como fan, quiero crear publicaciones en la comunidad para compartir opiniones y fotos con otros miembros.                 | 3                        |
+| 26      | US26         | Editar perfil personal                  | Como fan, quiero editar mi información (foto, nombre, usuario) para mantener mi perfil actualizado.                       | 3                        |
+| 27      | US27         | Confirmar o marcar asistencia a evento | Como fan, quiero marcar un evento como “Por asistir” o “Asistido” para llevar seguimiento de mis conciertos.              | 3                        |
+
 
 # Capítulo IV: Product Design
 
@@ -2470,7 +2371,11 @@ Este flujo de despliegue nos permitió mantener actualizaciones continuas del si
   </tr>
   <tr>
     <td>Sprint n Goal</td>
-    <td>Diseñar y desarrollar una landing page funcional y responsiva que comunique efectivamente los valores de StayMap, permita la navegación básica y esté alineada con la arquitectura de información planteada para fans y artistas.</td>
+    <td>
+  <strong>Nuestro enfoque está</strong> en entregar una landing page funcional y responsiva que refleje los valores de marca de StayMap y permita una navegación básica alineada con la arquitectura de información.
+  <strong>Creemos que esto ofrece</strong> una primera experiencia de usuario clara y genera confianza en fans y artistas que visitan la plataforma por primera vez.
+  <strong>Esto se confirmará cuando</strong> los usuarios puedan acceder a la landing page desde distintos dispositivos, navegar entre secciones clave y comprender fácilmente la propuesta de valor de StayMap.
+</td>
   </tr>
   <tr>
     <td>Sprint n Velocity</td>
@@ -3005,11 +2910,12 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
     </tr>
     <tr>
       <td><strong>Sprint n Goal</strong></td>
-      <td>
-        Desarrollar una página funcional para comunidades de artistas y fans en donde se pueda observar en un mapa 
-        los eventos deseados por nuestros usuarios y una relación de eventos disponibles en nuestra área que indiquen 
-        la disponibilidad de estos eventos.
-      </td>
+     <td>
+  <strong>Nuestro enfoque está</strong> en desarrollar una página funcional que permita a fans y artistas visualizar en un mapa los eventos deseados por los usuarios y la disponibilidad de eventos en su área.
+  <strong>Creemos que esto ofrece</strong> una experiencia personalizada y relevante para los usuarios, facilitando la conexión entre intereses musicales y oferta local de eventos.
+  <strong>Esto se confirmará cuando</strong> los usuarios puedan ingresar a la página, ver eventos geolocalizados en el mapa y distinguir cuáles están disponibles en su zona según sus preferencias.
+</td>
+
     </tr>
     <tr>
       <td><strong>Sprint n Velocity</strong></td>
@@ -3290,7 +3196,7 @@ Sección login:
 
 Enlace de la APP WEB: stay-map-app-web-j88c.vercel.app
 
-### 5.2.2.6. Software Deployment Evidence for Sprint Review
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 2, se avanzó significativamente en la documentación y estructuración de los servicios simulados de StayMap, utilizando una Fake API estructurada como backend provisional. Además, se integraron servicios clave dentro de componentes funcionales, como `CommunityService`, `ConcertService` y `UserService`, conectando correctamente la interfaz con los datos simulados.
 
@@ -3341,7 +3247,7 @@ Vista del perfil del usuario registrado.
 - `5a0247f`: Construcción de la vista de perfil de usuario con datos obtenidos de localStorage.
 
 
-### 5.2.2.7. Team Collaboration Insights during Sprint
+### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 
 En este segundo sprint, se llevó a cabo el despliegue del proyecto StayMap utilizando la plataforma Vercel, la cual facilita la publicación de proyectos open source al integrarse directamente con repositorios en GitHub. Esto permitió mantener un flujo de trabajo continuo y automatizado, ideal para entornos colaborativos en Angular.
@@ -3363,7 +3269,7 @@ Con cada actualización en la rama main, Vercel ejecuta automáticamente el proc
 El resultado final se aloja en un enlace público proporcionado por la plataforma, lo que permite acceder fácilmente al proyecto desde cualquier navegador.
 
 
-### 5.2.2.8.Team Collaboration Insights during Sprint.
+### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 Durante este Sprint, el equipo trabajó de manera colaborativa en la implementación de funcionalidades clave del proyecto StayMap, desarrollado con Angular y utilizando una API simulada basada en json-server para la gestión de datos de usuarios, conciertos y comunidades.
 
@@ -3424,9 +3330,12 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
     </tr>
     <tr>
       <td><strong>Sprint n Goal</strong></td>
-      <td>
-      Se desarrollará una aplicación web funcional dirigida a comunidades de artistas y fans, que permitirá visualizar en un mapa interactivo los eventos musicales cercanos a la ubicación del usuario, junto con una lista de eventos disponibles en su área que indique su disponibilidad. Además, los usuarios podrán crear y unirse a comunidades según sus intereses, así como filtrar los eventos por género musical, con el fin de personalizar su experiencia y facilitar la conexión entre fans y artistas emergentes.
-      </td>
+     <td>
+  <strong>Nuestro enfoque está</strong> en desarrollar una aplicación web funcional que permita a fans y artistas visualizar en un mapa interactivo los eventos musicales cercanos, junto con una lista filtrable de eventos disponibles en su área, según su ubicación e intereses.
+  <strong>Creemos que esto ofrece</strong> una experiencia personalizada que fomenta la participación en comunidades musicales, fortaleciendo el vínculo entre fans y artistas emergentes.
+  <strong>Esto se confirmará cuando</strong> los usuarios puedan ver eventos geolocalizados, aplicar filtros por género musical, y crear o unirse a comunidades afines dentro de la plataforma.
+</td>
+
     </tr>
     <tr>
       <td><strong>Sprint n Velocity</strong></td>
@@ -3438,7 +3347,7 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
     </tr>
     <tr>
       <td><strong>Sum of Story Points</strong></td>
-      <td>AUN POR ACTUALIZAR</td>
+      <td>35</td>
     </tr>
   </tbody>
 </table>
@@ -3611,7 +3520,7 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
     <td>Hacer zoom al concierto seleccionado en el mapa</td>
     <td> Implementar función para centrar y aplicar zoom automático a la ubicación del concierto cuando el usuario lo selecciona en el mapa.</td>
     <td>2 horas</td>
-    <td>AWRRR</td>
+    <td>Diego Collantes</td>
     <td>Done</td> <tr>
 	 <td>US23</td>
     <td>Ver información detallada del concierto</td>
@@ -3619,7 +3528,7 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
     <td>Mostrar detalles completos de un concierto</td>
     <td>Diseñar e implementar una ficha que contenga nombre del artista, ubicación, fecha, hora, imagen y descripción del evento seleccionado.</td>
     <td>2 horas</td>
-    <td>AWRRR</td>
+    <td>Renato Zegarra</td>
     <td>Done</td> <tr>
 	<td>US24</td>
     <td>Unirse a una comunidad</td>
@@ -3627,7 +3536,7 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
     <td>Funcionalidad para unirse a una comunidad musical</td>
     <td>Permitir que un fan se registre como miembro de una comunidad pulsando el botón 'Unirse'.</td>
     <td>2 horas</td>
-    <td>AWRRR</td>
+    <td>Antuanete Ortiz</td>
     <td>Done</td> <tr>
 	<td>US25</td>
     <td>Publicar en la comunidad</td>
@@ -3635,7 +3544,7 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
     <td>Crear publicaciones en comunidad</td>
     <td>Habilitar opción para que los usuarios redacten y publiquen mensajes, fotos o recomendaciones en el feed de la comunidad a la que pertenecen.</td>
     <td>2 horas</td>
-    <td>AWRRR</td>
+    <td>Diego Collantes</td>
     <td>Done</td> <tr>
 	<td>US26</td>
     <td>Editar perfil personal</td>
@@ -3644,6 +3553,14 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
     <td> Permitir que el fan modifique su nombre, nombre de usuario y fotografía desde la sección “Mi Perfil”.</td>
     <td>2 horas</td>
     <td>Antuanete Ortiz</td>
+    <td>Done</td> <tr>
+	    <td>US27</td>
+    <td>Confirmar o marcar asistencia a evento</td>
+    <td>TSK27</td>
+    <td>Confirmar o marcar asistencia a evento </td>
+    <td> Permitir confirmar o marcar asistencia a evento al dar click a un botón</td>
+    <td>2 horas</td>
+    <td>Renato Zegarra</td>
     <td>Done</td> <tr>
 </table>
 
