@@ -168,7 +168,8 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 		- [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
 		- [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
 		- [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-		- [5.2.2.6. Software Deployment Evidence for Sprint Review](#5226-software-deployment-evidence-for-sprint-review)
+		- [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-service-documentation-evidence-for-sprint-review)
+    		- [5.2.2.7. Software Deployment Evidence for Sprint Review](#5226-software-deployment-evidence-for-sprint-review)
 		- [5.2.2.7. Team Collaboration Insights during Sprint](#5227-team-collaboration-insights-during-sprint)
 	- [5.2.3. Sprint 3](#523-sprint-3)
    		 - [5.2.3.1. Sprint Planning 3.](#5231-sprint-planning-3)
@@ -2838,7 +2839,7 @@ Sección de Para Artistas:
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
 URL: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B`
 
-### 5.2.1.6. Service Documentation Evidence for Sprint Review
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 1 se logró establecer la base técnica y visual del proyecto StayMap. Se configuró el entorno de desarrollo, se implementó la estructura inicial del backend  y se desarrollaron los primeros componentes de la interfaz web. Además, se elaboró la landing page funcional, integrando elementos clave como el inicio de sesión. También se definieron rutas de navegación y se implementaron funcionalidades básicas de exploración de conciertos y comunidades.
 
