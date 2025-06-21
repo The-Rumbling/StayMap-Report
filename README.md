@@ -2921,7 +2921,10 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
   <strong>Creemos que esto ofrece</strong> una experiencia personalizada y relevante para los usuarios, facilitando la conexión entre intereses musicales y oferta local de eventos.
   <strong>Esto se confirmará cuando</strong> los usuarios puedan ingresar a la página, ver eventos geolocalizados en el mapa y distinguir cuáles están disponibles en su zona según sus preferencias.
 </td>
-
+<tr>
+    <td>Sum of Story Points</td>
+    <td>27</td>
+  </tr>
   </tbody>
 </table>
 
@@ -3328,6 +3331,10 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
   <strong>Creemos que esto ofrece</strong> una experiencia personalizada que fomenta la participación en comunidades musicales, fortaleciendo el vínculo entre fans y artistas emergentes.
   <strong>Esto se confirmará cuando</strong> los usuarios puedan ver eventos geolocalizados, aplicar filtros por género musical, y crear o unirse a comunidades afines dentro de la plataforma.
 </td>
+	    <tr>
+    <td>Sum of Story Points</td>
+    <td>37</td>
+  </tr>
   </tbody>
 </table>
 
