@@ -3558,6 +3558,8 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
 
 ### 5.2.3.4. Development Evidence for Sprint Review.
 
+
+
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 
 Durante el Sprint 3 del proyecto StayMap, nos centramos en fortalecer la experiencia del usuario fan y artista a través de nuevas funcionalidades orientadas a la personalización, búsqueda, interacción social y mejora del acceso a contenidos clave. Todas las tareas contempladas en el Sprint Backlog 3 fueron completadas exitosamente por los integrantes del equipo.
