@@ -2210,7 +2210,11 @@ El código fuente del proyecto StayMap fue gestionado mediante la plataforma Git
 
 Repositorio del proyecto:
 
-- `https://github.com/The-Rumbling-AW/StayMap-Landing_Page`
+- `https://github.com/The-Rumbling/StayMap-AppWeb-V2.git`
+
+<div align="center">
+  <img src="repositorio-appweb.png" alt="inicio" style="width: 80%">
+</div>
 
 Durante el desarrollo se trabajó únicamente sobre la rama `main`, lo que simplificó la gestión de cambios al mantener una única línea de desarrollo centralizada.
 Aunque no se implementó una estrategia compleja de ramas como GitFlow, se priorizó una organización clara y ordenada del historial de versiones, con confirmaciones frecuentes y mensajes descriptivos.
