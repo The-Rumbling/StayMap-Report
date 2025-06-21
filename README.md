@@ -60,7 +60,8 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
     <tr>
       <td>TP</td>
       <td>16/05/2025</td>
-      <td> 	- Collantes Carrillo, Diego Mateo <br>
+      <td> 
+	- Collantes Carrillo, Diego Mateo <br>
 	- Lizarbe Alvarez, Ariana Nickole <br>
 	- Ortiz Cardenas, Johanna Antuanete <br>
 	- Zegarra Lopez, Renato Sebastian Rubber <br> 
@@ -69,9 +70,14 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
     </tr>
     <tr>
       <td>TB2</td>
-      <td></td>
-      <td></td>
-      <td></td>
+	<td>21/06/2025</td>
+      <td>
+	- Collantes Carrillo, Diego Mateo <br>
+	- Lizarbe Alvarez, Ariana Nickole <br>
+	- Ortiz Cardenas, Johanna Antuanete <br>
+	- Zegarra Lopez, Renato Sebastian Rubber <br> 
+	- Zúñiga Murillo, Diego Sebastian <br></td>
+      <td>Durante el Sprint 3, se completó con éxito el despliegue de la nueva versión de la landing page, así como la implementación y publicación de la aplicación web desarrollada en Angular y TypeScript, alojada en Vercel. Se llevó a cabo una planificación minuciosa, asignando roles específicos denominados Aspect Leaders, y se ejecutaron todas las tareas contempladas en el Sprint Backlog. El avance quedó documentado y evidenciado a través del código, pruebas y documentación correspondiente. Además, se actualizaron los artefactos previos, incluyendo el Project Report Collaboration Insights y la sección de Student Outcome, reflejando el progreso del equipo y la colaboración efectiva. En resumen, se dispone de una versión parcial que cumple con los requisitos establecidos para esta entrega.</td>
     </tr>
   </tbody>
 </table>
