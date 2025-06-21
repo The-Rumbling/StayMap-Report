@@ -241,6 +241,9 @@ de audiencia.</td>
         TB1: Lidere la gestion y revision de entrevistas para validar los puntos criticos dentro de STAYMAP creando gias de analisis donde se indican los puntos de mejoria para satisfacer a los usuarios <br>
 	      <br>
         TP: Ajusté la entrega del proyecto para alinear STAYMAP con las exigencias de esta etapa. Implementé una API que genera un mapa dinámico con la ubicación de conciertos en la zona elegida, destacando los nombres de los artistas.
+	      <br><br>
+        TB2: Las revisiones con el docente me ayudaron a adaotar mi lenguaje según el público, explicando tanto decisiones técnicas (como la estructura en dominios y el uso de Angular standalone) además de funcionalidades clave orientadas al usuario. <br>
+	      <br>
       </td>
       <td>
         <strong>Collantes Carrillo, Diego Mateo</strong><br>
@@ -260,9 +263,10 @@ de audiencia.</td>
 	      TP:   Mi comunicación efectiva aseguró la alineación del equipo con objetivos realistas y claros.
 	      <br> <br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
-        TB1: Los analisis de las entrevistas sirivieron para identiificar los puntos criticos que nos encargamos de solucionar como grupo<br>
+        TB1: Los analisis de las entrevistas sirivieron para identiificar los puntos criticos que nos encargamos de solucionar como grupo<br><br>
 	      TP: Las mejoras implementadas en esta versión optimizaron la usabilidad del programa, facilitando la interacción con STAYMAP.
-	      <br> <br><br>
+	      <br> <br>
+	      TB2:  Esta experiencia fortaleció mi habilidad para exponer y analizar temas técnicos de forma profesional, ajustándome al perfil de distintos oyentes.
       </td>
     </tr>
     <tr>
@@ -297,6 +301,7 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 	       <br>
 	      TP: Desarrollé una guía de decisiones técnicas que documenta el razonamiento detrás de cada implementación (como las APIs), incluyendo justificaciones de diseño.
 	      <br> <br>
+	      TB2: Redacté documentación técnica clara y bien estructurada en el repositorio GitHub del proyecto, incluyendo guías de despliegue, convenciones de código y estructura de carpetas. También elaboramos informes escritos dirigidos tanto a docentes como a usuarios no técnicos, asegurando que cada tipo de lector comprendiera el contenido según su nivel.
       </td>
       <td>
         <strong>Collantes Carrillo, Diego Mateo</strong><br>
@@ -323,6 +328,7 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 	         <br>
 	      TP: La guía de razonamiento técnico unificó el entendimiento del proyecto, facilitando la colaboración efectiva del equipo.
 	      <br><br>
+	      TB2: Esta entrega me permitió realzar mis competencias de redacción técnica, adaptando el nivel de detalle y lenguaje escrito para que fuese accesible y útil para distintos perfiles de audiencia.
       </td>
     </tr>
   </tbody>
