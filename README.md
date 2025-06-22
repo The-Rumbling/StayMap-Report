@@ -237,6 +237,9 @@ de audiencia.</td>
 	      	      <br>
         TP: Me encargué de la revisión de funcionalidades y mejoría del frontend de STAYMAP asegurandome de que el uso sea pertinente y eficaz para cumplir con los objetivos requeridos
 	      <br>
+	       <br>
+        TB2: Me encargué de comunicar de forma clara y efectiva los cambios necesarios para integrar la página de detalles de cada concierto, así como la implementación de la pantalla de perfil y la lista de confirmación de asistencia. Esta comunicación permitió al equipo comprender rápidamente las funcionalidades y avanzar de forma coordinada.
+	      <br>
 	      <br>
 <strong>Zuniga Murillo, Diego Sebastian</strong><br>
         TB1: Lidere la gestion y revision de entrevistas para validar los puntos criticos dentro de STAYMAP creando gias de analisis donde se indican los puntos de mejoria para satisfacer a los usuarios <br>
@@ -264,6 +267,7 @@ de audiencia.</td>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: El esquema de base de datos que implementé potenció el rendimiento de STAYMAP, estableciendo una estructura escalable y robusta.<br><br>
 	      TP:   Mi comunicación efectiva aseguró la alineación del equipo con objetivos realistas y claros.
+	      TB2: Mi comunicación efectiva facilitó que los integrantes del equipo entendieran las prioridades y la lógica de interacción entre las vistas de usuario y conciertos, lo que ayudó a mantener la coherencia visual y funcional de la plataforma.
 	      <br> <br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
         TB1: Los analisis de las entrevistas sirivieron para identiificar los puntos criticos que nos encargamos de solucionar como grupo<br><br>
