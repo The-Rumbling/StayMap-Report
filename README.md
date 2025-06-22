@@ -229,8 +229,9 @@ de audiencia.</td>
         TB1:  lideré el proceso iterativo de diseño del Landing Page, incorporando activamente el feedback de todos mediante encuestas estructuradas y herramientas colaborativas. Documenté minuciosamente guías de estilo y componentes reutilizables para mantener coherencia visual. Además, instituí espacios dedicados a discutir accesibilidad e inclusión, enriqueciendo así nuestra perspectiva colectiva.<br>
 	      	      <br>
         TP: Organicé talleres de diseño participativo donde cada miembro contribuyó activamente a los prototipos, y validamos los cambios mediante pruebas controladas para que el trabajo cumpla con todas las necesidades impuestas para esta entrega parcial.
-	      <br>
-	      <br>
+	      <br><br>
+        TB2: Me comuniqué de forma clara y efectiva con mis compañeros durante el proceso de deployment del proyecto, coordinando las tareas necesarias para subir correctamente el repositorio. Participé activamente en reuniones, adaptando mi lenguaje técnico para asegurar que todos comprendieran sus responsabilidades y pudiéramos entregar un trabajo funcional y organizado.
+	      <br><br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: Gestioné la comunicación con los stakeholders externos, traduciendo requerimientos técnicos a un lenguaje accesible y organizando sesiones de alineación. Recluté usuarios para pruebas de usabilidad y sinteticé los hallazgos en informes accionables. También identifiqué y resolví tensiones por carga de trabajo desigual, redistribuyendo tareas para optimizar nuestro rendimiento grupal.<br>
 	      	      <br>
@@ -258,6 +259,8 @@ de audiencia.</td>
         TB1: El Modelo C4 que desarrollé fue fundamental para simplificar la explicación de la arquitectura de STAYMAP, haciéndola comprensible incluso para audiencias no técnicas.<br><br>
 	      TP: Las actualizaciones en la interfaz optimizaron la navegación del sistema, mejorando la funcionalidad de módulos como comunidades y conciertos.
 	      <br> <br>
+        TB2: Me encargué de actualizar el apartado de edición de perfil de usuario y de mejorar el formulario de creación de conciertos, documentando los cambios con descripciones claras y mensajes de commit comprensibles para todo el equipo. Esto permitió mantener una comunicación efectiva en el repositorio y facilitó el seguimiento del desarrollo para compañeros con distintos niveles técnicos.
+        <br> <br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: El esquema de base de datos que implementé potenció el rendimiento de STAYMAP, estableciendo una estructura escalable y robusta.<br><br>
 	      TP:   Mi comunicación efectiva aseguró la alineación del equipo con objetivos realistas y claros.
