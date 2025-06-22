@@ -3584,11 +3584,46 @@ Entre las principales evidencias de ejecución se encuentran:
 
 	- Publicación de contenido en comunidades: Se habilitó la opción para que los fans puedan publicar textos en las comunidades a las que pertenecen. Las publicaciones están filtradas por ID de comunidad y se almacenan en la fake API.
 
-	- Edición del perfil del fan: Se desarrolló un formulario donde el usuario puede modificar su nombre, nombre de usuario e imagen de perfil. Los datos se actualizan en tiempo real y se reflejan en su sección de perfil.
+	- Edición del perfil del usuario: Se desarrolló un formulario donde el usuario puede modificar su nombre, nombre de usuario e imagen de perfil. Los datos se actualizan en tiempo real y se reflejan en su sección de perfil.
 
 Todas estas funcionalidades fueron integradas con llamadas al backend simulado mediante json-server, usando servicios específicos como UserService, CommunityService y ConcertService. Se utilizaron variables de entorno para definir los endpoints y se implementaron validaciones visuales, toasts de confirmación y filtros contextuales para mejorar la experiencia del usuario.
 
 <strong> Screenshots de las evidencias: </strong>
+
+<strong> Landing page </strong>
+
+Cambio de idioma en landing page:
+
+<div align="center">
+  <img src="assets/capturas/language-switcher-landing.png" alt="languageSwitcherLanding" style="width: 80%;">
+</div>
+
+Aplicación web StayMap
+Sección comunidades:
+<div align="center">
+  <img src="assets/capturas/seccion-comunidades.png" alt="SeccionComunidades" style="width: 80%;">
+</div>
+
+Editar perfil:
+<div align="center">
+  <img src="assets/capturas/editar-perfil-usuario.png" alt="EditarPerfilUsuario" style="width: 80%;">
+</div>
+
+Ver conciertos en mapa:
+
+<div align="center">
+  <img src="assets/capturas/ver-concierto-mapa.png" alt="VerConciertoMapa" style="width: 80%;">
+</div>
+
+<div align="center">
+  <img src="assets/capturas/zoom-concierto-mapa.png" alt="ZoomConciertoMapa" style="width: 80%;">
+</div>
+
+Detalle de concierto:
+
+<div align="center">
+  <img src="assets/capturas/detalle-concierto.png" alt="DetalleConcierto" style="width: 80%;">
+</div>
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
