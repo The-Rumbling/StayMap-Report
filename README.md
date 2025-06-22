@@ -3900,6 +3900,8 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 ## 5.3.2. Registro de Entrevistas.
 
+Url del video de entrevistas: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EYvc6nhY2D9Em16I77GL5MIB0rC_ivUGI7hVPqJmRNk7Rg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=103hgD`
+
 ### Segmento objetivo #1: Fans de la música (15 a 35 años)
 
 #### Entrevista #1
@@ -3907,8 +3909,8 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 **Nombre:** Jade Huaman   
 **Edad:** 20 años  
-**Duración:** 07:03:20  
-**Inicio:** 00:10:00   
+**Duración:** 00:06:58  
+**Inicio:** 00:00:10   
 **Resumen:** Jade mostró un gran entusiasmo por el concepto de StayMap, especialmente por la posibilidad de ubicar eventos musicales cercanos y unirse a comunidades de fans. Destacó lo valioso que sería tener un espacio digital donde pueda compartir su pasión por la música con otros. Sin embargo, una de sus sugerencias fue incorporar funciones que permitan sentir una mayor cercanía con los artistas, como la organización de streaming parties dentro de las comunidades. Para Jade, estas actividades ayudarían a fortalecer el vínculo emocional entre los fans y los artistas, haciendo de la plataforma una experiencia más inmersiva y participativa.
 
 #### Entrevista #2
@@ -3916,8 +3918,8 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 **Nombre:** Masiel Cusi   
 **Edad:** 20 años  
-**Duración:** 09:15:50  
-**Inicio:** 00:13:44    
+**Duración:** 00:09:24
+**Inicio:** 00:07:05
 **Resumen:** Massiel valoró positivamente la propuesta de StayMap y resaltó su utilidad para fans que desean conocer eventos musicales de distintas escalas, desde los más grandes hasta los más pequeños. Apreció la facilidad de navegación y el enfoque en la ubicación, pero hizo una recomendación clave: incluir una sección donde los usuarios puedan acceder a perfiles de artistas. En esta sección, le gustaría poder seguir a sus artistas favoritos, conocer más sobre ellos e incluso interactuar con sus publicaciones o actividades. Considera que esto haría la experiencia más completa y personalizada, reforzando el vínculo fan-artista dentro de la aplicación
 
 #### Entrevista #3
@@ -3925,8 +3927,8 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 **Nombre:** Jazmin Roque  
 **Edad:** 22 años  
-**Duración:** 15:12:50  
-**Inicio:** 00:10:44  
+**Duración:** 00:15:12  
+**Inicio:** 00:16:30 
 **Resumen:** Jazmín, consideró que StayMap es una iniciativa con gran potencial para apoyar a músicos independientes, ya que les brinda visibilidad a través del mapa interactivo. Le pareció muy útil que los fans puedan descubrir eventos según su ubicación, pero también propuso algunas mejoras importantes. Entre ellas, mencionó que sería ideal que el mapa no solo muestre la ubicación de los conciertos, sino también las rutas para llegar al lugar. Además, sugirió integrar playlists de Spotify relacionados con los eventos o artistas, lo cual enriquecería la experiencia musical y serviría como promoción previa a los conciertos.
 
 ### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
@@ -3936,8 +3938,8 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 **Nombre:** Rodrigo Chavez  
 **Edad:** 19 años  
-**Duración:** 08:56:60  
-**Inicio:** 00:58:20  
+**Duración:** 00:08:56
+**Inicio:** 00:31:47
 **Resumen:** Rodrigo Chávez, un artista emergente de 19 años con más de seis años de experiencia en la música, enfocado en el género pop, considera que la plataforma es intuitiva y fácil de usar, con una conexión directa entre artistas y fans. Destaca la simplicidad de las funciones de StayMap, especialmente el apartado de comunidades, que le permite sentirse más cerca de su audiencia. Valora positivamente la funcionalidad del mapa para visualizar la distancia a los conciertos, lo que facilita la planificación de asistencia. Como herramienta adicional, sugiere incorporar recordatorios o notificaciones para los conciertos, lo cual reforzaría el vínculo con los eventos importantes. Además, menciona que la idea de comunidad es clave para crecer como artista emergente, aunque considera que el apartado de publicación de posts podría mejorarse para optimizar la interacción. Su feedback resalta la importancia de la usabilidad, la cercanía con el público y la mejora continua en herramientas de comunicación dentro de la plataforma.
 
 #### Entrevista #5
@@ -3945,8 +3947,8 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 **Nombre:** Joaquin Villanueva  
 **Edad:** 19 años  
-**Duración:** 12:32:00  
-**Inicio:** 00:53:30  
+**Duración:** 00:12:29 
+**Inicio:** 00:40:45 
 **Resumen:** Joaquín Villanueva, un joven artista de 19 años con cuatro años de experiencia en la música, enfocado principalmente en el rock indie alternativo, considera que la propuesta de valor es clara y atractiva. Resalta que las herramientas de la aplicación son muy sencillas de usar para interactuar con conciertos y con otros artistas, lo que le pareció interesante y fácil de comprender. No presentó dificultades en su uso y entendió bien el propósito de las comunidades como espacios para mantener la interacción constante entre artistas y fans. Además, valoró la organización visual mediante el mapa de comunidades, ya que considera que permitirá a los artistas emergentes tener mayor visibilidad y oportunidades para despegar. Como mejora, sugiere incorporar una funcionalidad adicional que permita almacenar experiencias vividas en conciertos, a modo de carpeta personal. Su opinión respalda la importancia de la simplicidad, la interacción artística y la personalización como elementos clave para una plataforma que busque conectar a músicos y seguidores
 
 #### Entrevista #6
@@ -3954,8 +3956,8 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 **Nombre:** Zaleth Feijóo  
 **Edad:** 19 años  
-**Duración:** 21:35:00  
-**Inicio:** 02:18:00  
+**Duración:** 00:21:31  
+**Inicio:** 00:53:20
 **Resumen:** Zalth Feijóo, artista emergente de 19 años con tres años de experiencia en el ámbito musical, considera que la propuesta de valor es clara y pertinente, destacando especialmente el enfoque en dar visibilidad a artistas emergentes. Resaltó que la aplicación es fácil de usar en general, y valoró positivamente la función del mapa para visualizar conciertos, considerándolo lo más innovador de la plataforma. También comprendió correctamente el propósito de las comunidades, proponiendo como mejora la incorporación de un chat para fomentar una comunicación más directa entre artistas y fans. Señaló como dificultad el sistema actual de carga de imágenes mediante enlaces, recomendando la posibilidad de subir archivos directamente desde el dispositivo. Además, sugirió incluir información de contacto del artista en los conciertos, así como un filtro para ver eventos cercanos que ocurran en tiempo real. Su feedback refuerza la importancia de optimizar procesos visuales e interactivos, priorizando accesibilidad, dinamismo y personalización para fortalecer la conexión entre artistas emergentes y su público.
 
 ## 5.3.3. Evaluaciones según heurísticas.
