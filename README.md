@@ -307,6 +307,7 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 	      <br><br>
 	      TB2: Documenté de forma clara las decisiones técnicas relacionadas con la integración de la vista de detalles de conciertos, el perfil de usuario y el sistema de confirmación de asistencia. Esto incluyó mensajes en los commits, issues y explicaciones escritas que facilitaron la comprensión de los cambios por parte de todo el equipo.
 	      <br>
+	      <br><br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
         TB1: Implementé un sistema automatizado de dashboards para sintetizar feedback cualitativo de STAYMAP, generando informes ejecutivos mensuales accionables.<br>
 	       <br>
@@ -338,6 +339,7 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 	      <br><br>
 	      TB2: La comunicación escrita que desarrollé permitió mantener una trazabilidad ordenada del proyecto y aseguró que miembros con distintos niveles técnicos pudieran comprender el propósito y funcionamiento de cada funcionalidad implementada.
 	      <br>
+	      <br><br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
         TB1: Mis informes sistematizaron el feedback de usuarios, permitiendo priorizar funcionalidades clave para STAYMAP.
 	         <br>
