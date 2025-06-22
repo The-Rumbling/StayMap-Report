@@ -3724,10 +3724,10 @@ Esta documentación refleja la estructura del sistema para usuarios, conciertos,
 
 ### <strong>Commits relevantes del Sprint 3</strong>
 
-- `EDITAR`: Implementación de lógica de confirmación y cancelación de asistencia a conciertos.  
-- `EDITAR`: Soporte para publicaciones en comunidades y servicio asociado.  
-- `EDITAR`: Edición de perfil de usuario (nombre, imagen, correo) mediante PUT.  
-- `EDITAR`: Integración de vista dinámica del detalle del concierto con datos de la Fake API.
+- `81e5a27`: Implementación de lógica de confirmación y cancelación de asistencia a conciertos.  
+- `0850a9e`: Soporte para publicaciones en comunidades y servicio asociado.  
+- `4405caa`: Edición de perfil de usuario (nombre, imagen, correo) mediante PUT.  
+- `3a12fcb`: Integración de vista dinámica del detalle del concierto con datos de la Fake API.
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
