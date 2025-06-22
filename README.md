@@ -3969,7 +3969,7 @@ CURSO: Desarrollo de Aplicaciones Open Source
 SECCIÓN: 4334  
 PROFESORES: Hugo Allan Mori Paiva  
 AUDITOR: The Rumbling  
-CLIENTE(S): Jade Huaman, Massiel Cusi, Jazmín Roque, Joaquín Villanueva, Rodrigo Chávez  
+CLIENTE(S): Jade Huaman, Massiel Cusi, Jazmín Roque, Joaquín Villanueva, Rodrigo Chávez, Zaleth Feijóo
 
 -----------------------
 
@@ -4074,6 +4074,24 @@ CLIENTE(S): Jade Huaman, Massiel Cusi, Jazmín Roque, Joaquín Villanueva, Rodri
       <td>2</td>
       <td>immersive experience: flexibility and efficiency of use</td>
     </tr>
+    <tr>
+      <td>9</td>
+      <td>El proceso para añadir imágenes en conciertos es poco intuitivo</td>
+      <td>3</td>
+      <td>usability: recognition rather than recall</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Falta un filtro para visualizar conciertos en tiempo real o cercanos</td>
+      <td>2</td>
+      <td>usability: visibility of system status</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Falta de un chat directo entre artistas y fans dentro de las comunidades</td>
+      <td>1</td>
+      <td>immersive experience: flexibility and efficiency of use</td>
+    </tr>
   </tbody>
 </table>
 
@@ -4175,7 +4193,38 @@ No se integran playlists relacionadas con los eventos para enriquecer la experie
 Descripción: No se ofrecen recursos musicales como playlists de Spotify o similares que permitan a los usuarios familiarizarse con los artistas o eventos antes del concierto.    
 Recomendación: Incluir playlists asociadas a los conciertos o artistas en cada evento publicado. Esto puede servir como promoción musical anticipada y aumentar el interés del usuario.
 
+-----------------------
 
+### Problema 9
+El proceso para añadir imágenes en conciertos es poco intuitivo
+
+- Severidad: 3
+
+- Heurística violada: Reconocimiento antes que recuerdo
+
+Descripción: Actualmente, para agregar una imagen a un concierto es necesario copiar y pegar una URL externa, lo que no es una práctica común entre usuarios de plataformas similares. Esto provoca confusión, errores (como espacios al copiar) y ralentiza el proceso.
+
+-----------------------
+
+### Problema 10
+Falta un filtro para visualizar conciertos en tiempo real o cercanos
+
+Severidad: 2
+
+Heurística violada: Flexibilidad y eficiencia de uso
+
+Descripción: La entrevistada expresó interés en ver qué conciertos están ocurriendo en el momento o próximamente cerca de su ubicación. La falta de un filtro para eventos en vivo o por fecha/hora disminuye la practicidad de la aplicación.
+
+-----------------------
+
+### Problema 11
+Falta de un chat directo entre artistas y fans dentro de las comunidades
+
+Severidad: 1
+
+Heurística violada: Flexibilidad y eficiencia de uso
+
+Descripción: La entrevistada sugirió agregar una opción de chat directo entre artistas y fans dentro de las comunidades. Aunque no es indispensable para el funcionamiento base de la aplicación, podría fortalecer el sentido de comunidad.
 
 # 5.4. Video About-the-Product.
 
