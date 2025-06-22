@@ -225,6 +225,9 @@ de audiencia.</td>
         TP: Me encargué de desarrollar el diseño de STAYMAP dentro de la experiencia del usuario, implementando funcionalidades como inicio de sesion o lista de conciertos dentro del programa.
 	      <br>
 	      <br>
+	TB2: Durante la ejecución del proyecto, participé activamente en la realización de entrevistas a usuarios pertenecientes al segmento objetivo. Estas entrevistas me permitieron adaptar mi lenguaje oral según el perfil de cada persona, explicando de manera clara y empática el propósito de nuestra aplicación. Ajusté mi comunicación para obtener respuestas relevantes y valiosas, facilitando así la recolección de información útil para la mejora del producto.
+	      <br>
+	      <br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
         TB1:  lideré el proceso iterativo de diseño del Landing Page, incorporando activamente el feedback de todos mediante encuestas estructuradas y herramientas colaborativas. Documenté minuciosamente guías de estilo y componentes reutilizables para mantener coherencia visual. Además, instituí espacios dedicados a discutir accesibilidad e inclusión, enriqueciendo así nuestra perspectiva colectiva.<br>
 	      	      <br>
@@ -258,6 +261,7 @@ de audiencia.</td>
         TB1: La Landing Page que diseñé no solo mostró STAYMAP de forma profesional, sino que también nos ayudó a medir el interés de los usuarios antes del lanzamiento.<br><br>
 	      TP:La integración de STAYMAP con una API mejoró notablemente la experiencia de usuario, aprovechando una base de datos existente para centralizar información clave en nuestro proyecto.
 	      <br> <br>
+	      TB2: Diseñé la landing page con contenido claro y estructurado, adaptado a diferentes tipos de público. Esta experiencia fortaleció mi habilidad para comunicar por escrito de forma precisa y atractiva según el perfil del lector.<br> <br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
         TB1: El Modelo C4 que desarrollé fue fundamental para simplificar la explicación de la arquitectura de STAYMAP, haciéndola comprensible incluso para audiencias no técnicas.<br><br>
 	      TP: Las actualizaciones en la interfaz optimizaron la navegación del sistema, mejorando la funcionalidad de módulos como comunidades y conciertos.
@@ -293,6 +297,8 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 <br><br>
 	      TP: Documenté exhaustivamente la base de datos implementada en STAYMAP, destacando sus componentes clave y funcionalidades críticas para nuestro proyecto.
 	      <br><br>
+	      TB2: Me encargué de diseñar y desarrollar la landing page del proyecto, enfocándome en transmitir el valor de la aplicación de manera efectiva a través de los textos y la estructura visual. Redacté contenido claro, conciso y adaptado tanto para usuarios casuales como para posibles interesados más técnicos, logrando que la información fuera accesible y atractiva para distintos tipos de audiencia.
+	      <br><br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
         TB1: Implementé un sistema de documentación modular para STAYMAP, creando plantillas estandarizadas que permitieron escalar la comunicación técnica sin perder coherencia.<br>
 	      <br>
@@ -325,6 +331,7 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
         TB1:Mis contenidos comunicaron efectivamente el valor de STAYMAP, recibiendo reconocimiento tanto de usuarios como del equipo interno.<br>   <br>
 	      TP: La documentación de la base de datos permitió un manejo consistente y eficiente de los elementos del sistema.
 	      <br><br>
+	      TB2: Adapté mi lenguaje oral según el perfil de cada usuario durante las entrevistas, lo que facilitó una comunicación clara y empática. Esto permitió obtener información relevante para mejorar la aplicación y reforzó mi capacidad para expresarme con efectividad frente a distintas audiencias.<br><br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
         TB1:  Mis guías aceleraron la incorporación de nuevos miembros al facilitar la comprensión del Modelo C4 aplicado a STAYMAP.<br>
 	         <br>
@@ -4228,9 +4235,9 @@ Descripción: Actualmente, para agregar una imagen a un concierto es necesario c
 ### Problema 10
 Falta un filtro para visualizar conciertos en tiempo real o cercanos
 
-Severidad: 2
+- Severidad: 2
 
-Heurística violada: Flexibilidad y eficiencia de uso
+- Heurística violada: Flexibilidad y eficiencia de uso
 
 Descripción: La entrevistada expresó interés en ver qué conciertos están ocurriendo en el momento o próximamente cerca de su ubicación. La falta de un filtro para eventos en vivo o por fecha/hora disminuye la practicidad de la aplicación.
 
@@ -4239,9 +4246,9 @@ Descripción: La entrevistada expresó interés en ver qué conciertos están oc
 ### Problema 11
 Falta de un chat directo entre artistas y fans dentro de las comunidades
 
-Severidad: 1
+- Severidad: 1
 
-Heurística violada: Flexibilidad y eficiencia de uso
+- Heurística violada: Flexibilidad y eficiencia de uso
 
 Descripción: La entrevistada sugirió agregar una opción de chat directo entre artistas y fans dentro de las comunidades. Aunque no es indispensable para el funcionamiento base de la aplicación, podría fortalecer el sentido de comunidad.
 
@@ -4274,10 +4281,10 @@ Descripción: La entrevistada sugirió agregar una opción de chat directo entre
 
 - Diagrama UML:` https://lucid.app/lucidchart/c0654847-5143-4121-8907-1f8bae86b31d/edit?viewport_loc=-8104%2C-1137%2C5901%2C2770%2C0_0&invitationId=inv_459664a2-b7f6-49a0-8cc8-e2640f08ee88`
 
-videos de exposición:
+**Videos de exposición:**
 
 - TB1: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EVv_U2U49hJMolwRzGWkQhQBZcf4GmKbvnnzPN5Zk3Uovw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uHFIQZ`
-- TP: `[https://upcedupe-my.sharepoint.com/personal/u202311704_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311704_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4334-TheRumbling-expo-tp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E86bdec34-e8a5-40e4-b710-2c2394302dee](https://upcedupe-my.sharepoint.com/personal/u202311704_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311704_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4334-TheRumbling-expo-tp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E86bdec34-e8a5-40e4-b710-2c2394302dee)`
+- TP: `https://upcedupe-my.sharepoint.com/personal/u202311704_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311704_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4334-TheRumbling-expo-tp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E86bdec34-e8a5-40e4-b710-2c2394302dee`
 - TB2: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EWOjMs0vXtJKtCNRhHbjFL4BSQyAbu3KNUMB72Hz2HNECA?e=Kwzla0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
 # Bibliografía
