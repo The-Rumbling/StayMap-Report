@@ -3899,7 +3899,203 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 
 ## 5.3.2. Registro de Entrevistas.
+
+#### Entrevista #1
+![user_persona](assets/interviews/Analisis-Entrevista-2-Fan1.png)
+
+**Nombre:** Jade Huaman  
+**Edad:** 20 años  
+**Duración:** 07:03:20  
+**Inicio:** 00:10:00  
+
+#### Entrevista #2
+![user_persona](assets/interviews/Analisis-Entrevista-2-Fan2.png)
+
+**Nombre:** Masiel Cusi
+**Edad:** 20 años  
+**Duración:** 09:15:50  
+**Inicio:** 00:13:44  
+
+#### Entrevista #3
+![user_persona](assets/interviews/Analisis-Entrevista-2-Fan2.png)
+
+**Nombre:** Jazmin Roque  
+**Edad:** 22 años  
+**Duración:** 15:12:50  
+**Inicio:** 00:10:44  
+
+### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
+
+#### Entrevista #3
+![user_persona](assets/interviews/Analisis-Entrevista-2-Artista1.png)
+
+**Nombre:** Rodrigo Chavez  
+**Edad:** 19 años  
+**Duración:** 08:56:60  
+**Inicio:** 00:58:20  
+
+#### Entrevista #4
+![user_persona](assets/interviews/Analisis-Entrevista-2-Artista2.png)
+
+**Nombre:** Joaquin Villanueva  
+**Edad:** 19 años  
+**Duración:** 12:32:00  
+**Inicio:** 00:53:30  
+
+
 ## 5.3.3. Evaluaciones según heurísticas.
+
+## App a evaluar:
+StayMap
+
+## Tareas a evaluar
+<ul>
+  <li>Ingreso al Landing Page y comprensión del valor que StayMap les ofrece como artistas.</li>
+  <li>Creación de un nuevo concierto.</li>
+  <li>Visualización de su evento en el mapa.</li>
+  <li>Creación de una comunidad para sus fans.</li>
+  <li>Agregar publicaciones en comunidades.</li>
+</ul>
+
+## Escala de severidad
+
+<table>
+  <thead>
+    <tr>
+      <th>Nivel</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>1</strong></td>
+      <td>Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+      <td><strong>2</strong></td>
+      <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.</td>
+    </tr>
+    <tr>
+      <td><strong>3</strong></td>
+      <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+      <td><strong>4</strong></td>
+      <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Tabla de resumen de problemas
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Problema</th>
+      <th>Severidad</th>
+      <th>Heurística/Principio violado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Los datos completados en el formulario de conciertos no se reflejan correctamente al crearlo</td>
+      <td>3</td>
+      <td>usability: user control and freedom</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>El concierto creado no aparece en la lista de conciertos disponibles</td>
+      <td>3</td>
+      <td>information architecture: visibility of system status</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>La opción para crear publicaciones en comunidades es poco clara y difícil de utilizar</td>
+      <td>2</td>
+      <td>usability: help and documentation</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>No se permite adjuntar archivos al publicar en comunidades</td>
+      <td>2</td>
+      <td>inclusive design: provide comparable experiences</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>No existe una opción de notificación o recordatorio para próximos conciertos</td>
+      <td>2</td>
+      <td>usability: recognition rather than recall</td>
+    </tr>
+  </tbody>
+</table>
+
+
+## Descripcion de problemas
+
+
+### Problema 1
+Los datos completados en el formulario de conciertos no se reflejan correctamente al crearlo
+
+- Severidad: 3
+
+- Heurística violada: Prevención de errores
+
+Descripción: Al crear un concierto, algunos campos como nombre del evento, fecha o ubicación no se muestran de forma coherente en la vista final. Esto genera desconfianza en la funcionalidad del sistema.
+Recomendación: Asegurar que los datos ingresados se guarden y visualicen correctamente. Implementar validaciones y una vista previa del concierto antes de guardar.
+
+-----------------------
+
+### Problema 2
+El concierto creado no aparece en la lista de conciertos disponibles
+
+- Severidad: 3
+
+- Heurística violada: Feedback inmediato y correspondencia entre sistema y mundo real
+
+Descripción: Luego de crear un concierto, este no se visualiza automáticamente en la lista de conciertos disponibles, obligando al usuario a recargar la página manualmente.
+Recomendación: Actualizar automáticamente la lista de conciertos después de crear uno nuevo y mostrar una notificación de éxito.
+
+-----------------------
+
+### Problema 3
+La opción para crear publicaciones en comunidades es poco clara y difícil de utilizar
+
+- Severidad: 2
+
+- Heurística violada: Ayuda y documentación
+
+Descripción: El proceso de publicación dentro de comunidades carece de guía visual, lo cual complica a los usuarios entender qué pueden compartir y cómo hacerlo.
+Recomendación: Agregar textos orientativos (placeholders), iconos para adjuntar archivos y una guía visual sobre el tipo de contenido permitido.
+
+-----------------------
+
+### Problema 4
+No se permite adjuntar archivos al publicar en comunidades
+
+- Severidad: 2
+
+- Heurística violada: Flexibilidad y eficiencia de uso
+
+Descripción: Las publicaciones están limitadas a texto, lo cual es una desventaja para los artistas que desean compartir contenido multimedia o promocional.
+Recomendación: Permitir adjuntar imágenes (.jpg, .png) con una interfaz clara para hacerlo.
+
+-----------------------
+
+### Problema 5
+No existe una opción de notificación o recordatorio para próximos conciertos
+
+- Severidad: 2
+
+- Heurística violada: Reconocer mejor que recordar
+
+Descripción: No se ofrece ninguna forma de alertar al usuario sobre la cercanía de un concierto al que haya mostrado interés o asistencia.
+Recomendación: Implementar notificaciones automáticas para recordar a los usuarios sobre eventos próximos guardados o avisos en comunidades.
+
+
+
+
+
 # 5.4. Video About-the-Product.
 
 # Avance de Conclusiones, Bibliografía y Anexos
