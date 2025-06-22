@@ -335,7 +335,7 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 	      <br>
 	      TP: Los documentos producidos estandarizaron el entendimiento de los diagramas, mejorando la arquitectura del programa según mejores prácticas.
 	      <br><br>
-	      TB1: Fortalecí mi habilidad para comunicar por escrito de forma organizada, asegurando que la información fuera comprensible para audiencias con distintos niveles técnicos.
+	      TB2: Fortalecí mi habilidad para comunicar por escrito de forma organizada, asegurando que la información fuera comprensible para audiencias con distintos niveles técnicos.
 	      <br><br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
         TB1:Mis contenidos comunicaron efectivamente el valor de STAYMAP, recibiendo reconocimiento tanto de usuarios como del equipo interno.<br>   <br>
