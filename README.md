@@ -3637,7 +3637,7 @@ Durante el Sprint 3, se consolidó la integración entre la interfaz de StayMap 
 
 Esta documentación refleja la estructura del sistema para usuarios, conciertos, comunidades y publicaciones, accesibles desde un entorno local gracias a la configuración de <strong>json-server</strong> como backend provisional.
 
-### <strong>📄 Endpoints documentados</strong>
+### <strong> Endpoints documentados</strong>
 
 | <strong>Endpoint</strong>         | <strong>Método</strong> | <strong>Descripción</strong>                              | <strong>Ejemplo de llamada</strong> | <strong>Ejemplo de respuesta</strong>                          |
 |----------------------------------|--------------------------|------------------------------------------------------------|-------------------------------------|--------------------------------------------------------------|
