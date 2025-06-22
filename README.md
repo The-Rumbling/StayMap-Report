@@ -337,6 +337,12 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 
 # Project Report Collaboration Insights
 
+URL de la organización The Rumbling: `https://github.com/The-Rumbling`
+
+<p align="center">
+  <img src="assets/capturas/the-Rumbling.png" alt="commits grafico" width="700">
+</p>
+
 URL del repositorio de "StayMap": `https://github.com/The-Rumbling/StayMap-Report.git`
 
 <p align="center">
