@@ -3777,6 +3777,7 @@ El equipo utilizó GitHub como principal herramienta de colaboración. Cada inte
   <img src="assets/capturas/captura-commits-appweb.png" alt="commits appweb" style="width: 80%;">
 </div>
 
+<strong>GitFlow:</strong>  
 <div align="center">
   <img src="assets/capturas/gitflow-OPEN.png" alt="gitflow" style="width: 80%;">
 </div>
