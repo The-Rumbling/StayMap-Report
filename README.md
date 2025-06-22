@@ -3949,6 +3949,15 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Inicio:** 00:53:30  
 **Resumen:** Joaquín Villanueva, un joven artista de 19 años con cuatro años de experiencia en la música, enfocado principalmente en el rock indie alternativo, considera que la propuesta de valor es clara y atractiva. Resalta que las herramientas de la aplicación son muy sencillas de usar para interactuar con conciertos y con otros artistas, lo que le pareció interesante y fácil de comprender. No presentó dificultades en su uso y entendió bien el propósito de las comunidades como espacios para mantener la interacción constante entre artistas y fans. Además, valoró la organización visual mediante el mapa de comunidades, ya que considera que permitirá a los artistas emergentes tener mayor visibilidad y oportunidades para despegar. Como mejora, sugiere incorporar una funcionalidad adicional que permita almacenar experiencias vividas en conciertos, a modo de carpeta personal. Su opinión respalda la importancia de la simplicidad, la interacción artística y la personalización como elementos clave para una plataforma que busque conectar a músicos y seguidores
 
+#### Entrevista #6
+![user_persona](assets/interviews/Analisis-Entrevista-2-Artista3.png)
+
+**Nombre:** Zaleth Feijóo
+**Edad:** 19 años
+**Duración:** 21:35:00
+**Inicio:** 02:18:00
+**Resumen:** Zalth Feijóo, artista emergente de 19 años con tres años de experiencia en el ámbito musical, considera que la propuesta de valor es clara y pertinente, destacando especialmente el enfoque en dar visibilidad a artistas emergentes. Resaltó que la aplicación es fácil de usar en general, y valoró positivamente la función del mapa para visualizar conciertos, considerándolo lo más innovador de la plataforma. También comprendió correctamente el propósito de las comunidades, proponiendo como mejora la incorporación de un chat para fomentar una comunicación más directa entre artistas y fans. Señaló como dificultad el sistema actual de carga de imágenes mediante enlaces, recomendando la posibilidad de subir archivos directamente desde el dispositivo. Además, sugirió incluir información de contacto del artista en los conciertos, así como un filtro para ver eventos cercanos que ocurran en tiempo real. Su feedback refuerza la importancia de optimizar procesos visuales e interactivos, priorizando accesibilidad, dinamismo y personalización para fortalecer la conexión entre artistas emergentes y su público.
+
 ## 5.3.3. Evaluaciones según heurísticas.
 
 <div align="center">
