@@ -3415,7 +3415,7 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
 ### 5.2.3.3. Sprint Backlog 3.
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
-    <th colspan="8">Sprint 2</th>
+    <th colspan="8">Sprint 3</th>
   </tr>
   <tr>
     <th colspan="2">User Story</th>
