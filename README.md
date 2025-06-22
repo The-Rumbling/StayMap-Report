@@ -4268,8 +4268,8 @@ Descripción: La entrevistada sugirió agregar una opción de chat directo entre
 ![Image](assets/capturas/aboutTheProduct.png)
 
 **Duración:** 00:00:50   
-**URL en Microsoft Stream:** `[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EWadlIfuzmJJvwIEZnMSosIBuk62gjJvnv5zgPXOV6cRbw?e=ryTZTC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/EW7haIoSjBdAlW-WvXrFHmABJK-2BtDR3gOAFPRuzy2Rug?e=BkBqFW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)`   
-**URL en Youtube:** `[https://www.youtube.com/watch?v=z53nugGXFA4](https://youtu.be/puIIcqcMcII)`
+**URL en Microsoft Stream:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/EW7haIoSjBdAlW-WvXrFHmABJK-2BtDR3gOAFPRuzy2Rug?e=c2121a&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
+**URL en Youtube:** `https://youtu.be/puIIcqcMcII`
 
 # Avance de Conclusiones, Bibliografía y Anexos
 
