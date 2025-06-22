@@ -3625,7 +3625,7 @@ Todas estas funcionalidades fueron integradas con llamadas al backend simulado m
 
 <strong> Screenshots de las evidencias: </strong>
 
-<strong> Landing page <strong>
+<strong> Landing page </strong>
 
 Cambio de idioma en landing page:
 
@@ -3633,7 +3633,7 @@ Cambio de idioma en landing page:
   <img src="assets/capturas/language-switcher-landing.png" alt="languageSwitcherLanding" style="width: 80%;">
 </div>
 
-<strong> Aplicación web StayMap <strong>
+<strong> Aplicación web StayMap </strong>
 Sección comunidades:
 <div align="center">
   <img src="assets/capturas/seccion-comunidades.png" alt="SeccionComunidades" style="width: 80%;">
