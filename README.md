@@ -3900,21 +3900,25 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 ## 5.3.2. Registro de Entrevistas.
 
+### Segmento objetivo #1: Fans de la música (15 a 35 años)
+
 #### Entrevista #1
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Fan1.png)
 
-**Nombre:** Jade Huaman  
+**Nombre:** Jade Huaman   
 **Edad:** 20 años  
 **Duración:** 07:03:20  
-**Inicio:** 00:10:00  
+**Inicio:** 00:10:00   
+**Resumen:** Jade mostró un gran entusiasmo por el concepto de StayMap, especialmente por la posibilidad de ubicar eventos musicales cercanos y unirse a comunidades de fans. Destacó lo valioso que sería tener un espacio digital donde pueda compartir su pasión por la música con otros. Sin embargo, una de sus sugerencias fue incorporar funciones que permitan sentir una mayor cercanía con los artistas, como la organización de streaming parties dentro de las comunidades. Para Jade, estas actividades ayudarían a fortalecer el vínculo emocional entre los fans y los artistas, haciendo de la plataforma una experiencia más inmersiva y participativa.
 
 #### Entrevista #2
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Fan2.png)
 
-**Nombre:** Masiel Cusi
+**Nombre:** Masiel Cusi   
 **Edad:** 20 años  
 **Duración:** 09:15:50  
-**Inicio:** 00:13:44  
+**Inicio:** 00:13:44    
+**Resumen:** Massiel valoró positivamente la propuesta de StayMap y resaltó su utilidad para fans que desean conocer eventos musicales de distintas escalas, desde los más grandes hasta los más pequeños. Apreció la facilidad de navegación y el enfoque en la ubicación, pero hizo una recomendación clave: incluir una sección donde los usuarios puedan acceder a perfiles de artistas. En esta sección, le gustaría poder seguir a sus artistas favoritos, conocer más sobre ellos e incluso interactuar con sus publicaciones o actividades. Considera que esto haría la experiencia más completa y personalizada, reforzando el vínculo fan-artista dentro de la aplicación
 
 #### Entrevista #3
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Fan3.png)
@@ -3923,6 +3927,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Edad:** 22 años  
 **Duración:** 15:12:50  
 **Inicio:** 00:10:44  
+**Resumen:** Jazmín, artista emergente, consideró que StayMap es una iniciativa con gran potencial para apoyar a músicos independientes, ya que les brinda visibilidad a través del mapa interactivo. Le pareció muy útil que los fans puedan descubrir eventos según su ubicación, pero también propuso algunas mejoras importantes. Entre ellas, mencionó que sería ideal que el mapa no solo muestre la ubicación de los conciertos, sino también las rutas para llegar al lugar. Además, sugirió integrar playlists de Spotify relacionados con los eventos o artistas, lo cual enriquecería la experiencia musical y serviría como promoción previa a los conciertos.
 
 ### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
 
@@ -3933,6 +3938,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Edad:** 19 años  
 **Duración:** 08:56:60  
 **Inicio:** 00:58:20  
+**Resumen:** Rodrigo Chávez, un artista emergente de 19 años con más de seis años de experiencia en la música, enfocado en el género pop, considera que la plataforma es intuitiva y fácil de usar, con una conexión directa entre artistas y fans. Destaca la simplicidad de las funciones de StayMap, especialmente el apartado de comunidades, que le permite sentirse más cerca de su audiencia. Valora positivamente la funcionalidad del mapa para visualizar la distancia a los conciertos, lo que facilita la planificación de asistencia. Como herramienta adicional, sugiere incorporar recordatorios o notificaciones para los conciertos, lo cual reforzaría el vínculo con los eventos importantes. Además, menciona que la idea de comunidad es clave para crecer como artista emergente, aunque considera que el apartado de publicación de posts podría mejorarse para optimizar la interacción. Su feedback resalta la importancia de la usabilidad, la cercanía con el público y la mejora continua en herramientas de comunicación dentro de la plataforma.
 
 #### Entrevista #4
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Artista2.png)
@@ -3941,12 +3947,26 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Edad:** 19 años  
 **Duración:** 12:32:00  
 **Inicio:** 00:53:30  
-
+**Resumen:** Joaquín Villanueva, un joven artista de 19 años con cuatro años de experiencia en la música, enfocado principalmente en el rock indie alternativo, considera que la propuesta de valor es clara y atractiva. Resalta que las herramientas de la aplicación son muy sencillas de usar para interactuar con conciertos y con otros artistas, lo que le pareció interesante y fácil de comprender. No presentó dificultades en su uso y entendió bien el propósito de las comunidades como espacios para mantener la interacción constante entre artistas y fans. Además, valoró la organización visual mediante el mapa de comunidades, ya que considera que permitirá a los artistas emergentes tener mayor visibilidad y oportunidades para despegar. Como mejora, sugiere incorporar una funcionalidad adicional que permita almacenar experiencias vividas en conciertos, a modo de carpeta personal. Su opinión respalda la importancia de la simplicidad, la interacción artística y la personalización como elementos clave para una plataforma que busque conectar a músicos y seguidores
 
 ## 5.3.3. Evaluaciones según heurísticas.
 
-## App a evaluar:
-StayMap
+<div align="center">
+
+## UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture  
+CARRERA: Ingeniería de Software  
+CURSO: Desarrollo de Aplicaciones Open Source  
+SECCIÓN: 4334  
+PROFESORES: Hugo Allan Mori Paiva  
+AUDITOR: The Rumbling  
+CLIENTE(S): Jade Huaman, Massiel Cusi, Jazmín Roque, Joaquín Villanueva, Rodrigo Chávez  
+
+-----------------------
+
+</div>
+
+## App a evaluar: StayMap
 
 ## Tareas a evaluar
 <ul>
@@ -4027,6 +4047,24 @@ StayMap
       <td>2</td>
       <td>usability: recognition rather than recall</td>
     </tr>
+    <tr>
+      <td>6</td>
+      <td>El mapa no ofrece rutas para llegar a los conciertos, limitando su utilidad para la planificación</td>
+      <td>3</td>
+      <td>usability: match between system and real world</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>No hay sección de perfil para artistas donde los usuarios puedan seguirlos o interactuar</td>
+      <td>3</td>
+      <td>personalization: user engagement and customization</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>No se integran playlists relacionadas con los eventos para enriquecer la experiencia previa al concierto</td>
+      <td>2</td>
+      <td>immersive experience: flexibility and efficiency of use</td>
+    </tr>
   </tbody>
 </table>
 
@@ -4041,7 +4079,7 @@ Los datos completados en el formulario de conciertos no se reflejan correctament
 
 - Heurística violada: Prevención de errores
 
-Descripción: Al crear un concierto, algunos campos como nombre del evento, fecha o ubicación no se muestran de forma coherente en la vista final. Esto genera desconfianza en la funcionalidad del sistema.
+Descripción: Al crear un concierto, algunos campos como nombre del evento, fecha o ubicación no se muestran de forma coherente en la vista final. Esto genera desconfianza en la funcionalidad del sistema.  
 Recomendación: Asegurar que los datos ingresados se guarden y visualicen correctamente. Implementar validaciones y una vista previa del concierto antes de guardar.
 
 -----------------------
@@ -4053,7 +4091,7 @@ El concierto creado no aparece en la lista de conciertos disponibles
 
 - Heurística violada: Feedback inmediato y correspondencia entre sistema y mundo real
 
-Descripción: Luego de crear un concierto, este no se visualiza automáticamente en la lista de conciertos disponibles, obligando al usuario a recargar la página manualmente.
+Descripción: Luego de crear un concierto, este no se visualiza automáticamente en la lista de conciertos disponibles, obligando al usuario a recargar la página manualmente.  
 Recomendación: Actualizar automáticamente la lista de conciertos después de crear uno nuevo y mostrar una notificación de éxito.
 
 -----------------------
@@ -4065,7 +4103,7 @@ La opción para crear publicaciones en comunidades es poco clara y difícil de u
 
 - Heurística violada: Ayuda y documentación
 
-Descripción: El proceso de publicación dentro de comunidades carece de guía visual, lo cual complica a los usuarios entender qué pueden compartir y cómo hacerlo.
+Descripción: El proceso de publicación dentro de comunidades carece de guía visual, lo cual complica a los usuarios entender qué pueden compartir y cómo hacerlo.  
 Recomendación: Agregar textos orientativos (placeholders), iconos para adjuntar archivos y una guía visual sobre el tipo de contenido permitido.
 
 -----------------------
@@ -4077,7 +4115,7 @@ No se permite adjuntar archivos al publicar en comunidades
 
 - Heurística violada: Flexibilidad y eficiencia de uso
 
-Descripción: Las publicaciones están limitadas a texto, lo cual es una desventaja para los artistas que desean compartir contenido multimedia o promocional.
+Descripción: Las publicaciones están limitadas a texto, lo cual es una desventaja para los artistas que desean compartir contenido multimedia o promocional.  
 Recomendación: Permitir adjuntar imágenes (.jpg, .png) con una interfaz clara para hacerlo.
 
 -----------------------
@@ -4089,10 +4127,44 @@ No existe una opción de notificación o recordatorio para próximos conciertos
 
 - Heurística violada: Reconocer mejor que recordar
 
-Descripción: No se ofrece ninguna forma de alertar al usuario sobre la cercanía de un concierto al que haya mostrado interés o asistencia.
+Descripción: No se ofrece ninguna forma de alertar al usuario sobre la cercanía de un concierto al que haya mostrado interés o asistencia.    
 Recomendación: Implementar notificaciones automáticas para recordar a los usuarios sobre eventos próximos guardados o avisos en comunidades.
 
+-----------------------
 
+### Problema 6
+El mapa no ofrece rutas para llegar a los conciertos, limitando su utilidad para la planificación
+
+- Severidad: 3
+
+- Heurística violada: Correspondencia entre el sistema y el mundo real
+
+Descripción: El mapa muestra la ubicación de los conciertos, pero no ofrece indicaciones o rutas para llegar al lugar del evento. Esto limita la experiencia del usuario, especialmente si no conoce la zona.     
+Recomendación: Integrar una opción de rutas con servicios como Google Maps o Mapbox, que permita al usuario ver cómo llegar desde su ubicación actual al concierto.\
+
+-----------------------
+
+### Problema 7
+No hay sección de perfil para artistas donde los usuarios puedan seguirlos o interactuar
+
+- Severidad: 3
+
+- Heurística violada: Personalización y compromiso del usuario
+
+Descripción: Los usuarios no pueden acceder a un perfil completo de los artistas, lo que limita la posibilidad de conocer más sobre ellos, seguirlos o interactuar con su contenido dentro de la aplicación.   
+Recomendación: Crear una sección de perfiles para artistas con biografía, publicaciones, eventos asociados y botón de “seguir” para fomentar la interacción y fidelización.
+
+-----------------------
+
+### Problema 8
+No se integran playlists relacionadas con los eventos para enriquecer la experiencia previa al concierto
+
+- Severidad: 2
+
+- Heurística violada: Flexibilidad y eficiencia de uso
+
+Descripción: No se ofrecen recursos musicales como playlists de Spotify o similares que permitan a los usuarios familiarizarse con los artistas o eventos antes del concierto.    
+Recomendación: Incluir playlists asociadas a los conciertos o artistas en cada evento publicado. Esto puede servir como promoción musical anticipada y aumentar el interés del usuario.
 
 
 
