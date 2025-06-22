@@ -266,7 +266,7 @@ de audiencia.</td>
         <br> <br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: El esquema de base de datos que implementé potenció el rendimiento de STAYMAP, estableciendo una estructura escalable y robusta.<br><br>
-	      TP:   Mi comunicación efectiva aseguró la alineación del equipo con objetivos realistas y claros.
+	      TP:   Mi comunicación efectiva aseguró la alineación del equipo con objetivos realistas y claros.<br><br>
 	      TB2: Mi comunicación efectiva facilitó que los integrantes del equipo entendieran las prioridades y la lógica de interacción entre las vistas de usuario y conciertos, lo que ayudó a mantener la coherencia visual y funcional de la plataforma.
 	      <br> <br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
