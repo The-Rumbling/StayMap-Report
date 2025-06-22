@@ -219,6 +219,9 @@ de audiencia.</td>
         TP: En esta fase, roté estratégicamente el rol de líder para empoderar a otros miembros del equipo. Guiamos colectivamente la transición de Figma a Webstorm, realizando análisis técnicos comparativos que demostraron los beneficios en rendimiento para nuestro caso específico.
 	      <br>
 	      <br>
+	      TB2: En el proyecto realicé entrevistas a usuarios y presentaciones orales al equipo y docentes, adaptando el lenguaje según el público. Esto permitió comunicar ideas y avances de forma clara y comprensible.
+	      <br>
+	      <br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
         TB1:  diseñé el diagrama entidad-relación inicial y documenté exhaustivamente las reglas de validación. Realicé múltiples sesiones de programación en pareja para implementar los endpoints clave, al tiempo que creé un repositorio interno con ejemplos de código y buenas prácticas. Cuando surgieron discrepancias sobre prioridades de desarrollo, medié para encontrar soluciones que balancearan las necesidades técnicas con los requerimientos de usabilidad.<br>
 	      	      <br>
@@ -257,6 +260,9 @@ de audiencia.</td>
         TB1:  Los diagramas elaborados agilizaron la alineación técnica entre el equipo y los stakeholders, reduciendo confusiones en la fase de desarrollo inicial de STAYMAP..<br><br>
 	      TP: Los ajustes introducidos en esta iteración incrementaron la usabilidad y fluidez de la navegación en STAYMAP, mejorando la interacción del usuario.
 	      <br> <br>
+	       TB2: Gracias a esta experiencia, mejoré mi capacidad para comunicar oralmente en distintos contextos, logrando transmitir información de manera efectiva a diferentes audiencias.
+	      <br>
+	      <br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
         TB1: La Landing Page que diseñé no solo mostró STAYMAP de forma profesional, sino que también nos ayudó a medir el interés de los usuarios antes del lanzamiento.<br><br>
 	      TP:La integración de STAYMAP con una API mejoró notablemente la experiencia de usuario, aprovechando una base de datos existente para centralizar información clave en nuestro proyecto.
@@ -290,6 +296,8 @@ de audiencia </td>
 ideré la creación de documentación técnica especializada para STAYMAP, adaptando complejos diagramas arquitectónicos en guías accesibles con versiones diferenciadas para equipos de desarrollo (detalladas) y stakeholders (enfoque ejecutivo).
 <br><br>
 	      TP: Diseñé la documentación oficial de STAYMAP, estableciendo estándares para la creación y manejo de diagramas, además de actualizar las guías con los cambios relevantes para esta entrega.
+	      <br><br>
+	      TB2: Elaboré reportes de entrevistas y evaluaciones heurísticas con lenguaje claro para todo el equipo. También redacté descripciones funcionales considerando el perfil de los lectores.
 	      <br><br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
 	       TB1: 
@@ -326,6 +334,8 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
         TB1: Mi documentación se convirtió en la referencia técnica principal, garantizando una implementación precisa de los diagramas en STAYMAP.<br>
 	      <br>
 	      TP: Los documentos producidos estandarizaron el entendimiento de los diagramas, mejorando la arquitectura del programa según mejores prácticas.
+	      <br><br>
+	      TB1: Fortalecí mi habilidad para comunicar por escrito de forma organizada, asegurando que la información fuera comprensible para audiencias con distintos niveles técnicos.
 	      <br><br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
         TB1:Mis contenidos comunicaron efectivamente el valor de STAYMAP, recibiendo reconocimiento tanto de usuarios como del equipo interno.<br>   <br>
