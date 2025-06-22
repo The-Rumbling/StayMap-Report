@@ -259,7 +259,7 @@ de audiencia.</td>
         TB1: El Modelo C4 que desarrollé fue fundamental para simplificar la explicación de la arquitectura de STAYMAP, haciéndola comprensible incluso para audiencias no técnicas.<br><br>
 	      TP: Las actualizaciones en la interfaz optimizaron la navegación del sistema, mejorando la funcionalidad de módulos como comunidades y conciertos.
 	      <br> <br>
-        TB2: Me encargué de actualizar el apartado de edición de perfil de usuario y de mejorar el formulario de creación de conciertos, documentando los cambios para todo el equipo. Esto permitió mantener una comunicación efectiva en el repositorio y facilitó el seguimiento del desarrollo para compañeros con distintos niveles técnicos.
+        TB2:
         <br> <br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: El esquema de base de datos que implementé potenció el rendimiento de STAYMAP, estableciendo una estructura escalable y robusta.<br><br>
@@ -294,6 +294,8 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 	      <br>
 	      TP: Documenté el proceso de selección e implementación de las APIs utilizadas, facilitando la comprensión de sus ventajas técnicas.
 	      <br><br>
+        TB2: Me encargué de actualizar el apartado de edición de perfil de usuario y de mejorar el formulario de creación de conciertos, documentando los cambios para todo el equipo. Esto permitió mantener una comunicación efectiva en el repositorio y facilitó el seguimiento del desarrollo para compañeros con distintos niveles técnicos.
+        <br><br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: Publiqué artículos técnicos en el blog interno de STAYMAP sobre patrones de diseño de bases de datos, convirtiéndome en el referente para consultas técnicas escritas.<br>
 	      <br>
@@ -321,6 +323,8 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 	         <br>
 	      TP: La documentación técnica clarificó el aporte funcional de cada API utilizada en nuestro proyecto.
 	      <br><br>
+        TB2:
+        <br><br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: Mi documentación sobre la base de datos optimizó el flujo de trabajo diario, eliminando ambigüedades en el manejo de datos.<br>
 	         <br>
