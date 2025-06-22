@@ -3590,7 +3590,7 @@ Todas estas funcionalidades fueron integradas con llamadas al backend simulado m
 
 <strong> Screenshots de las evidencias: </strong>
 
-<strong> Landing page </strong>
+<strong> Landing page <strong>
 
 Cambio de idioma en landing page:
 
@@ -3598,7 +3598,7 @@ Cambio de idioma en landing page:
   <img src="assets/capturas/language-switcher-landing.png" alt="languageSwitcherLanding" style="width: 80%;">
 </div>
 
-Aplicación web StayMap
+<strong> Aplicación web StayMap <strong>
 Sección comunidades:
 <div align="center">
   <img src="assets/capturas/seccion-comunidades.png" alt="SeccionComunidades" style="width: 80%;">
@@ -3626,6 +3626,74 @@ Detalle de concierto:
 </div>
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 3, se consolidó la integración entre la interfaz de StayMap y su <strong>Fake API</strong>, extendida con nuevos datos simulados como publicaciones dentro de comunidades y usuarios con estado de asistencia a conciertos. Se fortaleció la documentación de servicios REST utilizados por los componentes del frontend mediante llamadas HTTP hacia los endpoints configurados en el db.json.
+
+Esta documentación refleja la estructura del sistema para usuarios, conciertos, comunidades y publicaciones, accesibles desde un entorno local gracias a la configuración de <strong>json-server</strong> como backend provisional.
+
+### <strong>📄 Endpoints documentados</strong>
+
+| <strong>Endpoint</strong>         | <strong>Método</strong> | <strong>Descripción</strong>                              | <strong>Ejemplo de llamada</strong> | <strong>Ejemplo de respuesta</strong>                          |
+|----------------------------------|--------------------------|------------------------------------------------------------|-------------------------------------|--------------------------------------------------------------|
+| `/concerts`                      | GET                      | Obtener todos los conciertos                               | `GET /concerts`                     | `[{"id":1,"artist":{"name":"Stray Kids"},...}]`              |
+| `/concerts/:id`                  | GET                      | Obtener detalles de un concierto por ID                    | `GET /concerts/1`                   | `{ "id":1, "artist":{...}, "venue":{...} }`                  |
+| `/concerts/:id`                  | PATCH                    | Marcar asistencia a un concierto                           | `PATCH /concerts/1`                 | `{ "attendees": [2] }`                                       |
+| `/users`                         | GET                      | Listar todos los usuarios                                  | `GET /users`                        | `[{"id":1,"name":"Bang Chan",...}]`                          |
+| `/users/:id`                     | GET                      | Obtener un usuario específico                              | `GET /users/2`                      | `{ "id":2, "name":"Diego Rivas",... }`                       |
+| `/users/:id`                     | PUT                      | Actualizar datos de usuario (perfil)                       | `PUT /users/1`                      | `{ "message": "Usuario actualizado" }`                       |
+| `/communities`                  | GET                      | Obtener todas las comunidades                              | `GET /communities`                  | `[{"id":1,"name":"Swifties",...}]`                           |
+| `/communities/:id`              | GET                      | Ver comunidad específica                                   | `GET /communities/11`              | `{ "id":11, "name":"Stay",... }`                             |
+| `/posts`                         | GET                      | Ver publicaciones realizadas                               | `GET /posts`                        | `[{"id":1749829284972, "content":"...",...}]`               |
+| `/posts`                         | POST                     | Crear una nueva publicación en comunidad                   | `POST /posts`                       | `{ "message": "Publicación registrada correctamente" }`      |
+
+---
+
+### <strong>Capturas de evidencia funcional</strong>
+
+<div align="center">
+  <strong>Vista de detalles de concierto con botón de asistencia</strong>  
+</div>
+
+<div align="center">
+  <img src="assets/capturas/asistencia_concierto.png" alt="Asistencia concierto" style="width: 80%;">
+</div>
+
+<div align="center">
+  <strong>Formulario de publicación dentro de una comunidad</strong>  
+</div>
+
+<div align="center">
+  <img src="assets/capturas/publicacion_comunidad.png" alt="Publicación comunidad" style="width: 80%;">
+</div>
+
+<div align="center">
+  <strong>Vista del perfil con opción de edición</strong>  
+</div>
+
+<div align="center">
+  <img src="assets/capturas/editar-perfil-usuario.png" alt="Editar perfil" style="width: 80%;">
+</div>
+
+---
+
+- <strong>Repositorio Web Services:</strong> `https://github.com/The-Rumbling/StayMap-Api.git`
+
+<div align="center">
+  <img src="assets/capturas/repositorio-web-service.png" alt="respositorioWebService" style="width: 80%;">
+</div>
+
+- <strong>Ruta local del</strong> `db.json`: `server/db.json`  
+- <strong>Documentación expuesta vía json-server local:</strong> `http://localhost:3000/concerts`, `.../users`, `.../communities`, `.../posts`
+
+---
+
+### <strong>Commits relevantes del Sprint 3</strong>
+
+- `be325b4`: Implementación de lógica de confirmación y cancelación de asistencia a conciertos.  
+- `c0a2387`: Soporte para publicaciones en comunidades y servicio asociado.  
+- `e19fc4f`: Edición de perfil de usuario (nombre, imagen, correo) mediante PUT.  
+- `fa7d101`: Integración de vista dinámica del detalle del concierto con datos de la Fake API.
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 Durante el Sprint 3, se completó exitosamente el despliegue de dos componentes principales del sistema StayMap: la <strong>Landing Page</strong> informativa y la <strong>Aplicación Web funcional</strong>. Cada uno fue desplegado utilizando una plataforma distinta según sus características y necesidades técnicas.
