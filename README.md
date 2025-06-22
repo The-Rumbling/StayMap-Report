@@ -3927,7 +3927,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Edad:** 22 años  
 **Duración:** 15:12:50  
 **Inicio:** 00:10:44  
-**Resumen:** Jazmín, artista emergente, consideró que StayMap es una iniciativa con gran potencial para apoyar a músicos independientes, ya que les brinda visibilidad a través del mapa interactivo. Le pareció muy útil que los fans puedan descubrir eventos según su ubicación, pero también propuso algunas mejoras importantes. Entre ellas, mencionó que sería ideal que el mapa no solo muestre la ubicación de los conciertos, sino también las rutas para llegar al lugar. Además, sugirió integrar playlists de Spotify relacionados con los eventos o artistas, lo cual enriquecería la experiencia musical y serviría como promoción previa a los conciertos.
+**Resumen:** Jazmín, consideró que StayMap es una iniciativa con gran potencial para apoyar a músicos independientes, ya que les brinda visibilidad a través del mapa interactivo. Le pareció muy útil que los fans puedan descubrir eventos según su ubicación, pero también propuso algunas mejoras importantes. Entre ellas, mencionó que sería ideal que el mapa no solo muestre la ubicación de los conciertos, sino también las rutas para llegar al lugar. Además, sugirió integrar playlists de Spotify relacionados con los eventos o artistas, lo cual enriquecería la experiencia musical y serviría como promoción previa a los conciertos.
 
 ### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
 
