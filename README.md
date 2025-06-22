@@ -3931,7 +3931,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 ### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
 
-#### Entrevista #3
+#### Entrevista #4
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Artista1.png)
 
 **Nombre:** Rodrigo Chavez  
@@ -3940,7 +3940,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Inicio:** 00:58:20  
 **Resumen:** Rodrigo Chávez, un artista emergente de 19 años con más de seis años de experiencia en la música, enfocado en el género pop, considera que la plataforma es intuitiva y fácil de usar, con una conexión directa entre artistas y fans. Destaca la simplicidad de las funciones de StayMap, especialmente el apartado de comunidades, que le permite sentirse más cerca de su audiencia. Valora positivamente la funcionalidad del mapa para visualizar la distancia a los conciertos, lo que facilita la planificación de asistencia. Como herramienta adicional, sugiere incorporar recordatorios o notificaciones para los conciertos, lo cual reforzaría el vínculo con los eventos importantes. Además, menciona que la idea de comunidad es clave para crecer como artista emergente, aunque considera que el apartado de publicación de posts podría mejorarse para optimizar la interacción. Su feedback resalta la importancia de la usabilidad, la cercanía con el público y la mejora continua en herramientas de comunicación dentro de la plataforma.
 
-#### Entrevista #4
+#### Entrevista #5
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Artista2.png)
 
 **Nombre:** Joaquin Villanueva  
