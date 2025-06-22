@@ -2133,7 +2133,7 @@ Repositorio del proyecto:
 - `https://github.com/The-Rumbling/StayMap-AppWeb-V2.git`
 
 <div align="center">
-  <img src="repositorio-appweb.png" alt="inicio" style="width: 80%">
+  <img src="capturas/repositorio-appweb.png" alt="inicio" style="width: 80%">
 </div>
 
 Durante el desarrollo se trabajó únicamente sobre la rama `main`, lo que simplificó la gestión de cambios al mantener una única línea de desarrollo centralizada.
