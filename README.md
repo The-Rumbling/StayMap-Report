@@ -3917,7 +3917,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Inicio:** 00:13:44  
 
 #### Entrevista #3
-![user_persona](assets/interviews/Analisis-Entrevista-2-Fan2.png)
+![user_persona](assets/interviews/Analisis-Entrevista-2-Fan3.png)
 
 **Nombre:** Jazmin Roque  
 **Edad:** 22 años  
