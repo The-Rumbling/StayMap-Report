@@ -193,6 +193,7 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
   - [5.4. Video About-the-Product.](#54-video-about-the-product)
 
 - [Conclusiones](#conclusiones)
+- [Video About-the-Team](#about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -4283,6 +4284,15 @@ Descripción: La entrevistada sugirió agregar una opción de chat directo entre
 - La publicación de mensajes dentro de las comunidades fue otra funcionalidad clave trabajada en la TB2, que permitió simular interacciones sociales y dar lugar a conversaciones en torno a eventos y temas culturales. Desde la perspectiva del desarrollo open source, esto representó un ejemplo claro de cómo una herramienta digital puede convertirse en un medio de construcción colectiva de conocimiento, memoria cultural y colaboración entre usuarios. Estas funcionalidades fueron posibles gracias a una estructura limpia del código y a una arquitectura que priorizó la separación de responsabilidades y la claridad en los datos.
 - La estandarización del entorno de desarrollo, el uso de tecnologías accesibles (HTML / CSS) y la documentación detallada del repositorio permitieron que cada integrante del equipo aportara sin barreras técnicas y que el proyecto resultara comprensible por desarrolladores externos. Este enfoque fomentó un verdadero ecosistema abierto, donde las decisiones técnicas estuvieron acompañadas de una intención clara de compartir, reutilizar y expandir el conocimiento generado durante el desarrollo.
 
+# Video About-the-Team
+
+
+
+![Image](assets/capturas/aboutTheTeam.png)
+
+**Duración:** 00:00:50   
+**URL en Microsoft Stream:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/EW7haIoSjBdAlW-WvXrFHmABJK-2BtDR3gOAFPRuzy2Rug?e=c2121a&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
+**URL en Youtube:** `https://youtu.be/puIIcqcMcII`
 
 # Anexos
 
