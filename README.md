@@ -3564,6 +3564,35 @@ Los datos de contribución reflejan la participación activa del equipo, con un 
 
 ### 5.2.3.4. Development Evidence for Sprint Review.
 
+evidencia commits landing page 
+
+| Repository     | Branch              | Commit Id | Commit Message            | Commit Message Body                     | Committed on (Date) |
+|----------------|---------------------|-----------|---------------------------|------------------------------------------|---------------------|
+| ariaalizz      | landing/home-style  | a1b2c3d   | feat: estilos generales   | Se agregaron estilos base a home.html   | 17/06/2025          |
+| ariaalizz      | landing/footer      | d4e5f6g   | fix: ajuste footer        | Se corrigió el diseño responsivo        | 18/06/2025          |
+| ReiZCode       | landing/navbar      | h7i8j9k   | feat: navbar interactiva  | Se agregó interactividad con JS         | 17/06/2025          |
+| ReiZCode       | landing/nav-style   | l0m1n2o   | style: colores navbar     | Cambios en la paleta de navegación      | 19/06/2025          |
+| DekayDeCanela  | landing/cards       | p3q4r5s   | feat: sección de tarjetas | Añadida sección de beneficios            | 20/06/2025          |
+| DekayDeCanela  | landing/responsive  | t6u7v8w   | fix: media queries        | Ajustes para móviles                     | 21/06/2025          |
+| D4D3v4l        | landing/links       | x9y0z1a   | feat: enlaces funcionales | Se agregaron links internos              | 17/06/2025          |
+| D4D3v4l        | landing/images      | b2c3d4e   | fix: rutas de imágenes    | Corrección de paths                      | 19/06/2025          |
+| Antuanete01    | landing/form-style  | f5g6h7i   | feat: estilos de formulario| Se estilizó el formulario de contacto    | 20/06/2025          |
+| Antuanete01    | landing/feedback    | j8k9l0m   | feat: feedback visual     | Animaciones de envío agregado            | 22/06/2025          |
+
+evidencia commits aplicación web
+
+| Repository     | Branch                | Commit Id | Commit Message              | Commit Message Body                          | Committed on (Date) |
+|----------------|-----------------------|-----------|-----------------------------|-----------------------------------------------|---------------------|
+| ariaalizz      | app/user-auth         | aa11bb    | feat: login funcional       | Login con validación implementado            | 17/06/2025          |
+| ariaalizz      | app/dashboard-style   | cc22dd    | style: dashboard colores    | Se aplicó paleta oficial                     | 17/06/2025          |
+| ReiZCode       | app/navbar-toggle     | ee33ff    | feat: toggle funcional      | Se implementó toggle con Angular             | 19/06/2025          |
+| ReiZCode       | app/routing-setup     | gg44hh    | chore: configuración rutas  | Rutas básicas inicializadas con lazy load    | 22/06/2025          |
+| DekayDeCanela  | app/forms-reactive    | ii55jj    | feat: forms reactivos       | Creación de formulario reactivo con validación | 19/06/2025        |
+| DekayDeCanela  | app/api-connection    | kk66ll    | feat: conexión API          | Se conectó app con json-server               | 21/06/2025          |
+| D4D3v4l        | app/user-model        | mm77nn    | feat: modelo de usuario     | Modelo User con id, name, email              | 20/06/2025          |
+| D4D3v4l        | app/http-service      | oo88pp    | feat: servicio http         | HttpClient inyectado y probado               | 19/06/2025          |
+| Antuanete01    | app/translate         | qq99rr    | feat: traducción i18n       | Soporte en español e inglés                  | 19/06/2025          |
+| Antuanete01    | app/form-error        | ss00tt    | fix: validación de campos   | Mensajes de error en inputs                  | 17/06/2025          |
 
 
 ### 5.2.3.5. Execution Evidence for Sprint Review.
