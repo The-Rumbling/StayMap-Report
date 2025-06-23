@@ -4286,13 +4286,11 @@ Descripción: La entrevistada sugirió agregar una opción de chat directo entre
 
 # Video About-the-Team
 
-
-
 ![Image](assets/capturas/aboutTheTeam.png)
 
-**Duración:** 00:00:50   
-**URL en Microsoft Stream:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/EW7haIoSjBdAlW-WvXrFHmABJK-2BtDR3gOAFPRuzy2Rug?e=c2121a&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
-**URL en Youtube:** `https://youtu.be/puIIcqcMcII`
+**Duración:** 00:07:33  
+**URL en Microsoft Stream:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310358_upc_edu_pe/EZ2E1TG0iZFLlATG6F5x6UcBnasnpxvN-9dbIIfOFISCjA?e=Ptu1tR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+**URL en Youtube:** `https://youtu.be/UqFMGNLxV3Q`
 
 # Anexos
 
