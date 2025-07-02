@@ -3744,6 +3744,7 @@ Esta documentación refleja la estructura del sistema para usuarios, conciertos,
   <img src="assets/capturas/editar-perfil-usuario.png" alt="Editar perfil" style="width: 80%;">
 </div>
 
+- <strong>Enlace de aplicación web: </strong>`staymap-web-application.vercel.app`
 ---
 
 - <strong>Repositorio Web Services:</strong> `https://github.com/The-Rumbling/StayMap-Api.git`
