@@ -3334,6 +3334,8 @@ Gráficos de colaboración (GitHub Insights):
 
 Los datos de contribución reflejan la participación activa del equipo, con un flujo constante de trabajo evidenciado en pushes regulares, creación de ramas y trabajo en distintos módulos del proyecto StayMap. Esta dinámica apoyó una implementación efectiva de los servicios conectados a la fake API y de las vistas principales de la plataforma.
 
+<img src="assets/capturas/appWebCammits.png" alt="commitsAppWeb" style="width: 80%;">
+
 ## 5.2.3. Sprint 3
 
 ### 5.2.3.1. Sprint Planning 3
