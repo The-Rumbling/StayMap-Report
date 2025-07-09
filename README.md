@@ -3334,9 +3334,12 @@ Gráficos de colaboración (GitHub Insights):
 
 Los datos de contribución reflejan la participación activa del equipo, con un flujo constante de trabajo evidenciado en pushes regulares, creación de ramas y trabajo en distintos módulos del proyecto StayMap. Esta dinámica apoyó una implementación efectiva de los servicios conectados a la fake API y de las vistas principales de la plataforma.
 
-Primera version de la app web de Stay Map:
+*Primera version de la app web de Stay Map:*
+
 <img src="assets/capturas/appWebCommits1.png" alt="commitsAppWeb" style="width: 80%;">
-Segunda version de la Landing Page de Stay Map:
+
+*Segunda version de la Landing Page de Stay Map:*
+
 <img src="assets/capturas/landingPageCommits2.png" alt="commitsLandingPage" style="width: 80%;">
 
 ## 5.2.3. Sprint 3
