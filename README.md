@@ -4296,10 +4296,115 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
 
 ### 5.2.4.4. Development Evidence for Sprint Review.
 ### 5.2.4.5. Execution Evidence for Sprint Review.
+
+Durante el Sprint 4 del proyecto StayMap, el equipo se centró en fortalecer la experiencia del usuario fan y artista, profundizando en funcionalidades sociales, interacción entre usuarios, geolocalización, y validación de datos clave en conciertos y comunidades. Además, se desplegó la versión 4 de la Landing Page, la cual ahora redirige a la versión 3 de la aplicación web e incluye videos embebidos sobre el equipo y el producto, mejorando la presentación general del proyecto y su accesibilidad.
+
+Este sprint también marcó el inicio formal del desarrollo del backend real en Java 24, Maven y Spring Boot, utilizando JetBrains Rider como entorno principal. El backend fue diseñado siguiendo principios RESTful y buenas prácticas de arquitectura, con endpoints simulados inicialmente en json-server como referencia funcional.
+
+Todas las historias de usuario y tareas técnicas contempladas en el Sprint Backlog 4 fueron ejecutadas exitosamente por los integrantes del equipo, cumpliendo los criterios de aceptación establecidos.
+
+
+	- Videos embebidos del equipo y el producto: Se añadieron a la Landing Page dos secciones con miniaturas de YouTube que presentan al equipo de desarrollo y una vista general del producto, brindando mayor contexto visual al visitante.
+
+	- Visualización de comunidades accedidas ("Tus grupos"): Se implementó una sección en el perfil donde los usuarios ven las comunidades musicales a las que pertenecen. Esta funcionalidad se conectará con un endpoint real desarrollado en .NET 9.0.
+
+	- Reacciones a publicaciones comunitarias: Se habilitó la opción de reaccionar con emojis a publicaciones dentro de cada comunidad. Se manejan restricciones para evitar reacciones duplicadas por usuario.
+
+	- Calificación de conciertos: Los usuarios pueden calificar eventos entre 1 y 5 estrellas. Esta información será almacenada en la base de datos a través del backend en desarrollo con C#.
+
+	- Visualización de asistentes a conciertos: Se muestra una lista de otros usuarios que han confirmado asistencia a un concierto, mejorando la dimensión social de los eventos.
+
+	- Acceso a perfiles públicos: Se activó la navegación hacia perfiles públicos desde comunidades o eventos, mostrando nombre, avatar y comunidades visibles del usuario.
+
+	- Historial de publicaciones con “like”: Se implementó una sección donde el usuario puede revisar las publicaciones que ha marcado como favoritas.
+
+	- Visualización de plataformas de venta: En la ficha del concierto se agregaron enlaces a sitios simulados de venta de entradas, guiando al usuario hacia la compra.
+
+	- Permiso de ubicación y conciertos cercanos: Al acceder a la app, se solicita el permiso de geolocalización. Los conciertos cercanos se renderizan según la ubicación obtenida, conectándose al backend en .NET para la lógica de proximidad.
+
+	- Listado de miembros en comunidades: Se implementó una pestaña de “Miembros” que muestra los integrantes de cada comunidad, obtenidos vía servicio.
+
+	- Publicaciones con imágenes: Se agregó la funcionalidad de subir imágenes a publicaciones dentro de comunidades. Incluye validaciones y previsualización.
+
+  
+El equipo inició el desarrollo de endpoints en Java 24, Maven y Spring Boot desde cero, utilizando IntelliJdea y aplicando buenas prácticas como:
+
+- Separación por capas (Controller, Service, Repository).
+
+- Inyección de dependencias.
+
+- Validaciones automáticas con DataAnnotations.
+
+- Uso de Entity Framework y Swagger para pruebas de endpoints.
+
+<strong> Screenshots de las evidencias: </strong>
+
+<strong> Landing page </strong>
+
+Videos About-The-Product y About-The-Team añadidos a la Landing Page:
+
+<div align="center">
+
+</div>
+<div align="center">
+
+</div>
+
+<strong> Aplicación Web </strong>
+
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 4, se lograron importantes avances en los módulos principales del sistema StayMap. Por un lado, se actualizó y desplegó la versión 4 de la Landing Page, ahora alojada en Render, la cual integra contenido audiovisual embebido y un redireccionamiento funcional hacia la aplicación web principal. Por otro lado, se consolidó la versión 3 de la Aplicación Web, que ahora cuenta con una arquitectura completa basada en una base de datos MySQL y un backend desarrollado en C# con .NET 9.0, implementado desde JetBrains Rider. Estos avances representan un paso clave hacia una infraestructura más escalable, robusta y alineada con los objetivos técnicos del proyecto.
+
+#### Landing Page
+
+Durante el Sprint 4, se completó exitosamente la actualización y despliegue de la versión 4 de la Landing Page de StayMap. Aunque ya había sido estructurada en Vue y desplegada previamente, esta nueva versión incorporó mejoras funcionales clave orientadas a la experiencia del usuario y fue migrada a la plataforma Render para un despliegue más flexible y dinámico.
+
+La Landing Page, desarrollada con Vue y Vite, fue compilada para producción mediante el comando:
+
+```
+npm run build -- --configuration production
+````
+
+A diferencia de versiones anteriores alojadas en GitHub Pages, esta nueva versión fue desplegada en Render, lo que permitió contar con un entorno más robusto y fácil de actualizar en tiempo real.
+
+Los principales cambios de esta versión incluyen:
+
+**Botón “Empezar” redirigido a la v3 de la App Web**: Ahora conecta directamente con la tercera versión de la aplicación StayMap, garantizando un flujo de navegación coherente y actualizado para nuevos usuarios.
+
+**Videos embebidos directamente en la interfaz**: Se integraron dos secciones con videos explicativos:
+
+- About the Team: Presenta brevemente al equipo detrás del desarrollo de StayMap.
+
+- About the Product: Muestra una introducción al funcionamiento, propuesta de valor y beneficios principales de la plataforma.
+
+Estas mejoras fortalecen la propuesta visual e informativa de StayMap, generando mayor impacto en nuevos usuarios desde la primera interacción.
+
+
+<strong> Vista de la Landing Page desplegada en Render: </strong>  
+URL de Landing page: `URL`
+
+FOTO FOTO FOTO
+
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
 
+Durante el Sprint 4, el equipo de desarrollo continuó fortaleciendo la arquitectura y funcionalidades clave de la plataforma StayMap, marcando un punto de inflexión con el inicio del backend real en Java 24 con Spring Boot. La colaboración entre los miembros se mantuvo activa y sincronizada, permitiendo el avance en paralelo del frontend y del backend real.
+
+Las principales actividades realizadas fueron:
+
+- Implementación del backend real en Java 24 con Spring Boot, estructurado por capas (Controller, Service, Repository), con integración de Entity Framework, Swagger y validaciones con DataAnnotations. El desarrollo se llevó a cabo utilizando IntelliJdea.
+- Desarrollo de endpoints RESTful reales, cubriendo funcionalidades como creación de conciertos, reacciones, calificación de eventos y visualización de asistentes.
+- Conexión con base de datos MySQL, alojada en Render, para persistir datos clave del sistema como usuarios, conciertos y publicaciones.
+- Adaptación progresiva del frontend en Angular para integrarse con el nuevo backend, reemplazando gradualmente el backend simulado usado en sprints anteriores.
+- Control de versiones y ramas usando Git y GitHub, con flujos claros de trabajo distribuidos por funcionalidades como auth, communities, concerts, api-dotnet, etc.
+- Actualización y despliegue de la Landing Page versión 4 en Render, la cual ahora redirige a la versión 3 de la aplicación web y contiene videos embebidos de YouTube sobre el equipo y el producto.
+- Despliegue de la nueva versión del backend real en Render, como API REST funcional, lista para pruebas y futuras integraciones completas con el frontend.
+- El equipo continuó utilizando GitHub como herramienta central de colaboración, manteniendo prácticas como trabajo en ramas específicas, commits frecuentes y descriptivos, y revisiones cruzadas antes de realizar merge hacia dev y main.
+
+Gráficos de colaboración:
+
+Landing Page:
 
 # 5.3. Validation Interviews.
 
