@@ -4030,6 +4030,277 @@ Este enfoque fomentó una dinámica de trabajo colaborativo en paralelo, donde s
 
 La participación activa del equipo quedó evidenciada en la frecuencia de los commits y en la cantidad de tareas completadas a tiempo, fortaleciendo el cumplimiento de los objetivos del Sprint.
 
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Background</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2025-07-09</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>9:00 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Virtual, via Discord</td>
+    </tr>
+    <tr>
+      <td><strong>Prepared by</strong></td>
+      <td>Lizarbe Álvarez, Ariana Nickole</td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (to planning meeting)</strong></td>
+      <td>
+        Lizarbe Álvarez, Ariana Nickole / Ortiz Cardenas, Johanna Antuanete / 
+        Zúñiga Murillo, Diego Sebastian / Collantes Carrillo, Diego Mateo / 
+        Zegarra López, Renato / Rubber Sebastian
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+      <td><strong>Sprint n Goal</strong></td>
+     <td>
+	     
+  <strong>Nuestro enfoque está</strong> en continuar el desarrollo de una aplicación web funcional que permita a fans y artistas visualizar en un mapa interactivo los eventos musicales cercanos, junto con una lista filtrable de eventos disponibles en su área, según su ubicación e intereses. Ya hemos implementado un backend que accede a los datos desde una base de datos MySQL, lo cual permite gestionar conciertos, comentarios y perfiles de usuarios de forma eficiente.
+
+<strong>Creemos que esto ofrece</strong> una experiencia personalizada que fomenta la participación en comunidades musicales, fortaleciendo el vínculo entre fans y artistas emergentes a través de la tecnología.
+
+<strong>Esto se confirmará cuando</strong> los usuarios puedan ver eventos geolocalizados, aplicar filtros por género musical y ubicación, así como crear o unirse a comunidades afines dentro de la plataforma, aprovechando la infraestructura ya conectada a MySQL para garantizar consistencia y persistencia de los datos.
+
+
+</td>
+	    <tr>
+    <td>Sum of Story Points</td>
+    <td>55</td>
+  </tr>
+  </tbody>
+</table>
+
+### 5.2.4.2. Aspect Leaders and Collaborators.
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="7">5.2.1.2. Aspect Leaders and Collaborators</th>
+  </tr>
+  <tr>
+    <th>Team Member</th>
+    <th>Github Username</th>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Development</th>
+    <th>Components</th>
+    <th>Deployment</th>
+  </tr>
+  <tr>
+    <td>Collantes Diego</td>
+    <td>D4D3v4l</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Lizarbe Ariana</td>
+    <td>ariaalizz</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Ortiz Johanna</td>
+    <td>Antuanet01</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Zegarra Renato</td>
+    <td>ReiZCode</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Zúniga Diego</td>
+    <td>DekayDe Canela</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+
+### 5.2.4.3. Sprint Backlog 4.
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="8">Sprint 4</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>id</th>
+    <th>title</th>
+    <th>id</th>
+    <th>title</th>
+    <th>description</th>
+    <th>estimation</th>
+    <th>assigned to</th>
+    <th>status</th>
+  </tr>
+
+  <tr>
+    <td>US28</td>
+    <td>Ver comunidades accedidas</td>
+    <td>TSK40</td>
+    <td>Mostrar comunidades accedidas del usuario</td>
+    <td>Diseñar la sección "Tus grupos" donde el usuario puede ver las comunidades a las que pertenece.</td>
+    <td>2 horas</td>
+    <td>Ariana Lizarbe</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US29</td>
+    <td>Reaccionar a publicaciones en comunidades</td>
+    <td>TSK41</td>
+    <td>Reaccionar con emojis a publicaciones</td>
+    <td>Permitir al usuario interactuar con publicaciones usando reacciones tipo emoji o símbolo.</td>
+    <td>2 horas</td>
+    <td>Diego Collantes</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US30</td>
+    <td>Calificar concierto</td>
+    <td>TSK42</td>
+    <td>Valoración de concierto por parte del usuario</td>
+    <td>Permitir al usuario asignar una calificación del 1 al 5 estrellas tras haber asistido a un evento.</td>
+    <td>3 horas</td>
+    <td>Renato Zegarra</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US31</td>
+    <td>Ver usuarios que asistirán a concierto</td>
+    <td>TSK43</td>
+    <td>Mostrar lista de asistentes</td>
+    <td>Mostrar quiénes asistirán a un evento dentro de su ficha de detalles.</td>
+    <td>3 horas</td>
+    <td>Diego Zúñiga</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US32</td>
+    <td>Acceder a perfil de otros usuarios</td>
+    <td>TSK44</td>
+    <td>Ver perfil público desde comunidades o eventos</td>
+    <td>Habilitar vista de perfil público cuando se da clic en un nombre de usuario o avatar.</td>
+    <td>2 horas</td>
+    <td>Antuanete Ortiz</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US33</td>
+    <td>Ver publicaciones con like</td>
+    <td>TSK45</td>
+    <td>Mostrar publicaciones que recibieron like</td>
+    <td>Listar todas las publicaciones marcadas con “me gusta” por el usuario en su perfil.</td>
+    <td>3 horas</td>
+    <td>Ariana Lizarbe</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US34</td>
+    <td>Ver plataformas de venta del concierto</td>
+    <td>TSK46</td>
+    <td>Enlaces de venta de entradas</td>
+    <td>Agregar en la ficha del evento los enlaces a plataformas externas donde se venden entradas.</td>
+    <td>2 horas</td>
+    <td>Diego Collantes</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US35</td>
+    <td>Permitir acceso a ubicación</td>
+    <td>TSK47</td>
+    <td>Solicitar permiso de ubicación al usuario</td>
+    <td>Al ingresar por primera vez a la app, solicitar al usuario que otorgue permisos de geolocalización.</td>
+    <td>2 horas</td>
+    <td>Antuanete Ortiz</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US36</td>
+    <td>Mostrar conciertos cercanos</td>
+    <td>TSK48</td>
+    <td>Visualizar conciertos cercanos usando geolocalización</td>
+    <td>Usar la ubicación del usuario para mostrar conciertos próximos en el mapa.</td>
+    <td>5 horas</td>
+    <td>Renato Zegarra</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US37</td>
+    <td>Ver miembros de comunidad</td>
+    <td>TSK49</td>
+    <td>Listar miembros de comunidad</td>
+    <td>Mostrar quiénes forman parte de una comunidad con foto y nombre.</td>
+    <td>2 horas</td>
+    <td>Diego Zúñiga</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US38</td>
+    <td>Subir imágenes en comunidades</td>
+    <td>TSK50</td>
+    <td>Adjuntar imágenes a publicaciones</td>
+    <td>Permitir al usuario subir una o más imágenes en sus publicaciones de comunidad.</td>
+    <td>3 horas</td>
+    <td>Ariana Lizarbe</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+
+### 5.2.4.4. Development Evidence for Sprint Review.
+### 5.2.4.5. Execution Evidence for Sprint Review.
+### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
 # 5.3. Validation Interviews.
 
 En esta sección se documenta el proceso de validación realizado con usuarios reales pertenecientes a los dos segmentos objetivo: fans de la música y artistas emergentes. El objetivo fue validar la solución StayMap —una aplicación web hecha en Angular que recomienda conciertos según ubicación y preferencias musicales— y recolectar recomendaciones a través de feedback directo e indirecto. La aplicación incluye funcionalidades como:
