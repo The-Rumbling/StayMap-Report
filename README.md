@@ -1503,21 +1503,159 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <strong>Escenario : Cancelar asistencia</strong><br>Dado que el evento ya está marcado como “Por asistir”,<br>Cuando presiona el botón "Cancelar asistencia",<br>Entonces el evento se elimina de su lista de eventos futuros y vuelve a estar disponible para confirmar.</td>
       <td>EP01</td>
     </tr>
+<tr>
+  <td>US28</td>
+  <td>Ver comunidades accedidas</td>
+  <td>Como usuario, quiero visualizar en el apartado "Tus grupos" las comunidades a las que me he unido.</td>
+  <td>
+    <strong>Escenario: Visualización de comunidades unidas</strong><br>
+    Dado que el usuario ha ingresado a comunidades<br>
+    Cuando accede a la sección "Tus grupos"<br>
+    Entonces puede ver la lista de comunidades a las que pertenece.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US29</td>
+  <td>Reaccionar a publicaciones en comunidades</td>
+  <td>Como usuario, quiero poder reaccionar a publicaciones dentro de las comunidades.</td>
+  <td>
+    <strong>Escenario: Reacción a publicación</strong><br>
+    Dado que el usuario navega por una comunidad<br>
+    Cuando encuentra una publicación<br>
+    Entonces puede reaccionar con un emoji o símbolo.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US30</td>
+  <td>Calificar concierto</td>
+  <td>Como usuario, quiero calificar un concierto de 1 a 5 estrellas para compartir mi experiencia.</td>
+  <td>
+    <strong>Escenario: Valoración del concierto</strong><br>
+    Dado que el usuario asistió a un concierto<br>
+    Cuando accede a su detalle<br>
+    Entonces puede seleccionar una puntuación del 1 al 5.
+  </td>
+  <td>EP01</td>
+</tr>
+<tr>
+  <td>US31</td>
+  <td>Ver usuarios que asistirán a concierto</td>
+  <td>Como usuario, quiero ver qué otros usuarios asistirán al mismo concierto que yo.</td>
+  <td>
+    <strong>Escenario: Visualizar asistentes</strong><br>
+    Dado que el usuario confirmó su asistencia<br>
+    Cuando entra al evento<br>
+    Entonces puede ver una lista de otros usuarios que también asistirán.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US32</td>
+  <td>Acceder a perfil de otros usuarios</td>
+  <td>Como usuario, quiero poder acceder al perfil de otros usuarios para conocer más sobre ellos.</td>
+  <td>
+    <strong>Escenario: Navegar al perfil de otro usuario</strong><br>
+    Dado que el usuario ve un nombre o avatar<br>
+    Cuando hace clic sobre él<br>
+    Entonces se redirige al perfil público de ese usuario.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US33</td>
+  <td>Ver publicaciones con like</td>
+  <td>Como usuario, quiero ver una lista de publicaciones a las que les he dado "like".</td>
+  <td>
+    <strong>Escenario: Historial de publicaciones favoritas</strong><br>
+    Dado que el usuario ha interactuado en comunidades<br>
+    Cuando accede a su sección de favoritos<br>
+    Entonces puede visualizar todas las publicaciones que le han gustado.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US34</td>
+  <td>Ver plataformas de venta del concierto</td>
+  <td>Como usuario, quiero ver en qué plataformas puedo comprar entradas para un concierto.</td>
+  <td>
+    <strong>Escenario: Visualización de enlaces de venta</strong><br>
+    Dado que el usuario revisa un concierto<br>
+    Cuando accede a su ficha de detalles<br>
+    Entonces visualiza las plataformas donde están disponibles las entradas.
+  </td>
+  <td>EP01</td>
+</tr>
+<tr>
+  <td>US35</td>
+  <td>Permitir acceso a ubicación</td>
+  <td>Como usuario, quiero que StayMap acceda a mi ubicación para recibir información personalizada.</td>
+  <td>
+    <strong>Escenario: Permiso de ubicación</strong><br>
+    Dado que el usuario entra a la app por primera vez<br>
+    Cuando se le solicita permiso de ubicación<br>
+    Entonces puede aceptar o denegar el acceso.
+  </td>
+  <td>EP01</td>
+</tr>
+<tr>
+  <td>US36</td>
+  <td>Mostrar conciertos cercanos</td>
+  <td>Como usuario, quiero que StayMap me muestre conciertos cercanos a mi ubicación actual.</td>
+  <td>
+    <strong>Escenario: Conciertos basados en geolocalización</strong><br>
+    Dado que el usuario ha otorgado permisos de ubicación<br>
+    Cuando accede al mapa<br>
+    Entonces se muestran conciertos próximos geográficamente.
+  </td>
+  <td>EP01</td>
+</tr>
+<tr>
+  <td>US37</td>
+  <td>Ver miembros de comunidad</td>
+  <td>Como usuario, quiero ver la lista de miembros que pertenecen a una comunidad.</td>
+  <td>
+    <strong>Escenario: Listado de miembros</strong><br>
+    Dado que el usuario ha ingresado a una comunidad<br>
+    Cuando accede a la sección de miembros<br>
+    Entonces puede visualizar los usuarios que la integran.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US38</td>
+  <td>Subir imágenes en comunidades</td>
+  <td>Como usuario, quiero subir imágenes en publicaciones de comunidad para compartir experiencias visuales.</td>
+  <td>
+    <strong>Escenario: Publicación con imagen</strong><br>
+    Dado que el usuario quiere compartir contenido<br>
+    Cuando crea una publicación<br>
+    Entonces puede adjuntar una o más imágenes que se muestren en el feed.
+  </td>
+  <td>EP04</td>
+</tr>
+
   </tbody>
 </table>
+
 
 ### Technical Stories:
 
 
-| Story ID | Título                              | Descripción                                                                 | Criterios de Aceptación                | Relacionado con (Epic ID) |
-|----------|-------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| TS-01    | Endpoint para crear eventos         | Como developer, quiero un endpoint POST para crear eventos musicales        | **Escenario: Creación exitosa de evento (POST)**  <br> Dado que el cliente envía una petición POST a /api/events con body válido <br> Cuando los datos están completos <br> Entonces el servidor responde 201 y guarda el evento <br><br> **Escenario: Respuesta con evento registrado** <br> Dado que el evento fue creado <br> Cuando se revisa la base de datos <br> Entonces aparece con los campos ingresados | EP6                        |
-| TS-02    | Endpoint para obtener eventos por ubicación | Como developer, quiero un endpoint GET que devuelva eventos cerca de una lat/lon | **Escenario: Consulta exitosa por lat/lon (GET)** <br> Dado que el usuario envía lat/lon como query params <br> Cuando hay eventos cercanos <br> Entonces devuelve una lista de eventos georreferenciados <br><br> **Escenario: Consulta sin resultados** <br> Dado que no hay eventos en la zona <br> Cuando se hace la petición <br> Entonces el servidor responde con lista vacía | EP6                        |
-| TS-03    | Endpoint para seguir artistas       | Como developer, quiero permitir que un usuario siga a un artista            | **Escenario: Seguimiento exitoso** <br> Dado que el usuario está autenticado <br> Cuando envía PUT a /api/follow/{artist_id} <br> Entonces se almacena el seguimiento y se actualiza la lista <br><br> **Escenario: Prevención de duplicados** <br> Dado que el usuario ya sigue al artista <br> Cuando intenta seguirlo nuevamente <br> Entonces se evita el duplicado y se mantiene una sola relación | EP6                        |
-| TS-04    | Endpoint para recibir notificaciones| Como developer, quiero permitir que el backend envíe notificaciones push al usuario | **Escenario: Notificación enviada** <br> Dado que un evento relevante ocurre <br> Cuando el usuario está suscrito a notificaciones <br> Entonces se envía una notificación a su dispositivo <br><br> **Escenario: Usuario no suscrito** <br> Dado que el usuario no tiene activadas las notificaciones <br> Cuando ocurre un evento relevante <br> Entonces no se envía ninguna alerta | EP6                        |
-| TS-05    | Endpoint para registrar asistencia  | Como developer, quiero que los usuarios puedan confirmar asistencia a eventos | **Escenario: Confirmación registrada** <br> Dado que el usuario hace clic en "Asistiré" <br> Cuando se envía el POST <br> Entonces se actualiza el conteo en la base de datos <br><br> **Escenario: Asistencia ya registrada** <br> Dado que el usuario ya marcó su asistencia <br> Cuando intenta hacerlo otra vez <br> Entonces se impide duplicar el registro | EP6                        |
-| TS-06    | Endpoint para valorar un evento     | Como developer, quiero permitir que el usuario envíe una calificación y comentario | **Escenario: Envío de valoración válida** <br> Dado que el evento ya ocurrió <br> Cuando el usuario hace un POST con la valoración <br> Entonces se guarda en la base de datos y se actualiza el perfil del evento <br><br> **Escenario: Prevención de múltiples valoraciones** <br> Dado que el usuario ya dejó una valoración <br> Cuando intenta enviar otra <br> Entonces se muestra un mensaje de error o se actualiza la anterior | EP6                        |
-| TS-07    | Validaciones para crear eventos     | Como developer, quiero validar que los campos obligatorios estén presentes al crear eventos | **Escenario: Body incompleto al crear evento** <br> Dado que el body del POST está incompleto <br> Cuando falta título o ubicación <br> Entonces el servidor responde con 400 Bad Request y el error correspondiente <br><br> **Escenario: Datos correctos aceptados** <br> Dado que el body contiene todos los campos requeridos <br> Cuando se realiza el POST <br> Entonces el servidor responde con éxito | EP6                        |
+| Story ID | Título                                         | Descripción                                                                                 | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                             | Relacionado con (Epic ID) |
+| -------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| TS-01    | Endpoint para crear conciertos                    | Como developer, quiero un endpoint POST para crear eventos musicales                        | **Escenario: Creación exitosa de evento (POST)**<br>Dado que el cliente envía una petición POST a /api/conciertos con body válido<br>Cuando los datos están completos<br>Entonces el servidor responde 201 y guarda el evento<br><br>**Escenario: Respuesta con evento registrado**<br>Dado que el evento fue creado<br>Cuando se revisa la base de datos<br>Entonces aparece con los campos ingresados | EP06                      |
+| TS-02    | Endpoint para obtener eventos por ubicación    | Como developer, quiero un endpoint GET que devuelva eventos cerca de una lat/lon            | **Escenario: Consulta exitosa por lat/lon (GET)**<br>Dado que el usuario envía lat/lon como query params<br>Cuando hay eventos cercanos<br>Entonces devuelve una lista de eventos georreferenciados<br><br>**Escenario: Consulta sin resultados**<br>Dado que no hay eventos en la zona<br>Cuando se hace la petición<br>Entonces el servidor responde con lista vacía                              | EP01 / EP06               |
+| TS-03    | Endpoint para registrar asistencia             | Como developer, quiero que los usuarios puedan confirmar asistencia a eventos               | **Escenario: Confirmación registrada**<br>Dado que el usuario hace clic en "Asistiré"<br>Cuando se envía el POST<br>Entonces se actualiza el conteo en la base de datos<br><br>**Escenario: Asistencia ya registrada**<br>Dado que el usuario ya marcó su asistencia<br>Cuando intenta hacerlo otra vez<br>Entonces se impide duplicar el registro                                                  | EP01 / EP06               |
+| TS-04    | Endpoint para valorar un evento                | Como developer, quiero permitir que el usuario envíe una calificación y comentario          | **Escenario: Envío de valoración válida**<br>Dado que el evento ya ocurrió<br>Cuando el usuario hace un POST con la valoración<br>Entonces se guarda y actualiza el perfil del evento<br><br>**Escenario: Prevención de múltiples valoraciones**<br>Dado que el usuario ya valoró<br>Cuando lo intenta de nuevo<br>Entonces se actualiza o da error                                                 | EP01 / EP06               |
+| TS-05    | Validaciones para crear eventos                | Como developer, quiero validar que los campos obligatorios estén presentes al crear eventos | **Escenario: Body incompleto al crear evento**<br>Dado que el body del POST está incompleto<br>Cuando falta título o ubicación<br>Entonces el servidor responde 400 Bad Request<br><br>**Escenario: Datos correctos aceptados**<br>Dado que el body contiene todos los campos<br>Cuando se realiza el POST<br>Entonces el servidor responde con éxito                                               | EP06                      |
+| TS-06    | Endpoint para crear publicaciones en comunidad | Como developer, quiero permitir que un usuario cree publicaciones en comunidades            | **Escenario: Publicación creada**<br>Dado que el usuario está en una comunidad<br>Cuando hace un POST con el mensaje y/o imagen<br>Entonces se guarda correctamente y aparece en el feed<br><br>**Escenario: Validación de campos**<br>Cuando falta el contenido mínimo<br>Entonces se devuelve un error con código 400                                                                             | EP04 / EP06               |
+| TS-07    | Endpoint para reaccionar a publicaciones       | Como developer, quiero permitir agregar reacciones a publicaciones de comunidad             | **Escenario: Reacción registrada**<br>Dado que el usuario está autenticado<br>Cuando da clic en una reacción<br>Entonces se actualiza el conteo en la base de datos<br><br>**Escenario: Reacción duplicada**<br>Dado que ya reaccionó<br>Cuando intenta hacer lo mismo<br>Entonces se actualiza o se revierte la reacción previa                                                                    | EP04 / EP06               |
+| TS-8    | Endpoint para listar comunidades de usuario    | Como developer, quiero obtener las comunidades a las que un usuario pertenece               | **Escenario: Listado de comunidades**<br>Dado que el usuario está logueado<br>Cuando hace una petición GET a /api/users/{id}/communities<br>Entonces recibe la lista de comunidades donde está unido                                                                                                                                                                                                | EP04 / EP06               |
+| TS-9    | Endpoint para ver asistentes de concierto      | Como developer, quiero permitir ver qué usuarios asistirán a un evento                      | **Escenario: Ver asistentes**<br>Dado que el evento tiene usuarios registrados<br>Cuando se consulta el endpoint GET /api/events/{id}/attendees<br>Entonces devuelve lista de usuarios con sus nombres de usuario o perfil                                                                                                                                                                          | EP04 / EP06               |
+| TS-10    | Endpoint para ver perfiles públicos            | Como developer, quiero permitir ver el perfil público de otros usuarios                     | **Escenario: Acceso a perfil público**<br>Dado que un usuario hace clic en otro<br>Cuando accede a /api/users/{id}<br>Entonces ve nombre, foto y comunidades visibles                                                                                                                                                                                                                               | EP04 / EP06               |
+| TS-11    | Endpoint para subir imágenes a publicaciones   | Como developer, quiero permitir que los usuarios suban imágenes en publicaciones            | **Escenario: Imagen aceptada**<br>Dado que el usuario adjunta una imagen al crear publicación<br>Cuando el archivo es válido<br>Entonces se guarda y muestra en el frontend<br><br>**Escenario: Archivo inválido**<br>Cuando sube un archivo no permitido<br>Entonces se devuelve un error con código y mensaje                                                                                     | EP04 / EP06               |
 
 
 # 3.3. Impact Mapping
