@@ -4320,11 +4320,80 @@ Descripción: La entrevistada sugirió agregar una opción de chat directo entre
 
 - Diagrama UML:` https://lucid.app/lucidchart/c0654847-5143-4121-8907-1f8bae86b31d/edit?viewport_loc=-8104%2C-1137%2C5901%2C2770%2C0_0&invitationId=inv_459664a2-b7f6-49a0-8cc8-e2640f08ee88`
 
+**Prototipos de Aplicación Web**
+
+- Desktop: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EX_5H4ofoydGrjyaxA3pE1wBrclkUgJO2V4Tse0Y0pZmBg?e=TYIOYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+- Mobile: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg85OUFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Ciz3g?e=ca8Kze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
 **Videos de exposición:**
 
 - TB1: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EVv_U2U49hJMolwRzGWkQhQBZcf4GmKbvnnzPN5Zk3Uovw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uHFIQZ`
 - TP: `https://upcedupe-my.sharepoint.com/personal/u202311704_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311704_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4334-TheRumbling-expo-tp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E86bdec34-e8a5-40e4-b710-2c2394302dee`
 - TB2: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EWOjMs0vXtJKtCNRhHbjFL4BSQyAbu3KNUMB72Hz2HNECA?e=Kwzla0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+**Diagramas y Prototipos**
+
+- As is y To be scenario: `https://miro.com/app/board/uXjVLbCX2lg=/`
+
+- Wireflow Diagrams: `https://lucid.app/lucidspark/78aa6bcf-2d30-441a-afe8-c467f961dd5a/edit?viewport_loc=-3901%2C8387%2C7816%2C3715%2C0_0&invitationId=inv_a6a2e377-b71d-4fd7-9685-fdf246851546`
+
+- User Flow Diagrams: `https://lucid.app/lucidspark/c12ba67c-79fe-4958-b296-cbf52fc67ce1/edit?viewport_loc=-5597%2C-2950%2C9600%2C4563%2C0_0&invitationId=inv_e02cd09b-80a5-4067-8990-e93d5c30fcfc`
+
+- WireFrames: `https://www.figma.com/design/77Z93r3nalqetBCDUTVvU0/Untitled?node-id=0-1&p=f&t=84cnNflph9dQEFVu-0`
+
+- Mockups: `https://www.figma.com/design/WgoQkLQBZxOM76KcRnpysS/Untitled?node-id=0-1&p=f&t=25lXEAyLkHpZuAcH-0`
+
+- Figma:   `https://www.figma.com/design/7f739smanaIgteBCDTUWwlo/Untitled?node-id=0-18&t=84cnFHp9dQ6FvEUv-0`
+
+- Diagrama UML: `https://lucid.app/lucidchart/c0654847-5143-4121-8907-1f8bae86b31d/edit?viewport_loc=-8104%2C-1137%2C5901%2C2770%2C0_0&invitationId=inv_459664a2-b7f6-49a0-8cc8-e2640f08ee88`
+
+**Gestión de Proyecto**
+
+- **Gestión de Requisitos:**  
+  - `https://uxpressia.com/`  
+  - `https://miro.com/es/`  
+  - `https://structurizr.com/`
+
+- **Diseño UX/UI:**  
+  - `https://www.figma.com/es-la/`  
+  - `https://www.lucidchart.com/pages/es`
+
+- **Gestión de Proyecto:**  
+  - `https://discord.com/`  
+  - `https://workspace.google.com/intl/es-419/products/docs/`
+
+**Repositorios y URLs del Proyecto**
+
+- **Stay Map Api**
+  `https://github.com/The-Rumbling-AW/StayMap-AW-Api`
+
+- **Organización en GitHub:**  
+  `https://github.com/The-Rumbling-AW`
+
+**SPRINT 1**
+
+- App Web: `https://github.com/The-Rumbling/StayMap-AppWeb`
+- Landing Page: `https://github.com/The-Rumbling/StayMap-Landing_Page`
+
+**SPRINT 2**
+
+- Landing Page v2: `https://github.com/The-Rumbling/LandingV2`
+- App Web: `https://github.com/The-Rumbling/StayMap-AW-AppWeb-V2`
+
+**SPRINT 3**
+
+- Landing Page v3: `https://github.com/The-Rumbling/LandingPage-V3`
+
+**SPRINT 4**
+
+- Landing Page v4: `https://github.com/The-Rumbling/LandingPage-V4`
+
+  **Registro de Entrevistas:**  
+  ` https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ERJfpT5HoF9Ckz2iN8QzbjEBPFxFxVCkACtrv2SSjkxb1w?e=VY6fld&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+  
+- Microsoft Stream: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EWadlIfuzmJJvwIEZnMSosIBuk62gjJvnv5zgPXOV6cRbw?e=ryTZTC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)![image](https://github.com/user-attachments/assets/36ee6ccb-8077-487e-95c6-0dddce6bd82d`
+
 
 # Bibliografía
 
