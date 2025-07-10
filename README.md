@@ -4383,9 +4383,20 @@ Estas mejoras fortalecen la propuesta visual e informativa de StayMap, generando
 
 
 <strong> Vista de la Landing Page desplegada en Render: </strong>  
-URL de Landing page: `URL`
+URL de Landing page: `https://the-rumbling.github.io/LandingPage-V4/home`
 
-FOTO FOTO FOTO
+<div align="center">
+  <img src="assets/capturas/LandingV4-1.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+<div align="center">
+  <img src="assets/capturas/LandingV4-2.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+<div align="center">
+  <img src="assets/capturas/LandingV4-3.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+<div align="center">
+  <img src="assets/capturas/LandingV4-4.png" alt="deploy landingpage" style="width: 80%;">
+</div>
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
 
