@@ -1703,7 +1703,29 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 | 24      | US24         | Unirse a una comunidad                  | Como fan, quiero unirme a una comunidad musical para interactuar con otros usuarios con intereses similares.              | 5                        |
 | 25      | US25         | Publicar en la comunidad                | Como fan, quiero crear publicaciones en la comunidad para compartir opiniones y fotos con otros miembros.                 | 3                        |
 | 26      | US26         | Editar perfil personal                  | Como fan, quiero editar mi información (foto, nombre, usuario) para mantener mi perfil actualizado.                       | 3                        |
-| 27      | US27         | Confirmar o marcar asistencia a evento | Como fan, quiero marcar un evento como “Por asistir” o “Asistido” para llevar seguimiento de mis conciertos.              | 3                        |
+| 27      | US27         | Confirmar o marcar asistencia a evento | Como fan, quiero marcar un evento como “Por asistir” o “Asistido” para llevar seguimiento de mis conciertos.              | 3                        |\
+|      28 | US28         | Ver comunidades accedidas                 | Como usuario, quiero visualizar en el apartado "Tus grupos" las comunidades a las que me he unido.      | 2                        |
+|      29 | US29         | Reaccionar a publicaciones en comunidades | Como usuario, quiero poder reaccionar a publicaciones dentro de las comunidades.                        | 2                        |
+|      30 | US30         | Calificar concierto                       | Como usuario, quiero calificar un concierto de 1 a 5 estrellas para compartir mi experiencia.           | 3                        |
+|      31 | US31         | Ver usuarios que asistirán a concierto    | Como usuario, quiero ver qué otros usuarios asistirán al mismo concierto que yo.                        | 3                        |
+|      32 | US32         | Acceder a perfil de otros usuarios        | Como usuario, quiero acceder al perfil de otros usuarios para conocer más sobre ellos.                  | 2                        |
+|      33 | US33         | Ver publicaciones con like                | Como usuario, quiero ver una lista de publicaciones a las que les he dado "like".                       | 3                        |
+|      34 | US34         | Ver plataformas de venta del concierto    | Como usuario, quiero ver en qué plataformas puedo comprar entradas para un concierto.                   | 2                        |
+|      35 | US35         | Permitir acceso a ubicación               | Como usuario, quiero que StayMap acceda a mi ubicación para recibir información personalizada.          | 2                        |
+|      36 | US36         | Mostrar conciertos cercanos               | Como usuario, quiero que StayMap me muestre conciertos cercanos a mi ubicación actual.                  | 5                        |
+|      37 | US37         | Ver miembros de comunidad                 | Como usuario, quiero ver la lista de miembros que pertenecen a una comunidad.                           | 2                        |
+|      38 | US38         | Subir imágenes en comunidades             | Como usuario, quiero subir imágenes en publicaciones de comunidad para compartir experiencias visuales. | 3                        |
+| 39    | TS-01    | Endpoint para crear conciertos                 | Como developer, quiero un endpoint POST para crear eventos musicales.                        | 3            |
+| 40    | TS-02    | Endpoint para obtener eventos por ubicación    | Como developer, quiero un endpoint GET que devuelva eventos cerca de una lat/lon.            | 3            |
+| 41    | TS-03    | Endpoint para registrar asistencia             | Como developer, quiero que los usuarios puedan confirmar asistencia a eventos.               | 2            |
+| 42    | TS-04    | Endpoint para valorar un evento                | Como developer, quiero permitir que el usuario envíe una calificación y comentario.          | 3            |
+| 43    | TS-05    | Validaciones para crear eventos                | Como developer, quiero validar que los campos obligatorios estén presentes al crear eventos. | 2            |
+| 44    | TS-06    | Endpoint para crear publicaciones en comunidad | Como developer, quiero permitir que un usuario cree publicaciones en comunidades.            | 3            |
+| 45    | TS-07    | Endpoint para reaccionar a publicaciones       | Como developer, quiero permitir agregar reacciones a publicaciones de comunidad.             | 2            |
+| 46    | TS-08    | Endpoint para listar comunidades de usuario    | Como developer, quiero obtener las comunidades a las que un usuario pertenece.               | 2            |
+| 47    | TS-09    | Endpoint para ver asistentes de concierto      | Como developer, quiero permitir ver qué usuarios asistirán a un evento.                      | 2            |
+| 48    | TS-10    | Endpoint para ver perfiles públicos            | Como developer, quiero permitir ver el perfil público de otros usuarios.                     | 1            |
+| 49    | TS-11    | Endpoint para subir imágenes a publicaciones   | Como developer, quiero permitir que los usuarios suban imágenes en publicaciones.            | 3            |
 
 
 # Capítulo IV: Product Design
