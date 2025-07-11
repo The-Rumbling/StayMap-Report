@@ -79,6 +79,18 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 	- Zúñiga Murillo, Diego Sebastian <br></td>
       <td>Durante el Sprint 3, se completó con éxito el despliegue de la nueva versión de la landing page, así como la implementación y publicación de la aplicación web desarrollada en Angular y TypeScript, alojada en Vercel. Se llevó a cabo una planificación minuciosa, asignando roles específicos denominados Aspect Leaders, y se ejecutaron todas las tareas contempladas en el Sprint Backlog. El avance quedó documentado y evidenciado a través del código, pruebas y documentación correspondiente. Además, se actualizaron los artefactos previos, incluyendo el Project Report Collaboration Insights y la sección de Student Outcome, reflejando el progreso del equipo y la colaboración efectiva. En resumen, se dispone de una versión parcial que cumple con los requisitos establecidos para esta entrega.</td>
     </tr>
+    </tr>
+    <tr>
+      <td>TF</td>
+	<td>10/07/2025</td>
+      <td>
+	- Collantes Carrillo, Diego Mateo <br>
+	- Lizarbe Alvarez, Ariana Nickole <br>
+	- Ortiz Cardenas, Johanna Antuanete <br>
+	- Zegarra Lopez, Renato Sebastian Rubber <br> 
+	- Zúñiga Murillo, Diego Sebastian <br></td>
+      <td>Durante el Sprint 4 se finalizó la implementación del backend utilizando Spring Boot con Java 24, aplicando una arquitectura basada en Domain-Driven Design (DDD). Se crearon los agregados, servicios y repositorios necesarios, y se configuró exitosamente la conexión con la base de datos, permitiendo la persistencia de datos a través del endpoint POST. Además, se integró Swagger para documentar y probar la API, lo que facilitó la validación del flujo completo de registro y dejó lista la base para futuras extensiones del sistema..</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -223,6 +235,8 @@ de audiencia.</td>
 	      TB2: En el proyecto realicé entrevistas a usuarios y presentaciones orales al equipo y docentes, adaptando el lenguaje según el público. Esto permitió comunicar ideas y avances de forma clara y comprensible.
 	      <br>
 	      <br>
+        TF: Con respecto al trabajo StayMap, durante la presentación oral expuse con claridad los ajustes que realicé en el frontend, así como la implementación del módulo de autenticación y los endpoints correspondientes. Me aseguré de comunicarme de manera comprensible para todos los miembros del jurado, adaptando el lenguaje técnico cuando fue necesario. <br>
+	      <br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
         TB1:  diseñé el diagrama entidad-relación inicial y documenté exhaustivamente las reglas de validación. Realicé múltiples sesiones de programación en pareja para implementar los endpoints clave, al tiempo que creé un repositorio interno con ejemplos de código y buenas prácticas. Cuando surgieron discrepancias sobre prioridades de desarrollo, medié para encontrar soluciones que balancearan las necesidades técnicas con los requerimientos de usabilidad.<br>
 	      	      <br>
@@ -231,6 +245,9 @@ de audiencia.</td>
 	      <br>
 	TB2: Durante la ejecución del proyecto, participé activamente en la realización de entrevistas a usuarios pertenecientes al segmento objetivo. Estas entrevistas me permitieron adaptar mi lenguaje oral según el perfil de cada persona, explicando de manera clara y empática el propósito de nuestra aplicación. Ajusté mi comunicación para obtener respuestas relevantes y valiosas, facilitando así la recolección de información útil para la mejora del producto.
 	      <br>
+   <br>
+	TF:Con respecto al trabajo StayMap, como team leader presenté los avances del equipo y mis contribuciones específicas, como la nueva landing page y los endpoints de conciertos y posts. Me esforcé por usar un lenguaje accesible y ordenado, asegurando que todos los asistentes entendieran el progreso del proyecto.
+	      <br>
 	      <br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
         TB1:  lideré el proceso iterativo de diseño del Landing Page, incorporando activamente el feedback de todos mediante encuestas estructuradas y herramientas colaborativas. Documenté minuciosamente guías de estilo y componentes reutilizables para mantener coherencia visual. Además, instituí espacios dedicados a discutir accesibilidad e inclusión, enriqueciendo así nuestra perspectiva colectiva.<br>
@@ -238,7 +255,11 @@ de audiencia.</td>
         TP: Organicé talleres de diseño participativo donde cada miembro contribuyó activamente a los prototipos, y validamos los cambios mediante pruebas controladas para que el trabajo cumpla con todas las necesidades impuestas para esta entrega parcial.
 	      <br><br>
         TB2: Me comuniqué de forma clara y efectiva con mis compañeros durante el proceso de deployment del proyecto, coordinando las tareas necesarias para subir correctamente el repositorio. Participé activamente en reuniones, adaptando mi lenguaje técnico para asegurar que todos comprendieran sus responsabilidades y pudiéramos entregar un trabajo funcional y organizado.
-	      <br><br>
+	      <br>
+	      <br>
+        TF: Con respecto al trabajo StayMap, durante la presentación oral expliqué las funcionalidades que implementé en el módulo de comunidades y el perfil del usuario, utilizando un lenguaje claro y adaptado al público. Expresé con seguridad los retos que enfrenté y cómo los resolví.
+	      <br>
+	      <br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: Gestioné la comunicación con los stakeholders externos, traduciendo requerimientos técnicos a un lenguaje accesible y organizando sesiones de alineación. Recluté usuarios para pruebas de usabilidad y sinteticé los hallazgos en informes accionables. También identifiqué y resolví tensiones por carga de trabajo desigual, redistribuyendo tareas para optimizar nuestro rendimiento grupal.<br>
 	      	      <br>
@@ -247,44 +268,21 @@ de audiencia.</td>
 	       <br>
         TB2: Me encargué de comunicar de forma clara y efectiva los cambios necesarios para integrar la página de detalles de cada concierto, así como la implementación de la pantalla de perfil y la lista de confirmación de asistencia. Esta comunicación permitió al equipo comprender rápidamente las funcionalidades y avanzar de forma coordinada.
 	      <br>
+	       <br>
+        TF: Con respecto al trabajo StayMap, durante la sustentación expuse con claridad las correcciones que realicé en las diferentes versiones del frontend, así como mis aportes en la documentación del sprint review. Me aseguré de adaptar mi comunicación según el perfil del público.
+	      <br>
 	      <br>
 <strong>Zuniga Murillo, Diego Sebastian</strong><br>
         TB1: Lidere la gestion y revision de entrevistas para validar los puntos criticos dentro de STAYMAP creando gias de analisis donde se indican los puntos de mejoria para satisfacer a los usuarios <br>
 	      <br>
         TP: Ajusté la entrega del proyecto para alinear STAYMAP con las exigencias de esta etapa. Implementé una API que genera un mapa dinámico con la ubicación de conciertos en la zona elegida, destacando los nombres de los artistas.
 	      <br><br>
-        TB2: Las revisiones con el docente me ayudaron a adaotar mi lenguaje según el público, explicando tanto decisiones técnicas (como la estructura en dominios y el uso de Angular standalone) además de funcionalidades clave orientadas al usuario. <br>
+        TB2: Las revisiones con el docente me ayudaron a adaotar mi lenguaje según el público, explicando tanto decisiones técnicas (como la estructura en dominios y el uso de Angular standalone) además de funcionalidades clave orientadas al usuario. <br><br>
+        TF: Con respecto al trabajo StayMap, durante la sustentación expuse con claridad las correcciones que realicé en las diferentes versiones del frontend, así como mis aportes en la documentación del sprint review. Me aseguré de adaptar mi comunicación según el perfil del público. <br>
 	      <br>
       </td>
       <td>
-        <strong>Collantes Carrillo, Diego Mateo</strong><br>
-        TB1:  Los diagramas elaborados agilizaron la alineación técnica entre el equipo y los stakeholders, reduciendo confusiones en la fase de desarrollo inicial de STAYMAP..<br><br>
-	      TP: Los ajustes introducidos en esta iteración incrementaron la usabilidad y fluidez de la navegación en STAYMAP, mejorando la interacción del usuario.
-	      <br> <br>
-	       TB2: Gracias a esta experiencia, mejoré mi capacidad para comunicar oralmente en distintos contextos, logrando transmitir información de manera efectiva a diferentes audiencias.
-	      <br>
-	      <br>
-        <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
-        TB1: La Landing Page que diseñé no solo mostró STAYMAP de forma profesional, sino que también nos ayudó a medir el interés de los usuarios antes del lanzamiento.<br><br>
-	      TP:La integración de STAYMAP con una API mejoró notablemente la experiencia de usuario, aprovechando una base de datos existente para centralizar información clave en nuestro proyecto.
-	      <br> <br>
-	      TB2: Diseñé la landing page con contenido claro y estructurado, adaptado a diferentes tipos de público. Esta experiencia fortaleció mi habilidad para comunicar por escrito de forma precisa y atractiva según el perfil del lector.<br> <br>
-        <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
-        TB1: El Modelo C4 que desarrollé fue fundamental para simplificar la explicación de la arquitectura de STAYMAP, haciéndola comprensible incluso para audiencias no técnicas.<br><br>
-	      TP: Las actualizaciones en la interfaz optimizaron la navegación del sistema, mejorando la funcionalidad de módulos como comunidades y conciertos.
-	      <br> <br>
-        TB2: Mi participación activa y clara en las reuniones permitió que el equipo se organizara adecuadamente durante el deployment, asegurando una entrega exitosa y mejorando la colaboración entre todos los integrantes.
-        <br> <br>
-        <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
-        TB1: El esquema de base de datos que implementé potenció el rendimiento de STAYMAP, estableciendo una estructura escalable y robusta.<br><br>
-	      TP:   Mi comunicación efectiva aseguró la alineación del equipo con objetivos realistas y claros.<br><br>
-	      TB2: Mi comunicación efectiva facilitó que los integrantes del equipo entendieran las prioridades y la lógica de interacción entre las vistas de usuario y conciertos, lo que ayudó a mantener la coherencia visual y funcional de la plataforma.
-	      <br> <br>
-        <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
-        TB1: Los analisis de las entrevistas sirivieron para identiificar los puntos criticos que nos encargamos de solucionar como grupo<br><br>
-	      TP: Las mejoras implementadas en esta versión optimizaron la usabilidad del programa, facilitando la interacción con STAYMAP.
-	      <br> <br>
-	      TB2:  Esta experiencia fortaleció mi habilidad para exponer y analizar temas técnicos de forma profesional, ajustándome al perfil de distintos oyentes.
+        Con respecto al trabajo StayMap, consideramos que logramos comunicar oralmente con efectividad a diferentes rangos de audiencia a lo largo de todas las etapas del proyecto. Durante nuestras presentaciones y sustentaciones, fuimos capaces de adaptar nuestro lenguaje según el contexto: utilizamos términos técnicos precisos cuando nos dirigimos a los docentes, y explicaciones más accesibles cuando presentamos avances a usuarios, compañeros o stakeholders sin formación especializada. Cada integrante asumió con responsabilidad el rol de exponer sus avances, aclarar dudas y justificar decisiones de manera estructurada y segura. Además, incorporamos recursos visuales y ejemplos concretos para complementar nuestras explicaciones, lo cual facilitó la comprensión del funcionamiento del sistema y de las funcionalidades implementadas. Esta capacidad de comunicación oral no solo fortaleció la percepción del proyecto, sino que también nos permitió recibir retroalimentación valiosa y mantener una colaboración efectiva entre los miembros del equipo y con el entorno externo.
       </td>
     </tr>
     <tr>
@@ -299,7 +297,11 @@ ideré la creación de documentación técnica especializada para STAYMAP, adapt
 	      TP: Diseñé la documentación oficial de STAYMAP, estableciendo estándares para la creación y manejo de diagramas, además de actualizar las guías con los cambios relevantes para esta entrega.
 	      <br><br>
 	      TB2: Elaboré reportes de entrevistas y evaluaciones heurísticas con lenguaje claro para todo el equipo. También redacté descripciones funcionales considerando el perfil de los lectores.
-	      <br><br>
+	      <br>
+	      <br>
+	      TF: Con respecto al trabajo StayMap, redacté mis aportes al sistema de forma clara y estructurada, detallando mis responsabilidades técnicas de forma que cualquier lector pudiera comprenderlas, sin importar su nivel de conocimiento en programación.
+	      <br>
+	      <br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
 	       TB1: 
 Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando desde whitepapers técnicos hasta copy persuasivo para la Landing Page, adaptando el tono y profundidad según cada canal.
@@ -307,20 +309,31 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 	      TP: Documenté exhaustivamente la base de datos implementada en STAYMAP, destacando sus componentes clave y funcionalidades críticas para nuestro proyecto.
 	      <br><br>
 	      TB2: Me encargué de diseñar y desarrollar la landing page del proyecto, enfocándome en transmitir el valor de la aplicación de manera efectiva a través de los textos y la estructura visual. Redacté contenido claro, conciso y adaptado tanto para usuarios casuales como para posibles interesados más técnicos, logrando que la información fuera accesible y atractiva para distintos tipos de audiencia.
-	      <br><br>
+	      <br>
+	      <br>
+	      TF: Con respecto al trabajo StayMap, describí de manera clara mis responsabilidades técnicas y de coordinación dentro del equipo, redactando un informe que puede ser comprendido tanto por personas con conocimientos técnicos como por quienes no están familiarizados con el desarrollo web.
+	      <br>
+	      <br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
         TB1: Implementé un sistema de documentación modular para STAYMAP, creando plantillas estandarizadas que permitieron escalar la comunicación técnica sin perder coherencia.<br>
 	      <br>
 	      TP: Documenté el proceso de selección e implementación de las APIs utilizadas, facilitando la comprensión de sus ventajas técnicas.
 	      <br><br>
         TB2: Me encargué de actualizar el apartado de edición de perfil de usuario y de mejorar el formulario de creación de conciertos, documentando los cambios para todo el equipo. Esto permitió mantener una comunicación efectiva en el repositorio y facilitó el seguimiento del desarrollo para compañeros con distintos niveles técnicos.
-        <br><br>
+        <br>
+	<br>
+        TF: Con respecto al trabajo StayMap, documenté mis tareas de forma organizada y accesible, explicando cada funcionalidad desarrollada en el frontend para que cualquier lector, sin importar su experiencia técnica, pudiera entender mi aporte al proyecto.
+        <br>
+	      <br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: Publiqué artículos técnicos en el blog interno de STAYMAP sobre patrones de diseño de bases de datos, convirtiéndome en el referente para consultas técnicas escritas.<br>
 	      <br>
 	      TP: Elaboré un análisis técnico detallado que permitió al equipo comprender a profundidad la implementación y capacidades de nuestra base de datos.
 	      <br><br>
 	      TB2: Documenté de forma clara las decisiones técnicas relacionadas con la integración de la vista de detalles de conciertos, el perfil de usuario y el sistema de confirmación de asistencia. Esto incluyó mensajes en los commits, issues y explicaciones escritas que facilitaron la comprensión de los cambios por parte de todo el equipo.
+	      <br>
+	      <br>
+	      TF: Con respecto al trabajo StayMap, redacté un informe detallado sobre mis responsabilidades en la base de datos y la lógica de negocio. Me aseguré de que la redacción fuera comprensible tanto para profesores con experiencia técnica como para lectores no especializados.
 	      <br>
 	      <br><br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
@@ -329,41 +342,11 @@ Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando 
 	      TP: Desarrollé una guía de decisiones técnicas que documenta el razonamiento detrás de cada implementación (como las APIs), incluyendo justificaciones de diseño.
 	      <br> <br>
 	      TB2: Redacté documentación técnica clara y bien estructurada en el repositorio GitHub del proyecto, incluyendo guías de despliegue, convenciones de código y estructura de carpetas. También elaboramos informes escritos dirigidos tanto a docentes como a usuarios no técnicos, asegurando que cada tipo de lector comprendiera el contenido según su nivel.
+	      <br>
+	      TF: Con respecto al trabajo StayMap, redacté mis avances de forma clara y coherente, detallando tanto las tareas técnicas que realicé como mi aporte en el trabajo colaborativo. Mi redacción fue pensada para ser entendida por cualquier persona interesada en el proyecto, sin importar su experiencia técnica.
       </td>
       <td>
-        <strong>Collantes Carrillo, Diego Mateo</strong><br>
-        TB1: Mi documentación se convirtió en la referencia técnica principal, garantizando una implementación precisa de los diagramas en STAYMAP.<br>
-	      <br>
-	      TP: Los documentos producidos estandarizaron el entendimiento de los diagramas, mejorando la arquitectura del programa según mejores prácticas.
-	      <br><br>
-	      TB2: Fortalecí mi habilidad para comunicar por escrito de forma organizada, asegurando que la información fuera comprensible para audiencias con distintos niveles técnicos.
-	      <br><br>
-        <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
-        TB1:Mis contenidos comunicaron efectivamente el valor de STAYMAP, recibiendo reconocimiento tanto de usuarios como del equipo interno.<br>   <br>
-	      TP: La documentación de la base de datos permitió un manejo consistente y eficiente de los elementos del sistema.
-	      <br><br>
-	      TB2: Adapté mi lenguaje oral según el perfil de cada usuario durante las entrevistas, lo que facilitó una comunicación clara y empática. Esto permitió obtener información relevante para mejorar la aplicación y reforzó mi capacidad para expresarme con efectividad frente a distintas audiencias.<br><br>
-        <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
-        TB1:  Mis guías aceleraron la incorporación de nuevos miembros al facilitar la comprensión del Modelo C4 aplicado a STAYMAP.<br>
-	         <br>
-	      TP: La documentación técnica clarificó el aporte funcional de cada API utilizada en nuestro proyecto.
-	      <br><br>
-        TB2: La documentación clara de los cambios en el código y el uso adecuado de mensajes escritos facilitaron el trabajo en equipo y garantizaron que cualquier miembro pudiera entender y continuar con el desarrollo sin dificultades.
-        <br><br>
-        <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
-        TB1: Mi documentación sobre la base de datos optimizó el flujo de trabajo diario, eliminando ambigüedades en el manejo de datos.<br>
-	         <br>
-	      TP: Los artículos técnicos profundizaron el conocimiento del equipo para implementar los requisitos de esta entrega.
-	      <br><br>
-	      TB2: La comunicación escrita que desarrollé permitió mantener una trazabilidad ordenada del proyecto y aseguró que miembros con distintos niveles técnicos pudieran comprender el propósito y funcionamiento de cada funcionalidad implementada.
-	      <br>
-	      <br><br>
-        <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
-        TB1: Mis informes sistematizaron el feedback de usuarios, permitiendo priorizar funcionalidades clave para STAYMAP.
-	         <br>
-	      TP: La guía de razonamiento técnico unificó el entendimiento del proyecto, facilitando la colaboración efectiva del equipo.
-	      <br><br>
-	      TB2: Esta entrega me permitió realzar mis competencias de redacción técnica, adaptando el nivel de detalle y lenguaje escrito para que fuese accesible y útil para distintos perfiles de audiencia.
+      Con respecto al trabajo StayMap, consideramos que demostramos nuestra capacidad para comunicar por escrito de manera efectiva a distintos tipos de audiencia. Desde el inicio del proyecto nos esforzamos por generar documentación clara, bien estructurada y útil tanto para desarrolladores como para usuarios finales. Elaboramos informes técnicos, descripciones funcionales, documentación de APIs, guías de despliegue, e incluso contenido orientado a la presentación pública del producto. Cada uno de nosotros redactó sus aportes considerando la diversidad de lectores, asegurando que cualquier persona —independientemente de su nivel técnico— pudiera comprender el propósito y funcionamiento de lo desarrollado. Además, mantuvimos actualizado el repositorio con mensajes claros en los commits, issues y manuales que facilitaron la organización y el trabajo colaborativo. Esta comunicación escrita nos permitió consolidar una base de conocimiento compartido y demostrar profesionalismo en cada entrega, lo que refleja nuestra capacidad de expresarnos con claridad y precisión en un entorno académico y técnico.
       </td>
     </tr>
   </tbody>
