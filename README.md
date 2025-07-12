@@ -4455,10 +4455,12 @@ URL de Landing page: `https://the-rumbling.github.io/LandingPage-V4/home`
 </div>
 
 <strong> Vista de la Aplicación Web desplegada en Vercel: </strong>  
-URL de Landing page: `https://stay-map-frontend.vercel.app/concerts`
+URL de Aplicacion Web: `https://stay-map-frontend.vercel.app/concerts`
 <div align="center">
   <img src="assets/capturas/vistaopen.png" alt="deploy landingpage" style="width: 80%;">
 </div>
+
+URL de el web service desplegado en Render: `https://staymap-backendopen.onrender.com/`
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
 
