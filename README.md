@@ -4371,6 +4371,35 @@ Videos About-The-Product y About-The-Team añadidos a la Landing Page:
 <strong> Aplicación Web </strong>
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+La siguiente tabla presenta una recopilación completa de los endpoints disponibles en la API de StayMap, organizados por funcionalidad y propósito. Cada entrada incluye el endpoint correspondiente, el método HTTP que debe utilizarse, una breve descripción de su función, un ejemplo de cómo realizar la llamada y una respuesta de ejemplo representativa. Esta documentación está diseñada para servir como referencia rápida para desarrolladores que deseen integrar StayMap en sus aplicaciones o contribuir al desarrollo del sistema. Los endpoints cubren operaciones clave relacionadas a publicaciones, autenticación, gestión de comunidades, asistencia a conciertos y manejo de usuarios, permitiendo una interacción robusta y segura con la plataforma desde el backend o el frontend.
+
+
+| Endpoint                                        | Método | Descripción                              | Ejemplo de llamada                          | Ejemplo de respuesta |
+|------------------------------------------------|--------|-------------------------------------------|---------------------------------------------|----------------------|
+| `/api/v1/posts`                                 | GET    | Obtener todos los posts                   | `GET /api/v1/posts`                          | `[{"id":1,"content":"Hola mundo","likes":5}]` |
+| `/api/v1/posts`                                 | POST   | Crear un nuevo post                       | `POST /api/v1/posts`                         | `{"id":2,"content":"Nuevo post","likes":0}` |
+| `/api/v1/posts/{postId}/like`                   | POST   | Dar like a un post                        | `POST /api/v1/posts/123/like`                | `{"message":"Post liked"}` |
+| `/api/v1/posts/{postId}/like`                   | DELETE | Quitar like a un post                     | `DELETE /api/v1/posts/123/like`              | `{"message":"Like removed"}` |
+| `/api/v1/posts/{postId}`                        | GET    | Obtener post por ID                       | `GET /api/v1/posts/123`                      | `{"id":123,"content":"Texto del post","likes":10}` |
+| `/api/v1/authentication/sign-up`               | POST   | Registro de usuario                       | `POST /api/v1/authentication/sign-up`        | `{"message":"User registered successfully"}` |
+| `/api/v1/authentication/sign-in`               | POST   | Inicio de sesión                          | `POST /api/v1/authentication/sign-in`        | `{"token":"abc123xyz","user":{"id":5,"email":"test@mail.com"}}` |
+| `/api/v1/communities`                          | GET    | Obtener todas las comunidades             | `GET /api/v1/communities`                    | `[{"id":1,"name":"Rock Lovers","members":35}]` |
+| `/api/v1/communities`                          | POST   | Crear nueva comunidad                     | `POST /api/v1/communities`                   | `{"id":2,"name":"Jazz Club","members":0}` |
+| `/api/v1/communities/{communityId}/join`       | POST   | Unirse a comunidad                        | `POST /api/v1/communities/10/join`           | `{"message":"Joined community"}` |
+| `/api/v1/communities/{communityId}`            | GET    | Obtener comunidad por ID                  | `GET /api/v1/communities/10`                 | `{"id":10,"name":"Indie Wave","members":18}` |
+| `/api/v1/communities/{communityId}/leave`      | DELETE | Salir de la comunidad                     | `DELETE /api/v1/communities/10/leave`        | `{"message":"Left community"}` |
+| `/api/v1/concerts`                             | GET    | Obtener todos los conciertos              | `GET /api/v1/concerts`                       | `[{"id":1,"name":"Lollapalooza","attendees":500}]` |
+| `/api/v1/concerts`                             | POST   | Crear nuevo concierto                     | `POST /api/v1/concerts`                      | `{"id":2,"name":"Jazz Fest","attendees":0}` |
+| `/api/v1/concerts/{concertId}/attend`          | POST   | Asistir a concierto                       | `POST /api/v1/concerts/5/attend`             | `{"message":"Attendance confirmed"}` |
+| `/api/v1/concerts/{concertId}/attend`          | DELETE | Cancelar asistencia a concierto           | `DELETE /api/v1/concerts/5/attend`           | `{"message":"Attendance cancelled"}` |
+| `/api/v1/concerts/{concertId}`                 | GET    | Obtener concierto por ID                  | `GET /api/v1/concerts/5`                     | `{"id":5,"name":"Indie Night","attendees":123}` |
+| `/api/v1/concerts/{concertId}`                 | DELETE | Eliminar concierto                        | `DELETE /api/v1/concerts/5`                  | `{"message":"Concert deleted"}` |
+| `/api/v1/concerts/{concertId}/attendees`       | GET    | Consultar asistentes a un concierto       | `GET /api/v1/concerts/5/attendees`           | `[{"id":1,"name":"Ana"},{"id":2,"name":"Luis"}]` |
+| `/api/v1/users/{userId}`                       | GET    | Obtener usuario por ID                    | `GET /api/v1/users/4`                        | `{"id":4,"name":"Carlos","email":"carlos@mail.com"}` |
+| `/api/v1/users/{userId}`                       | PUT    | Actualizar usuario                        | `PUT /api/v1/users/4`                        | `{"message":"User updated successfully"}` |
+| `/api/v1/users`                                | GET    | Obtener todos los usuarios                | `GET /api/v1/users`                          | `[{"id":1,"name":"Ana"},{"id":2,"name":"Luis"}]` |
+| `/api/v1/users/{userId}/details`               | GET    | Obtener detalles del usuario              | `GET /api/v1/users/4/details`                | `{"id":4,"details":{"age":25,"location":"Lima"}}` |
+
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
 Durante el Sprint 4, se lograron importantes avances en los módulos principales del sistema StayMap. Por un lado, se actualizó y desplegó la versión 4 de la Landing Page, ahora alojada en Render, la cual integra contenido audiovisual embebido y un redireccionamiento funcional hacia la aplicación web principal. Por otro lado, se consolidó la versión 3 de la Aplicación Web, que ahora cuenta con una arquitectura completa basada en una base de datos MySQL y un backend desarrollado en C# con .NET 9.0, implementado desde JetBrains Rider. Estos avances representan un paso clave hacia una infraestructura más escalable, robusta y alineada con los objetivos técnicos del proyecto.
@@ -4400,7 +4429,7 @@ Los principales cambios de esta versión incluyen:
 Estas mejoras fortalecen la propuesta visual e informativa de StayMap, generando mayor impacto en nuevos usuarios desde la primera interacción.
 
 
-<strong> Vista de la Landing Page desplegada en Render: </strong>  
+<strong> Vista de la Landing Page desplegada en GitHub Pages: </strong>  
 URL de Landing page: `https://the-rumbling.github.io/LandingPage-V4/home`
 
 <div align="center">
@@ -4414,6 +4443,12 @@ URL de Landing page: `https://the-rumbling.github.io/LandingPage-V4/home`
 </div>
 <div align="center">
   <img src="assets/capturas/LandingV4-4.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+
+<strong> Vista de la Aplicación Web desplegada en Vercel: </strong>  
+URL de Landing page: `https://stay-map-frontend.vercel.app/concerts`
+<div align="center">
+  <img src="assets/capturas/vistaopen.png" alt="deploy landingpage" style="width: 80%;">
 </div>
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
@@ -4433,7 +4468,18 @@ Las principales actividades realizadas fueron:
 
 Gráficos de colaboración:
 
-Landing Page:
+Commits del backend: `https://github.com/The-Rumbling/StayMap-Backend.git`
+
+<div align="center">
+  <img src="assets/capturas/commitsback.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+
+Commits del frontend: `https://github.com/The-Rumbling/StayMap-Frontend.git`
+
+<div align="center">
+  <img src="assets/capturas/commitsfront.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+
 
 # 5.3. Validation Interviews.
 
