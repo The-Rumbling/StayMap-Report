@@ -4278,6 +4278,41 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
 
 
 ### 5.2.4.4. Development Evidence for Sprint Review.
+
+Front End:
+
+| Repository    | Branch / File              | Commit Id | Commit Message               | Commit Message Body | Committed on |
+| ------------- | -------------------------- | --------- | ---------------------------- | ------------------- | ------------ |
+| arialalizz    | concert.service.ts         | ff47016   | Update concert.service.ts    | —                   | 2025-07-12   |
+| arialalizz    | concert.entity.ts          | 41f1e4c   | Update concert.entity.ts     | —                   | 2025-07-12   |
+| D4D3v4l1      | .editorconfig              | c9aee73   | Update .editorconfig         | —                   | 2025-07-12   |
+| ReizCode      | concert-map.component.html | b8977dc   | Update concert-map.component | —                   | 2025-07-12   |
+| ReizCode      | concert-map.component.html | 69dcb11   | Update concert-map.component | —                   | 2025-07-12   |
+| ReizCode      | concert-map.component.html | a3e56d1   | Update concert-map.component | —                   | 2025-07-12   |
+| ReizCode      | concert-map.component.html | 45238f4   | Update concert-map.component | —                   | 2025-07-12   |
+| D4D3v4l1      | .gitignore                 | 7c01001   | Update .gitignore            | —                   | 2025-07-12   |
+| DekayDeCanela | N/A                        | b6d1d9b   | first commit                 | —                   | 2025-07-12   |
+| Antuanete01   | N/A                        | de857e6   | initial commit               | —                   | 2025-05-13   |
+
+Back End: 
+
+| Repository    | Branch / File                    | Commit Id | Commit Message                          | Commit Message Body | Committed on |
+| ------------- | -------------------------------- | --------- | --------------------------------------- | ------------------- | ------------ |
+| DekayDeCanela | CreateConcertCommand.java        | 8dd09c7   | Update CreateConcertCommand.java        | —                   | 2025-07-12   |
+| DekayDeCanela | CreateConcertCommand.java        | aa28457   | Update CreateConcertCommand.java        | —                   | 2025-07-12   |
+| D4D3v4l1      | pom.xml                          | 582949f   | Update pom.xml                          | —                   | 2025-07-12   |
+| D4D3v4l1      | .gitignore                       | bdfe05b   | Update .gitignore                       | —                   | 2025-07-12   |
+| ReizCode      | CommunityCommandServiceImpl.java | f43f697   | Update CommunityCommandServiceImpl.java | —                   | 2025-07-12   |
+| ReizCode      | CommunityCommandServiceImpl.java | 3f8f4cc   | Update CommunityCommandServiceImpl.java | —                   | 2025-07-12   |
+| ReizCode      | CommunityCommandServiceImpl.java | cfd6e93   | Update CommunityCommandServiceImpl.java | —                   | 2025-07-12   |
+| arialalizz    | PostCommandService.java          | f80944c   | Update PostCommandService.java          | —                   | 2025-07-12   |
+| arialalizz    | CommunityQueryService.java       | 252a96a   | Update CommunityQueryService.java       | —                   | 2025-07-12   |
+| Antuanete01   | Dockerfile                       | 79dd190   | Update Dockerfile                       | —                   | 2025-07-12   |
+| Antuanete01   | Dockerfile                       | 605dfc2   | Create Dockerfile                       | —                   | 2025-07-12   |
+| Antuanete01   | N/A                              | 3a40d7f   | first commit                            | —                   | 2025-07-12   |
+
+
+
 ### 5.2.4.5. Execution Evidence for Sprint Review.
 
 Durante el Sprint 4 del proyecto StayMap, el equipo se centró en fortalecer la experiencia del usuario fan y artista, profundizando en funcionalidades sociales, interacción entre usuarios, geolocalización, y validación de datos clave en conciertos y comunidades. Además, se desplegó la versión 4 de la Landing Page, la cual ahora redirige a la versión 3 de la aplicación web e incluye videos embebidos sobre el equipo y el producto, mejorando la presentación general del proyecto y su accesibilidad.
